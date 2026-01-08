@@ -1,0 +1,13 @@
+# Exclude database files (contain secrets/API keys)
+databases/
+workspace-storage/
+
+# Exclude large files
+*.db
+*.vscdb
+*.vscdb-shm
+*.vscdb-wal
+*.vscdb.backup
+
+# Keep only conversation text files
+!conversations/
