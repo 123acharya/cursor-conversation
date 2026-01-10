@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" cont\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": " cont",
+      "text": "",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -187,6 +187,123 @@
         {
           "bubbleId": "4a921e1c-54da-4399-90cf-8296aaeb2428",
           "type": 2
+        },
+        {
+          "bubbleId": "0b60ac94-fd2e-41da-aa15-d195c8466ce2",
+          "type": 1
+        },
+        {
+          "bubbleId": "b20ea625-c8eb-4862-99b7-79aae30a7c9a",
+          "type": 2,
+          "serverBubbleId": "9a003752-3f7f-4e56-8e70-e71059e2efc3"
+        },
+        {
+          "bubbleId": "770a6a2f-83f4-4814-8f98-af0fb2491eb5",
+          "type": 2
+        },
+        {
+          "bubbleId": "7259b7a7-a174-470e-9497-7b843c59d158",
+          "type": 2
+        },
+        {
+          "bubbleId": "8e8854ef-8fdd-43b9-93c8-df49abddcd19",
+          "type": 2
+        },
+        {
+          "bubbleId": "b8f72bf7-b768-4373-9d1e-e2e910ee126f",
+          "type": 2
+        },
+        {
+          "bubbleId": "b8845df9-e55c-43d1-aa93-afa5a81b8697",
+          "type": 2
+        },
+        {
+          "bubbleId": "09313ac5-c843-4abe-a388-7aca3863d8e3",
+          "type": 2
+        },
+        {
+          "bubbleId": "d73e1845-fa33-489c-b4cf-71e2911e01db",
+          "type": 2
+        },
+        {
+          "bubbleId": "d316a360-43d4-46ff-aa2e-6fc29a4425f1",
+          "type": 2,
+          "serverBubbleId": "bc7b6302-52f6-4049-a8c6-3b874ea417a6"
+        },
+        {
+          "bubbleId": "24ce71cc-ba4e-4af4-aa1d-3aad4bac2b43",
+          "type": 2
+        },
+        {
+          "bubbleId": "be5e8ee3-294a-4b0c-80c6-3c310ef28b90",
+          "type": 2
+        },
+        {
+          "bubbleId": "1b7dfd15-68db-4f3b-9ebe-b4a5a64f10f9",
+          "type": 2
+        },
+        {
+          "bubbleId": "cc10ac46-c78d-4003-a3d1-e8de889c6a8b",
+          "type": 2
+        },
+        {
+          "bubbleId": "0b183a78-7d63-41a3-880b-cc4e93446485",
+          "type": 2
+        },
+        {
+          "bubbleId": "0e36077b-ea43-4ab1-be5c-65700146448b",
+          "type": 2
+        },
+        {
+          "bubbleId": "0b9e9b3d-450c-4e8b-8471-bf1dbfe4d131",
+          "type": 2
+        },
+        {
+          "bubbleId": "763e933b-fb00-4c25-8c88-9f2beab1ed1f",
+          "type": 2,
+          "serverBubbleId": "c5dbc33e-0fcd-4487-8937-86351c05ff61"
+        },
+        {
+          "bubbleId": "76766cf1-cf2a-44f3-8968-a85ba9593cc1",
+          "type": 2
+        },
+        {
+          "bubbleId": "cfa2786e-c7af-474e-bbdd-e758b862aa58",
+          "type": 2
+        },
+        {
+          "bubbleId": "c919822b-fc9a-49df-9e13-01a9c403ed3b",
+          "type": 2
+        },
+        {
+          "bubbleId": "aa61f100-e014-40c1-935f-7bc2be58d2c0",
+          "type": 2
+        },
+        {
+          "bubbleId": "6d885091-92b7-4399-a9d7-57d8c043166b",
+          "type": 2
+        },
+        {
+          "bubbleId": "ae921498-3095-429a-876a-9e701fd6eca9",
+          "type": 2,
+          "serverBubbleId": "eb516798-d999-4112-8fd7-0aa38ef87fb3"
+        },
+        {
+          "bubbleId": "7d3c20b9-3f90-4cf7-b049-58f44eda52c7",
+          "type": 2
+        },
+        {
+          "bubbleId": "1ed16de6-67b4-4d35-b02a-090cf355c1f9",
+          "type": 2
+        },
+        {
+          "bubbleId": "a055d044-a5f7-46de-a652-4f9d7023d492",
+          "type": 2,
+          "serverBubbleId": "15dd6670-07ff-4f1e-87bb-25de61c999b0"
+        },
+        {
+          "bubbleId": "e45589e4-67b8-472f-b08e-9ad527efc7b2",
+          "type": 2
         }
       ],
       "conversationMap": {},
@@ -212,28 +329,7 @@
             "autoContext": true
           }
         ],
-        "selections": [
-          {
-            "text": "```markdown\n# ERPNext System - Complete Understanding Summary\r\n\n```",
-            "rawText": "# ERPNext System - Complete Understanding Summary\r\n",
-            "range": {
-              "selectionStartLineNumber": 1,
-              "selectionStartColumn": 1,
-              "positionLineNumber": 1,
-              "positionColumn": 50
-            },
-            "uri": {
-              "$mid": 1,
-              "fsPath": "c:\\Users\\pc\\Desktop\\ERPNext_System_Understanding.md",
-              "_sep": 1,
-              "external": "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md",
-              "path": "/c:/Users/pc/Desktop/ERPNext_System_Understanding.md",
-              "scheme": "file"
-            },
-            "uuid": "652afd07-7006-4af4-b30f-cda2450cab06",
-            "addedWithoutMention": false
-          }
-        ],
+        "selections": [],
         "terminalSelections": [],
         "selectedDocs": [],
         "externalLinks": [],
@@ -307,6 +403,30 @@
             "lastDiffId": "3b9f80ed-c10a-44f5-bec6-fc9faeedcbef",
             "lastAppliedAt": 1767869033968
           }
+        },
+        "file:///c%3A/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md": {
+          "bbb796b7-c881-48eb-8a1e-dfab11aebff6": {
+            "_v": 3,
+            "bubbleId": "1ed16de6-67b4-4d35-b02a-090cf355c1f9",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\ERPNext_DocTypes_Detailed_Understanding.md",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md",
+              "path": "/c:/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md",
+              "scheme": "file"
+            },
+            "codeblockId": "bbb796b7-c881-48eb-8a1e-dfab11aebff6",
+            "status": "completed",
+            "languageId": "markdown",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768049789505,
+            "composerChatGenerationUuid": "2013903a-73bd-4817-8c60-7c6d2f5174b5",
+            "diffId": "8a34ec31-bbb9-4b77-855a-0e07f7478c6b",
+            "lastDiffId": "9df53e22-71e2-4ffd-97d8-673b9bd8cbbd",
+            "lastAppliedAt": 1768049829741
+          }
         }
       },
       "originalFileStates": {
@@ -321,6 +441,12 @@
           "firstEditBubbleId": "1c48d443-e926-4c6a-b77b-75e90029be13",
           "isNewlyCreated": false,
           "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md": {
+          "content": "",
+          "firstEditBubbleId": "1ed16de6-67b4-4d35-b02a-090cf355c1f9",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
         }
       },
       "newlyCreatedFiles": [
@@ -333,10 +459,20 @@
             "path": "/c:/Users/pc/Desktop/ERPNext_System_Understanding.md",
             "scheme": "file"
           }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\ERPNext_DocTypes_Detailed_Understanding.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md",
+            "path": "/c:/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md",
+            "scheme": "file"
+          }
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1767869048070,
+      "lastUpdatedAt": 1768049839290,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -411,11 +547,12 @@
       "unifiedMode": "agent",
       "forceMode": "edit",
       "usageData": {},
-      "contextUsagePercent": 39.66749954223633,
+      "contextUsagePercent": 50.8120002746582,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
         "file:///c%3A/Users/pc/Downloads/erpnext%20conversation%20with%20chatgpt.txt",
-        "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat"
+        "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
+        "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -427,7 +564,7 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 412,
+      "totalLinesAdded": 1061,
       "totalLinesRemoved": 0,
       "addedFiles": 0,
       "removedFiles": 0,
@@ -449,12 +586,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "0e5d2f7a-6279-40fc-b130-6fce4f471aa3",
+      "latestChatGenerationUUID": "2013903a-73bd-4817-8c60-7c6d2f5174b5",
       "isAgentic": true,
-      "subtitle": "ERPNext_System_Understanding.md",
-      "filesChangedCount": 1
+      "subtitle": "ERPNext_DocTypes_Detailed_Understanding.md, ERPNext_System_Understanding.md",
+      "filesChangedCount": 2
     },
-    "extracted_at": "2026-01-10T18:23:01.473667"
+    "extracted_at": "2026-01-10T18:28:01.366598"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -4069,7 +4206,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-10T18:23:01.474802"
+    "extracted_at": "2026-01-10T18:28:01.367598"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -13941,8 +14078,8 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 5015,
-      "totalLinesRemoved": 851,
+      "totalLinesAdded": 5047,
+      "totalLinesRemoved": 878,
       "addedFiles": 0,
       "removedFiles": 0,
       "isArchived": false,
@@ -13969,7 +14106,7 @@
       "filesChangedCount": 26,
       "firstTodoWriteBubble": "1e8c200f-d705-4b27-b278-bc6e8b07988a"
     },
-    "extracted_at": "2026-01-10T18:23:01.481260"
+    "extracted_at": "2026-01-10T18:28:01.374599"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -14187,7 +14324,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-10T18:23:01.481260"
+    "extracted_at": "2026-01-10T18:28:01.374599"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -14364,6 +14501,6 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-10T18:23:01.481260"
+    "extracted_at": "2026-01-10T18:28:01.374599"
   }
 ]
