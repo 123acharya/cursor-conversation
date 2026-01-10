@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"i get this error when i scan serial numnber\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Failed to get method for command erpnext.api.pcb.get_pcb_iqc_data with No module named 'erpnext.api'\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "i get this error when i scan serial numnber\nFailed to get method for command erpnext.api.pcb.get_pcb_iqc_data with No module named 'erpnext.api'",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -312,7 +312,18 @@
       "quotes": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [],
+      "selectedImages": [
+        {
+          "uuid": "7444aa46-8d54-4e1c-b97e-c0a6d23ebf68",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-32cbc2e0-b68a-4824-8769-5996f00f035e.png",
+          "dimension": {
+            "width": 1161,
+            "height": 910
+          },
+          "loadedAt": 1768050674575,
+          "addedWithoutMention": true
+        }
+      ],
       "folderSelections": [],
       "fileSelections": [
         {
@@ -590,5 +601,5 @@
     "subtitle": "ERPNext_DocTypes_Detailed_Understanding.md, ERPNext_System_Understanding.md",
     "filesChangedCount": 2
   },
-  "extracted_at": "2026-01-10T18:38:16.294301"
+  "extracted_at": "2026-01-10T18:43:01.171924"
 }
