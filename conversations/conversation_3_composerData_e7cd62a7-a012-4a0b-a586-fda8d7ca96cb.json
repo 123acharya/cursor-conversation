@@ -5475,10 +5475,18 @@
       {
         "bubbleId": "8001cdeb-4d06-4fed-a498-e8e857442a21",
         "type": 2
+      },
+      {
+        "bubbleId": "65ff8ab1-b392-40f4-8018-9b02b9764347",
+        "type": 1
+      },
+      {
+        "bubbleId": "3c2f7e3b-82cd-4ab8-a4ef-13e92e35c886",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -5528,6 +5536,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "c852a23e-b7b5-42eb-aa7c-e79357a86beb",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md": {
@@ -9747,7 +9756,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768044026457,
+    "lastUpdatedAt": 1768050159362,
     "createdAt": 1767866567902,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
@@ -9890,11 +9899,11 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "bf74cdbc-998a-488f-8a0b-f64379e7effa",
+    "latestChatGenerationUUID": "c852a23e-b7b5-42eb-aa7c-e79357a86beb",
     "isAgentic": true,
     "subtitle": "Navigation.kt, MacIdCacheManager.kt, DriverPairingScreen.kt, FQCRepository.kt, SongTestDao.kt",
     "filesChangedCount": 26,
     "firstTodoWriteBubble": "1e8c200f-d705-4b27-b278-bc6e8b07988a"
   },
-  "extracted_at": "2026-01-10T18:28:01.374599"
+  "extracted_at": "2026-01-10T18:33:01.162952"
 }
