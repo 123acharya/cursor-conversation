@@ -1463,11 +1463,71 @@
       },
       {
         "bubbleId": "663c7fa5-7286-4139-ae71-14b510739dcd",
+        "type": 2,
+        "serverBubbleId": "01d5f4ce-7b61-4076-9776-c21d968abffe"
+      },
+      {
+        "bubbleId": "217887f2-e8f7-4dd3-a107-cbc279381397",
+        "type": 2
+      },
+      {
+        "bubbleId": "5b4aebc2-99ae-4371-bbdc-34474710386d",
+        "type": 2
+      },
+      {
+        "bubbleId": "dd3a028b-b847-475d-9ae1-982e55ef7b74",
+        "type": 2
+      },
+      {
+        "bubbleId": "c96d86ed-5ba1-4af2-83ff-3609be9e65ec",
+        "type": 2,
+        "serverBubbleId": "1403df4e-6cf1-4f59-9968-f977394b058e"
+      },
+      {
+        "bubbleId": "a6f3fef4-c00c-4d94-a794-332bb8114c8b",
+        "type": 2
+      },
+      {
+        "bubbleId": "507620a5-9ac1-45a4-acc6-9c0d73a9bcc2",
+        "type": 2
+      },
+      {
+        "bubbleId": "9177af44-926e-49ad-a980-a79796b3b394",
+        "type": 2
+      },
+      {
+        "bubbleId": "53dfca05-706e-42b3-8f49-433c40d97aea",
+        "type": 2
+      },
+      {
+        "bubbleId": "d9ca2ced-3481-41dd-99b2-83215d707c0b",
+        "type": 2,
+        "serverBubbleId": "ba1be968-7f25-46de-8784-c91062582f76"
+      },
+      {
+        "bubbleId": "a4946850-4fb4-45c3-b31b-cf553f54e563",
+        "type": 2
+      },
+      {
+        "bubbleId": "bf7f9329-5b72-4d0a-b2b7-44b9b068e76f",
+        "type": 2
+      },
+      {
+        "bubbleId": "15a52642-2dcc-4713-95c9-d5763fba2849",
+        "type": 2
+      },
+      {
+        "bubbleId": "ea4b4a01-bc72-4ea9-be7e-158b1c0743e4",
+        "type": 2,
+        "serverBubbleId": "11f4c009-9bd6-4022-9c46-940cc9b67cca"
+      },
+      {
+        "bubbleId": "46237bdd-9493-4e81-a1a9-fe1385c30d40",
         "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -1482,7 +1542,6 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -1513,11 +1572,11 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "7ed9f92c-e08a-470c-910f-186114969183",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py": {
@@ -2359,6 +2418,32 @@
           "codeBlockDisplayPreference": "collapsed",
           "createdAt": 1767866370692,
           "composerChatGenerationUuid": "10ba5fed-6b91-4863-8c7d-528a223b9644"
+        },
+        "216b720e-0dd9-4542-a337-b5f7c9aab10a": {
+          "_v": 3,
+          "bubbleId": "5b4aebc2-99ae-4371-bbdc-34474710386d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\auto-backup.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "216b720e-0dd9-4542-a337-b5f7c9aab10a",
+          "status": "completed",
+          "languageId": "bat",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "dc71a233-e428-45cb-8dc2-e630d87820e8",
+            "composerId": "11b622ee-1cd8-478e-89c0-a5e470f25415"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768038862418,
+          "composerChatGenerationUuid": "7ed9f92c-e08a-470c-910f-186114969183",
+          "diffId": "9b3b2750-3bf7-442f-a75f-1d4bbd6e305a",
+          "lastDiffId": "f582880f-611f-410d-ac5a-033064b72b85",
+          "lastAppliedAt": 1768038869974
         }
       },
       "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat": {
@@ -3369,7 +3454,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768038787411,
+    "lastUpdatedAt": 1768038903429,
     "createdAt": 1767854262948,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -3444,7 +3529,7 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 8.757003784179688,
+    "contextUsagePercent": 10.764503479003906,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py",
       "file:///c%3A/Users/pc/Desktop/inspect_cursor_db.py",
@@ -3499,7 +3584,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 7030,
+    "totalLinesAdded": 7033,
     "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -3523,8 +3608,8 @@
     "conversationState": "",
     "latestChatGenerationUUID": "7ed9f92c-e08a-470c-910f-186114969183",
     "isAgentic": true,
-    "subtitle": "extract_conversations.py",
+    "subtitle": "auto-backup.bat, extract_conversations.py",
     "filesChangedCount": 43
   },
-  "extracted_at": "2026-01-10T15:24:34.221728"
+  "extracted_at": "2026-01-10T15:28:00.565878"
 }
