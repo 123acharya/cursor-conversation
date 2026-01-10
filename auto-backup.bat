@@ -2,7 +2,10 @@
 REM Auto-backup Cursor chats to Git
 cd /d "C:\Users\pc\Desktop\cursor-chat-backups"
 
-REM Copy SpecStory conversations from Desktop projects
+REM Extract conversations from Cursor database (safe JSON files, no secrets)
+python extract_conversations.py >nul 2>&1
+
+REM Copy SpecStory conversations from Desktop projects (if available)
 for /d %%d in ("C:\Users\pc\Desktop\*") do (
     if exist "%%d\.specstory" (
         if not exist "conversations" mkdir "conversations"
