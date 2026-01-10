@@ -1,0 +1,3530 @@
+{
+  "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
+  "data": {
+    "_v": 11,
+    "composerId": "11b622ee-1cd8-478e-89c0-a5e470f25415",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "c48b9da0-d1a9-4b91-8d5a-d6ca906abb61",
+        "type": 1
+      },
+      {
+        "bubbleId": "b79c8fb6-2003-4ade-b87b-40314d452c54",
+        "type": 2,
+        "serverBubbleId": "36ad810c-da6a-4615-bb82-1209e7fcae64"
+      },
+      {
+        "bubbleId": "235666cf-c288-4116-bbdc-c20da9ebcf5c",
+        "type": 2
+      },
+      {
+        "bubbleId": "d1b24281-979e-4025-bd25-e985d55cd22d",
+        "type": 2
+      },
+      {
+        "bubbleId": "26723c2a-9f5d-4c78-b2da-7ff57789e7fe",
+        "type": 2
+      },
+      {
+        "bubbleId": "1cc88a3d-322f-49ea-ac78-7619af37a73c",
+        "type": 2
+      },
+      {
+        "bubbleId": "ad1df6c7-2082-4ad8-8ba2-2b5bfe7b4058",
+        "type": 2
+      },
+      {
+        "bubbleId": "ef821b90-e296-4c6c-8910-11d1919f9e96",
+        "type": 2
+      },
+      {
+        "bubbleId": "a66439d3-7501-4c77-9487-aabf3462c758",
+        "type": 2
+      },
+      {
+        "bubbleId": "c49de2fa-86b7-45f8-9bc7-99c7f2a57648",
+        "type": 2,
+        "serverBubbleId": "b766097f-2def-48d9-b605-7156ecad87a4"
+      },
+      {
+        "bubbleId": "c1e7d3a6-9a9e-43da-826b-14c79028f676",
+        "type": 2
+      },
+      {
+        "bubbleId": "253c4522-8c53-499c-b2c0-9b53ddb26c2f",
+        "type": 2
+      },
+      {
+        "bubbleId": "5b1125f4-9c59-4c47-bbb4-39e1a900cc22",
+        "type": 2
+      },
+      {
+        "bubbleId": "35105a3d-e8ef-4965-a160-d1d85fcc187f",
+        "type": 2
+      },
+      {
+        "bubbleId": "1d51825a-91c9-49d0-9bbf-6e8581619cd8",
+        "type": 2
+      },
+      {
+        "bubbleId": "f5d60738-9cc2-4aaf-a041-88183dfd120d",
+        "type": 2,
+        "serverBubbleId": "a7115217-6fb2-4a3c-b3fc-b66aca72f452"
+      },
+      {
+        "bubbleId": "05bb803b-c84d-4dc6-9983-7d98da8176b6",
+        "type": 2
+      },
+      {
+        "bubbleId": "904fa514-47c3-46f3-8330-f562996e5dab",
+        "type": 2
+      },
+      {
+        "bubbleId": "4559274c-3845-4e4d-a1a4-be1f66115bca",
+        "type": 2
+      },
+      {
+        "bubbleId": "93b4c16d-80ac-45b5-b5cf-9e25f8fc4a21",
+        "type": 2
+      },
+      {
+        "bubbleId": "a2ac45f0-3c25-40b3-a265-6bb09c070986",
+        "type": 2,
+        "serverBubbleId": "c50c6e76-f57c-49c0-a98a-3ee76c03822d"
+      },
+      {
+        "bubbleId": "7e5f765c-d495-4e5a-add0-e75f2826ab09",
+        "type": 2
+      },
+      {
+        "bubbleId": "37cc92f7-70d3-4f10-8ca8-76e8bf6bac57",
+        "type": 2
+      },
+      {
+        "bubbleId": "93bcf6cf-7665-446d-bb20-d471a06e90f9",
+        "type": 2
+      },
+      {
+        "bubbleId": "12fadf85-f392-49e0-9fcd-fa19626e8984",
+        "type": 2
+      },
+      {
+        "bubbleId": "cf725f1b-1005-4631-9e93-4a11ff51a866",
+        "type": 2
+      },
+      {
+        "bubbleId": "ccce9c56-e959-4505-a6de-5ae46676e897",
+        "type": 2,
+        "serverBubbleId": "9ecc4b3a-94c7-47e6-84d9-90ca4e7c535e"
+      },
+      {
+        "bubbleId": "67d29060-97a6-4fbc-9ffe-e7b77eb61b30",
+        "type": 2
+      },
+      {
+        "bubbleId": "c93c7ea0-c9c6-4397-8b37-2759a1aec947",
+        "type": 2
+      },
+      {
+        "bubbleId": "241eeb6e-2f47-4ab7-954b-df95b2677466",
+        "type": 2
+      },
+      {
+        "bubbleId": "4afabfd4-6ed7-4844-9d58-18f9765ce8ff",
+        "type": 2
+      },
+      {
+        "bubbleId": "39bbe3fe-3089-4fd7-8e54-12aaeaf24082",
+        "type": 2,
+        "serverBubbleId": "ffcbe68e-3c7f-4de1-80f8-229653b6dfe5"
+      },
+      {
+        "bubbleId": "d79c6bb9-ef3d-4b53-ac14-8da3ca20d553",
+        "type": 2
+      },
+      {
+        "bubbleId": "d3323de1-2dbe-45d6-be83-e9ddd99e822e",
+        "type": 2
+      },
+      {
+        "bubbleId": "7a648799-47bf-4c5c-8e52-9ff1d24cf432",
+        "type": 2
+      },
+      {
+        "bubbleId": "6cb34036-eaab-4403-a7b8-14954bda53a4",
+        "type": 2
+      },
+      {
+        "bubbleId": "775928e0-6b64-40fc-a1fa-d030e63c4fc8",
+        "type": 2,
+        "serverBubbleId": "fbe0bfa0-cc68-48c6-8719-ba335887bbe9"
+      },
+      {
+        "bubbleId": "aec14524-3a07-4640-ad8a-681388115a8b",
+        "type": 2
+      },
+      {
+        "bubbleId": "2a4518ca-2529-4c69-a34d-3e3d7c81ac98",
+        "type": 2
+      },
+      {
+        "bubbleId": "9ac81302-a855-43b6-ba52-3e279bdf0552",
+        "type": 2
+      },
+      {
+        "bubbleId": "30b4f533-2e6c-46d0-a468-17532ad2e942",
+        "type": 2,
+        "serverBubbleId": "075d03da-4ca1-4fe8-8950-59c13a8541ef"
+      },
+      {
+        "bubbleId": "33c9c738-2bf5-46ac-b6b5-ada303f04b89",
+        "type": 2
+      },
+      {
+        "bubbleId": "56b7907e-93c8-4e3c-bd4d-f74e21bb0519",
+        "type": 2
+      },
+      {
+        "bubbleId": "b8e141c8-f315-4673-8e2c-31981d56c09a",
+        "type": 2
+      },
+      {
+        "bubbleId": "daf94059-a1ba-4d69-b0be-9b54847ba83d",
+        "type": 2,
+        "serverBubbleId": "6a001d87-e972-44b8-8937-149b241c7b04"
+      },
+      {
+        "bubbleId": "6d38464f-d2f6-4741-a5bb-0b61fda59551",
+        "type": 2
+      },
+      {
+        "bubbleId": "a290d297-1d69-4508-922f-2e2c07faa68e",
+        "type": 2
+      },
+      {
+        "bubbleId": "793e3721-1add-4c27-9575-2fc34b2b665c",
+        "type": 2
+      },
+      {
+        "bubbleId": "8f1e2e79-6d5b-43d0-be5b-e52dcf12327e",
+        "type": 2
+      },
+      {
+        "bubbleId": "907e5244-87e4-4f1f-bb42-358d242ecf8a",
+        "type": 2
+      },
+      {
+        "bubbleId": "1896d0ec-9be9-46e6-80ba-b688cf7000c2",
+        "type": 2,
+        "serverBubbleId": "29bbc28c-2f6f-4f56-9fbc-53422fd24efd"
+      },
+      {
+        "bubbleId": "cff8cdf7-7fd8-41e1-bd37-bb23a047fda6",
+        "type": 2
+      },
+      {
+        "bubbleId": "453fc0b0-587d-4354-9eb0-ed2ac2e82652",
+        "type": 2
+      },
+      {
+        "bubbleId": "ff20afc2-8233-4157-8b70-3e6e02318d8a",
+        "type": 2
+      },
+      {
+        "bubbleId": "713cbf48-39b2-4eb7-8658-33ff3cbd57b3",
+        "type": 2
+      },
+      {
+        "bubbleId": "6d6e616b-d485-4525-ba8d-cd561ae4be9d",
+        "type": 2,
+        "serverBubbleId": "4ccc51a4-4338-405c-bdd9-b4c61b277fc9"
+      },
+      {
+        "bubbleId": "5ac993a2-6fb8-4bb1-9cef-5982412e1354",
+        "type": 2
+      },
+      {
+        "bubbleId": "acc593ba-5e4d-496e-bae3-8b56307d80ec",
+        "type": 2
+      },
+      {
+        "bubbleId": "8c84fa2b-dc9c-4582-8e29-aeca9aa2f93f",
+        "type": 2
+      },
+      {
+        "bubbleId": "fc1fc4ea-f240-4b2a-90b1-8a980f71ecf4",
+        "type": 2,
+        "serverBubbleId": "8bb93ba4-c69b-442d-b248-bedd818b23d1"
+      },
+      {
+        "bubbleId": "cecd853b-6387-424e-bd83-bfb69761f1ae",
+        "type": 2
+      },
+      {
+        "bubbleId": "9688a2a1-c196-4f8c-9b12-0489d2468309",
+        "type": 2
+      },
+      {
+        "bubbleId": "15d41134-ccf3-4107-913e-d0af1c1becee",
+        "type": 2
+      },
+      {
+        "bubbleId": "b2cba1c2-2769-428c-ad71-2d91a516bf52",
+        "type": 2,
+        "serverBubbleId": "1dcc72b0-4999-4497-b4d5-c5c17b112387"
+      },
+      {
+        "bubbleId": "16b65156-8f34-4cd7-ac7c-4fbe14eb7c29",
+        "type": 2
+      },
+      {
+        "bubbleId": "1f919e37-9823-45bd-a6aa-c575655ab7bc",
+        "type": 1
+      },
+      {
+        "bubbleId": "63ee1855-c043-4aee-adb4-2007f807ccc0",
+        "type": 2,
+        "serverBubbleId": "182ce8b4-5d71-4f2d-a363-62aeebd319c4"
+      },
+      {
+        "bubbleId": "8d1f8f3e-5f56-400e-b5ab-d1ee828f35fb",
+        "type": 2
+      },
+      {
+        "bubbleId": "16593eec-ef62-4e62-862d-34d6f664ea29",
+        "type": 2
+      },
+      {
+        "bubbleId": "e0197f1c-217b-41a6-b5fc-a6a27c6db689",
+        "type": 2
+      },
+      {
+        "bubbleId": "08990a2f-55b9-45e8-82bc-6bb6bc4b0443",
+        "type": 2,
+        "serverBubbleId": "5f569fc7-8bed-46aa-95f9-5e3d9eae0f46"
+      },
+      {
+        "bubbleId": "f14543ce-1e48-4145-8577-bef451e21b49",
+        "type": 2
+      },
+      {
+        "bubbleId": "53b0dbc6-fc75-4e1c-8fdd-8c6afd08dcac",
+        "type": 2
+      },
+      {
+        "bubbleId": "7c2195f2-2639-4fd3-be6c-07dbc87a8c0c",
+        "type": 2
+      },
+      {
+        "bubbleId": "cb851f0e-ac60-45fe-881f-80bf282428a0",
+        "type": 2
+      },
+      {
+        "bubbleId": "0912dda2-c307-4c8e-89ea-8b23b08b97b7",
+        "type": 2
+      },
+      {
+        "bubbleId": "54e17775-96e4-4c88-a0e9-2b318cc40fd6",
+        "type": 2,
+        "serverBubbleId": "19cfd9f9-c836-444d-9cec-b79c8c9845c9"
+      },
+      {
+        "bubbleId": "f880f9a1-e27f-465d-80a0-91110f641e4f",
+        "type": 2
+      },
+      {
+        "bubbleId": "8c59af04-4b27-424b-bfb5-d19312324054",
+        "type": 2
+      },
+      {
+        "bubbleId": "710eaaf0-9dc2-4741-b0c0-8012e9ab348f",
+        "type": 2
+      },
+      {
+        "bubbleId": "aea4aee1-5fed-4f24-8b05-c1b0e6bd8ab2",
+        "type": 2,
+        "serverBubbleId": "4c9f01e0-e85b-4245-9a1c-be0c2a0e0477"
+      },
+      {
+        "bubbleId": "dc41c3b7-dd72-4cf0-a08f-a06134b046dd",
+        "type": 2
+      },
+      {
+        "bubbleId": "4486dd62-1be7-462e-8879-c42a22fbe550",
+        "type": 1
+      },
+      {
+        "bubbleId": "a597c290-b160-4194-933c-0f56a7e7c640",
+        "type": 2,
+        "serverBubbleId": "214cbda7-997f-4ce1-ad9d-33e27500c9da"
+      },
+      {
+        "bubbleId": "94dd11fa-3bb0-40ab-a536-fb398a24c4bc",
+        "type": 2
+      },
+      {
+        "bubbleId": "7a66346a-82b6-486e-beeb-f28763f77da7",
+        "type": 2
+      },
+      {
+        "bubbleId": "7fe6bc43-d23a-4a9b-b530-2fb38d53e859",
+        "type": 2
+      },
+      {
+        "bubbleId": "dd7cca38-fe6d-425b-9170-3128ab301abb",
+        "type": 2,
+        "serverBubbleId": "c413d072-4171-4405-96a0-a176fb7bd67a"
+      },
+      {
+        "bubbleId": "e2af45ff-6809-43bc-8976-9940426e903e",
+        "type": 2
+      },
+      {
+        "bubbleId": "8319f929-752b-451a-872d-af107afbc097",
+        "type": 2
+      },
+      {
+        "bubbleId": "ea86c77c-d0f1-4e72-96db-3c13d77c74e0",
+        "type": 2
+      },
+      {
+        "bubbleId": "69b5ae55-9741-4334-addb-e9210ea12c2a",
+        "type": 2,
+        "serverBubbleId": "609850ba-e208-438d-879d-c0bcb6332879"
+      },
+      {
+        "bubbleId": "4ad343c1-671c-419a-88e1-4b5db30a68d5",
+        "type": 2
+      },
+      {
+        "bubbleId": "b9d0c750-bf68-4f9f-b7be-0a8b5f0ad883",
+        "type": 2
+      },
+      {
+        "bubbleId": "48d9916b-0e7e-452d-800b-3a4cd3101a96",
+        "type": 2
+      },
+      {
+        "bubbleId": "8d7d26ce-4f5d-4b41-8818-51bd0cdc99e6",
+        "type": 2,
+        "serverBubbleId": "2480af25-bc21-43c5-afa0-aed7d26e02db"
+      },
+      {
+        "bubbleId": "a92c73b6-e516-4629-bdae-8aafc118692c",
+        "type": 2
+      },
+      {
+        "bubbleId": "8f371ce6-9968-400e-bd5e-bc2d6ecce9c1",
+        "type": 2
+      },
+      {
+        "bubbleId": "5cd6f181-0e9c-4bb6-979b-f0e863ffa90b",
+        "type": 2
+      },
+      {
+        "bubbleId": "00a8e446-7ecc-4a88-a1f3-bae343c51e20",
+        "type": 2
+      },
+      {
+        "bubbleId": "dab306be-be11-428a-ab9a-abec176ae2eb",
+        "type": 2
+      },
+      {
+        "bubbleId": "493189d2-ee68-440c-a7ce-9de46a638697",
+        "type": 2,
+        "serverBubbleId": "4adbbaeb-e961-4c0e-b5d6-577e80b7c820"
+      },
+      {
+        "bubbleId": "f94944e0-45fb-4665-923f-1b42abb2d09c",
+        "type": 2
+      },
+      {
+        "bubbleId": "06be6fc4-f4d7-4025-a2fc-f41f2a851d38",
+        "type": 2
+      },
+      {
+        "bubbleId": "cdab34b5-d630-4a36-9f9e-6c2a3d581c9b",
+        "type": 2
+      },
+      {
+        "bubbleId": "994b0f15-d426-4a26-bf78-24b458700dd4",
+        "type": 2
+      },
+      {
+        "bubbleId": "7ae18128-260d-4498-98d3-5c1e405d306c",
+        "type": 2
+      },
+      {
+        "bubbleId": "3fe9e566-2856-4f1c-8725-5447f2063e70",
+        "type": 2,
+        "serverBubbleId": "87929f2b-c0ad-4dd7-86fd-01bd408e366f"
+      },
+      {
+        "bubbleId": "0e8303f8-f0f8-46b0-8339-3dfbf6184196",
+        "type": 2
+      },
+      {
+        "bubbleId": "03ae0b7e-f359-4a54-a6fd-684e925992fd",
+        "type": 2
+      },
+      {
+        "bubbleId": "31ef389a-d819-4c41-a640-08e2fdf6e1e5",
+        "type": 2
+      },
+      {
+        "bubbleId": "67e5f5d2-7155-4a89-8c6c-4c9878d2f1f4",
+        "type": 2,
+        "serverBubbleId": "42f27dd3-a6a5-4dea-9bfc-c3fc2cdd42ff"
+      },
+      {
+        "bubbleId": "de603dce-ebcd-49c0-a481-004cf9fa6229",
+        "type": 2
+      },
+      {
+        "bubbleId": "70912079-a0b6-4c75-86ea-359d4eadd9bb",
+        "type": 2
+      },
+      {
+        "bubbleId": "8d3cba0a-984e-4bae-b0f6-a7134cc6856c",
+        "type": 2
+      },
+      {
+        "bubbleId": "f1d30fab-510b-475b-9cc3-6c31c51135c6",
+        "type": 2,
+        "serverBubbleId": "ba564271-2e08-4218-93b7-ca1f34f68bd0"
+      },
+      {
+        "bubbleId": "75857744-65eb-4544-ada1-6495a47df5c2",
+        "type": 2
+      },
+      {
+        "bubbleId": "3cf08a8f-34ec-421b-a6dd-30833cf7484a",
+        "type": 1
+      },
+      {
+        "bubbleId": "f771c2c5-7f84-4c37-9a20-686c9d308f71",
+        "type": 2,
+        "serverBubbleId": "49d1ba61-fd0c-4f52-84b6-46f34a550fbc"
+      },
+      {
+        "bubbleId": "afd63dcb-4265-417a-b65f-30d9c2b9c1b0",
+        "type": 2
+      },
+      {
+        "bubbleId": "762409a1-47d7-418b-966f-87f2f5ea3c89",
+        "type": 2
+      },
+      {
+        "bubbleId": "ec56253a-a935-4b83-846c-696bc00be70f",
+        "type": 2
+      },
+      {
+        "bubbleId": "05eddcbe-fd95-4d53-bc00-ce711fbbc1fc",
+        "type": 2,
+        "serverBubbleId": "2fe65aca-5919-4c1a-8c7c-ae355cb36598"
+      },
+      {
+        "bubbleId": "ce52bd44-6465-4528-89a7-3ee2a88b54d7",
+        "type": 2
+      },
+      {
+        "bubbleId": "ed7568b0-555a-4505-882c-3040e1acd560",
+        "type": 2
+      },
+      {
+        "bubbleId": "94be663a-50c9-4f97-97ab-6df735eea721",
+        "type": 2
+      },
+      {
+        "bubbleId": "b413eec8-6a1d-4576-bf79-8f3d7af83688",
+        "type": 2,
+        "serverBubbleId": "951b8881-234b-4a9a-80a0-4f18b195c7aa"
+      },
+      {
+        "bubbleId": "a337865c-f88a-431c-97c1-4cfaa83bd763",
+        "type": 2
+      },
+      {
+        "bubbleId": "879d45ec-68b5-4e48-820c-a25d4799185f",
+        "type": 2
+      },
+      {
+        "bubbleId": "e73d1fa7-63e4-48b0-a538-7fd81205b5c2",
+        "type": 2
+      },
+      {
+        "bubbleId": "b693b8bf-7b73-43eb-bdb3-2135add75a7f",
+        "type": 2,
+        "serverBubbleId": "6ec948d8-a0be-4842-976e-a53ccbb38fb4"
+      },
+      {
+        "bubbleId": "13c99af5-fbe2-4049-bf12-590c998dd756",
+        "type": 2
+      },
+      {
+        "bubbleId": "d4fb724b-158f-4fe5-b89a-8832ff6659d7",
+        "type": 2
+      },
+      {
+        "bubbleId": "41b6a441-68cf-4105-9f89-7da5e56c9d3f",
+        "type": 2
+      },
+      {
+        "bubbleId": "082636f3-7abc-4036-be80-ddcd728474f6",
+        "type": 2
+      },
+      {
+        "bubbleId": "9bff2692-1510-4734-be07-ece9c2d55528",
+        "type": 2,
+        "serverBubbleId": "067f21ec-8a7b-441f-96b3-e6c7c3c34aca"
+      },
+      {
+        "bubbleId": "a59d64e9-9ef4-4de0-b26b-4a0ad59ee43d",
+        "type": 2
+      },
+      {
+        "bubbleId": "2d2cbe6d-f1d4-4d9c-830b-5c9f71e98ca1",
+        "type": 1
+      },
+      {
+        "bubbleId": "c6999f34-b87e-4c50-aa24-75752b08179b",
+        "type": 2,
+        "serverBubbleId": "f494d1b3-8268-4845-80b5-c82f5e0df4e6"
+      },
+      {
+        "bubbleId": "c1c27e24-9275-4ede-bcc6-398fef2d55a0",
+        "type": 2
+      },
+      {
+        "bubbleId": "51493639-e5f4-4f93-8929-fc0c00cda1f4",
+        "type": 2
+      },
+      {
+        "bubbleId": "87037ace-ec47-4bf4-b0b8-c840fb3b9432",
+        "type": 2
+      },
+      {
+        "bubbleId": "8e866302-0904-4232-a0e0-ee62013dac91",
+        "type": 2
+      },
+      {
+        "bubbleId": "3b67d546-292b-4190-af41-da836c61c290",
+        "type": 2
+      },
+      {
+        "bubbleId": "737277e1-b7fc-4d5c-97df-59005cddc852",
+        "type": 2
+      },
+      {
+        "bubbleId": "74833508-5af4-4c30-a3d5-0c24a96617d7",
+        "type": 2,
+        "serverBubbleId": "9f2aa11d-5f59-4437-8b6c-6951e0098b84"
+      },
+      {
+        "bubbleId": "93f38d1c-0f9b-4ccf-b0a1-b660907218ea",
+        "type": 2
+      },
+      {
+        "bubbleId": "2399198a-4eb7-4bdb-b5bb-2536dbbc3041",
+        "type": 2
+      },
+      {
+        "bubbleId": "9d94474d-534f-402f-9269-5957e0a4572e",
+        "type": 2
+      },
+      {
+        "bubbleId": "ab5b191b-5790-4da5-a773-a6f9a78d474a",
+        "type": 2
+      },
+      {
+        "bubbleId": "832b34df-599b-4c25-bb75-e631e6e97c5b",
+        "type": 2,
+        "serverBubbleId": "f7b0f08f-86c6-4e41-bef2-9251759283b1"
+      },
+      {
+        "bubbleId": "3c99e6ec-a8ce-42cf-acd4-0d20e35ce687",
+        "type": 2
+      },
+      {
+        "bubbleId": "e28a44cb-fae7-412b-a3ca-91465af3acf1",
+        "type": 2
+      },
+      {
+        "bubbleId": "4db2ec9e-8de0-4fd2-9c3f-1d70b8cdc6a1",
+        "type": 2
+      },
+      {
+        "bubbleId": "046a679f-2cdb-40db-937e-8e3f6689b75d",
+        "type": 2,
+        "serverBubbleId": "c6cccda2-51c5-4ab6-b833-31d59f72d33b"
+      },
+      {
+        "bubbleId": "4baca6ff-8c9e-4d4f-be56-8871bdb43865",
+        "type": 2
+      },
+      {
+        "bubbleId": "37fd21a0-e2c2-4b28-8edd-53b4e2de94f7",
+        "type": 2
+      },
+      {
+        "bubbleId": "95f8b81a-a9f9-4d0f-baf3-f8c151a3ceef",
+        "type": 2
+      },
+      {
+        "bubbleId": "66387dd3-395f-4c39-83e5-c75480b8a6b9",
+        "type": 2,
+        "serverBubbleId": "e14e123e-d53f-45bc-bef9-d91a1727b624"
+      },
+      {
+        "bubbleId": "ec012574-291d-4c6b-837a-a28953a76277",
+        "type": 2
+      },
+      {
+        "bubbleId": "538f3345-a67c-4634-ad7d-8bf438638ecf",
+        "type": 2
+      },
+      {
+        "bubbleId": "7996c5e2-5aa3-4b1e-a317-665a32115ced",
+        "type": 2,
+        "serverBubbleId": "2cf8ac02-ff5b-43f0-ba00-e5cbe7b2f597"
+      },
+      {
+        "bubbleId": "21ece948-aa78-44d3-a3b7-f6c736a4b10e",
+        "type": 2
+      },
+      {
+        "bubbleId": "b5c1c8c2-d634-4a51-b99c-2abca8d178bb",
+        "type": 2
+      },
+      {
+        "bubbleId": "4ccff2e0-aba3-4d48-b2b4-f8407b0d235e",
+        "type": 2,
+        "serverBubbleId": "ba73c571-026c-4921-9dc0-410579ec9a51"
+      },
+      {
+        "bubbleId": "dd41e7dd-d71d-4928-a443-c2bba4a85d78",
+        "type": 2
+      },
+      {
+        "bubbleId": "475e8f28-3909-43fb-b335-5c9272bdbb51",
+        "type": 1
+      },
+      {
+        "bubbleId": "58f5c4ac-a736-47da-bcde-8c45e2f15e88",
+        "type": 2,
+        "serverBubbleId": "7daccdd8-1480-4211-813b-61640d0a2d8e"
+      },
+      {
+        "bubbleId": "af1bfadb-3cbe-47ef-94a2-7c3260a7cb68",
+        "type": 2
+      },
+      {
+        "bubbleId": "9c733047-d656-42b5-960d-cbb3fe88394b",
+        "type": 2
+      },
+      {
+        "bubbleId": "d42e3d8e-b482-460f-a817-163c6924ff18",
+        "type": 2
+      },
+      {
+        "bubbleId": "44065f38-510f-4277-8f5c-57902cde7bb9",
+        "type": 2,
+        "serverBubbleId": "4090a272-9497-4d5d-9d53-1baa2b2734c3"
+      },
+      {
+        "bubbleId": "1927dc5d-6b1b-4ef2-8678-7b1c10bdb482",
+        "type": 2
+      },
+      {
+        "bubbleId": "42d197e4-0d84-48e4-a98a-407f1790ae2f",
+        "type": 2
+      },
+      {
+        "bubbleId": "1bc5654f-db5e-4100-bd92-087eaadf37dc",
+        "type": 2
+      },
+      {
+        "bubbleId": "864bb576-8058-492b-a5f1-4d4725acccc6",
+        "type": 2
+      },
+      {
+        "bubbleId": "171046c2-d36f-468e-b673-80b8941169d0",
+        "type": 2,
+        "serverBubbleId": "ff9a1d1b-3410-4ea1-97fd-4fb10df824dd"
+      },
+      {
+        "bubbleId": "e55c9a54-7bbd-45f9-843b-f2ad5c0f4459",
+        "type": 2
+      },
+      {
+        "bubbleId": "6712a61c-8dc7-4338-8620-b458208ada29",
+        "type": 2
+      },
+      {
+        "bubbleId": "2dd4b4eb-a62f-48ef-a047-721d93f000e1",
+        "type": 2
+      },
+      {
+        "bubbleId": "221a1ad5-f21b-4cf0-b6f7-7f0702e6d81b",
+        "type": 2
+      },
+      {
+        "bubbleId": "91692332-f002-4330-9b3e-1455df396f03",
+        "type": 2
+      },
+      {
+        "bubbleId": "6f6766f9-6ea6-49ac-bc8f-03dc13d6c4ad",
+        "type": 2
+      },
+      {
+        "bubbleId": "046d0382-c783-4abe-a6a5-72568f5c29bc",
+        "type": 2
+      },
+      {
+        "bubbleId": "53db54d0-c9ba-4ffd-a799-7fdb8fcbd4b5",
+        "type": 2
+      },
+      {
+        "bubbleId": "79a53e4c-8d7d-4906-89be-82a8fda0f9c6",
+        "type": 2,
+        "serverBubbleId": "8ebc8dbe-a1db-4dd7-b095-29efa8b25238"
+      },
+      {
+        "bubbleId": "5f628c05-c20b-49c6-b655-cb8b66d632ba",
+        "type": 2
+      },
+      {
+        "bubbleId": "5a4fe6b6-0706-4452-8220-9c3720ac8cfb",
+        "type": 2
+      },
+      {
+        "bubbleId": "65d57142-a826-4c79-987a-9857ffd18790",
+        "type": 2
+      },
+      {
+        "bubbleId": "1612260b-7994-42cf-b6c6-6220426cf3c1",
+        "type": 2,
+        "serverBubbleId": "2e20dd1c-1bcb-4978-a108-f92c0aa58c75"
+      },
+      {
+        "bubbleId": "788628f5-7ee5-4987-9ecf-e9792d54d05b",
+        "type": 2
+      },
+      {
+        "bubbleId": "52dc8909-cf9f-4896-b29a-ae170c6f0e04",
+        "type": 2
+      },
+      {
+        "bubbleId": "e3fb00dc-4423-47d9-9536-f5d79319cc75",
+        "type": 2
+      },
+      {
+        "bubbleId": "e1264661-1124-40c3-bb8c-c6f5b43ac775",
+        "type": 2,
+        "serverBubbleId": "5df7e262-f28c-487c-99df-852e080c6d07"
+      },
+      {
+        "bubbleId": "e964aa0f-fcc0-44f4-b9ee-995ba8050722",
+        "type": 2
+      },
+      {
+        "bubbleId": "ff7d537a-f9b8-4557-9928-45b5f4bb138e",
+        "type": 2
+      },
+      {
+        "bubbleId": "b885e19f-4f21-435d-970d-111faaa78015",
+        "type": 2
+      },
+      {
+        "bubbleId": "ca97ec94-5b4d-4ec0-9bb0-4347e20a9654",
+        "type": 2
+      },
+      {
+        "bubbleId": "0b23b5c2-2dba-43c1-a28b-dfece87ebdc6",
+        "type": 2
+      },
+      {
+        "bubbleId": "28675dbd-78f9-4713-9598-30f72d9b8c66",
+        "type": 2
+      },
+      {
+        "bubbleId": "d3f76320-d078-421c-8ebc-fe7474ccae07",
+        "type": 2
+      },
+      {
+        "bubbleId": "7d315c97-c163-4992-abdf-2ca6a0ea5d58",
+        "type": 1
+      },
+      {
+        "bubbleId": "be736422-6a9e-4b1c-a3d5-0d90712a96fd",
+        "type": 2,
+        "serverBubbleId": "3dbf7cbb-829d-4189-a627-3b490089c0a8"
+      },
+      {
+        "bubbleId": "f6d6a389-7070-4a99-ad0a-0c8099e81172",
+        "type": 2
+      },
+      {
+        "bubbleId": "cfb57339-b755-4251-abc0-f6d48d6a4aaa",
+        "type": 2
+      },
+      {
+        "bubbleId": "4af02bc3-a6ab-4311-b138-6368a2a50a0f",
+        "type": 2
+      },
+      {
+        "bubbleId": "95af4e7a-543a-4a57-9151-e1298e44d6a0",
+        "type": 2
+      },
+      {
+        "bubbleId": "63370d70-34dd-451d-afba-cd59054fadb0",
+        "type": 2
+      },
+      {
+        "bubbleId": "bdc10528-845d-4f95-a769-42ed42a14dfe",
+        "type": 2
+      },
+      {
+        "bubbleId": "25d069bc-e267-4501-9a9f-4722d851ef17",
+        "type": 2
+      },
+      {
+        "bubbleId": "2d5df22b-3db0-4439-ae16-ad392b0085d9",
+        "type": 2,
+        "serverBubbleId": "e91fd0c8-4519-4e4f-882a-185dc19b6895"
+      },
+      {
+        "bubbleId": "1001104d-95de-4809-8fd9-fb24d81cca1b",
+        "type": 2
+      },
+      {
+        "bubbleId": "264c2a22-d667-404e-a6be-564adf411ebc",
+        "type": 2
+      },
+      {
+        "bubbleId": "2709e1de-b519-4932-9dcd-459202d421e1",
+        "type": 2
+      },
+      {
+        "bubbleId": "1b637d46-2918-47ba-8cd0-88c7cb351a79",
+        "type": 2
+      },
+      {
+        "bubbleId": "0bf8c8f9-8ac5-4281-b770-10adcc7787dd",
+        "type": 2
+      },
+      {
+        "bubbleId": "80393c4e-14ec-412f-99ac-1f4e4b4e5dc6",
+        "type": 2
+      },
+      {
+        "bubbleId": "2459eedf-28d9-4377-a658-d5f7aaba728a",
+        "type": 2
+      },
+      {
+        "bubbleId": "cde5b84a-0ac9-498d-b5c4-ff17e676e29b",
+        "type": 1
+      },
+      {
+        "bubbleId": "ef129615-f8bf-4636-acdb-7d9d75bf514a",
+        "type": 2,
+        "serverBubbleId": "1ca152d1-a3da-436c-9fef-7884b334e1ae"
+      },
+      {
+        "bubbleId": "89060ee7-f160-4857-ba5b-8de2d1266537",
+        "type": 2
+      },
+      {
+        "bubbleId": "0e04e5f9-5fdd-4e0c-aa72-ae0c4e36a82c",
+        "type": 2
+      },
+      {
+        "bubbleId": "4245bc6b-2168-481b-ba7b-05b6f8097426",
+        "type": 1
+      },
+      {
+        "bubbleId": "33f8d984-0e81-43ca-97b9-374464bf9a9c",
+        "type": 2,
+        "serverBubbleId": "267cebc3-563d-4428-b5b0-c427c4922f86"
+      },
+      {
+        "bubbleId": "b977a589-271d-40de-9db8-067bdbb0d952",
+        "type": 2
+      },
+      {
+        "bubbleId": "93141820-b67c-42cd-a1ef-6026c4015fdd",
+        "type": 2
+      },
+      {
+        "bubbleId": "7fe0d360-77ad-4440-bda3-6d5b0690960e",
+        "type": 2
+      },
+      {
+        "bubbleId": "9ca085fd-c709-42de-9dba-cb098a084d05",
+        "type": 2
+      },
+      {
+        "bubbleId": "be1d421f-3e39-4eb6-9eb0-440d7550bb1d",
+        "type": 2
+      },
+      {
+        "bubbleId": "c033565d-d475-4bb3-8b17-e7b240493dad",
+        "type": 2
+      },
+      {
+        "bubbleId": "43de46f7-81a4-4065-926e-33c2d199185f",
+        "type": 2
+      },
+      {
+        "bubbleId": "55494dd2-52e6-45f6-8ce0-c75f0d50fe7e",
+        "type": 2,
+        "serverBubbleId": "64eea4cb-d1c3-4b5b-b305-db76e0107f36"
+      },
+      {
+        "bubbleId": "b062831b-b4e3-45bd-b0aa-02ba821a5947",
+        "type": 2
+      },
+      {
+        "bubbleId": "80ae6d94-074f-41a6-8f9d-0de503be807d",
+        "type": 2
+      },
+      {
+        "bubbleId": "b9c26909-b1c9-4e18-9e53-753abba3dbbb",
+        "type": 2
+      },
+      {
+        "bubbleId": "359342a3-a730-47ea-b180-2db911401c88",
+        "type": 2
+      },
+      {
+        "bubbleId": "c4ba7113-a29e-4b27-b4e0-4ac4e9b7a13d",
+        "type": 2
+      },
+      {
+        "bubbleId": "e8e68fdf-6b0a-4cd4-a061-afb9c4a49812",
+        "type": 2
+      },
+      {
+        "bubbleId": "67c6d8f4-92a2-4357-b213-35ba47b2074d",
+        "type": 2,
+        "serverBubbleId": "7cfb4441-251f-44d0-95c4-55c90e130a1d"
+      },
+      {
+        "bubbleId": "fac10ca3-8d01-46f2-9c5c-bc80427493de",
+        "type": 2
+      },
+      {
+        "bubbleId": "5c0e57d6-1a0d-46ac-ae71-8d8bfe6fa708",
+        "type": 2
+      },
+      {
+        "bubbleId": "26d393a4-fc53-4000-b6f2-01bbd1fb1613",
+        "type": 2
+      },
+      {
+        "bubbleId": "12b18893-cb33-4797-9d6d-5f67df0a1e47",
+        "type": 2
+      },
+      {
+        "bubbleId": "338c6bec-82bd-4663-8488-2a0419c96572",
+        "type": 2
+      },
+      {
+        "bubbleId": "5887875b-088b-4d08-8ef7-86f0e916eaa4",
+        "type": 2
+      },
+      {
+        "bubbleId": "ddcb2a10-d167-486c-ace5-f6deb9d73f3f",
+        "type": 2
+      },
+      {
+        "bubbleId": "3111f463-bd83-4138-a4c6-e02c746854f5",
+        "type": 2,
+        "serverBubbleId": "14306474-4aca-4e98-bad5-414df16bb5c7"
+      },
+      {
+        "bubbleId": "8bd33d9a-de72-40e3-a922-d21746648736",
+        "type": 2
+      },
+      {
+        "bubbleId": "a5ae8fb4-5f5d-4122-b552-3643f8fa275b",
+        "type": 2
+      },
+      {
+        "bubbleId": "cfd1d547-ac86-48bb-8c79-6958bb2f7492",
+        "type": 2
+      },
+      {
+        "bubbleId": "70800610-290a-4aa3-ab84-cd288dba1508",
+        "type": 2
+      },
+      {
+        "bubbleId": "2108b43a-32b8-419b-87b1-81d7b3cda942",
+        "type": 2
+      },
+      {
+        "bubbleId": "a992eab7-2dac-41e6-832a-63f017e5abec",
+        "type": 2,
+        "serverBubbleId": "8139803a-b776-4bfd-bbff-26fc3bbdf0b9"
+      },
+      {
+        "bubbleId": "488db60c-fa0b-42ea-81be-f1a4fa3b006b",
+        "type": 2
+      },
+      {
+        "bubbleId": "b971b90d-832a-4ce0-9502-4062f4fde9bd",
+        "type": 2
+      },
+      {
+        "bubbleId": "e52345c5-3a10-4bb1-9abb-b4f2aec7d978",
+        "type": 2
+      },
+      {
+        "bubbleId": "4a563e95-bb91-42fc-8d3a-8c872f2c7d94",
+        "type": 2
+      },
+      {
+        "bubbleId": "882aef85-aad3-400c-a768-269f94e1557e",
+        "type": 2,
+        "serverBubbleId": "e389589c-d775-4a53-802f-4cf2c6d2e9f1"
+      },
+      {
+        "bubbleId": "71ae2e3e-7873-4576-9fc7-5c5471ea942d",
+        "type": 2
+      },
+      {
+        "bubbleId": "fcafa838-666b-4388-813c-959fd6647765",
+        "type": 2
+      },
+      {
+        "bubbleId": "e25ddd1b-e246-45e4-8b5d-99e5916fc024",
+        "type": 2
+      },
+      {
+        "bubbleId": "ec81ad5b-748f-4dab-be36-a8f6f55d4518",
+        "type": 2,
+        "serverBubbleId": "177463ed-a43e-4423-b084-5c13e9236942"
+      },
+      {
+        "bubbleId": "c40efe58-da1e-411e-acc6-e2b2591b52e1",
+        "type": 2
+      },
+      {
+        "bubbleId": "3981bce5-1a8a-4f0a-ae16-cb5b78364d37",
+        "type": 2
+      },
+      {
+        "bubbleId": "1a307d8d-e1d6-498f-bb89-63d695cb701f",
+        "type": 2
+      },
+      {
+        "bubbleId": "74351cf3-9bf9-4aef-a49d-8d2e3de3ece1",
+        "type": 2
+      },
+      {
+        "bubbleId": "7ff2750e-21e4-4294-9b91-5a63de7493db",
+        "type": 2
+      },
+      {
+        "bubbleId": "2518664a-31cb-4afb-9659-258d0ee415d9",
+        "type": 2
+      },
+      {
+        "bubbleId": "a78e7f7f-3f15-4ae8-bfce-4f04ebb4c07d",
+        "type": 2,
+        "serverBubbleId": "95d541c7-93c7-4773-86ed-1bc81c9603f4"
+      },
+      {
+        "bubbleId": "6973d90c-ae59-4286-a2e1-4d21860c4238",
+        "type": 2
+      },
+      {
+        "bubbleId": "c8fc5cae-b487-41fb-886c-c485b4732051",
+        "type": 2
+      },
+      {
+        "bubbleId": "f776c360-ed42-4732-87d3-66b9cf5bc2cd",
+        "type": 2
+      },
+      {
+        "bubbleId": "8ad4753c-9e93-4efa-b6c8-8c8fdeec9f42",
+        "type": 2
+      },
+      {
+        "bubbleId": "d74f635c-4a7f-4bd7-9c38-26e69706195f",
+        "type": 2
+      },
+      {
+        "bubbleId": "66875815-680a-43e6-86fc-4820e226df9e",
+        "type": 2,
+        "serverBubbleId": "8e8aaf9b-99e5-40ed-a0cf-4a39bf5ea4ae"
+      },
+      {
+        "bubbleId": "94c1bfe8-96fe-4563-b268-d876495cd7ff",
+        "type": 2
+      },
+      {
+        "bubbleId": "e540cc2c-7b19-4710-a8f1-3e351c695f61",
+        "type": 1
+      },
+      {
+        "bubbleId": "4d6b6e04-3456-4b2a-88ed-c63ec54581cf",
+        "type": 2,
+        "serverBubbleId": "5632093e-7a66-4103-ae9e-93e0e6c4afed"
+      },
+      {
+        "bubbleId": "ca7ca4c8-955d-43f3-b1f0-8a0e34679916",
+        "type": 2
+      },
+      {
+        "bubbleId": "29002a15-daf8-47f5-adcd-1f87636808d5",
+        "type": 2
+      },
+      {
+        "bubbleId": "21c82eaa-7ea7-4a20-9756-0f7cd9b6e768",
+        "type": 2
+      },
+      {
+        "bubbleId": "0fa5088e-7871-40ef-ba94-1bd03862d0de",
+        "type": 2
+      },
+      {
+        "bubbleId": "c9fb60e5-80a6-455f-81b0-eaf2dc525b44",
+        "type": 2
+      },
+      {
+        "bubbleId": "e15c1085-d564-469f-aecf-eb24a0d8af46",
+        "type": 2
+      },
+      {
+        "bubbleId": "04ac51bd-ea45-460a-b7e4-0bbe756a82c9",
+        "type": 2,
+        "serverBubbleId": "27f876f5-140e-45da-bf76-c3ec9d3c67f0"
+      },
+      {
+        "bubbleId": "3b1c5b23-b14c-403b-8fc7-9a38c2ba8490",
+        "type": 2
+      },
+      {
+        "bubbleId": "3c17225c-6c83-4e9f-9165-4f5b97c0ada4",
+        "type": 2
+      },
+      {
+        "bubbleId": "c8d9133e-2a3c-4793-8257-6eb1250043d3",
+        "type": 2
+      },
+      {
+        "bubbleId": "7b0d5c3b-27e9-4fa2-a9b5-1f82a9ae4a9b",
+        "type": 2
+      },
+      {
+        "bubbleId": "32140a23-6137-4487-861d-bea620cc82ac",
+        "type": 2
+      },
+      {
+        "bubbleId": "ad02ef68-442b-4192-8d0a-39534d6ce411",
+        "type": 2
+      },
+      {
+        "bubbleId": "f6e6465a-8dea-4ea1-9bc3-8c73525009f6",
+        "type": 2
+      },
+      {
+        "bubbleId": "d1f4f118-6ff1-495f-a702-ac1956d97317",
+        "type": 2,
+        "serverBubbleId": "38e6e2d3-df1b-4328-9006-fa9d88cbe154"
+      },
+      {
+        "bubbleId": "635b6da0-2a9f-47f8-a86a-b4aa3010aff8",
+        "type": 2
+      },
+      {
+        "bubbleId": "d2b97e67-f52f-49f0-a986-b627536f0572",
+        "type": 2
+      },
+      {
+        "bubbleId": "729f8e55-ec8a-41bf-8409-48c29d30c554",
+        "type": 2
+      },
+      {
+        "bubbleId": "853c11e7-e1a7-4373-b8e4-d6c804f46c40",
+        "type": 2
+      },
+      {
+        "bubbleId": "f91fa4b4-d14a-4070-b3e3-606c8e45ef9b",
+        "type": 2
+      },
+      {
+        "bubbleId": "4b275b7f-c942-4a83-9218-5c3b26b2ae2a",
+        "type": 2,
+        "serverBubbleId": "d86b7046-e4fe-4f29-8ecd-c0b9313e0100"
+      },
+      {
+        "bubbleId": "4c7fcdf2-5051-422e-8129-0d58ca367676",
+        "type": 2
+      },
+      {
+        "bubbleId": "6886b5bd-0f98-45f9-9512-73195f1e4393",
+        "type": 2
+      },
+      {
+        "bubbleId": "46901dd8-63c8-46d4-a720-ece2f016d76b",
+        "type": 2
+      },
+      {
+        "bubbleId": "80ba0658-7c11-40c6-bf92-a4911ae17db2",
+        "type": 2
+      },
+      {
+        "bubbleId": "db5c7869-481a-4572-b91d-39e9cedc8a8f",
+        "type": 2,
+        "serverBubbleId": "621e27da-45ac-47a4-8f4a-da4a4c02a5f2"
+      },
+      {
+        "bubbleId": "b1c05dc9-6cd2-464b-9c03-8bd6c81c109f",
+        "type": 2
+      },
+      {
+        "bubbleId": "632767a6-4a15-4b1c-806e-2f67c99b9819",
+        "type": 1
+      },
+      {
+        "bubbleId": "cf6d3f91-b680-434a-a209-306243c30fdd",
+        "type": 2,
+        "serverBubbleId": "ef1b0e6b-92c2-4176-92a5-065957a93752"
+      },
+      {
+        "bubbleId": "1b9d5b8d-4757-4721-9d5f-47feaaba35bb",
+        "type": 2
+      },
+      {
+        "bubbleId": "2aaa1714-60b3-41e7-94e0-f84cca22a311",
+        "type": 2
+      },
+      {
+        "bubbleId": "b718e465-7af8-4335-bf37-9e8028ba583b",
+        "type": 2
+      },
+      {
+        "bubbleId": "171e24ab-68b1-4eb9-9eb6-1bf7372cdff8",
+        "type": 2
+      },
+      {
+        "bubbleId": "8331c776-df75-494c-a4fd-c91abb97756e",
+        "type": 2
+      },
+      {
+        "bubbleId": "a0b3e3db-04ed-44c1-8b0e-e063f6858284",
+        "type": 2
+      },
+      {
+        "bubbleId": "afe1a648-39f5-471a-b7de-f99a26e545fa",
+        "type": 2
+      },
+      {
+        "bubbleId": "bc2dfb46-3686-4939-bd41-3b070a576f12",
+        "type": 2,
+        "serverBubbleId": "2b067e2a-2ee1-4341-82c7-877a85df6805"
+      },
+      {
+        "bubbleId": "78f1a6da-da0b-4d90-9f63-d1219802f7d6",
+        "type": 2
+      },
+      {
+        "bubbleId": "afc83574-4318-45b7-831c-145eddcfe94b",
+        "type": 2
+      },
+      {
+        "bubbleId": "4e776702-698a-431c-bdf3-4154c9f66bde",
+        "type": 2
+      },
+      {
+        "bubbleId": "672958e3-b4fc-4e72-a0e0-0b33c42ed60e",
+        "type": 2
+      },
+      {
+        "bubbleId": "85b61f33-486e-410a-95de-bac8ed2dad97",
+        "type": 2
+      },
+      {
+        "bubbleId": "6e7545fa-0a1b-470f-ab72-6756faa743ba",
+        "type": 2
+      },
+      {
+        "bubbleId": "3ff8d031-ed5b-4317-9e03-0c70fee974a3",
+        "type": 2
+      },
+      {
+        "bubbleId": "dc461260-6da4-4888-9f72-e78c65cb7426",
+        "type": 1
+      },
+      {
+        "bubbleId": "adf06c33-9eee-4380-85d6-9844a6276792",
+        "type": 2,
+        "serverBubbleId": "6d234d5f-a605-4c1a-a51e-85aab8211848"
+      },
+      {
+        "bubbleId": "894f7b01-ad58-40d1-8a56-c788f7e69b40",
+        "type": 2
+      },
+      {
+        "bubbleId": "5e9c62fa-32cd-47c8-8df1-1e3a36bbe8d1",
+        "type": 2
+      },
+      {
+        "bubbleId": "ca425e03-2e00-4a41-bb51-3e5b00cb1abc",
+        "type": 2
+      },
+      {
+        "bubbleId": "526c8910-0c10-4909-9819-b84bae45fbab",
+        "type": 2
+      },
+      {
+        "bubbleId": "6ba20073-97da-468b-b80e-69ee6e3ee9bc",
+        "type": 2
+      },
+      {
+        "bubbleId": "ee504ca3-03bd-4ea6-8ee3-5704df00a87a",
+        "type": 2
+      },
+      {
+        "bubbleId": "e6c4f395-fcb8-436e-a9a7-eafb3d516c46",
+        "type": 1
+      },
+      {
+        "bubbleId": "610dd6d9-5869-4a81-af28-e1595a904c07",
+        "type": 2,
+        "serverBubbleId": "87af791d-af0e-45ab-a18e-7707d3d2e8b9"
+      },
+      {
+        "bubbleId": "8c7e72bd-63fd-493b-97b5-d37af21e0b86",
+        "type": 2
+      },
+      {
+        "bubbleId": "3f353783-0f06-4060-85f9-c6921c5ffc40",
+        "type": 2
+      },
+      {
+        "bubbleId": "1f3747f8-5d48-4a0d-99aa-d6f7639f3502",
+        "type": 2
+      },
+      {
+        "bubbleId": "fa672d23-2a83-404d-96c8-feadbaa0f867",
+        "type": 2
+      },
+      {
+        "bubbleId": "3a6b005d-0a5a-4051-977a-9b418b0b1f12",
+        "type": 2
+      },
+      {
+        "bubbleId": "730588fa-22b5-4c50-8079-250e2fa2156d",
+        "type": 2
+      },
+      {
+        "bubbleId": "67e160cb-957d-4bb6-ab74-b3b6e7e93bd3",
+        "type": 2,
+        "serverBubbleId": "455d6c0b-533f-44fd-9038-ccbab278094e"
+      },
+      {
+        "bubbleId": "66263f44-493a-4682-bf1d-9291e30ba418",
+        "type": 2
+      },
+      {
+        "bubbleId": "fb0b97d8-1a54-4462-b7b2-f7fc0e249f03",
+        "type": 2
+      },
+      {
+        "bubbleId": "f24446f5-db00-451c-ac87-133d468c3796",
+        "type": 2
+      },
+      {
+        "bubbleId": "54ee15be-a0b2-4442-a43b-49302218db57",
+        "type": 2
+      },
+      {
+        "bubbleId": "e77e85ac-7026-4ffe-971b-4b295d51cceb",
+        "type": 2,
+        "serverBubbleId": "3411ec4e-239b-4665-9953-bf4a8265cdc0"
+      },
+      {
+        "bubbleId": "9d0ba2db-9362-4cbe-80b6-769d68779ec4",
+        "type": 2
+      },
+      {
+        "bubbleId": "b90d53d6-77ec-460f-a77e-e5248265d8fe",
+        "type": 2
+      },
+      {
+        "bubbleId": "ec4401c2-7228-4dc6-a4dc-f74ea9c6e0f6",
+        "type": 2
+      },
+      {
+        "bubbleId": "663c7fa5-7286-4139-ae71-14b510739dcd",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "aborted",
+    "context": {
+      "composers": [],
+      "quotes": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "ideEditorsState": true,
+      "gitPRDiffSelections": [],
+      "mentions": {
+        "composers": {},
+        "quotes": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "useWeb": [],
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {},
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "useLinterErrors": [],
+        "useDiffReview": [],
+        "useGenerateRules": [],
+        "useContextPicking": [],
+        "useRememberThis": [],
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "autoContext": [],
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {}
+      }
+    },
+    "gitGraphFileSuggestions": [],
+    "generatingBubbleIds": [],
+    "chatGenerationUUID": "7ed9f92c-e08a-470c-910f-186114969183",
+    "isReadingLongFile": false,
+    "codeBlockData": {
+      "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py": {
+        "76c962d2-f8f6-41e7-a724-787241da4fa7": {
+          "_v": 3,
+          "bubbleId": "7a648799-47bf-4c5c-8e52-9ff1d24cf432",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\recover_cursor_chats.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py",
+            "path": "/c:/Users/pc/Desktop/recover_cursor_chats.py",
+            "scheme": "file"
+          },
+          "codeblockId": "76c962d2-f8f6-41e7-a724-787241da4fa7",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767854653965,
+          "composerChatGenerationUuid": "1ffc2e70-5f49-49df-bb27-9ce9eb30f2d0",
+          "diffId": "4d4e3f77-10db-4a8a-a6d4-0928815d73ff",
+          "lastDiffId": "95631932-366d-4118-a1d9-27599525675b",
+          "lastAppliedAt": 1767854667062
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/inspect_cursor_db.py": {
+        "2825535e-8b9f-4505-8391-248d7282513f": {
+          "_v": 3,
+          "bubbleId": "2a4518ca-2529-4c69-a34d-3e3d7c81ac98",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\inspect_cursor_db.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/inspect_cursor_db.py",
+            "path": "/c:/Users/pc/Desktop/inspect_cursor_db.py",
+            "scheme": "file"
+          },
+          "codeblockId": "2825535e-8b9f-4505-8391-248d7282513f",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767854677696,
+          "composerChatGenerationUuid": "1ffc2e70-5f49-49df-bb27-9ce9eb30f2d0",
+          "diffId": "6205f388-8079-45a9-97f8-34e0685316b2",
+          "lastDiffId": "d6731958-51a8-4e99-a0ed-141138960f54",
+          "lastAppliedAt": 1767854686425
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/extract_cursor_chats.py": {
+        "92cc1e6d-e307-44fd-8046-190d5555e1c2": {
+          "_v": 3,
+          "bubbleId": "56b7907e-93c8-4e3c-bd4d-f74e21bb0519",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\extract_cursor_chats.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/extract_cursor_chats.py",
+            "path": "/c:/Users/pc/Desktop/extract_cursor_chats.py",
+            "scheme": "file"
+          },
+          "codeblockId": "92cc1e6d-e307-44fd-8046-190d5555e1c2",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767854696545,
+          "composerChatGenerationUuid": "1ffc2e70-5f49-49df-bb27-9ce9eb30f2d0",
+          "diffId": "ca5d207f-8bd4-4de2-8abf-fe234573a560",
+          "lastDiffId": "1377b8cd-550a-457f-82ba-c185a3c889b6",
+          "lastAppliedAt": 1767854717262
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/deep_extract_chats.py": {
+        "123ded98-0b31-4b7c-9e15-476878a955a4": {
+          "_v": 3,
+          "bubbleId": "8f1e2e79-6d5b-43d0-be5b-e52dcf12327e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\deep_extract_chats.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/deep_extract_chats.py",
+            "path": "/c:/Users/pc/Desktop/deep_extract_chats.py",
+            "scheme": "file"
+          },
+          "codeblockId": "123ded98-0b31-4b7c-9e15-476878a955a4",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767854727933,
+          "composerChatGenerationUuid": "1ffc2e70-5f49-49df-bb27-9ce9eb30f2d0",
+          "diffId": "a1e3db6b-6e70-492c-9fd3-ee8b3da03578",
+          "lastDiffId": "0131810c-159c-4c5f-bcb8-a05a69bb7914",
+          "lastAppliedAt": 1767854743941
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/CHAT_RECOVERY_SUMMARY.md": {
+        "bef52edd-4449-494b-a14a-de087c1f3bf2": {
+          "_v": 3,
+          "bubbleId": "acc593ba-5e4d-496e-bae3-8b56307d80ec",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\CHAT_RECOVERY_SUMMARY.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/CHAT_RECOVERY_SUMMARY.md",
+            "path": "/c:/Users/pc/Desktop/CHAT_RECOVERY_SUMMARY.md",
+            "scheme": "file"
+          },
+          "codeblockId": "bef52edd-4449-494b-a14a-de087c1f3bf2",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767854766500,
+          "composerChatGenerationUuid": "1ffc2e70-5f49-49df-bb27-9ce9eb30f2d0",
+          "diffId": "150254bb-9948-411e-96e5-cf8a28efbe27",
+          "lastDiffId": "4c53969b-1b61-46af-b07c-71643dd07f44",
+          "lastAppliedAt": 1767854775807
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/recover_all_cursor_data.bat": {
+        "91f546b9-039f-4fd9-b2ca-3ae057ec14e8": {
+          "_v": 3,
+          "bubbleId": "9688a2a1-c196-4f8c-9b12-0489d2468309",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\recover_all_cursor_data.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/recover_all_cursor_data.bat",
+            "path": "/c:/Users/pc/Desktop/recover_all_cursor_data.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "91f546b9-039f-4fd9-b2ca-3ae057ec14e8",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767854786793,
+          "composerChatGenerationUuid": "1ffc2e70-5f49-49df-bb27-9ce9eb30f2d0",
+          "diffId": "0462d223-1815-4790-b451-a98034bab87a",
+          "lastDiffId": "bec2bd63-955f-48d6-866f-8c1cdc7d255e",
+          "lastAppliedAt": 1767854793441
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/extract_specific_chats.py": {
+        "0d740842-a19f-4f55-9e31-9d99711a1dcb": {
+          "_v": 3,
+          "bubbleId": "16593eec-ef62-4e62-862d-34d6f664ea29",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\extract_specific_chats.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/extract_specific_chats.py",
+            "path": "/c:/Users/pc/Desktop/extract_specific_chats.py",
+            "scheme": "file"
+          },
+          "codeblockId": "0d740842-a19f-4f55-9e31-9d99711a1dcb",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767855405023,
+          "composerChatGenerationUuid": "6c6181f9-16c8-4f55-bfd8-a6257c3a3dcd",
+          "diffId": "dad9b0dd-ca65-43d8-aa65-ed5694188c94",
+          "lastDiffId": "93c18fc2-8833-45c8-9f52-0fe8d294077a",
+          "lastAppliedAt": 1767855420198
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/reconstruct_conversations.py": {
+        "c829c93d-d370-4299-940d-47507dba169e": {
+          "_v": 3,
+          "bubbleId": "cb851f0e-ac60-45fe-881f-80bf282428a0",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\reconstruct_conversations.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/reconstruct_conversations.py",
+            "path": "/c:/Users/pc/Desktop/reconstruct_conversations.py",
+            "scheme": "file"
+          },
+          "codeblockId": "c829c93d-d370-4299-940d-47507dba169e",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767855431782,
+          "composerChatGenerationUuid": "6c6181f9-16c8-4f55-bfd8-a6257c3a3dcd",
+          "diffId": "bbccde95-52c3-4cdd-b194-b6bc20a96730",
+          "lastDiffId": "98e3a883-92dd-4244-a4a9-58010ce62f72",
+          "lastAppliedAt": 1767855446451
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/OPEN_RECOVERED_CHATS.md": {
+        "d27d1ab8-df8c-460d-837c-caebaeeef134": {
+          "_v": 3,
+          "bubbleId": "710eaaf0-9dc2-4741-b0c0-8012e9ab348f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\OPEN_RECOVERED_CHATS.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/OPEN_RECOVERED_CHATS.md",
+            "path": "/c:/Users/pc/Desktop/OPEN_RECOVERED_CHATS.md",
+            "scheme": "file"
+          },
+          "codeblockId": "d27d1ab8-df8c-460d-837c-caebaeeef134",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767855458630,
+          "composerChatGenerationUuid": "6c6181f9-16c8-4f55-bfd8-a6257c3a3dcd",
+          "diffId": "6c234442-74e9-40de-ab14-e9739272cbc0",
+          "lastDiffId": "76bd8a9b-c42d-420b-b0f7-77cdcf4e1c90",
+          "lastAppliedAt": 1767855468233
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/recover_specific_chats.py": {
+        "78e92da4-3e8a-4bc4-b129-aa847d0d8dff": {
+          "_v": 3,
+          "bubbleId": "7a66346a-82b6-486e-beeb-f28763f77da7",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\recover_specific_chats.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/recover_specific_chats.py",
+            "path": "/c:/Users/pc/Desktop/recover_specific_chats.py",
+            "scheme": "file"
+          },
+          "codeblockId": "78e92da4-3e8a-4bc4-b129-aa847d0d8dff",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767855765379,
+          "composerChatGenerationUuid": "d0664c4e-f8f2-4229-b32c-5aa63f02be0a",
+          "diffId": "152868af-8c66-4342-b8ea-987cc3d81d89",
+          "lastDiffId": "7167062c-a58f-4bff-856e-f20d9ccfbf46",
+          "lastAppliedAt": 1767855778274
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/find_all_conversation_titles.py": {
+        "04081965-c165-43da-b9df-e612ced01709": {
+          "_v": 3,
+          "bubbleId": "8319f929-752b-451a-872d-af107afbc097",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\find_all_conversation_titles.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/find_all_conversation_titles.py",
+            "path": "/c:/Users/pc/Desktop/find_all_conversation_titles.py",
+            "scheme": "file"
+          },
+          "codeblockId": "04081965-c165-43da-b9df-e612ced01709",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767855788690,
+          "composerChatGenerationUuid": "d0664c4e-f8f2-4229-b32c-5aa63f02be0a",
+          "diffId": "62283844-c4ee-430d-a369-4929c28e52a2",
+          "lastDiffId": "51f2c09c-174b-4f2d-a9ca-b723350157d9",
+          "lastAppliedAt": 1767855798646
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/extract_all_workspace_conversations.py": {
+        "87e2102b-365a-4093-9a76-95ba892c966e": {
+          "_v": 3,
+          "bubbleId": "b9d0c750-bf68-4f9f-b7be-0a8b5f0ad883",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\extract_all_workspace_conversations.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/extract_all_workspace_conversations.py",
+            "path": "/c:/Users/pc/Desktop/extract_all_workspace_conversations.py",
+            "scheme": "file"
+          },
+          "codeblockId": "87e2102b-365a-4093-9a76-95ba892c966e",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767855817105,
+          "composerChatGenerationUuid": "d0664c4e-f8f2-4229-b32c-5aa63f02be0a",
+          "diffId": "86f00200-c58f-4776-bdae-abea9a36bc4f",
+          "lastDiffId": "0d1b8d89-242a-454b-87ec-0d21d781ee24",
+          "lastAppliedAt": 1767855827225
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/recover_frappe_fqc5.py": {
+        "df164b2d-b634-487e-a22b-c12550ccb636": {
+          "_v": 3,
+          "bubbleId": "00a8e446-7ecc-4a88-a1f3-bae343c51e20",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\recover_frappe_fqc5.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/recover_frappe_fqc5.py",
+            "path": "/c:/Users/pc/Desktop/recover_frappe_fqc5.py",
+            "scheme": "file"
+          },
+          "codeblockId": "df164b2d-b634-487e-a22b-c12550ccb636",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767855836503,
+          "composerChatGenerationUuid": "d0664c4e-f8f2-4229-b32c-5aa63f02be0a",
+          "diffId": "e0c04051-0db2-4e6a-bebc-e5a6acc6c949",
+          "lastDiffId": "d5638759-2fbd-469b-aa75-b4fbd03c4b1f",
+          "lastAppliedAt": 1767855849896
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/final_recovery_attempt.py": {
+        "73b7c21b-59c1-423b-8e8b-0ec8301e5302": {
+          "_v": 3,
+          "bubbleId": "03ae0b7e-f359-4a54-a6fd-684e925992fd",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\final_recovery_attempt.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/final_recovery_attempt.py",
+            "path": "/c:/Users/pc/Desktop/final_recovery_attempt.py",
+            "scheme": "file"
+          },
+          "codeblockId": "73b7c21b-59c1-423b-8e8b-0ec8301e5302",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767855876396,
+          "composerChatGenerationUuid": "d0664c4e-f8f2-4229-b32c-5aa63f02be0a",
+          "diffId": "e74ff502-9766-4821-b88d-500b98a8d525",
+          "lastDiffId": "2484ea01-3d8b-471b-a894-d50b0c049fb5",
+          "lastAppliedAt": 1767855887805
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md": {
+        "c1c963b2-e08a-4443-860e-c69c7a3e23a2": {
+          "_v": 3,
+          "bubbleId": "70912079-a0b6-4c75-86ea-359d4eadd9bb",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+            "path": "/c:/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+            "scheme": "file"
+          },
+          "codeblockId": "c1c963b2-e08a-4443-860e-c69c7a3e23a2",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767855897776,
+          "composerChatGenerationUuid": "d0664c4e-f8f2-4229-b32c-5aa63f02be0a",
+          "diffId": "df2cd346-db1c-4301-9af3-9270f2903a5c",
+          "lastDiffId": "927777e6-6f2d-4d09-979e-12e79caa3634",
+          "lastAppliedAt": 1767855906407
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/export_full_conversations.py": {
+        "7af0b5bf-4676-4015-ad0a-39ce87aa8f6e": {
+          "_v": 3,
+          "bubbleId": "762409a1-47d7-418b-966f-87f2f5ea3c89",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\export_full_conversations.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/export_full_conversations.py",
+            "path": "/c:/Users/pc/Desktop/export_full_conversations.py",
+            "scheme": "file"
+          },
+          "codeblockId": "7af0b5bf-4676-4015-ad0a-39ce87aa8f6e",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857169485,
+          "composerChatGenerationUuid": "77bd2dc6-0f79-48a8-a753-b12640e55304",
+          "diffId": "596ca514-d085-4e9e-91d4-1b8a09bac10b",
+          "lastDiffId": "1f3ca523-5a66-435c-ad10-0710f66833d2",
+          "lastAppliedAt": 1767857189589
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/export_complete_from_database.py": {
+        "f088e135-adcc-4a3d-ab85-023c6f9ee82c": {
+          "_v": 3,
+          "bubbleId": "ed7568b0-555a-4505-882c-3040e1acd560",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\export_complete_from_database.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/export_complete_from_database.py",
+            "path": "/c:/Users/pc/Desktop/export_complete_from_database.py",
+            "scheme": "file"
+          },
+          "codeblockId": "f088e135-adcc-4a3d-ab85-023c6f9ee82c",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857198889,
+          "composerChatGenerationUuid": "77bd2dc6-0f79-48a8-a753-b12640e55304",
+          "diffId": "2008418b-06cb-4d9c-b2a6-aa47c3c973ff",
+          "lastDiffId": "853e216c-0945-4a18-8799-34741bf06481",
+          "lastAppliedAt": 1767857219305
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/EXPORT_COMPLETE_SUMMARY.md": {
+        "adaf9b7b-027d-4a7d-bdcc-fb457511914a": {
+          "_v": 3,
+          "bubbleId": "e73d1fa7-63e4-48b0-a538-7fd81205b5c2",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\EXPORT_COMPLETE_SUMMARY.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/EXPORT_COMPLETE_SUMMARY.md",
+            "path": "/c:/Users/pc/Desktop/EXPORT_COMPLETE_SUMMARY.md",
+            "scheme": "file"
+          },
+          "codeblockId": "adaf9b7b-027d-4a7d-bdcc-fb457511914a",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857227651,
+          "composerChatGenerationUuid": "77bd2dc6-0f79-48a8-a753-b12640e55304",
+          "diffId": "030c1ada-5442-4c55-b97c-79ada4b6d79e",
+          "lastDiffId": "a6c0ccbe-9693-4def-92a7-214e31a22d25",
+          "lastAppliedAt": 1767857237843
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/extract_toolformer_data.py": {
+        "1bc2a301-029b-4eca-bf3e-8b9113408158": {
+          "_v": 3,
+          "bubbleId": "41b6a441-68cf-4105-9f89-7da5e56c9d3f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\extract_toolformer_data.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/extract_toolformer_data.py",
+            "path": "/c:/Users/pc/Desktop/extract_toolformer_data.py",
+            "scheme": "file"
+          },
+          "codeblockId": "1bc2a301-029b-4eca-bf3e-8b9113408158",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857243128,
+          "composerChatGenerationUuid": "77bd2dc6-0f79-48a8-a753-b12640e55304",
+          "diffId": "959539ac-55ac-4fec-ba5f-55257aad7c4f",
+          "lastDiffId": "b51a9d4b-6133-438f-807c-06d2a981d697",
+          "lastAppliedAt": 1767857259938
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/setup_auto_backup_cursor_chats.bat": {
+        "8d22a355-5d13-401d-8a96-4a7e83b5ac04": {
+          "_v": 3,
+          "bubbleId": "51493639-e5f4-4f93-8929-fc0c00cda1f4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\setup_auto_backup_cursor_chats.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/setup_auto_backup_cursor_chats.bat",
+            "path": "/c:/Users/pc/Desktop/setup_auto_backup_cursor_chats.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "8d22a355-5d13-401d-8a96-4a7e83b5ac04",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857521293,
+          "composerChatGenerationUuid": "9ffae220-e3f7-4358-a91e-8a2cf5a746bc",
+          "diffId": "89cf6679-a2b7-4431-b3fe-f1b747ea0c5d",
+          "lastDiffId": "5ad69889-690e-4d83-a13c-ecb0b6be4384",
+          "lastAppliedAt": 1767857530579
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/INSTALL_SPECSTORY.md": {
+        "512f4638-4d5a-4bfb-aa64-27f928579f18": {
+          "_v": 3,
+          "bubbleId": "87037ace-ec47-4bf4-b0b8-c840fb3b9432",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\INSTALL_SPECSTORY.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/INSTALL_SPECSTORY.md",
+            "path": "/c:/Users/pc/Desktop/INSTALL_SPECSTORY.md",
+            "scheme": "file"
+          },
+          "codeblockId": "512f4638-4d5a-4bfb-aa64-27f928579f18",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857534041,
+          "composerChatGenerationUuid": "9ffae220-e3f7-4358-a91e-8a2cf5a746bc",
+          "diffId": "f13c06db-0eac-40ee-9cbf-b1810972f69b",
+          "lastDiffId": "55dd5003-b54b-4661-85df-47a20fc2a876",
+          "lastAppliedAt": 1767857541017
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/setup_git_auto_backup.ps1": {
+        "c64ea206-0445-4474-a3c8-8a11dc072d1e": {
+          "_v": 3,
+          "bubbleId": "8e866302-0904-4232-a0e0-ee62013dac91",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\setup_git_auto_backup.ps1",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/setup_git_auto_backup.ps1",
+            "path": "/c:/Users/pc/Desktop/setup_git_auto_backup.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "c64ea206-0445-4474-a3c8-8a11dc072d1e",
+          "status": "completed",
+          "languageId": "powershell",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857544219,
+          "composerChatGenerationUuid": "9ffae220-e3f7-4358-a91e-8a2cf5a746bc",
+          "diffId": "e112f473-4858-47fd-9121-501a82cea62f",
+          "lastDiffId": "f118278d-8400-4ca3-b8f3-2a5c207e1b23",
+          "lastAppliedAt": 1767857551586
+        },
+        "b8c460a9-6696-4d52-8609-883dee96ce98": {
+          "_v": 3,
+          "bubbleId": "9d94474d-534f-402f-9269-5957e0a4572e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\setup_git_auto_backup.ps1",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/setup_git_auto_backup.ps1",
+            "path": "/c:/Users/pc/Desktop/setup_git_auto_backup.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "b8c460a9-6696-4d52-8609-883dee96ce98",
+          "status": "completed",
+          "languageId": "powershell",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "c64ea206-0445-4474-a3c8-8a11dc072d1e",
+            "composerId": "11b622ee-1cd8-478e-89c0-a5e470f25415"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857570751,
+          "composerChatGenerationUuid": "9ffae220-e3f7-4358-a91e-8a2cf5a746bc",
+          "diffId": "6cb0a5fd-05a3-433f-be02-76cff7baadd6",
+          "lastDiffId": "e7c1966f-94ef-4ecb-873c-4d6d142e1209",
+          "lastAppliedAt": 1767857580504
+        },
+        "1b96ba27-e223-487e-a242-3807fcf88587": {
+          "_v": 3,
+          "bubbleId": "e28a44cb-fae7-412b-a3ca-91465af3acf1",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\setup_git_auto_backup.ps1",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/setup_git_auto_backup.ps1",
+            "path": "/c:/Users/pc/Desktop/setup_git_auto_backup.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "1b96ba27-e223-487e-a242-3807fcf88587",
+          "status": "completed",
+          "languageId": "powershell",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "b8c460a9-6696-4d52-8609-883dee96ce98",
+            "composerId": "11b622ee-1cd8-478e-89c0-a5e470f25415"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857588937,
+          "composerChatGenerationUuid": "9ffae220-e3f7-4358-a91e-8a2cf5a746bc",
+          "diffId": "a6da6db4-2bf5-4262-a159-4e7f6ff38a97",
+          "lastDiffId": "f4528fdf-b986-41a1-b6fe-3d3696e57efa",
+          "lastAppliedAt": 1767857598853
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/AUTO_BACKUP_SETUP_GUIDE.md": {
+        "daacdf3c-ee72-4c98-b506-d7cf8f4220f0": {
+          "_v": 3,
+          "bubbleId": "3b67d546-292b-4190-af41-da836c61c290",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\AUTO_BACKUP_SETUP_GUIDE.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/AUTO_BACKUP_SETUP_GUIDE.md",
+            "path": "/c:/Users/pc/Desktop/AUTO_BACKUP_SETUP_GUIDE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "daacdf3c-ee72-4c98-b506-d7cf8f4220f0",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857554765,
+          "composerChatGenerationUuid": "9ffae220-e3f7-4358-a91e-8a2cf5a746bc",
+          "diffId": "b19c381f-b722-4ca9-a1d3-8187537c4598",
+          "lastDiffId": "96089489-166b-4575-8f1d-78f40968ea4d",
+          "lastAppliedAt": 1767857561797
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/QUICK_SETUP_AUTO_BACKUP.bat": {
+        "5bc32b19-d798-4b42-beac-98ba752b5560": {
+          "_v": 3,
+          "bubbleId": "37fd21a0-e2c2-4b28-8edd-53b4e2de94f7",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\QUICK_SETUP_AUTO_BACKUP.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/QUICK_SETUP_AUTO_BACKUP.bat",
+            "path": "/c:/Users/pc/Desktop/QUICK_SETUP_AUTO_BACKUP.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "5bc32b19-d798-4b42-beac-98ba752b5560",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857607189,
+          "composerChatGenerationUuid": "9ffae220-e3f7-4358-a91e-8a2cf5a746bc",
+          "diffId": "b63ef8dc-ad78-4a81-9231-116367b22218",
+          "lastDiffId": "b32f9f2e-2af9-4434-b515-6781451fc629",
+          "lastAppliedAt": 1767857617815
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/START_HERE_AUTO_BACKUP.md": {
+        "051e3aee-0523-4f43-8620-95cdf573f6fb": {
+          "_v": 3,
+          "bubbleId": "b5c1c8c2-d634-4a51-b99c-2abca8d178bb",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\START_HERE_AUTO_BACKUP.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/START_HERE_AUTO_BACKUP.md",
+            "path": "/c:/Users/pc/Desktop/START_HERE_AUTO_BACKUP.md",
+            "scheme": "file"
+          },
+          "codeblockId": "051e3aee-0523-4f43-8620-95cdf573f6fb",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767857641919,
+          "composerChatGenerationUuid": "9ffae220-e3f7-4358-a91e-8a2cf5a746bc",
+          "diffId": "b620aec7-bb38-46cd-9536-acf68a43af89",
+          "lastDiffId": "fa59ff5e-6024-43fb-a73d-01f738a0ca81",
+          "lastAppliedAt": 1767857654660
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/verify_backup_system.bat": {
+        "78ae7d1c-d92e-4281-88ae-7db8ef16e1cc": {
+          "_v": 3,
+          "bubbleId": "9c733047-d656-42b5-960d-cbb3fe88394b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\verify_backup_system.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/verify_backup_system.bat",
+            "path": "/c:/Users/pc/Desktop/verify_backup_system.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "78ae7d1c-d92e-4281-88ae-7db8ef16e1cc",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767858904122,
+          "composerChatGenerationUuid": "4ebf3454-d713-4452-a38f-598677c97d87",
+          "diffId": "0d77a268-8055-41ec-a3ec-e9fea2138944",
+          "lastDiffId": "448b5d00-7ad3-4fb4-bc67-0d2f97c8307e",
+          "lastAppliedAt": 1767858913625
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/fix_and_verify_backup.bat": {
+        "bf2c4dad-ddeb-4692-9d05-1541dc3a7d84": {
+          "_v": 3,
+          "bubbleId": "1bc5654f-db5e-4100-bd92-087eaadf37dc",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\fix_and_verify_backup.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/fix_and_verify_backup.bat",
+            "path": "/c:/Users/pc/Desktop/fix_and_verify_backup.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "bf2c4dad-ddeb-4692-9d05-1541dc3a7d84",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767858922024,
+          "composerChatGenerationUuid": "4ebf3454-d713-4452-a38f-598677c97d87",
+          "diffId": "b5af18e7-f73b-4460-aa9a-6cad475619c4",
+          "lastDiffId": "e6770df8-61d4-481e-b53b-f3017daa153e",
+          "lastAppliedAt": 1767858933067
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/create_auto_backup_script.bat": {
+        "795e736f-9ce1-4d54-a2b9-92f144a15889": {
+          "_v": 3,
+          "bubbleId": "221a1ad5-f21b-4cf0-b6f7-7f0702e6d81b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\create_auto_backup_script.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/create_auto_backup_script.bat",
+            "path": "/c:/Users/pc/Desktop/create_auto_backup_script.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "795e736f-9ce1-4d54-a2b9-92f144a15889",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767858948302,
+          "composerChatGenerationUuid": "4ebf3454-d713-4452-a38f-598677c97d87",
+          "diffId": "a300f2ca-46eb-46aa-aad9-7614e7d3ccdd",
+          "lastDiffId": "e383dc35-4349-4bfc-b1ad-dd7a6a107f7a",
+          "lastAppliedAt": 1767858955436
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/verify_all_components.ps1": {
+        "df4956fc-a406-4ccd-b220-cbfaf3cfcfe6": {
+          "_v": 3,
+          "bubbleId": "5a4fe6b6-0706-4452-8220-9c3720ac8cfb",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\verify_all_components.ps1",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/verify_all_components.ps1",
+            "path": "/c:/Users/pc/Desktop/verify_all_components.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "df4956fc-a406-4ccd-b220-cbfaf3cfcfe6",
+          "status": "completed",
+          "languageId": "powershell",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767858973728,
+          "composerChatGenerationUuid": "4ebf3454-d713-4452-a38f-598677c97d87",
+          "diffId": "2d50be7e-5828-49a5-b5f9-927ba563b710",
+          "lastDiffId": "12f88881-988f-4ed6-8e8b-d1ded9734682",
+          "lastAppliedAt": 1767858989054
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/CHECK_BACKUP_STATUS.bat": {
+        "bc0a39f8-53be-4d64-8f87-89f03aad3377": {
+          "_v": 3,
+          "bubbleId": "52dc8909-cf9f-4896-b29a-ae170c6f0e04",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\CHECK_BACKUP_STATUS.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/CHECK_BACKUP_STATUS.bat",
+            "path": "/c:/Users/pc/Desktop/CHECK_BACKUP_STATUS.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "bc0a39f8-53be-4d64-8f87-89f03aad3377",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767859000011,
+          "composerChatGenerationUuid": "4ebf3454-d713-4452-a38f-598677c97d87",
+          "diffId": "0bdd5fd0-ce6f-47c7-8af3-0f2c084156d4",
+          "lastDiffId": "0fc75120-f327-4e82-a5f5-9f5003c90bd2",
+          "lastAppliedAt": 1767859010106
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat": {
+        "3aebd947-8943-4698-9f09-5fb3f1d6fea9": {
+          "_v": 3,
+          "bubbleId": "ca97ec94-5b4d-4ec0-9bb0-4347e20a9654",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\auto-backup.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "3aebd947-8943-4698-9f09-5fb3f1d6fea9",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767859034363,
+          "composerChatGenerationUuid": "4ebf3454-d713-4452-a38f-598677c97d87",
+          "diffId": "31b1f7f1-a3b4-49a6-a370-43928b25358e",
+          "lastDiffId": "1c0526b8-f03c-4d4e-89c6-51c2223cf79f",
+          "lastAppliedAt": 1767859044313
+        },
+        "dc71a233-e428-45cb-8dc2-e630d87820e8": {
+          "_v": 3,
+          "bubbleId": "5887875b-088b-4d08-8ef7-86f0e916eaa4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\auto-backup.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "dc71a233-e428-45cb-8dc2-e630d87820e8",
+          "status": "completed",
+          "languageId": "bat",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "3aebd947-8943-4698-9f09-5fb3f1d6fea9",
+            "composerId": "11b622ee-1cd8-478e-89c0-a5e470f25415"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767860961414,
+          "composerChatGenerationUuid": "b88d4f24-dbbd-4f68-94a7-7348d0e87cde",
+          "diffId": "2f70ac9d-46d8-4084-adaa-a9d548f4c14d",
+          "lastDiffId": "92e6ee8e-1f83-404b-8309-b319f610b812",
+          "lastAppliedAt": 1767860971161
+        },
+        "22e70404-6f5a-4d3f-8ce8-57b7de73e52f": {
+          "_v": 3,
+          "bubbleId": "3c17225c-6c83-4e9f-9165-4f5b97c0ada4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\auto-backup.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "22e70404-6f5a-4d3f-8ce8-57b7de73e52f",
+          "status": "aborted",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767866370692,
+          "composerChatGenerationUuid": "10ba5fed-6b91-4863-8c7d-528a223b9644"
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat": {
+        "d2605b36-01a1-4ccf-9e63-391b39338f72": {
+          "_v": 3,
+          "bubbleId": "bdc10528-845d-4f95-a769-42ed42a14dfe",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\create_scheduled_task.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
+            "path": "/c:/Users/pc/Desktop/create_scheduled_task.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "d2605b36-01a1-4ccf-9e63-391b39338f72",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767860041512,
+          "composerChatGenerationUuid": "3f2b6399-f289-4078-bf41-88c0c2acebec",
+          "diffId": "365cee95-29b3-4d3b-a952-da2ad66a7748",
+          "lastDiffId": "42c0ac09-46a9-4f49-9b15-b94250c8b996",
+          "lastAppliedAt": 1767860048685
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/FINAL_STATUS_REPORT.md": {
+        "636b8077-33eb-4937-8bdf-33828af7d61e": {
+          "_v": 3,
+          "bubbleId": "0bf8c8f9-8ac5-4281-b770-10adcc7787dd",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\FINAL_STATUS_REPORT.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/FINAL_STATUS_REPORT.md",
+            "path": "/c:/Users/pc/Desktop/FINAL_STATUS_REPORT.md",
+            "scheme": "file"
+          },
+          "codeblockId": "636b8077-33eb-4937-8bdf-33828af7d61e",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767860079501,
+          "composerChatGenerationUuid": "3f2b6399-f289-4078-bf41-88c0c2acebec",
+          "diffId": "5b597086-066c-41b6-b755-2b3eb7fabba9",
+          "lastDiffId": "7efde3e0-44cc-4952-9f93-b3ee91729376",
+          "lastAppliedAt": 1767860087307
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/QUICK_VERIFY.bat": {
+        "d71258fb-02fc-4178-a03d-76503e46931a": {
+          "_v": 3,
+          "bubbleId": "c033565d-d475-4bb3-8b17-e7b240493dad",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\QUICK_VERIFY.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/QUICK_VERIFY.bat",
+            "path": "/c:/Users/pc/Desktop/QUICK_VERIFY.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "d71258fb-02fc-4178-a03d-76503e46931a",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767860782782,
+          "composerChatGenerationUuid": "b88d4f24-dbbd-4f68-94a7-7348d0e87cde",
+          "diffId": "1a4a5c50-fbda-46fb-af8f-94d114af8f80",
+          "lastDiffId": "bae0fefc-e0d5-4578-9873-69aaf9ffba25",
+          "lastAppliedAt": 1767860790091
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md": {
+        "a294aa00-01cb-4032-92c0-13e82b30ceb0": {
+          "_v": 3,
+          "bubbleId": "359342a3-a730-47ea-b180-2db911401c88",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\SYSTEM_STATUS_FINAL.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md",
+            "path": "/c:/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md",
+            "scheme": "file"
+          },
+          "codeblockId": "a294aa00-01cb-4032-92c0-13e82b30ceb0",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767860851150,
+          "composerChatGenerationUuid": "b88d4f24-dbbd-4f68-94a7-7348d0e87cde",
+          "diffId": "98a7338e-a73d-4ce4-9efa-952bd889e011",
+          "lastDiffId": "5f70a9fb-2c56-416d-baec-4ffddaaae7eb",
+          "lastAppliedAt": 1767860859061
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/.gitignore": {
+        "b90cebd0-b63b-4442-b137-c50c650f07ed": {
+          "_v": 3,
+          "bubbleId": "5c0e57d6-1a0d-46ac-ae71-8d8bfe6fa708",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\.gitignore",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/.gitignore",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/.gitignore",
+            "scheme": "file"
+          },
+          "codeblockId": "b90cebd0-b63b-4442-b137-c50c650f07ed",
+          "status": "completed",
+          "languageId": "ignore",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767860900397,
+          "composerChatGenerationUuid": "b88d4f24-dbbd-4f68-94a7-7348d0e87cde",
+          "diffId": "f0785845-f718-4f17-888c-302af58980d5",
+          "lastDiffId": "6a3f7128-5002-4719-8656-b311f85583e8",
+          "lastAppliedAt": 1767860906945
+        },
+        "bb0e238b-1b79-49e5-bb8a-60db8f66990f": {
+          "_v": 3,
+          "bubbleId": "1a307d8d-e1d6-498f-bb89-63d695cb701f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\.gitignore",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/.gitignore",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/.gitignore",
+            "scheme": "file"
+          },
+          "codeblockId": "bb0e238b-1b79-49e5-bb8a-60db8f66990f",
+          "status": "completed",
+          "languageId": "ignore",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "b90cebd0-b63b-4442-b137-c50c650f07ed",
+            "composerId": "11b622ee-1cd8-478e-89c0-a5e470f25415"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767861069208,
+          "composerChatGenerationUuid": "b88d4f24-dbbd-4f68-94a7-7348d0e87cde",
+          "diffId": "23adddad-066e-4815-a9e3-4d6116a93332",
+          "lastDiffId": "3ec10ae2-ad05-43e9-bb18-addc6f2a2093",
+          "lastAppliedAt": 1767861078830
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/BACKUP_SYSTEM_COMPLETE.md": {
+        "a8f3b481-b50e-4af9-ad82-87085eac78f7": {
+          "_v": 3,
+          "bubbleId": "2108b43a-32b8-419b-87b1-81d7b3cda942",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\BACKUP_SYSTEM_COMPLETE.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/BACKUP_SYSTEM_COMPLETE.md",
+            "path": "/c:/Users/pc/Desktop/BACKUP_SYSTEM_COMPLETE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "a8f3b481-b50e-4af9-ad82-87085eac78f7",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767861029259,
+          "composerChatGenerationUuid": "b88d4f24-dbbd-4f68-94a7-7348d0e87cde",
+          "diffId": "fab7f0e3-17a6-4a61-8a03-8e0d8373e453",
+          "lastDiffId": "1ff92ea8-500b-446e-afb1-cb5ac730a796",
+          "lastAppliedAt": 1767861036172
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/FINAL_STATUS.md": {
+        "a40ebe0e-6947-4c11-9476-107096954f0c": {
+          "_v": 3,
+          "bubbleId": "4a563e95-bb91-42fc-8d3a-8c872f2c7d94",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\FINAL_STATUS.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/FINAL_STATUS.md",
+            "path": "/c:/Users/pc/Desktop/FINAL_STATUS.md",
+            "scheme": "file"
+          },
+          "codeblockId": "a40ebe0e-6947-4c11-9476-107096954f0c",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767861048737,
+          "composerChatGenerationUuid": "b88d4f24-dbbd-4f68-94a7-7348d0e87cde",
+          "diffId": "8014e34f-6d0a-4e04-860b-c2c94cc71c36",
+          "lastDiffId": "f2047ebd-9edd-4884-9e91-69002df8b68a",
+          "lastAppliedAt": 1767861055472
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/VERIFICATION_COMPLETE.md": {
+        "59d56687-66b8-4491-9a00-d656aebc860e": {
+          "_v": 3,
+          "bubbleId": "d74f635c-4a7f-4bd7-9c38-26e69706195f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\VERIFICATION_COMPLETE.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/VERIFICATION_COMPLETE.md",
+            "path": "/c:/Users/pc/Desktop/VERIFICATION_COMPLETE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "59d56687-66b8-4491-9a00-d656aebc860e",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767861128307,
+          "composerChatGenerationUuid": "b88d4f24-dbbd-4f68-94a7-7348d0e87cde",
+          "diffId": "79489435-a51e-4841-aff0-255bfe2f081d",
+          "lastDiffId": "a452bdd4-5109-4967-9afb-a251513782e5",
+          "lastAppliedAt": 1767861135056
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/SYSTEM_READY.md": {
+        "fd720d27-da03-42dc-be08-810af3e8ca77": {
+          "_v": 3,
+          "bubbleId": "f6e6465a-8dea-4ea1-9bc3-8c73525009f6",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\SYSTEM_READY.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/SYSTEM_READY.md",
+            "path": "/c:/Users/pc/Desktop/SYSTEM_READY.md",
+            "scheme": "file"
+          },
+          "codeblockId": "fd720d27-da03-42dc-be08-810af3e8ca77",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767866395188,
+          "composerChatGenerationUuid": "10ba5fed-6b91-4863-8c7d-528a223b9644",
+          "diffId": "95f03a3a-4f79-4176-849d-5c7c9582a91f",
+          "lastDiffId": "d8b9d727-1eb2-4f08-b31d-2de13d6a7cce",
+          "lastAppliedAt": 1767866412120
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/EVERYTHING_READY.md": {
+        "89d8d016-f285-4cbd-8187-9d4c1f1a7449": {
+          "_v": 3,
+          "bubbleId": "853c11e7-e1a7-4373-b8e4-d6c804f46c40",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\EVERYTHING_READY.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/EVERYTHING_READY.md",
+            "path": "/c:/Users/pc/Desktop/EVERYTHING_READY.md",
+            "scheme": "file"
+          },
+          "codeblockId": "89d8d016-f285-4cbd-8187-9d4c1f1a7449",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767866424739,
+          "composerChatGenerationUuid": "10ba5fed-6b91-4863-8c7d-528a223b9644",
+          "diffId": "7e66cdf1-8844-4585-aaac-3a7d7df52070",
+          "lastDiffId": "517bbe62-e69d-4906-9558-6ad8e6b4a2dd",
+          "lastAppliedAt": 1767866436419
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/SETUP_COMPLETE.md": {
+        "6fee2f2f-0ee3-4a44-a866-b5f0cb44d02b": {
+          "_v": 3,
+          "bubbleId": "80ba0658-7c11-40c6-bf92-a4911ae17db2",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\SETUP_COMPLETE.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/SETUP_COMPLETE.md",
+            "path": "/c:/Users/pc/Desktop/SETUP_COMPLETE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "6fee2f2f-0ee3-4a44-a866-b5f0cb44d02b",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1767866456433,
+          "composerChatGenerationUuid": "10ba5fed-6b91-4863-8c7d-528a223b9644",
+          "diffId": "ddb927ca-c968-4a14-8081-acf6d88fe346",
+          "lastDiffId": "5b070eb1-1fcf-4219-98e8-e5b4f03c8194",
+          "lastAppliedAt": 1767866463422
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py": {
+        "d149b339-2cee-4f38-a85c-905f1c2f785b": {
+          "_v": 3,
+          "bubbleId": "b90d53d6-77ec-460f-a77e-e5248265d8fe",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\extract_conversations.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
+            "scheme": "file"
+          },
+          "codeblockId": "d149b339-2cee-4f38-a85c-905f1c2f785b",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768038847780,
+          "composerChatGenerationUuid": "7ed9f92c-e08a-470c-910f-186114969183",
+          "diffId": "fc5cd4d9-13ce-48b2-95bf-297c9ca11c43",
+          "lastDiffId": "5f1d8b18-4606-4940-9e37-e3b95955fcdf",
+          "lastAppliedAt": 1768038855134
+        }
+      }
+    },
+    "originalFileStates": {
+      "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py": {
+        "content": "",
+        "firstEditBubbleId": "7a648799-47bf-4c5c-8e52-9ff1d24cf432",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/inspect_cursor_db.py": {
+        "content": "",
+        "firstEditBubbleId": "2a4518ca-2529-4c69-a34d-3e3d7c81ac98",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/extract_cursor_chats.py": {
+        "content": "",
+        "firstEditBubbleId": "56b7907e-93c8-4e3c-bd4d-f74e21bb0519",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/deep_extract_chats.py": {
+        "content": "",
+        "firstEditBubbleId": "8f1e2e79-6d5b-43d0-be5b-e52dcf12327e",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/CHAT_RECOVERY_SUMMARY.md": {
+        "content": "",
+        "firstEditBubbleId": "acc593ba-5e4d-496e-bae3-8b56307d80ec",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/recover_all_cursor_data.bat": {
+        "content": "",
+        "firstEditBubbleId": "9688a2a1-c196-4f8c-9b12-0489d2468309",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/extract_specific_chats.py": {
+        "content": "",
+        "firstEditBubbleId": "16593eec-ef62-4e62-862d-34d6f664ea29",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/reconstruct_conversations.py": {
+        "content": "",
+        "firstEditBubbleId": "cb851f0e-ac60-45fe-881f-80bf282428a0",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/OPEN_RECOVERED_CHATS.md": {
+        "content": "",
+        "firstEditBubbleId": "710eaaf0-9dc2-4741-b0c0-8012e9ab348f",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/recover_specific_chats.py": {
+        "content": "",
+        "firstEditBubbleId": "7a66346a-82b6-486e-beeb-f28763f77da7",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/find_all_conversation_titles.py": {
+        "content": "",
+        "firstEditBubbleId": "8319f929-752b-451a-872d-af107afbc097",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/extract_all_workspace_conversations.py": {
+        "content": "",
+        "firstEditBubbleId": "b9d0c750-bf68-4f9f-b7be-0a8b5f0ad883",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/recover_frappe_fqc5.py": {
+        "content": "",
+        "firstEditBubbleId": "00a8e446-7ecc-4a88-a1f3-bae343c51e20",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/final_recovery_attempt.py": {
+        "content": "",
+        "firstEditBubbleId": "03ae0b7e-f359-4a54-a6fd-684e925992fd",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md": {
+        "content": "",
+        "firstEditBubbleId": "70912079-a0b6-4c75-86ea-359d4eadd9bb",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/export_full_conversations.py": {
+        "content": "",
+        "firstEditBubbleId": "762409a1-47d7-418b-966f-87f2f5ea3c89",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/export_complete_from_database.py": {
+        "content": "",
+        "firstEditBubbleId": "ed7568b0-555a-4505-882c-3040e1acd560",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/EXPORT_COMPLETE_SUMMARY.md": {
+        "content": "",
+        "firstEditBubbleId": "e73d1fa7-63e4-48b0-a538-7fd81205b5c2",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/extract_toolformer_data.py": {
+        "content": "",
+        "firstEditBubbleId": "41b6a441-68cf-4105-9f89-7da5e56c9d3f",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/setup_auto_backup_cursor_chats.bat": {
+        "content": "",
+        "firstEditBubbleId": "51493639-e5f4-4f93-8929-fc0c00cda1f4",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/INSTALL_SPECSTORY.md": {
+        "content": "",
+        "firstEditBubbleId": "87037ace-ec47-4bf4-b0b8-c840fb3b9432",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/setup_git_auto_backup.ps1": {
+        "content": "",
+        "firstEditBubbleId": "8e866302-0904-4232-a0e0-ee62013dac91",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/AUTO_BACKUP_SETUP_GUIDE.md": {
+        "content": "",
+        "firstEditBubbleId": "3b67d546-292b-4190-af41-da836c61c290",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/QUICK_SETUP_AUTO_BACKUP.bat": {
+        "content": "",
+        "firstEditBubbleId": "37fd21a0-e2c2-4b28-8edd-53b4e2de94f7",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/START_HERE_AUTO_BACKUP.md": {
+        "content": "",
+        "firstEditBubbleId": "b5c1c8c2-d634-4a51-b99c-2abca8d178bb",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/verify_backup_system.bat": {
+        "content": "",
+        "firstEditBubbleId": "9c733047-d656-42b5-960d-cbb3fe88394b",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/fix_and_verify_backup.bat": {
+        "content": "",
+        "firstEditBubbleId": "1bc5654f-db5e-4100-bd92-087eaadf37dc",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/create_auto_backup_script.bat": {
+        "content": "",
+        "firstEditBubbleId": "221a1ad5-f21b-4cf0-b6f7-7f0702e6d81b",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/verify_all_components.ps1": {
+        "content": "",
+        "firstEditBubbleId": "5a4fe6b6-0706-4452-8220-9c3720ac8cfb",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/CHECK_BACKUP_STATUS.bat": {
+        "content": "",
+        "firstEditBubbleId": "52dc8909-cf9f-4896-b29a-ae170c6f0e04",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat": {
+        "content": "",
+        "firstEditBubbleId": "ca97ec94-5b4d-4ec0-9bb0-4347e20a9654",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat": {
+        "content": "",
+        "firstEditBubbleId": "bdc10528-845d-4f95-a769-42ed42a14dfe",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/FINAL_STATUS_REPORT.md": {
+        "content": "",
+        "firstEditBubbleId": "0bf8c8f9-8ac5-4281-b770-10adcc7787dd",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/QUICK_VERIFY.bat": {
+        "content": "",
+        "firstEditBubbleId": "c033565d-d475-4bb3-8b17-e7b240493dad",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md": {
+        "content": "",
+        "firstEditBubbleId": "359342a3-a730-47ea-b180-2db911401c88",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/.gitignore": {
+        "content": "",
+        "firstEditBubbleId": "5c0e57d6-1a0d-46ac-ae71-8d8bfe6fa708",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/BACKUP_SYSTEM_COMPLETE.md": {
+        "content": "",
+        "firstEditBubbleId": "2108b43a-32b8-419b-87b1-81d7b3cda942",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/FINAL_STATUS.md": {
+        "content": "",
+        "firstEditBubbleId": "4a563e95-bb91-42fc-8d3a-8c872f2c7d94",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/VERIFICATION_COMPLETE.md": {
+        "content": "",
+        "firstEditBubbleId": "d74f635c-4a7f-4bd7-9c38-26e69706195f",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/SYSTEM_READY.md": {
+        "content": "",
+        "firstEditBubbleId": "f6e6465a-8dea-4ea1-9bc3-8c73525009f6",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/EVERYTHING_READY.md": {
+        "content": "",
+        "firstEditBubbleId": "853c11e7-e1a7-4373-b8e4-d6c804f46c40",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/SETUP_COMPLETE.md": {
+        "content": "",
+        "firstEditBubbleId": "80ba0658-7c11-40c6-bf92-a4911ae17db2",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py": {
+        "content": "",
+        "firstEditBubbleId": "b90d53d6-77ec-460f-a77e-e5248265d8fe",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      }
+    },
+    "newlyCreatedFiles": [
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\recover_cursor_chats.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py",
+          "path": "/c:/Users/pc/Desktop/recover_cursor_chats.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\inspect_cursor_db.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/inspect_cursor_db.py",
+          "path": "/c:/Users/pc/Desktop/inspect_cursor_db.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\extract_cursor_chats.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/extract_cursor_chats.py",
+          "path": "/c:/Users/pc/Desktop/extract_cursor_chats.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\deep_extract_chats.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/deep_extract_chats.py",
+          "path": "/c:/Users/pc/Desktop/deep_extract_chats.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\CHAT_RECOVERY_SUMMARY.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/CHAT_RECOVERY_SUMMARY.md",
+          "path": "/c:/Users/pc/Desktop/CHAT_RECOVERY_SUMMARY.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\recover_all_cursor_data.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/recover_all_cursor_data.bat",
+          "path": "/c:/Users/pc/Desktop/recover_all_cursor_data.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\extract_specific_chats.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/extract_specific_chats.py",
+          "path": "/c:/Users/pc/Desktop/extract_specific_chats.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\reconstruct_conversations.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/reconstruct_conversations.py",
+          "path": "/c:/Users/pc/Desktop/reconstruct_conversations.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\OPEN_RECOVERED_CHATS.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/OPEN_RECOVERED_CHATS.md",
+          "path": "/c:/Users/pc/Desktop/OPEN_RECOVERED_CHATS.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\recover_specific_chats.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/recover_specific_chats.py",
+          "path": "/c:/Users/pc/Desktop/recover_specific_chats.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\find_all_conversation_titles.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/find_all_conversation_titles.py",
+          "path": "/c:/Users/pc/Desktop/find_all_conversation_titles.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\extract_all_workspace_conversations.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/extract_all_workspace_conversations.py",
+          "path": "/c:/Users/pc/Desktop/extract_all_workspace_conversations.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\recover_frappe_fqc5.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/recover_frappe_fqc5.py",
+          "path": "/c:/Users/pc/Desktop/recover_frappe_fqc5.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\final_recovery_attempt.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/final_recovery_attempt.py",
+          "path": "/c:/Users/pc/Desktop/final_recovery_attempt.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+          "path": "/c:/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\export_full_conversations.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/export_full_conversations.py",
+          "path": "/c:/Users/pc/Desktop/export_full_conversations.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\export_complete_from_database.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/export_complete_from_database.py",
+          "path": "/c:/Users/pc/Desktop/export_complete_from_database.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\EXPORT_COMPLETE_SUMMARY.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/EXPORT_COMPLETE_SUMMARY.md",
+          "path": "/c:/Users/pc/Desktop/EXPORT_COMPLETE_SUMMARY.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\extract_toolformer_data.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/extract_toolformer_data.py",
+          "path": "/c:/Users/pc/Desktop/extract_toolformer_data.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\setup_auto_backup_cursor_chats.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/setup_auto_backup_cursor_chats.bat",
+          "path": "/c:/Users/pc/Desktop/setup_auto_backup_cursor_chats.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\INSTALL_SPECSTORY.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/INSTALL_SPECSTORY.md",
+          "path": "/c:/Users/pc/Desktop/INSTALL_SPECSTORY.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\setup_git_auto_backup.ps1",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/setup_git_auto_backup.ps1",
+          "path": "/c:/Users/pc/Desktop/setup_git_auto_backup.ps1",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\AUTO_BACKUP_SETUP_GUIDE.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/AUTO_BACKUP_SETUP_GUIDE.md",
+          "path": "/c:/Users/pc/Desktop/AUTO_BACKUP_SETUP_GUIDE.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\QUICK_SETUP_AUTO_BACKUP.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/QUICK_SETUP_AUTO_BACKUP.bat",
+          "path": "/c:/Users/pc/Desktop/QUICK_SETUP_AUTO_BACKUP.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\START_HERE_AUTO_BACKUP.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/START_HERE_AUTO_BACKUP.md",
+          "path": "/c:/Users/pc/Desktop/START_HERE_AUTO_BACKUP.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\verify_backup_system.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/verify_backup_system.bat",
+          "path": "/c:/Users/pc/Desktop/verify_backup_system.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\fix_and_verify_backup.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/fix_and_verify_backup.bat",
+          "path": "/c:/Users/pc/Desktop/fix_and_verify_backup.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\create_auto_backup_script.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/create_auto_backup_script.bat",
+          "path": "/c:/Users/pc/Desktop/create_auto_backup_script.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\verify_all_components.ps1",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/verify_all_components.ps1",
+          "path": "/c:/Users/pc/Desktop/verify_all_components.ps1",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\CHECK_BACKUP_STATUS.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/CHECK_BACKUP_STATUS.bat",
+          "path": "/c:/Users/pc/Desktop/CHECK_BACKUP_STATUS.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\auto-backup.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+          "path": "/C:/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\create_scheduled_task.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
+          "path": "/c:/Users/pc/Desktop/create_scheduled_task.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\FINAL_STATUS_REPORT.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/FINAL_STATUS_REPORT.md",
+          "path": "/c:/Users/pc/Desktop/FINAL_STATUS_REPORT.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\QUICK_VERIFY.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/QUICK_VERIFY.bat",
+          "path": "/c:/Users/pc/Desktop/QUICK_VERIFY.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\SYSTEM_STATUS_FINAL.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md",
+          "path": "/c:/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\.gitignore",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/.gitignore",
+          "path": "/C:/Users/pc/Desktop/cursor-chat-backups/.gitignore",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\BACKUP_SYSTEM_COMPLETE.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/BACKUP_SYSTEM_COMPLETE.md",
+          "path": "/c:/Users/pc/Desktop/BACKUP_SYSTEM_COMPLETE.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\FINAL_STATUS.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/FINAL_STATUS.md",
+          "path": "/c:/Users/pc/Desktop/FINAL_STATUS.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\VERIFICATION_COMPLETE.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/VERIFICATION_COMPLETE.md",
+          "path": "/c:/Users/pc/Desktop/VERIFICATION_COMPLETE.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\SYSTEM_READY.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/SYSTEM_READY.md",
+          "path": "/c:/Users/pc/Desktop/SYSTEM_READY.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\EVERYTHING_READY.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/EVERYTHING_READY.md",
+          "path": "/c:/Users/pc/Desktop/EVERYTHING_READY.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\SETUP_COMPLETE.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/SETUP_COMPLETE.md",
+          "path": "/c:/Users/pc/Desktop/SETUP_COMPLETE.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\extract_conversations.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
+          "path": "/C:/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
+          "scheme": "file"
+        }
+      }
+    ],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1768038787411,
+    "createdAt": 1767854262948,
+    "hasChangedContext": true,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 34,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 25,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "name": "Lost chat recovery",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {},
+    "contextUsagePercent": 8.757003784179688,
+    "allAttachedFileCodeChunksUris": [
+      "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py",
+      "file:///c%3A/Users/pc/Desktop/inspect_cursor_db.py",
+      "file:///c%3A/Users/pc/Desktop/extract_cursor_chats.py",
+      "file:///c%3A/Users/pc/Desktop/deep_extract_chats.py",
+      "file:///c%3A/Users/pc/Desktop/CHAT_RECOVERY_SUMMARY.md",
+      "file:///c%3A/Users/pc/Desktop/recover_all_cursor_data.bat",
+      "file:///c%3A/Users/pc/Desktop/extract_specific_chats.py",
+      "file:///c%3A/Users/pc/Desktop/reconstruct_conversations.py",
+      "file:///c%3A/Users/pc/Desktop/OPEN_RECOVERED_CHATS.md",
+      "file:///c%3A/Users/pc/Desktop/recover_specific_chats.py",
+      "file:///c%3A/Users/pc/Desktop/find_all_conversation_titles.py",
+      "file:///c%3A/Users/pc/Desktop/extract_all_workspace_conversations.py",
+      "file:///c%3A/Users/pc/Desktop/recover_frappe_fqc5.py",
+      "file:///c%3A/Users/pc/Desktop/final_recovery_attempt.py",
+      "file:///c%3A/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+      "file:///c%3A/Users/pc/Desktop/export_full_conversations.py",
+      "file:///c%3A/Users/pc/Desktop/export_complete_from_database.py",
+      "file:///c%3A/Users/pc/Desktop/EXPORT_COMPLETE_SUMMARY.md",
+      "file:///c%3A/Users/pc/Desktop/extract_toolformer_data.py",
+      "file:///c%3A/Users/pc/Desktop/setup_auto_backup_cursor_chats.bat",
+      "file:///c%3A/Users/pc/Desktop/INSTALL_SPECSTORY.md",
+      "file:///c%3A/Users/pc/Desktop/setup_git_auto_backup.ps1",
+      "file:///c%3A/Users/pc/Desktop/AUTO_BACKUP_SETUP_GUIDE.md",
+      "file:///c%3A/Users/pc/Desktop/QUICK_SETUP_AUTO_BACKUP.bat",
+      "file:///c%3A/Users/pc/Desktop/START_HERE_AUTO_BACKUP.md",
+      "file:///c%3A/Users/pc/Desktop/verify_backup_system.bat",
+      "file:///c%3A/Users/pc/Desktop/fix_and_verify_backup.bat",
+      "file:///c%3A/Users/pc/Desktop/create_auto_backup_script.bat",
+      "file:///c%3A/Users/pc/Desktop/verify_all_components.ps1",
+      "file:///c%3A/Users/pc/Desktop/CHECK_BACKUP_STATUS.bat",
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+      "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
+      "file:///c%3A/Users/pc/Desktop/FINAL_STATUS_REPORT.md",
+      "file:///c%3A/Users/pc/Desktop/QUICK_VERIFY.bat",
+      "file:///c%3A/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md",
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/.gitignore",
+      "file:///c%3A/Users/pc/Desktop/BACKUP_SYSTEM_COMPLETE.md",
+      "file:///c%3A/Users/pc/Desktop/FINAL_STATUS.md",
+      "file:///c%3A/Users/pc/Desktop/VERIFICATION_COMPLETE.md",
+      "file:///c%3A/Users/pc/Desktop/SYSTEM_READY.md",
+      "file:///c%3A/Users/pc/Desktop/EVERYTHING_READY.md",
+      "file:///c%3A/Users/pc/Desktop/SETUP_COMPLETE.md"
+    ],
+    "modelConfig": {
+      "modelName": "composer-1",
+      "maxMode": false
+    },
+    "subComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 7030,
+    "totalLinesRemoved": 0,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isArchived": false,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isSpecSubagentDone": false,
+    "stopHookLoopCount": 0,
+    "speculativeSummarizationEncryptionKey": "KZbqBvlOYrYIt6QeM3B6bImMm6pwLrhtWqzXU/jpIeo=",
+    "isNAL": false,
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "",
+    "latestChatGenerationUUID": "7ed9f92c-e08a-470c-910f-186114969183",
+    "isAgentic": true,
+    "subtitle": "extract_conversations.py",
+    "filesChangedCount": 43
+  },
+  "extracted_at": "2026-01-10T15:24:34.221728"
+}
