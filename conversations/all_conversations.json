@@ -809,7 +809,7 @@
       "subtitle": "PCB_LOOKUP_FIX_EXPLAINED.md, fix_pcb_lookup.bat, fix_pcb_lookup_complete.py, ERPNext_DocTypes_Detailed_Understanding.md, ERPNext_System_Understanding.md",
       "filesChangedCount": 5
     },
-    "extracted_at": "2026-01-10T18:48:06.947552"
+    "extracted_at": "2026-01-10T18:53:07.530609"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -4424,7 +4424,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-10T18:48:06.948553"
+    "extracted_at": "2026-01-10T18:53:07.531610"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -10318,10 +10318,52 @@
         {
           "bubbleId": "cc4c9244-34cb-4fa8-877e-434f3256f310",
           "type": 2
+        },
+        {
+          "bubbleId": "d64d9f59-bd88-493f-9fc4-f5977d31ae36",
+          "type": 1
+        },
+        {
+          "bubbleId": "19caeeba-a55f-4df7-bc36-341119466da6",
+          "type": 2,
+          "serverBubbleId": "747edc7f-f732-4be1-99d6-65a1ab0df65a"
+        },
+        {
+          "bubbleId": "1a484dc3-a85e-4c52-8fdf-57955e3f5d10",
+          "type": 2
+        },
+        {
+          "bubbleId": "d848fd53-2874-4500-8bab-3914e26efabe",
+          "type": 2
+        },
+        {
+          "bubbleId": "d0c5b252-4b52-4004-80e7-fe42680d7c7e",
+          "type": 2
+        },
+        {
+          "bubbleId": "098a9e83-c823-425f-bf22-123d68537949",
+          "type": 2,
+          "serverBubbleId": "5d4b24cb-c67d-4793-9abc-0311e1bf8df6"
+        },
+        {
+          "bubbleId": "bb399fea-408d-4679-b97d-eb494b0f7689",
+          "type": 2
+        },
+        {
+          "bubbleId": "9236b098-c26d-4566-be1d-d23c841e23df",
+          "type": 2
+        },
+        {
+          "bubbleId": "3d7a2aab-64b5-4faa-8abc-5f7e5234f4d5",
+          "type": 2
+        },
+        {
+          "bubbleId": "b358e79c-aca5-42d1-9f60-d2868913dfda",
+          "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "completed",
+      "status": "aborted",
       "context": {
         "composers": [],
         "quotes": [],
@@ -10371,6 +10413,7 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
+      "chatGenerationUUID": "2e0c7ea1-9a39-4540-a108-80e0c3f722a4",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md": {
@@ -13951,6 +13994,32 @@
             "diffId": "42b368e2-5b2d-4482-b5bb-ffa6098005d2",
             "lastDiffId": "f51e73e4-b080-4156-b03b-142ce6335b3a",
             "lastAppliedAt": 1768050446980
+          },
+          "f67af055-0ab6-4a0d-a1ee-7b166a22b62a": {
+            "_v": 3,
+            "bubbleId": "9236b098-c26d-4566-be1d-d23c841e23df",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+              "_sep": 1,
+              "external": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/Navigation.kt",
+              "path": "/K:/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/Navigation.kt",
+              "scheme": "file"
+            },
+            "codeblockId": "f67af055-0ab6-4a0d-a1ee-7b166a22b62a",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "49e48eb2-2a42-4281-9cab-0c3f653d1337",
+              "composerId": "e7cd62a7-a012-4a0b-a586-fda8d7ca96cb"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768051198805,
+            "composerChatGenerationUuid": "2e0c7ea1-9a39-4540-a108-80e0c3f722a4",
+            "diffId": "bf84e15a-e255-4d9f-8137-51b8ac9c1434",
+            "lastDiffId": "79265500-3c47-4cbf-89de-729992add3fc",
+            "lastAppliedAt": 1768051212663
           }
         },
         "file:///k%3A/FQC-Tracking-App/IMPLEMENTATION_VERIFICATION.md": {
@@ -14970,7 +15039,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768050950450,
+      "lastUpdatedAt": 1768051176234,
       "createdAt": 1767866567902,
       "hasChangedContext": false,
       "activeTabsShouldBeReactive": true,
@@ -15045,16 +15114,11 @@
       "unifiedMode": "agent",
       "forceMode": "edit",
       "usageData": {},
-      "contextUsagePercent": 64.93600082397461,
+      "contextUsagePercent": 73.04999923706055,
       "allAttachedFileCodeChunksUris": [
-        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/MacIdCacheManager.kt",
-        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DriverPairingCacheManager.kt",
-        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/LandingScreen.kt",
         "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/Navigation.kt",
-        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/dao/FrequencyTestDao.kt",
-        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/dao/SongTestDao.kt",
-        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/FQCRepository.kt",
-        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/DriverPairingScreen.kt"
+        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DeviceWorkflowService.kt",
+        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -15113,13 +15177,13 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "69e60308-35bd-4074-8411-b585563fa57e",
+      "latestChatGenerationUUID": "2e0c7ea1-9a39-4540-a108-80e0c3f722a4",
       "isAgentic": true,
-      "subtitle": "SupabaseSongTestService.kt, DeviceWorkflowService.kt, Navigation.kt, MacIdCacheManager.kt, DriverPairingScreen.kt",
+      "subtitle": "Navigation.kt, SupabaseSongTestService.kt, DeviceWorkflowService.kt, MacIdCacheManager.kt, DriverPairingScreen.kt",
       "filesChangedCount": 27,
       "firstTodoWriteBubble": "1e8c200f-d705-4b27-b278-bc6e8b07988a"
     },
-    "extracted_at": "2026-01-10T18:48:06.956553"
+    "extracted_at": "2026-01-10T18:53:07.539610"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -15337,7 +15401,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-10T18:48:06.956553"
+    "extracted_at": "2026-01-10T18:53:07.539610"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -15514,6 +15578,6 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-10T18:48:06.956553"
+    "extracted_at": "2026-01-10T18:53:07.539610"
   }
 ]
