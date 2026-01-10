@@ -5238,10 +5238,31 @@
       {
         "bubbleId": "3d0f758a-f932-45ed-aab8-1b61581d5579",
         "type": 2
+      },
+      {
+        "bubbleId": "15f3574c-4bd8-4cc8-ba3c-27f195826b7f",
+        "type": 1
+      },
+      {
+        "bubbleId": "2324f4ee-0ed9-4064-ad66-8ee7ca443fd3",
+        "type": 2,
+        "serverBubbleId": "244f435d-e46e-413b-9d6a-1166af0641da"
+      },
+      {
+        "bubbleId": "8e2e4ff6-7fae-4d17-9a54-4141fc1bb99a",
+        "type": 2
+      },
+      {
+        "bubbleId": "3814659f-ce81-4858-a669-268e391fa98c",
+        "type": 2
+      },
+      {
+        "bubbleId": "8c360595-88f4-4b10-ba21-581135fbca96",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -5291,6 +5312,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "55629b00-d0fc-4002-b30c-fa366bc92018",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md": {
@@ -9380,7 +9402,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768039976218,
+    "lastUpdatedAt": 1768041872554,
     "createdAt": 1767866567902,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
@@ -9455,7 +9477,7 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 48.1609992980957,
+    "contextUsagePercent": 47.99599838256836,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/MacIdCacheManager.kt",
       "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DriverPairingCacheManager.kt",
@@ -9523,11 +9545,11 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "3dc1626d-7681-49d8-84ec-a610da47bfa8",
+    "latestChatGenerationUUID": "55629b00-d0fc-4002-b30c-fa366bc92018",
     "isAgentic": true,
     "subtitle": "MacIdCacheManager.kt, Navigation.kt, DriverPairingScreen.kt, FQCRepository.kt, SongTestDao.kt",
     "filesChangedCount": 26,
     "firstTodoWriteBubble": "1e8c200f-d705-4b27-b278-bc6e8b07988a"
   },
-  "extracted_at": "2026-01-10T16:13:00.653438"
+  "extracted_at": "2026-01-10T16:18:31.292460"
 }
