@@ -1,11 +1,11 @@
 {
-  "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
+  "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
   "data": {
     "_v": 11,
-    "composerId": "bbfda600-fe93-4052-a4df-3f2ea3cabbea",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "composerId": "d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
+    "richText": "",
     "hasLoaded": true,
-    "text": " ",
+    "text": "",
     "fullConversationHeadersOnly": [],
     "conversationMap": {},
     "status": "none",
@@ -16,47 +16,14 @@
       "selectedPullRequests": [],
       "selectedImages": [],
       "folderSelections": [],
-      "fileSelections": [
-        {
-          "uri": {
-            "$mid": 1,
-            "fsPath": "k:\\FQC-Tracking-App\\COMPLETE_DATA_FLOW_DOCUMENTATION.md",
-            "_sep": 1,
-            "external": "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
-            "path": "/K:/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
-            "scheme": "file"
-          },
-          "addedWithoutMention": true,
-          "autoContext": true
-        }
-      ],
-      "selections": [
-        {
-          "text": "```markdown\n# ERPNext System - Complete Understanding Summary\r\n\n```",
-          "rawText": "# ERPNext System - Complete Understanding Summary\r\n",
-          "range": {
-            "selectionStartLineNumber": 1,
-            "selectionStartColumn": 1,
-            "positionLineNumber": 1,
-            "positionColumn": 50
-          },
-          "uri": {
-            "$mid": 1,
-            "fsPath": "c:\\Users\\pc\\Desktop\\ERPNext_System_Understanding.md",
-            "_sep": 1,
-            "external": "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md",
-            "path": "/c:/Users/pc/Desktop/ERPNext_System_Understanding.md",
-            "scheme": "file"
-          },
-          "uuid": "652afd07-7006-4af4-b30f-cda2450cab06",
-          "addedWithoutMention": false
-        }
-      ],
+      "fileSelections": [],
+      "selections": [],
       "terminalSelections": [],
       "selectedDocs": [],
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
+      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -68,17 +35,9 @@
         "selectedImages": {},
         "useWeb": [],
         "folderSelections": {},
-        "fileSelections": {
-          "file:///c%3A/Users/pc/Downloads/erpnext%20conversation%20with%20chatgpt.txt": []
-        },
+        "fileSelections": {},
         "terminalFiles": {},
-        "selections": {
-          "{\"uri\":\"file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md\",\"range\":{\"selectionStartLineNumber\":1,\"selectionStartColumn\":1,\"positionLineNumber\":1,\"positionColumn\":50},\"text\":\"```markdown\\n# ERPNext System - Complete Understanding Summary\\r\\n\\n```\"}": [
-            {
-              "uuid": "652afd07-7006-4af4-b30f-cda2450cab06"
-            }
-          ]
-        },
+        "selections": {},
         "terminalSelections": {},
         "selectedDocs": {},
         "externalLinks": {},
@@ -104,7 +63,7 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1767962286535,
+    "createdAt": 1768039456705,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
@@ -205,14 +164,14 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "OM6GDjOdIWwt4uXCEO4TIsSY4IRF8RNPG/WrAwgCJtQ=",
+    "speculativeSummarizationEncryptionKey": "Wt2tQoup53L1R4nDu4+M8enZqyOrbhZPp9ofevJUWsw=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
     "isAgentic": true,
-    "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
+    "subtitle": "New chat",
     "filesChangedCount": 0
   },
-  "extracted_at": "2026-01-10T15:38:00.483810"
+  "extracted_at": "2026-01-10T15:38:00.484810"
 }
