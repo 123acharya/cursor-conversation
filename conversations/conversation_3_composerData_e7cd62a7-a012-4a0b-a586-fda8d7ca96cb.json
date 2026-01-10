@@ -5760,10 +5760,140 @@
         "bubbleId": "510fc820-998d-4b18-a01f-e0bf304501d7",
         "type": 2,
         "serverBubbleId": "1e9612a2-7e13-4eea-bad7-43ccf2e00a89"
+      },
+      {
+        "bubbleId": "0dca699b-ca44-4cf7-87b5-8fc9da57e127",
+        "type": 2
+      },
+      {
+        "bubbleId": "5b343c40-b7f7-439c-8424-0fd1f5dd59a6",
+        "type": 2
+      },
+      {
+        "bubbleId": "66ee676e-428d-4152-9ed3-e88b418df3d2",
+        "type": 2
+      },
+      {
+        "bubbleId": "c44a8253-a635-46e3-9218-9686469bc09f",
+        "type": 2
+      },
+      {
+        "bubbleId": "5b86bfba-f61e-4b38-9d0c-45b8ac10398e",
+        "type": 2,
+        "serverBubbleId": "3dcf0bb1-6b17-4b73-bb3a-d3b03681b854"
+      },
+      {
+        "bubbleId": "03541b33-ee27-4226-8d56-1945a4e37e1a",
+        "type": 2
+      },
+      {
+        "bubbleId": "53eac5f0-2776-4036-964c-cc3fea371b74",
+        "type": 2
+      },
+      {
+        "bubbleId": "b7c71d88-bc91-4055-93a4-a3764f80eadc",
+        "type": 2
+      },
+      {
+        "bubbleId": "0b34b12a-7b7b-4d90-a85f-880339220589",
+        "type": 2
+      },
+      {
+        "bubbleId": "bb8e7246-e43f-4329-9a06-d05610113921",
+        "type": 2,
+        "serverBubbleId": "d9f1ad23-5752-4041-9779-a0cd72e645d2"
+      },
+      {
+        "bubbleId": "68fc6098-c477-41be-8636-e5a6a5e7dd85",
+        "type": 2
+      },
+      {
+        "bubbleId": "b0509958-3d19-4ed4-92fa-7768f26805ef",
+        "type": 2
+      },
+      {
+        "bubbleId": "992e9f79-457c-417d-86cb-6caefc632f10",
+        "type": 2
+      },
+      {
+        "bubbleId": "094bd81d-7498-4289-99c4-36e59202434e",
+        "type": 2,
+        "serverBubbleId": "5594d8f2-0ae8-44ac-8617-89b87ae1f611"
+      },
+      {
+        "bubbleId": "74ccabf5-3da7-4601-98cd-f6e0a944a339",
+        "type": 2
+      },
+      {
+        "bubbleId": "6c52edbd-fc54-4cd3-a1b6-7c1c6e0d6fbd",
+        "type": 2
+      },
+      {
+        "bubbleId": "394b8156-ba4b-41df-ba3a-f88cdd8e2aff",
+        "type": 2
+      },
+      {
+        "bubbleId": "5bbef203-4b0e-4b97-afa1-42bb6b353a64",
+        "type": 2,
+        "serverBubbleId": "fe175347-817d-4c6e-8dce-061a7f96e729"
+      },
+      {
+        "bubbleId": "db8114ac-21ae-4a0f-a7ef-7710f8b8d09a",
+        "type": 2
+      },
+      {
+        "bubbleId": "1c69a70f-f047-43b9-bb01-743c2605038f",
+        "type": 2
+      },
+      {
+        "bubbleId": "07178bac-c045-444c-b69b-12360a37d295",
+        "type": 2
+      },
+      {
+        "bubbleId": "9ed2dfdf-059f-4424-a26a-f235bcea7c9c",
+        "type": 2
+      },
+      {
+        "bubbleId": "ed3a8487-d18c-4429-9daf-c7088312d653",
+        "type": 2
+      },
+      {
+        "bubbleId": "47f7683d-a708-4378-9100-e8ca731af9e2",
+        "type": 2
+      },
+      {
+        "bubbleId": "83e01b94-8e9d-4d34-87e7-d598ecd65968",
+        "type": 2,
+        "serverBubbleId": "1752e084-ee05-4405-b883-66582d2f5557"
+      },
+      {
+        "bubbleId": "67a79d85-4c4c-4e4f-8983-a4234ddb563c",
+        "type": 2
+      },
+      {
+        "bubbleId": "18af43eb-eed0-4009-aa35-6aff27e57994",
+        "type": 2
+      },
+      {
+        "bubbleId": "66eeb39d-e7a9-4c2a-95c5-f6e94984d7c0",
+        "type": 2
+      },
+      {
+        "bubbleId": "00a6898d-5fef-4429-aa8d-831825488f34",
+        "type": 2
+      },
+      {
+        "bubbleId": "425fc1e2-272e-4619-a08b-7947afe8db32",
+        "type": 2,
+        "serverBubbleId": "376b0c7f-0b3a-41b6-8783-e028e18a8e3c"
+      },
+      {
+        "bubbleId": "cc4c9244-34cb-4fa8-877e-434f3256f310",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -5813,7 +5943,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "69e60308-35bd-4074-8411-b585563fa57e",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md": {
@@ -9537,6 +9666,32 @@
           "diffId": "2562d885-49b3-4bec-953e-83e66e263d82",
           "lastDiffId": "f10727f3-be26-4017-95d6-31985886f2f4",
           "lastAppliedAt": 1767955086758
+        },
+        "3d479ebc-8cca-448f-8ebe-87136a307c50": {
+          "_v": 3,
+          "bubbleId": "b0509958-3d19-4ed4-92fa-7768f26805ef",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+            "_sep": 1,
+            "external": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DeviceWorkflowService.kt",
+            "path": "/K:/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DeviceWorkflowService.kt",
+            "scheme": "file"
+          },
+          "codeblockId": "3d479ebc-8cca-448f-8ebe-87136a307c50",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "de01574b-bbaf-46a7-9ba9-c44a60360432",
+            "composerId": "e7cd62a7-a012-4a0b-a586-fda8d7ca96cb"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768050792545,
+          "composerChatGenerationUuid": "69e60308-35bd-4074-8411-b585563fa57e",
+          "diffId": "639fc9da-23ec-422e-a2c5-9de08847e676",
+          "lastDiffId": "87b41ddc-99f0-441a-ad7b-0d98f6d23b6e",
+          "lastAppliedAt": 1768050802070
         }
       },
       "file:///k%3A/FQC-Tracking-App/SUPABASE_SYNC_REMOVAL_SUMMARY.md": {
@@ -10060,6 +10215,82 @@
           "lastDiffId": "ae69ca26-8de3-4371-9b85-437a225b5985",
           "lastAppliedAt": 1768039555397
         }
+      },
+      "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt": {
+        "3dd5ef2c-aedb-413e-876f-1462d6fd1f34": {
+          "_v": 3,
+          "bubbleId": "1c69a70f-f047-43b9-bb01-743c2605038f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseSongTestService.kt",
+            "_sep": 1,
+            "external": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt",
+            "path": "/K:/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt",
+            "scheme": "file"
+          },
+          "codeblockId": "3dd5ef2c-aedb-413e-876f-1462d6fd1f34",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768050834562,
+          "composerChatGenerationUuid": "69e60308-35bd-4074-8411-b585563fa57e",
+          "diffId": "18ea77ad-63c2-45a5-a883-fb76579db368",
+          "lastDiffId": "e39b51d4-3e01-46dc-ba54-d9f36029966f",
+          "lastAppliedAt": 1768050844547
+        },
+        "997ec303-897f-43f1-9f51-8d7052a50c1e": {
+          "_v": 3,
+          "bubbleId": "07178bac-c045-444c-b69b-12360a37d295",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseSongTestService.kt",
+            "_sep": 1,
+            "external": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt",
+            "path": "/K:/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt",
+            "scheme": "file"
+          },
+          "codeblockId": "997ec303-897f-43f1-9f51-8d7052a50c1e",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "3dd5ef2c-aedb-413e-876f-1462d6fd1f34",
+            "composerId": "e7cd62a7-a012-4a0b-a586-fda8d7ca96cb"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768050848069,
+          "composerChatGenerationUuid": "69e60308-35bd-4074-8411-b585563fa57e",
+          "diffId": "e0ddedb7-c95a-4f0c-951a-05ce9e814f87",
+          "lastDiffId": "565ddf72-f461-40bc-ae9e-f4862deaa42e",
+          "lastAppliedAt": 1768050855399
+        },
+        "0ae8ce61-590f-4cbf-923a-d9b3aa91d4fd": {
+          "_v": 3,
+          "bubbleId": "66eeb39d-e7a9-4c2a-95c5-f6e94984d7c0",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseSongTestService.kt",
+            "_sep": 1,
+            "external": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt",
+            "path": "/K:/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt",
+            "scheme": "file"
+          },
+          "codeblockId": "0ae8ce61-590f-4cbf-923a-d9b3aa91d4fd",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "997ec303-897f-43f1-9f51-8d7052a50c1e",
+            "composerId": "e7cd62a7-a012-4a0b-a586-fda8d7ca96cb"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768050885968,
+          "composerChatGenerationUuid": "69e60308-35bd-4074-8411-b585563fa57e",
+          "diffId": "717405d6-7162-46c1-a703-651a66eec37d",
+          "lastDiffId": "721dcdd7-a951-4576-9414-20ea9dd31ef6",
+          "lastAppliedAt": 1768050895950
+        }
       }
     },
     "originalFileStates": {
@@ -10230,6 +10461,12 @@
         "firstEditBubbleId": "56e78a6e-95ad-4141-8042-a90a1f5800d2",
         "isNewlyCreated": false,
         "newlyCreatedFolders": []
+      },
+      "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt": {
+        "content": "package com.example.fqcapp.supabase\n\nimport android.util.Log\nimport com.example.fqcapp.data.entities.SongTest\nimport io.github.jan.supabase.postgrest.from\nimport io.github.jan.supabase.postgrest.query.Columns\nimport io.github.jan.supabase.postgrest.query.Order\nimport kotlinx.coroutines.Dispatchers\nimport kotlinx.coroutines.withContext\nimport kotlinx.serialization.Serializable\n\n/**\n * Data transfer object for Supabase song_tests table.\n * This matches the structure of the SongTest entity but uses snake_case for Supabase.\n */\n@Serializable\ndata class SupabaseSongTest(\n    val test_id: Long? = null, // Auto-generated, nullable for inserts\n    val serial_number: String,\n    val operator_name: String,\n    val operator_id: Long? = null, // Operator ID (bigint in Supabase) - nullable\n    val entry_timestamp: String,\n    val exit_timestamp: String,\n    val total_time_spent: String,\n    val song_name: String,\n    val result: String,\n    val remark: String? = null, // Nullable because Supabase may return null\n    val iteration_number: Int = 1,\n    val test_stage: String = \"Primary Test\", // \"Primary Test\", \"Secondary Test\", or \"Final Test\"\n    val is_overall_result: Boolean = false,\n    val timestamp: String = \"\"\n)\n\n/**\n * Data transfer object for Supabase song_test_issues table.\n */\n@Serializable\ndata class SupabaseSongTestIssue(\n    val test_id: Long,\n    val issue_text: String\n)\n\n/**\n * Data transfer object for Supabase song_test_solutions table.\n */\n@Serializable\ndata class SupabaseSongTestSolution(\n    val test_id: Long,\n    val solution_text: String\n)\n\n/**\n * Service for saving and retrieving song test data from Supabase.\n */\nclass SupabaseSongTestService {\n    private val TAG = \"SupabaseSongTest\"\n    private val deviceService = SupabaseDeviceService()\n    \n    /**\n     * Save a song test (overall review or individual song) to Supabase.\n     * Returns the inserted test ID if successful, null otherwise.\n     * \n     * Also saves issues and solutions to normalized tables.\n     * \n     * @param test The song test entity\n     * @param operatorId The operator ID (unique identifier) - can be empty/null\n     */\n    suspend fun saveSongTest(test: SongTest, operatorId: String): Long? = withContext(Dispatchers.IO) {\n        val client = SupabaseConfig.getClient()\n        if (client == null) {\n            Log.w(TAG, \"⚠️ Supabase client not configured, skipping save\")\n            return@withContext null\n        }\n        \n        try {\n            Log.d(TAG, \"═══════════════════════════════════════════════════════════\")\n            Log.d(TAG, \"💾 [SUPABASE] UPLOADING SONG TEST\")\n            Log.d(TAG, \"   Serial Number: ${test.serialNumber}\")\n            Log.d(TAG, \"   Operator: ${test.operatorName}\")\n            Log.d(TAG, \"   Song Name: ${test.songName}\")\n            Log.d(TAG, \"   Result: ${test.result}\")\n            Log.d(TAG, \"   Iteration: ${test.iterationNumber}\")\n            Log.d(TAG, \"   Is Overall: ${test.isOverallResult}\")\n            Log.d(TAG, \"   Entry Timestamp: ${test.entryTimestamp}\")\n            Log.d(TAG, \"   Exit Timestamp: ${test.exitTimestamp}\")\n            Log.d(TAG, \"   Total Time: ${test.totalTimeSpent}\")\n            Log.d(TAG, \"───────────────────────────────────────────────────────────\")\n            \n            // CRITICAL: Ensure device exists in Supabase before inserting test data\n            Log.d(TAG, \"📋 [STEP 1/3] Ensuring device exists in Supabase...\")\n            val deviceExists = deviceService.ensureDeviceExists(\n                serialNumber = test.serialNumber,\n                macAddress = null, // MAC address not available in SongTest entity\n                color = null\n            )\n            \n            if (!deviceExists) {\n                Log.e(TAG, \"   ❌ [ERROR] Failed to ensure device exists, cannot save song test\")\n                Log.e(TAG, \"═══════════════════════════════════════════════════════════\")\n                return@withContext null\n            }\n            Log.d(TAG, \"   ✅ [SUCCESS] Device exists or created successfully\")\n            \n            // Convert to Supabase format\n            Log.d(TAG, \"📋 [STEP 2/3] Preparing data for upload...\")\n            // Convert operatorId string to Long? - null if empty or invalid\n            val operatorIdLong = try {\n                if (operatorId.isBlank()) {\n                    null\n                } else {\n                    operatorId.toLongOrNull()\n                }\n            } catch (e: Exception) {\n                Log.w(TAG, \"⚠️ Could not convert operatorId '$operatorId' to Long, using null\", e)\n                null\n            }\n            \n            val insertData = SupabaseSongTest(\n                serial_number = test.serialNumber,\n                operator_name = test.operatorName,\n                operator_id = operatorIdLong, // Now Long? instead of String\n                entry_timestamp = test.entryTimestamp,\n                exit_timestamp = test.exitTimestamp,\n                total_time_spent = test.totalTimeSpent,\n                song_name = test.songName,\n                result = test.result,\n                remark = test.remark,\n                iteration_number = test.iterationNumber,\n                test_stage = test.testStage,\n                is_overall_result = test.isOverallResult,\n                timestamp = test.timestamp\n            )\n            \n            Log.d(TAG, \"   📤 [UPLOAD] Data prepared:\")\n            Log.d(TAG, \"      - serial_number: ${insertData.serial_number}\")\n            Log.d(TAG, \"      - operator_name: ${insertData.operator_name}\")\n            Log.d(TAG, \"      - operator_id: ${insertData.operator_id}\")\n            Log.d(TAG, \"      - song_name: ${insertData.song_name}\")\n            Log.d(TAG, \"      - result: ${insertData.result}\")\n            Log.d(TAG, \"      - entry_timestamp: ${insertData.entry_timestamp}\")\n            Log.d(TAG, \"      - exit_timestamp: ${insertData.exit_timestamp}\")\n            Log.d(TAG, \"      - total_time_spent: ${insertData.total_time_spent}\")\n            Log.d(TAG, \"      - iteration_number: ${insertData.iteration_number}\")\n            Log.d(TAG, \"      - is_overall_result: ${insertData.is_overall_result}\")\n            \n            Log.d(TAG, \"📋 [STEP 3/3] Inserting into song_tests table...\")\n            Log.d(TAG, \"   🔍 [QUERY] INSERT INTO song_tests (...) VALUES (...)\")\n            \n            // Insert song test\n            val response = client.from(\"song_tests\")\n                .insert(insertData) {\n                    select(Columns.ALL)\n                }\n            \n            val insertedTest = response.decodeSingle<SupabaseSongTest>()\n            val testId = insertedTest.test_id ?: return@withContext null\n            \n            Log.d(TAG, \"───────────────────────────────────────────────────────────\")\n            Log.d(TAG, \"✅ [SUPABASE] SONG TEST UPLOADED SUCCESSFULLY\")\n            Log.d(TAG, \"   Test ID: $testId\")\n            Log.d(TAG, \"   Serial Number: ${test.serialNumber}\")\n            Log.d(TAG, \"   Song: ${test.songName}\")\n            Log.d(TAG, \"   Iteration: ${test.iterationNumber}\")\n            Log.d(TAG, \"   Result: ${test.result}\")\n            Log.d(TAG, \"═══════════════════════════════════════════════════════════\")\n            \n            // Save issues to normalized table (if any)\n            // IMPORTANT: For PASS results, checklist items (No Distortion, Balance OK, No Noise) \n            // are NOT saved as issues - they are implicit in a PASS result.\n            // Only actual problems (for FAIL/CAN_BE_PASSED) should be saved as issues.\n            // A PASS means all checklists were checked, so storing them separately is redundant.\n            if (test.issues.isNotBlank() && test.result.uppercase() != \"PASS\") {\n                try {\n                    saveIssues(testId, test.issues)\n                } catch (e: Exception) {\n                    Log.e(TAG, \"⚠️ Failed to save issues to normalized table\", e)\n                    // Don't fail the whole operation if issues save fails\n                }\n            } else if (test.result.uppercase() == \"PASS\") {\n                Log.d(TAG, \"⏭️ Skipping issues save for PASS result - checklist items are implicit in PASS\")\n            }\n            \n            // Save solutions to normalized table (if any, only for overall review)\n            if (test.isOverallResult && test.solutions.isNotBlank()) {\n                try {\n                    saveSolutions(testId, test.solutions)\n                } catch (e: Exception) {\n                    Log.e(TAG, \"⚠️ Failed to save solutions to normalized table\", e)\n                    // Don't fail the whole operation if solutions save fails\n                }\n            }\n            \n            return@withContext testId\n            \n        } catch (e: Exception) {\n            Log.e(TAG, \"❌ Failed to save song test to Supabase\", e)\n            Log.e(TAG, \"Error details: ${e.message}\")\n            e.printStackTrace()\n            return@withContext null\n        }\n    }\n    \n    /**\n     * Save multiple individual songs (latest 3) for an iteration.\n     * This is called after the overall review is saved.\n     */\n    suspend fun saveIndividualSongs(\n        serialNumber: String,\n        iterationNumber: Int,\n        individualSongs: List<SongTest>,\n        operatorId: String\n    ): Boolean = withContext(Dispatchers.IO) {\n        val client = SupabaseConfig.getClient()\n        if (client == null) {\n            Log.w(TAG, \"⚠️ Supabase client not configured, skipping save\")\n            return@withContext false\n        }\n        \n        try {\n            // Ensure device exists\n            val deviceExists = deviceService.ensureDeviceExists(\n                serialNumber = serialNumber,\n                macAddress = null,\n                color = null\n            )\n            \n            if (!deviceExists) {\n                Log.e(TAG, \"❌ Failed to ensure device exists, cannot save individual songs\")\n                return@withContext false\n            }\n            \n            // Only save latest 3 individual songs\n            val songsToSave = individualSongs.take(3)\n            \n            if (songsToSave.isEmpty()) {\n                Log.d(TAG, \"📝 No individual songs to save\")\n                return@withContext true\n            }\n            \n            Log.d(TAG, \"💾 Saving ${songsToSave.size} individual songs to Supabase for serial=$serialNumber, iteration=$iterationNumber\")\n            \n            // Convert to Supabase format\n            // Convert operatorId string to Long? - null if empty or invalid\n            val operatorIdLong = try {\n                if (operatorId.isBlank()) {\n                    null\n                } else {\n                    operatorId.toLongOrNull()\n                }\n            } catch (e: Exception) {\n                Log.w(TAG, \"⚠️ Could not convert operatorId '$operatorId' to Long, using null\", e)\n                null\n            }\n            \n            val insertDataList = songsToSave.map { song ->\n                SupabaseSongTest(\n                    serial_number = song.serialNumber,\n                    operator_name = song.operatorName,\n                    operator_id = operatorIdLong, // Now Long? instead of String\n                    entry_timestamp = song.entryTimestamp,\n                    exit_timestamp = song.exitTimestamp,\n                    total_time_spent = song.totalTimeSpent,\n                    song_name = song.songName,\n                    result = song.result,\n                    remark = song.remark,\n                    iteration_number = song.iterationNumber,\n                    test_stage = song.testStage,\n                    is_overall_result = false, // Individual songs are never overall\n                    timestamp = song.timestamp\n                )\n            }\n            \n            // Bulk insert individual songs\n            val response = client.from(\"song_tests\")\n                .insert(insertDataList) {\n                    select(Columns.ALL)\n                }\n            \n            val insertedTests = response.decodeList<SupabaseSongTest>()\n            \n            // Save issues for each individual song\n            // IMPORTANT: For PASS results, checklist items are NOT saved as issues\n            insertedTests.forEachIndexed { index, insertedTest ->\n                val originalSong = songsToSave[index]\n                val testId = insertedTest.test_id ?: return@forEachIndexed\n                \n                // Only save issues for FAIL/CAN_BE_PASSED - PASS results don't need issues saved\n                if (originalSong.issues.isNotBlank() && originalSong.result.uppercase() != \"PASS\") {\n                    try {\n                        saveIssues(testId, originalSong.issues)\n                    } catch (e: Exception) {\n                        Log.e(TAG, \"⚠️ Failed to save issues for individual song ${originalSong.songName}\", e)\n                    }\n                } else if (originalSong.result.uppercase() == \"PASS\") {\n                    Log.d(TAG, \"⏭️ Skipping issues save for individual song ${originalSong.songName} - PASS result\")\n                }\n            }\n            \n            Log.d(TAG, \"✅ Successfully saved ${insertedTests.size} individual songs to Supabase\")\n            return@withContext true\n            \n        } catch (e: Exception) {\n            Log.e(TAG, \"❌ Failed to save individual songs to Supabase\", e)\n            Log.e(TAG, \"Error details: ${e.message}\")\n            e.printStackTrace()\n            return@withContext false\n        }\n    }\n    \n    /**\n     * Save issues to normalized song_test_issues table.\n     * Parses issues string (can be JSON array or plain text) and saves each issue separately.\n     */\n    private suspend fun saveIssues(testId: Long, issuesString: String) {\n        val client = SupabaseConfig.getClient() ?: return\n        \n        try {\n            // Parse issues - could be JSON array or plain text\n            val issuesList = parseIssuesOrSolutions(issuesString)\n            \n            if (issuesList.isEmpty()) {\n                return\n            }\n            \n            // Convert to DTOs\n            val issuesData = issuesList.map { issueText ->\n                SupabaseSongTestIssue(\n                    test_id = testId,\n                    issue_text = issueText\n                )\n            }\n            \n            // Bulk insert all issues at once\n            if (issuesData.isNotEmpty()) {\n                client.from(\"song_test_issues\")\n                    .insert(issuesData) {\n                        select(Columns.ALL)\n                    }\n            }\n            \n            Log.d(TAG, \"✅ Saved ${issuesList.size} issues to normalized table for test_id=$testId\")\n            \n        } catch (e: Exception) {\n            Log.e(TAG, \"❌ Error saving issues to normalized table\", e)\n            throw e\n        }\n    }\n    \n    /**\n     * Save solutions to normalized song_test_solutions table.\n     * Parses solutions string (can be JSON array or plain text) and saves each solution separately.\n     */\n    private suspend fun saveSolutions(testId: Long, solutionsString: String) {\n        val client = SupabaseConfig.getClient() ?: return\n        \n        try {\n            // Parse solutions - could be JSON array or plain text\n            val solutionsList = parseIssuesOrSolutions(solutionsString)\n            \n            if (solutionsList.isEmpty()) {\n                return\n            }\n            \n            // Convert to DTOs\n            val solutionsData = solutionsList.map { solutionText ->\n                SupabaseSongTestSolution(\n                    test_id = testId,\n                    solution_text = solutionText\n                )\n            }\n            \n            // Bulk insert all solutions at once\n            if (solutionsData.isNotEmpty()) {\n                client.from(\"song_test_solutions\")\n                    .insert(solutionsData) {\n                        select(Columns.ALL)\n                    }\n            }\n            \n            Log.d(TAG, \"✅ Saved ${solutionsList.size} solutions to normalized table for test_id=$testId\")\n            \n        } catch (e: Exception) {\n            Log.e(TAG, \"❌ Error saving solutions to normalized table\", e)\n            throw e\n        }\n    }\n    \n    /**\n     * Parse issues or solutions string.\n     * Handles both JSON array format ([\"Issue 1\", \"Issue 2\"]) and plain text.\n     */\n    private fun parseIssuesOrSolutions(text: String): List<String> {\n        if (text.isBlank()) {\n            return emptyList()\n        }\n        \n        return try {\n            // Try to parse as JSON array\n            if (text.trim().startsWith(\"[\")) {\n                val json = kotlinx.serialization.json.Json\n                val jsonElement = json.parseToJsonElement(text)\n                if (jsonElement is kotlinx.serialization.json.JsonArray) {\n                    jsonElement.map { element ->\n                        if (element is kotlinx.serialization.json.JsonPrimitive) {\n                            element.content\n                        } else {\n                            element.toString()\n                        }\n                    }\n                } else {\n                    listOf(text.trim())\n                }\n            } else {\n                // Plain text - split by comma or newline, or return as single item\n                text.split(Regex(\"[,;\\\\n]\"))\n                    .map { it.trim() }\n                    .filter { it.isNotBlank() }\n                    .ifEmpty { listOf(text.trim()) } // If no delimiters, return as single item\n            }\n        } catch (e: Exception) {\n            // If parsing fails, treat as plain text\n            Log.w(TAG, \"⚠️ Failed to parse as JSON, treating as plain text: $text\")\n            listOf(text.trim())\n        }\n    }\n    \n    /**\n     * Get song tests for a specific serial number.\n     */\n    suspend fun getSongTestsForSerial(serialNumber: String): List<SongTest> = withContext(Dispatchers.IO) {\n        val client = SupabaseConfig.getClient()\n        if (client == null) {\n            Log.w(TAG, \"⚠️ Supabase client not configured, cannot get song tests\")\n            return@withContext emptyList()\n        }\n        \n        try {\n            val response = client.from(\"song_tests\")\n                .select {\n                    filter {\n                        eq(\"serial_number\", serialNumber)\n                    }\n                    order(\"entry_timestamp\", Order.DESCENDING)\n                }\n            \n            val supabaseTests = response.decodeList<SupabaseSongTest>()\n            \n            return@withContext supabaseTests.map { supabaseTest ->\n                SongTest(\n                    testId = supabaseTest.test_id ?: 0,\n                    serialNumber = supabaseTest.serial_number,\n                    operatorName = supabaseTest.operator_name,\n                    entryTimestamp = supabaseTest.entry_timestamp,\n                    exitTimestamp = supabaseTest.exit_timestamp,\n                    totalTimeSpent = supabaseTest.total_time_spent,\n                    songName = supabaseTest.song_name,\n                    result = supabaseTest.result,\n                    issues = \"\", // Issues are in normalized table, would need separate query\n                    solutions = \"\", // Solutions are in normalized table, would need separate query\n                    remark = supabaseTest.remark ?: \"\", // Handle null from Supabase\n                    timestamp = supabaseTest.timestamp,\n                    iterationNumber = supabaseTest.iteration_number,\n                    isOverallResult = supabaseTest.is_overall_result,\n                    needsSync = false, // Already synced\n                    lastSyncTimestamp = System.currentTimeMillis()\n                )\n            }\n        } catch (e: Exception) {\n            Log.e(TAG, \"❌ Failed to get song tests from Supabase\", e)\n            return@withContext emptyList()\n        }\n    }\n}\n\n",
+        "firstEditBubbleId": "1c69a70f-f047-43b9-bb01-743c2605038f",
+        "isNewlyCreated": false,
+        "newlyCreatedFolders": []
       }
     },
     "newlyCreatedFiles": [
@@ -10305,7 +10542,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768050659416,
+    "lastUpdatedAt": 1768050950450,
     "createdAt": 1767866567902,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
@@ -10380,7 +10617,7 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 60.604000091552734,
+    "contextUsagePercent": 64.93600082397461,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/MacIdCacheManager.kt",
       "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DriverPairingCacheManager.kt",
@@ -10426,8 +10663,8 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 5046,
-    "totalLinesRemoved": 881,
+    "totalLinesAdded": 5051,
+    "totalLinesRemoved": 886,
     "addedFiles": 0,
     "removedFiles": 0,
     "isArchived": false,
@@ -10450,9 +10687,9 @@
     "conversationState": "",
     "latestChatGenerationUUID": "69e60308-35bd-4074-8411-b585563fa57e",
     "isAgentic": true,
-    "subtitle": "Navigation.kt, MacIdCacheManager.kt, DriverPairingScreen.kt, FQCRepository.kt, SongTestDao.kt",
-    "filesChangedCount": 26,
+    "subtitle": "SupabaseSongTestService.kt, DeviceWorkflowService.kt, Navigation.kt, MacIdCacheManager.kt, DriverPairingScreen.kt",
+    "filesChangedCount": 27,
     "firstTodoWriteBubble": "1e8c200f-d705-4b27-b278-bc6e8b07988a"
   },
-  "extracted_at": "2026-01-10T18:43:01.176924"
+  "extracted_at": "2026-01-10T18:48:06.956553"
 }
