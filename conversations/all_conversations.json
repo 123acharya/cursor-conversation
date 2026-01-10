@@ -454,7 +454,7 @@
       "subtitle": "ERPNext_System_Understanding.md",
       "filesChangedCount": 1
     },
-    "extracted_at": "2026-01-10T16:23:48.893095"
+    "extracted_at": "2026-01-10T16:28:49.895839"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -4069,7 +4069,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-10T16:23:48.894095"
+    "extracted_at": "2026-01-10T16:28:49.896840"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -9332,10 +9332,40 @@
         {
           "bubbleId": "8c360595-88f4-4b10-ba21-581135fbca96",
           "type": 2
+        },
+        {
+          "bubbleId": "28681284-e963-4eae-ba1a-c801bd503ce3",
+          "type": 2
+        },
+        {
+          "bubbleId": "1f40d459-d8e1-4fad-b5fd-d42864ba43be",
+          "type": 1
+        },
+        {
+          "bubbleId": "2b4c5655-23b5-409d-acc9-40aea7eceefc",
+          "type": 2,
+          "serverBubbleId": "737a24b0-88ac-4c24-a8d3-292cfcbe865d"
+        },
+        {
+          "bubbleId": "cb30d274-35bd-4d0e-9823-e7733b044245",
+          "type": 2
+        },
+        {
+          "bubbleId": "deddb2a0-da97-4488-b2e4-fdba41ba8aaf",
+          "type": 2
+        },
+        {
+          "bubbleId": "543f86e2-d2b4-4ee8-91cd-4ac4657d46ba",
+          "type": 2,
+          "serverBubbleId": "33f30993-a012-4350-915c-2fa50ed0316f"
+        },
+        {
+          "bubbleId": "7d0afbed-2a81-4e7d-bcff-a6c53488c8a1",
+          "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "aborted",
+      "status": "completed",
       "context": {
         "composers": [],
         "quotes": [],
@@ -9385,7 +9415,6 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
-      "chatGenerationUUID": "55629b00-d0fc-4002-b30c-fa366bc92018",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md": {
@@ -13475,7 +13504,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768041872554,
+      "lastUpdatedAt": 1768042709297,
       "createdAt": 1767866567902,
       "hasChangedContext": false,
       "activeTabsShouldBeReactive": true,
@@ -13550,7 +13579,7 @@
       "unifiedMode": "agent",
       "forceMode": "edit",
       "usageData": {},
-      "contextUsagePercent": 47.99599838256836,
+      "contextUsagePercent": 49.89250183105469,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/MacIdCacheManager.kt",
         "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DriverPairingCacheManager.kt",
@@ -13618,13 +13647,13 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "55629b00-d0fc-4002-b30c-fa366bc92018",
+      "latestChatGenerationUUID": "8ea93e14-b5ae-49cd-8347-42e250ada7a5",
       "isAgentic": true,
       "subtitle": "MacIdCacheManager.kt, Navigation.kt, DriverPairingScreen.kt, FQCRepository.kt, SongTestDao.kt",
       "filesChangedCount": 26,
       "firstTodoWriteBubble": "1e8c200f-d705-4b27-b278-bc6e8b07988a"
     },
-    "extracted_at": "2026-01-10T16:23:48.901616"
+    "extracted_at": "2026-01-10T16:28:49.903608"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -13842,7 +13871,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-10T16:23:48.901616"
+    "extracted_at": "2026-01-10T16:28:49.903608"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -14019,6 +14048,6 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-10T16:23:48.901616"
+    "extracted_at": "2026-01-10T16:28:49.904608"
   }
 ]
