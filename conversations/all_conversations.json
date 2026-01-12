@@ -944,7 +944,7 @@
       "subtitle": "ERPNext_System_Understanding.md, ERPNext_DocTypes_Detailed_Understanding.md, fix_pcb_lookup_complete.py, fix_pcb_lookup.bat, PCB_LOOKUP_FIX_EXPLAINED.md",
       "filesChangedCount": 5
     },
-    "extracted_at": "2026-01-12T12:38:00.795736"
+    "extracted_at": "2026-01-12T12:43:00.763195"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -4559,7 +4559,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-12T12:38:00.795736"
+    "extracted_at": "2026-01-12T12:43:00.763195"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -8208,9 +8208,12 @@
           "type": 1
         },
         {
-          "bubbleId": "d481f2ea-5cf4-4e5d-ab58-4cd005f01211",
-          "type": 2,
-          "serverBubbleId": "edaf8c50-be26-4de1-a672-fc28d7ffe37f"
+          "bubbleId": "38f86483-d0b0-44b6-907f-5b3e1b663022",
+          "type": 2
+        },
+        {
+          "bubbleId": "84d7675e-1068-4258-afc8-f0aa676f5c88",
+          "type": 2
         }
       ],
       "conversationMap": {},
@@ -8264,7 +8267,6 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
-      "chatGenerationUUID": "76e13f5d-47c6-43e9-8126-3cb69c75997b",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md": {
@@ -12991,7 +12993,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768201645699,
+      "lastUpdatedAt": 1768201707438,
       "createdAt": 1767866567902,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -13066,7 +13068,7 @@
       "unifiedMode": "agent",
       "forceMode": "edit",
       "usageData": {},
-      "contextUsagePercent": 100,
+      "contextUsagePercent": 70.69300079345703,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md",
         "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/Navigation.kt",
@@ -13090,7 +13092,7 @@
         "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseFrequencyTestService.kt"
       ],
       "modelConfig": {
-        "modelName": "default",
+        "modelName": "composer-1",
         "maxMode": false
       },
       "subComposerIds": [],
@@ -13121,12 +13123,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "76e13f5d-47c6-43e9-8126-3cb69c75997b",
+      "latestChatGenerationUUID": "0b01e484-78dd-4c98-a7c6-84c485baab04",
       "isAgentic": true,
       "subtitle": "SupabaseFrequencyTestService.kt, FQCRepository.kt",
       "filesChangedCount": 28
     },
-    "extracted_at": "2026-01-12T12:38:00.795736"
+    "extracted_at": "2026-01-12T12:43:00.778821"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -13344,7 +13346,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-12T12:38:00.795736"
+    "extracted_at": "2026-01-12T12:43:00.778821"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -13521,6 +13523,6 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-12T12:38:00.795736"
+    "extracted_at": "2026-01-12T12:43:00.778821"
   }
 ]
