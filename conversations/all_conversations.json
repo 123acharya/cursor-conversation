@@ -634,10 +634,68 @@
         {
           "bubbleId": "27ee227d-e4e1-4ce2-a055-fc81e2976b56",
           "type": 2
+        },
+        {
+          "bubbleId": "8b6665de-c7f5-476a-ad11-e68466d758b0",
+          "type": 1
+        },
+        {
+          "bubbleId": "180da1e5-e8e5-42f8-90cd-fe18e153ff48",
+          "type": 2,
+          "serverBubbleId": "b9cbc2c0-3832-467c-a876-02817fdb9b9f"
+        },
+        {
+          "bubbleId": "d065634f-c0a2-4866-b0e4-9137ca5e894e",
+          "type": 2
+        },
+        {
+          "bubbleId": "dd576540-5d58-4cfc-8df6-00f28bad96ce",
+          "type": 2
+        },
+        {
+          "bubbleId": "764da9cd-fd3e-4c20-9c36-83eabafef0ed",
+          "type": 2
+        },
+        {
+          "bubbleId": "34fa76ae-a8f7-4daa-a1bd-de7265a984e8",
+          "type": 2
+        },
+        {
+          "bubbleId": "bf953d1b-a50c-48da-9d8e-3d6ec89843f1",
+          "type": 2
+        },
+        {
+          "bubbleId": "83b8f87e-f86b-42d9-a463-44c48655c3ca",
+          "type": 2
+        },
+        {
+          "bubbleId": "9aefd526-c689-442c-ab3a-4f1be085d8e5",
+          "type": 2
+        },
+        {
+          "bubbleId": "7347253f-43da-457f-8089-db2602d1118d",
+          "type": 2
+        },
+        {
+          "bubbleId": "afcf2f83-f3b8-410e-a9f4-513a15093620",
+          "type": 2,
+          "serverBubbleId": "6490512d-1299-484e-9c5d-9f00b8550f02"
+        },
+        {
+          "bubbleId": "c8fe773e-5568-4d39-8e5c-1cd289f65b98",
+          "type": 2
+        },
+        {
+          "bubbleId": "d4a108aa-66bd-40d3-a223-1df5974298d1",
+          "type": 1
+        },
+        {
+          "bubbleId": "5b5a7b25-7fa8-4156-bd03-a01a0681567a",
+          "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "completed",
+      "status": "aborted",
       "context": {
         "composers": [],
         "quotes": [],
@@ -677,7 +735,8 @@
           "useWeb": [],
           "folderSelections": {},
           "fileSelections": {
-            "file:///c%3A/Users/pc/Downloads/erpnext%20conversation%20with%20chatgpt.txt": []
+            "file:///c%3A/Users/pc/Downloads/erpnext%20conversation%20with%20chatgpt.txt": [],
+            "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt": []
           },
           "terminalFiles": {},
           "selections": {
@@ -707,6 +766,7 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
+      "chatGenerationUUID": "955f36d5-338b-4a43-943a-5860a01501ce",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -903,6 +963,160 @@
             "lastDiffId": "b87f20e0-dd7a-4d1d-827c-8ab42095940c",
             "lastAppliedAt": 1768213630216
           }
+        },
+        "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt": {
+          "ed1a0fb6-7ed3-4658-987c-5bde5bdb33b3": {
+            "_v": 3,
+            "bubbleId": "764da9cd-fd3e-4c20-9c36-83eabafef0ed",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "ed1a0fb6-7ed3-4658-987c-5bde5bdb33b3",
+            "status": "completed",
+            "languageId": "plaintext",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768226431581,
+            "composerChatGenerationUuid": "2eb8500f-2c28-4b32-86e4-3dc33b6e032a",
+            "diffId": "3f35b4f5-8697-4182-b6cb-4b1678118d50",
+            "lastDiffId": "f0284f53-12f5-4909-ade1-a901d919f14f",
+            "lastAppliedAt": 1768226432644
+          },
+          "4fc092c1-17cb-4d90-a0b9-ffa55fb6bffd": {
+            "_v": 3,
+            "bubbleId": "34fa76ae-a8f7-4daa-a1bd-de7265a984e8",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "4fc092c1-17cb-4d90-a0b9-ffa55fb6bffd",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "ed1a0fb6-7ed3-4658-987c-5bde5bdb33b3",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768226433015,
+            "composerChatGenerationUuid": "2eb8500f-2c28-4b32-86e4-3dc33b6e032a",
+            "diffId": "c17730a0-1176-4886-8a1e-9358555af9af",
+            "lastDiffId": "992c0771-3fe1-40a6-9a50-53c8b04efaf5",
+            "lastAppliedAt": 1768226434354
+          },
+          "2278879a-321d-430a-a6f8-529e128fdf2c": {
+            "_v": 3,
+            "bubbleId": "bf953d1b-a50c-48da-9d8e-3d6ec89843f1",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "2278879a-321d-430a-a6f8-529e128fdf2c",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "4fc092c1-17cb-4d90-a0b9-ffa55fb6bffd",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768226434781,
+            "composerChatGenerationUuid": "2eb8500f-2c28-4b32-86e4-3dc33b6e032a",
+            "diffId": "133c0074-f7ce-4d32-9157-64e74f14ced1",
+            "lastDiffId": "5e2d1755-e6f1-40d8-897b-d4990d46e9b4",
+            "lastAppliedAt": 1768226435681
+          },
+          "620ab575-fadb-4885-9b24-5abc3ef66d2f": {
+            "_v": 3,
+            "bubbleId": "83b8f87e-f86b-42d9-a463-44c48655c3ca",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "620ab575-fadb-4885-9b24-5abc3ef66d2f",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "2278879a-321d-430a-a6f8-529e128fdf2c",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768226436052,
+            "composerChatGenerationUuid": "2eb8500f-2c28-4b32-86e4-3dc33b6e032a",
+            "diffId": "e704d872-959f-4009-86d3-f30516d94f60",
+            "lastDiffId": "52980379-b47d-435e-8fed-bfb2b2bb12af",
+            "lastAppliedAt": 1768226436915
+          },
+          "65d9f118-8e62-42f0-b682-6acca3a03d62": {
+            "_v": 3,
+            "bubbleId": "9aefd526-c689-442c-ab3a-4f1be085d8e5",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "65d9f118-8e62-42f0-b682-6acca3a03d62",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "620ab575-fadb-4885-9b24-5abc3ef66d2f",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768226437305,
+            "composerChatGenerationUuid": "2eb8500f-2c28-4b32-86e4-3dc33b6e032a",
+            "diffId": "6b30fa62-07ba-4b2d-8da5-60120a43d4b6",
+            "lastDiffId": "4df6ed70-a15d-42b7-b165-6df526eddcec",
+            "lastAppliedAt": 1768226438216
+          },
+          "283b9b8b-6584-4b76-bb85-03e16c8545fb": {
+            "_v": 3,
+            "bubbleId": "7347253f-43da-457f-8089-db2602d1118d",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "283b9b8b-6584-4b76-bb85-03e16c8545fb",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "65d9f118-8e62-42f0-b682-6acca3a03d62",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768226438599,
+            "composerChatGenerationUuid": "2eb8500f-2c28-4b32-86e4-3dc33b6e032a",
+            "diffId": "c5bd84de-08bb-42c0-909d-b47e13e63aab",
+            "lastDiffId": "b59899ad-7891-4acd-8d82-797d61781190",
+            "lastAppliedAt": 1768226439551
+          }
         }
       },
       "originalFileStates": {
@@ -959,6 +1173,12 @@
           "firstEditBubbleId": "75b1a2b0-cb5a-4d81-a40f-2e1b9f1bbfaa",
           "isNewlyCreated": true,
           "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt": {
+          "content": "// =====================================================\r\n// STOCK ENTRY Client Script (FULL) — STABLE + SUBMIT GUARD + REUSE SPECIAL\r\n//\r\n// ✅ Warehouses set correctly on Type change\r\n// ✅ No warehouse reset on Save / Refresh\r\n// ✅ Default Target Warehouse will NOT go blank after Save\r\n// ✅ Parent + row warehouse dropdown restrictions (MFG Transfer / Rejected from Assembly)\r\n// ✅ PCB-only types (single PA01 row / remove other items)\r\n// ✅ PCB scan table + qty sync\r\n// ✅ Submit Guard checklist (item_code/qty/wh/availability)\r\n// ✅ Enforce Default WH == Row WH (with ONE exception: Reuse + PCB row)\r\n// ✅ Reuse rule:\r\n//    - Non-PCB items: Target = INCOMING-QC - R\r\n//    - PCB item (PA01 0001): Target = PTS Testing - R\r\n// =====================================================\r\n\r\n(() => {\r\n  if (window.__SE_FULL_SCRIPT_LOADED__) return;\r\n  window.__SE_FULL_SCRIPT_LOADED__ = true;\r\n\r\n  // =====================================================\r\n  // CONFIG\r\n  // =====================================================\r\n\r\n  const FIELD_FROM = \"from_warehouse\";\r\n  const FIELD_TO   = \"to_warehouse\";\r\n  const FIELD_TYPE = \"stock_entry_type\";\r\n\r\n  const ITEMS_TABLE = \"items\";\r\n  const ROW_S_WH = \"s_warehouse\";\r\n  const ROW_T_WH = \"t_warehouse\";\r\n  const SE_ITEM_QTY_FIELD = \"qty\";\r\n\r\n  // ---- PCB Item ----\r\n  const PCB_ITEM_CODE = \"PA01 0001\";\r\n  const PCB_ITEM_LABEL = \"PA01 0001\";\r\n\r\n  // ---- Stock Entry Types (must match EXACTLY) ----\r\n  const TYPE_IQC_ACCEPT   = \"IQC-Accept\";\r\n  const TYPE_IQC_REJECT   = \"IQC-Reject\";\r\n  const TYPE_PTS_TRANSFER = \"Transfereing PCB to PTS testing\";\r\n  const TYPE_PCB_ACCEPT   = \"PCB-IQC-Accept\";\r\n  const TYPE_PCB_REJECT   = \"PCB-IQC-Reject\";\r\n  const TYPE_MFG_TRANSFER = \"Material Transfer for Manufacture\";\r\n  const TYPE_REJ_ASM      = \"Rejected from Assembly\";\r\n  const TYPE_REUSE        = \"Reuse\";\r\n\r\n  // ---- Stock Entry custom PCB fields ----\r\n  const PCB_SECTION_FIELD = \"custom_pcb_entry_section\";\r\n  const PCB_SCAN_FIELD    = \"custom_pcb_scan\";\r\n  const PCB_TABLE_FIELD   = \"custom_pcb\";\r\n\r\n  // ---- PCB child table field ----\r\n  const PCB_SERIAL_FIELD  = \"pcb_serial_no\";\r\n\r\n  // ---- Warehouses ----\r\n  const WH_INCOMING = \"INCOMING-QC - R\";\r\n  const WH_STORE    = \"Stores - R\";\r\n  const WH_REJECTED = \"Rejected items - R\";\r\n  const WH_PTS      = \"PTS Testing - R\";\r\n\r\n  // Restrict targets for Manufacture transfer\r\n  const ALLOWED_ASSEMBLY_TARGETS = [\r\n    \"Assembly1 - R\",\r\n    \"Assembly2 - R\",\r\n    \"Assembly3 - R\",\r\n    \"Packing - R\",\r\n  ];\r\n\r\n  // Restrict sources for Rejected from Assembly\r\n  const ALLOWED_ASSEMBLY_SOURCES = [\r\n    \"Assembly1 - R\",\r\n    \"Assembly2 - R\",\r\n    \"Assembly3 - R\",\r\n    \"Packing - R\",\r\n  ];\r\n\r\n  // ---- Warehouse mapping (parent defaults) ----\r\n  // NOTE: Reuse parent target stays Incoming QC. PCB row target is forced to PTS.\r\n  const MAP = {\r\n    [TYPE_IQC_ACCEPT]:   { from: WH_INCOMING, to: WH_STORE },\r\n    [TYPE_IQC_REJECT]:   { from: WH_INCOMING, to: WH_REJECTED },\r\n\r\n    [TYPE_PTS_TRANSFER]: { from: WH_INCOMING, to: WH_PTS },\r\n\r\n    [TYPE_PCB_ACCEPT]:   { from: WH_PTS,      to: WH_STORE },\r\n    [TYPE_PCB_REJECT]:   { from: WH_PTS,      to: WH_REJECTED },\r\n\r\n    // Manufacture transfer: force Source, operator picks Target\r\n    [TYPE_MFG_TRANSFER]: { from: WH_STORE,    to: null },\r\n\r\n    // Rejected from Assembly: operator picks source among 4, target fixed\r\n    [TYPE_REJ_ASM]:      { from: null,        to: WH_REJECTED },\r\n\r\n    // Reuse\r\n    [TYPE_REUSE]:        { from: WH_REJECTED, to: WH_INCOMING },\r\n  };\r\n\r\n  // ---- Type Rules ----\r\n  const TYPES_BLOCK_PCB_ITEM = new Set([TYPE_IQC_ACCEPT, TYPE_IQC_REJECT]);\r\n  const TYPES_ONLY_PCB_ITEM  = new Set([TYPE_PTS_TRANSFER, TYPE_PCB_ACCEPT, TYPE_PCB_REJECT]);\r\n\r\n  const TYPES_PCB_SCAN_ALLOWED = new Set([\r\n    TYPE_PTS_TRANSFER,\r\n    TYPE_PCB_ACCEPT,\r\n    TYPE_PCB_REJECT,\r\n    TYPE_MFG_TRANSFER,\r\n    TYPE_REJ_ASM,\r\n    TYPE_REUSE,\r\n  ]);\r\n\r\n  // =====================================================\r\n  // HELPERS (no regex, no escapes)\r\n  // =====================================================\r\n\r\n  function strip_ws_upper(s) {\r\n    const x = (s || \"\").toString();\r\n    let out = \"\";\r\n    for (let i = 0; i < x.length; i++) {\r\n      const c = x[i];\r\n      const code = x.charCodeAt(i);\r\n      const is_ws = (code <= 32); // space/tab/newline etc\r\n      if (!is_ws) out += c;\r\n    }\r\n    return out.toUpperCase();\r\n  }\r\n\r\n  function clean_serial(s) {\r\n    const x = (s || \"\").toString();\r\n    let out = \"\";\r\n    for (let i = 0; i < x.length; i++) {\r\n      const code = x.charCodeAt(i);\r\n      const is_ws = (code <= 32);\r\n      if (!is_ws) out += x[i];\r\n    }\r\n    return out.trim();\r\n  }\r\n\r\n  function is_pcb_item_code(item_code) {\r\n    return strip_ws_upper(item_code) === strip_ws_upper(PCB_ITEM_CODE);\r\n  }\r\n\r\n  function get_type(frm) {\r\n    return (frm.doc[FIELD_TYPE] || \"\").trim();\r\n  }\r\n\r\n  function show_msg(title, message, indicator = \"orange\") {\r\n    frappe.show_alert({ message: title, indicator }, 4);\r\n    frappe.msgprint({ title, indicator, message });\r\n  }\r\n\r\n  function has_pcb_item(frm) {\r\n    return (frm.doc[ITEMS_TABLE] || []).some(r => is_pcb_item_code(r.item_code));\r\n  }\r\n\r\n  function find_pcb_item_rows(frm) {\r\n    return (frm.doc[ITEMS_TABLE] || []).filter(r => is_pcb_item_code(r.item_code));\r\n  }\r\n\r\n  function force_toggle(frm, fieldname, show) {\r\n    const f = frm.get_field(fieldname);\r\n    if (f && f.wrapper) $(f.wrapper).toggle(!!show);\r\n    frm.set_df_property(fieldname, \"hidden\", show ? 0 : 1);\r\n    frm.refresh_field(fieldname);\r\n  }\r\n\r\n  function apply_row_defaults_if_blank(frm, fromWh, toWh) {\r\n    (frm.doc[ITEMS_TABLE] || []).forEach(r => {\r\n      if (!r) return;\r\n      if (fromWh && !r[ROW_S_WH]) frappe.model.set_value(r.doctype, r.name, ROW_S_WH, fromWh);\r\n      if (toWh && !r[ROW_T_WH])   frappe.model.set_value(r.doctype, r.name, ROW_T_WH, toWh);\r\n    });\r\n  }\r\n\r\n  // Reuse special: PCB row -> PTS, others -> Incoming\r\n  function apply_reuse_row_targets(frm) {\r\n    if (get_type(frm) !== TYPE_REUSE) return;\r\n\r\n    (frm.doc[ITEMS_TABLE] || []).forEach(r => {\r\n      if (!r || !r.item_code) return;\r\n\r\n      const desired_to = is_pcb_item_code(r.item_code) ? WH_PTS : WH_INCOMING;\r\n      if (r[ROW_T_WH] !== desired_to) {\r\n        frappe.model.set_value(r.doctype, r.name, ROW_T_WH, desired_to);\r\n      }\r\n\r\n      if (frm.doc[FIELD_FROM] && r[ROW_S_WH] !== frm.doc[FIELD_FROM]) {\r\n        frappe.model.set_value(r.doctype, r.name, ROW_S_WH, frm.doc[FIELD_FROM]);\r\n      }\r\n    });\r\n  }\r\n\r\n  // =====================================================\r\n  // QUERIES (filters only)\r\n  // =====================================================\r\n\r\n  function apply_queries(frm, fromWh, toWh, typeName) {\r\n    frm.set_query(FIELD_FROM, () => {\r\n      if (fromWh) return { filters: { name: fromWh } };\r\n      if (typeName === TYPE_REJ_ASM) return { filters: { name: [\"in\", ALLOWED_ASSEMBLY_SOURCES] } };\r\n      return {};\r\n    });\r\n\r\n    frm.set_query(FIELD_TO, () => {\r\n      if (toWh) return { filters: { name: toWh } };\r\n      if (typeName === TYPE_MFG_TRANSFER) return { filters: { name: [\"in\", ALLOWED_ASSEMBLY_TARGETS] } };\r\n      return {};\r\n    });\r\n\r\n    frm.set_query(ROW_T_WH, ITEMS_TABLE, () => {\r\n      if (typeName === TYPE_MFG_TRANSFER) return { filters: { name: [\"in\", ALLOWED_ASSEMBLY_TARGETS] } };\r\n      return {};\r\n    });\r\n\r\n    frm.set_query(ROW_S_WH, ITEMS_TABLE, () => {\r\n      if (typeName === TYPE_REJ_ASM) return { filters: { name: [\"in\", ALLOWED_ASSEMBLY_SOURCES] } };\r\n      return {};\r\n    });\r\n\r\n    const itemsField = frm.fields_dict && frm.fields_dict[ITEMS_TABLE];\r\n    if (itemsField && itemsField.grid) {\r\n      const grid = itemsField.grid;\r\n\r\n      const tw = grid.get_field(ROW_T_WH);\r\n      if (tw) {\r\n        tw.get_query = () => {\r\n          if (typeName === TYPE_MFG_TRANSFER) return { filters: { name: [\"in\", ALLOWED_ASSEMBLY_TARGETS] } };\r\n          return {};\r\n        };\r\n      }\r\n\r\n      const sw = grid.get_field(ROW_S_WH);\r\n      if (sw) {\r\n        sw.get_query = () => {\r\n          if (typeName === TYPE_REJ_ASM) return { filters: { name: [\"in\", ALLOWED_ASSEMBLY_SOURCES] } };\r\n          return {};\r\n        };\r\n      }\r\n    }\r\n  }\r\n\r\n  // =====================================================\r\n  // PCB-only enforcement\r\n  // =====================================================\r\n\r\n  function force_single_pa01_row(frm) {\r\n    frm.clear_table(ITEMS_TABLE);\r\n\r\n    const r = frm.add_child(ITEMS_TABLE);\r\n    frappe.model.set_value(r.doctype, r.name, \"item_code\", PCB_ITEM_CODE);\r\n    frappe.model.set_value(r.doctype, r.name, \"qty\", 0);\r\n\r\n    if (frm.doc[FIELD_FROM]) frappe.model.set_value(r.doctype, r.name, ROW_S_WH, frm.doc[FIELD_FROM]);\r\n    if (frm.doc[FIELD_TO])   frappe.model.set_value(r.doctype, r.name, ROW_T_WH, frm.doc[FIELD_TO]);\r\n\r\n    frm.refresh_field(ITEMS_TABLE);\r\n  }\r\n\r\n  function ensure_pcb_only_item_row(frm) {\r\n    const typeName = get_type(frm);\r\n\r\n    if (typeName === TYPE_PCB_ACCEPT || typeName === TYPE_PCB_REJECT) {\r\n      force_single_pa01_row(frm);\r\n      return;\r\n    }\r\n\r\n    if (typeName === TYPE_PTS_TRANSFER) {\r\n      const rows = (frm.doc[ITEMS_TABLE] || []);\r\n      const nonPcbRows = rows.filter(r => r.item_code && !is_pcb_item_code(r.item_code));\r\n\r\n      if (nonPcbRows.length) {\r\n        nonPcbRows.forEach(r => frappe.model.clear_doc(r.doctype, r.name));\r\n        frm.refresh_field(ITEMS_TABLE);\r\n        show_msg(\r\n          \"Only PA01 allowed\",\r\n          `For <b>${TYPE_PTS_TRANSFER}</b>, only <b>${PCB_ITEM_LABEL}</b> is allowed. Other items were removed.`,\r\n          \"red\"\r\n        );\r\n      }\r\n\r\n      const pcbRows = (frm.doc[ITEMS_TABLE] || []).filter(r => is_pcb_item_code(r.item_code));\r\n      if (pcbRows.length > 1) {\r\n        pcbRows.slice(1).forEach(r => frappe.model.clear_doc(r.doctype, r.name));\r\n        frm.refresh_field(ITEMS_TABLE);\r\n        show_msg(\r\n          \"Only one PA01 row allowed\",\r\n          `For <b>${TYPE_PTS_TRANSFER}</b>, keep only one row of <b>${PCB_ITEM_LABEL}</b>. Extra rows were removed.`,\r\n          \"red\"\r\n        );\r\n      }\r\n    }\r\n  }\r\n\r\n  // =====================================================\r\n  // Apply defaults (only on new doc / type change)\r\n  // =====================================================\r\n\r\n  function apply_type_defaults(frm, { force = false } = {}) {\r\n    const typeName = get_type(frm);\r\n    const cfg = MAP[typeName];\r\n\r\n    apply_queries(frm, cfg?.from || null, cfg?.to || null, typeName);\r\n\r\n    if (!cfg) {\r\n      ensure_pcb_only_item_row(frm);\r\n      return;\r\n    }\r\n\r\n    if (!force && frm.__se_last_type_applied === typeName) {\r\n      ensure_pcb_only_item_row(frm);\r\n      return;\r\n    }\r\n    frm.__se_last_type_applied = typeName;\r\n\r\n    // IMPORTANT FIX: on type change we set correct warehouses\r\n    if (force) {\r\n      if (cfg.from) frm.set_value(FIELD_FROM, cfg.from);\r\n      else frm.set_value(FIELD_FROM, \"\");\r\n\r\n      if (cfg.to) frm.set_value(FIELD_TO, cfg.to);\r\n      else frm.set_value(FIELD_TO, \"\");\r\n    } else {\r\n      if (cfg.from && !frm.doc[FIELD_FROM]) frm.set_value(FIELD_FROM, cfg.from);\r\n      if (cfg.to && !frm.doc[FIELD_TO])     frm.set_value(FIELD_TO, cfg.to);\r\n    }\r\n\r\n    apply_row_defaults_if_blank(frm, cfg.from, cfg.to);\r\n    apply_reuse_row_targets(frm);\r\n    ensure_pcb_only_item_row(frm);\r\n  }\r\n\r\n  // =====================================================\r\n  // PCB UI + QTY sync\r\n  // =====================================================\r\n\r\n  function clear_pcb_block(frm) {\r\n    if (frm.fields_dict[PCB_SCAN_FIELD]) frm.set_value(PCB_SCAN_FIELD, \"\");\r\n    if (frm.fields_dict[PCB_TABLE_FIELD]) {\r\n      frm.clear_table(PCB_TABLE_FIELD);\r\n      frm.refresh_field(PCB_TABLE_FIELD);\r\n    }\r\n    sync_pcb_qty_to_item(frm);\r\n  }\r\n\r\n  function is_pcb_section_allowed(frm) {\r\n    return TYPES_PCB_SCAN_ALLOWED.has(get_type(frm));\r\n  }\r\n\r\n  function toggle_pcb_ui(frm) {\r\n    const show = is_pcb_section_allowed(frm) && has_pcb_item(frm);\r\n\r\n    if (PCB_SECTION_FIELD) force_toggle(frm, PCB_SECTION_FIELD, show);\r\n    if (PCB_SCAN_FIELD)    force_toggle(frm, PCB_SCAN_FIELD, show);\r\n    if (PCB_TABLE_FIELD)   force_toggle(frm, PCB_TABLE_FIELD, show);\r\n\r\n    if (!show) clear_pcb_block(frm);\r\n  }\r\n\r\n  function toggle_pcb_ui_late(frm) {\r\n    setTimeout(() => toggle_pcb_ui(frm), 50);\r\n    setTimeout(() => toggle_pcb_ui(frm), 250);\r\n    setTimeout(() => toggle_pcb_ui(frm), 800);\r\n  }\r\n\r\n  function focus_scan(frm) {\r\n    setTimeout(() => {\r\n      const f = frm.get_field(PCB_SCAN_FIELD);\r\n      if (f && f.$input) {\r\n        f.$input.focus();\r\n        f.$input.select();\r\n      }\r\n    }, 80);\r\n  }\r\n\r\n  function get_existing_serials(frm) {\r\n    const seen = new Set();\r\n    (frm.doc[PCB_TABLE_FIELD] || []).forEach(r => {\r\n      const v = (r[PCB_SERIAL_FIELD] || \"\").toString().trim();\r\n      if (v) seen.add(v);\r\n    });\r\n    return seen;\r\n  }\r\n\r\n  function count_pcb_rows(frm) {\r\n    let n = 0;\r\n    (frm.doc[PCB_TABLE_FIELD] || []).forEach(r => {\r\n      const v = (r[PCB_SERIAL_FIELD] || \"\").toString().trim();\r\n      if (v) n += 1;\r\n    });\r\n    return n;\r\n  }\r\n\r\n  function sync_pcb_qty_to_item(frm) {\r\n    const pcb_count = count_pcb_rows(frm);\r\n    const rows = find_pcb_item_rows(frm);\r\n    if (!rows.length) return;\r\n\r\n    const r0 = rows[0];\r\n    const cur = Number(r0[SE_ITEM_QTY_FIELD] || 0);\r\n\r\n    if (cur !== pcb_count) {\r\n      frm.__pcb_qty_syncing = true;\r\n      frappe.model\r\n        .set_value(r0.doctype, r0.name, SE_ITEM_QTY_FIELD, pcb_count)\r\n        .finally(() => (frm.__pcb_qty_syncing = false));\r\n    }\r\n  }\r\n\r\n  // =====================================================\r\n  // Item rules\r\n  // =====================================================\r\n\r\n  function enforce_item_rules(frm, cdt, cdn) {\r\n    const typeName = get_type(frm);\r\n    const row = locals[cdt][cdn];\r\n\r\n    if (TYPES_BLOCK_PCB_ITEM.has(typeName) && is_pcb_item_code(row.item_code)) {\r\n      frappe.model.set_value(cdt, cdn, \"item_code\", \"\");\r\n      frappe.model.set_value(cdt, cdn, \"qty\", 0);\r\n      show_msg(\r\n        \"PCB item not allowed in this type\",\r\n        `You selected <b>${typeName}</b>.<br><br>For PCB, use <b>${TYPE_PCB_ACCEPT}</b> or <b>${TYPE_PCB_REJECT}</b>.`,\r\n        \"red\"\r\n      );\r\n      toggle_pcb_ui_late(frm);\r\n      return;\r\n    }\r\n\r\n    if (TYPES_ONLY_PCB_ITEM.has(typeName)) {\r\n      if (row.item_code && !is_pcb_item_code(row.item_code)) {\r\n        frappe.model.set_value(cdt, cdn, \"item_code\", \"\");\r\n        frappe.model.set_value(cdt, cdn, \"qty\", 0);\r\n        show_msg(\r\n          \"Only PA01 allowed\",\r\n          `For <b>${typeName}</b>, only <b>${PCB_ITEM_LABEL}</b> is allowed in Items.`,\r\n          \"red\"\r\n        );\r\n        toggle_pcb_ui_late(frm);\r\n        return;\r\n      }\r\n\r\n      if (is_pcb_item_code(row.item_code)) {\r\n        const all_pcb_rows = find_pcb_item_rows(frm);\r\n        if (all_pcb_rows.length > 1) {\r\n          frappe.model.set_value(cdt, cdn, \"item_code\", \"\");\r\n          frappe.model.set_value(cdt, cdn, \"qty\", 0);\r\n          show_msg(\r\n            \"Only one PA01 row allowed\",\r\n            `For <b>${typeName}</b>, keep only one row of <b>${PCB_ITEM_LABEL}</b>.`,\r\n            \"red\"\r\n          );\r\n          toggle_pcb_ui_late(frm);\r\n          return;\r\n        }\r\n      }\r\n    }\r\n\r\n    if (typeName === TYPE_REUSE) apply_reuse_row_targets(frm);\r\n\r\n    toggle_pcb_ui_late(frm);\r\n  }\r\n\r\n  // =====================================================\r\n  // PCB scan -> add row\r\n  // =====================================================\r\n\r\n  async function validate_serial_for_type(frm, serial) {\r\n    // TEMP: allow all serials for now (server checks will be added later)\r\n    return { ok: true };\r\n  }\r\n\r\n  async function add_pcb_serial(frm, raw) {\r\n    const serial = clean_serial(raw);\r\n    if (!serial) return;\r\n\r\n    const typeName = get_type(frm);\r\n\r\n    if (!is_pcb_section_allowed(frm)) {\r\n      frm.set_value(PCB_SCAN_FIELD, \"\");\r\n      show_msg(\"PCB scanning not allowed\", `Current type: <b>${typeName || \"(blank)\"}</b>.`, \"red\");\r\n      return;\r\n    }\r\n\r\n    if (!has_pcb_item(frm)) {\r\n      frm.set_value(PCB_SCAN_FIELD, \"\");\r\n      show_msg(\"PA01 missing\", `Add <b>${PCB_ITEM_LABEL}</b> in Items before scanning.`, \"red\");\r\n      return;\r\n    }\r\n\r\n    const seen = get_existing_serials(frm);\r\n    if (seen.has(serial)) {\r\n      frappe.show_alert({ message: `Duplicate: ${serial}`, indicator: \"orange\" }, 2);\r\n      frm.set_value(PCB_SCAN_FIELD, \"\");\r\n      focus_scan(frm);\r\n      return;\r\n    }\r\n\r\n    if (frm.__pcb_scan_busy) {\r\n      frappe.show_alert({ message: \"Please wait…\", indicator: \"blue\" }, 1);\r\n      return;\r\n    }\r\n\r\n    frm.__pcb_scan_busy = true;\r\n\r\n    const v = await validate_serial_for_type(frm, serial);\r\n    if (!v.ok) {\r\n      frm.__pcb_scan_busy = false;\r\n      frm.set_value(PCB_SCAN_FIELD, \"\");\r\n      show_msg(v.msg_title || \"Blocked\", v.msg_body || \"Not allowed\", \"red\");\r\n      focus_scan(frm);\r\n      return;\r\n    }\r\n\r\n    const row = frm.add_child(PCB_TABLE_FIELD);\r\n\r\n    // Lookup PCB IQC Line data\r\n    try {\r\n      const iqc_data = await frappe.call({\r\n        method: \"erpnext.api.pcb.get_pcb_iqc_data\",\r\n        args: { serial_no: serial }\r\n      });\r\n    \r\n      if (iqc_data && iqc_data.message) {\r\n        const data = iqc_data.message;\r\n        // Populate row with fetched data\r\n        if (data.overall_status) row.overall_status = data.overall_status;\r\n        if (data.pts1_status) row.pts1_status = data.pts1_status;\r\n        if (data.pts2_status) row.pts2_status = data.pts2_status;\r\n        if (data.pts3_status) row.pts3_status = data.pts3_status;\r\n        if (data.iqc_date) row.iqc_date = data.iqc_date;\r\n        if (data.dominant_channel) row.dominant_channel = data.dominant_channel;\r\n        if (data.max_value !== undefined) row.max_value = data.max_value;\r\n        if (data.item_code) row.item_code = data.item_code;\r\n      }\r\n    } catch (err) {\r\n      // If lookup fails, use defaults (Pending)\r\n      console.log(\"PCB IQC Line lookup failed:\", err);\r\n    }\r\n\r\n    // Set serial number (always set, even if lookup failed)\r\n    row[PCB_SERIAL_FIELD] = serial;\r\n\r\n    frm.refresh_field(PCB_TABLE_FIELD);\r\n    frm.set_value(PCB_SCAN_FIELD, \"\");\r\n    sync_pcb_qty_to_item(frm);\r\n    focus_scan(frm);\r\n\r\n    frm.__pcb_scan_busy = false;\r\n  }\r\n\r\n  function bind_scan_listener(frm) {\r\n    const f = frm.get_field(PCB_SCAN_FIELD);\r\n    if (!f || !f.$input) return;\r\n\r\n    if (f.$input.data(\"pcb_scan_bound\")) return;\r\n    f.$input.data(\"pcb_scan_bound\", true);\r\n\r\n    f.$input.on(\"keyup\", (e) => {\r\n      if (e.key === \"Enter\") {\r\n        e.preventDefault();\r\n        setTimeout(async () => {\r\n          const raw = f.$input.val() || \"\";\r\n          await add_pcb_serial(frm, raw);\r\n        }, 30);\r\n      }\r\n    });\r\n\r\n    f.$input.on(\"change\", () => {\r\n      setTimeout(async () => {\r\n        const raw = f.$input.val() || \"\";\r\n        await add_pcb_serial(frm, raw);\r\n      }, 30);\r\n    });\r\n  }\r\n\r\n  // =====================================================\r\n  // Submit guard\r\n  // =====================================================\r\n\r\n  function block_submit_with_checklist(frm, issues) {\r\n    frappe.validated = false;\r\n\r\n    const msg = `\r\n      <div style=\"font-size:13px;\">\r\n        <p><b>Cannot Submit.</b> Please fix the below and try again:</p>\r\n        <ol>\r\n          ${issues.map(x => `<li>${x}</li>`).join(\"\")}\r\n        </ol>\r\n        <p style=\"margin-top:8px;\">Tip: Click <b>Update Rate and Availability</b> before submitting.</p>\r\n      </div>\r\n    `;\r\n\r\n    frappe.msgprint({\r\n      title: \"Fix before Submit\",\r\n      indicator: \"red\",\r\n      message: msg,\r\n    });\r\n  }\r\n\r\n  function get_actual_qty(row) {\r\n    const v = row.actual_qty;\r\n    if (v === null || v === undefined || v === \"\") return null;\r\n    const n = Number(v);\r\n    return Number.isFinite(n) ? n : null;\r\n  }\r\n\r\n  function validate_before_submit(frm) {\r\n    const typeName = get_type(frm);\r\n    const issues = [];\r\n\r\n    const items = frm.doc.items || [];\r\n    if (!items.length) issues.push(\"Add at least one item in <b>Items</b> table.\");\r\n\r\n    if (typeName === TYPE_MFG_TRANSFER) {\r\n      if (!frm.doc.from_warehouse) issues.push(\"Select <b>Default Source Warehouse</b>.\");\r\n      if (!frm.doc.to_warehouse) issues.push(\"Select <b>Default Target Warehouse</b> (Assembly/Packing).\");\r\n      if (frm.doc.to_warehouse && !ALLOWED_ASSEMBLY_TARGETS.includes(frm.doc.to_warehouse)) {\r\n        issues.push(`Target Warehouse must be one of: <b>${ALLOWED_ASSEMBLY_TARGETS.join(\", \")}</b>.`);\r\n      }\r\n    }\r\n\r\n    if (typeName === TYPE_REJ_ASM) {\r\n      if (!frm.doc.from_warehouse) issues.push(\"Select <b>Default Source Warehouse</b> (Assembly/Packing).\");\r\n      if (frm.doc.from_warehouse && !ALLOWED_ASSEMBLY_SOURCES.includes(frm.doc.from_warehouse)) {\r\n        issues.push(`Source Warehouse must be one of: <b>${ALLOWED_ASSEMBLY_SOURCES.join(\", \")}</b>.`);\r\n      }\r\n      if (!frm.doc.to_warehouse) issues.push(\"Target should be <b>Rejected items - R</b>.\");\r\n    }\r\n\r\n    items.forEach((r, idx) => {\r\n      const rowNo = idx + 1;\r\n\r\n      if (!r.item_code) issues.push(`Row ${rowNo}: <b>Item Code</b> is missing.`);\r\n      const qty = Number(r.qty || 0);\r\n      if (!qty || qty <= 0) issues.push(`Row ${rowNo}: <b>Qty</b> must be greater than 0.`);\r\n\r\n      if (!r.s_warehouse) issues.push(`Row ${rowNo}: <b>Source Warehouse</b> is missing.`);\r\n      if (!r.t_warehouse && typeName !== TYPE_MFG_TRANSFER) issues.push(`Row ${rowNo}: <b>Target Warehouse</b> is missing.`);\r\n      if (typeName === TYPE_MFG_TRANSFER && !r.t_warehouse) issues.push(`Row ${rowNo}: <b>Target Warehouse</b> is missing (Assembly/Packing).`);\r\n\r\n      if (typeName === TYPE_MFG_TRANSFER && r.t_warehouse && !ALLOWED_ASSEMBLY_TARGETS.includes(r.t_warehouse)) {\r\n        issues.push(`Row ${rowNo}: Target must be one of <b>${ALLOWED_ASSEMBLY_TARGETS.join(\", \")}</b>.`);\r\n      }\r\n      if (typeName === TYPE_REJ_ASM && r.s_warehouse && !ALLOWED_ASSEMBLY_SOURCES.includes(r.s_warehouse)) {\r\n        issues.push(`Row ${rowNo}: Source must be one of <b>${ALLOWED_ASSEMBLY_SOURCES.join(\", \")}</b>.`);\r\n      }\r\n\r\n      const actual = get_actual_qty(r);\r\n      if (r.s_warehouse && qty > 0) {\r\n        if (actual === null) {\r\n          issues.push(`Row ${rowNo}: Click <b>Update Rate and Availability</b> (Actual Qty is blank).`);\r\n        } else if (qty > actual) {\r\n          issues.push(`Row ${rowNo}: Not enough stock in <b>${r.s_warehouse}</b> (Requested ${qty}, Available ${actual}).`);\r\n        }\r\n      }\r\n    });\r\n\r\n    if (issues.length) {\r\n      block_submit_with_checklist(frm, issues);\r\n      return false;\r\n    }\r\n\r\n    return true;\r\n  }\r\n\r\n  // =====================================================\r\n  // EVENTS\r\n  // =====================================================\r\n\r\n  frappe.ui.form.on(\"Stock Entry\", {\r\n    validate(frm) {\r\n      const typeName = get_type(frm);\r\n\r\n      // safety\r\n      apply_reuse_row_targets(frm);\r\n\r\n      const defFrom = frm.doc.from_warehouse;\r\n      const defTo   = frm.doc.to_warehouse;\r\n      if (!defFrom || !defTo) return;\r\n\r\n      let errors = [];\r\n\r\n      (frm.doc.items || []).forEach((row, i) => {\r\n        const rowNo = i + 1;\r\n\r\n        if (row.s_warehouse && row.s_warehouse !== defFrom) {\r\n          errors.push(`Row ${rowNo}: Source <b>${row.s_warehouse}</b> does not match Default Source <b>${defFrom}</b>`);\r\n        }\r\n\r\n        if (row.t_warehouse) {\r\n          const allow_mismatch = (\r\n            typeName === TYPE_REUSE &&\r\n            is_pcb_item_code(row.item_code) &&\r\n            defTo === WH_INCOMING &&\r\n            row.t_warehouse === WH_PTS\r\n          );\r\n\r\n          if (!allow_mismatch && row.t_warehouse !== defTo) {\r\n            errors.push(`Row ${rowNo}: Target <b>${row.t_warehouse}</b> does not match Default Target <b>${defTo}</b>`);\r\n          }\r\n        }\r\n      });\r\n\r\n      if (errors.length) {\r\n        frappe.throw({\r\n          title: \"Warehouse Mismatch\",\r\n          message: `\r\n            <p>Please fix the following before saving or submitting:</p>\r\n            <ul>\r\n              ${errors.map(e => `<li>${e}</li>`).join(\"\")}\r\n            </ul>\r\n          `,\r\n        });\r\n      }\r\n    },\r\n\r\n    setup(frm) {\r\n      if (frm.is_new()) apply_type_defaults(frm, { force: true });\r\n      toggle_pcb_ui_late(frm);\r\n    },\r\n\r\n    onload_post_render(frm) {\r\n      if (frm.is_new()) {\r\n        setTimeout(() => apply_type_defaults(frm, { force: true }), 200);\r\n        setTimeout(() => ensure_pcb_only_item_row(frm), 400);\r\n      }\r\n      setTimeout(() => toggle_pcb_ui(frm), 650);\r\n    },\r\n\r\n    refresh(frm) {\r\n      toggle_pcb_ui_late(frm);\r\n      bind_scan_listener(frm);\r\n      if (is_pcb_section_allowed(frm) && has_pcb_item(frm)) focus_scan(frm);\r\n      sync_pcb_qty_to_item(frm);\r\n    },\r\n\r\n    stock_entry_type(frm) {\r\n      frm.__se_last_type_applied = null;\r\n      apply_type_defaults(frm, { force: true });\r\n      toggle_pcb_ui_late(frm);\r\n    },\r\n\r\n    items_add(frm) {\r\n      const typeName = get_type(frm);\r\n\r\n      if (typeName === TYPE_PCB_ACCEPT || typeName === TYPE_PCB_REJECT) {\r\n        setTimeout(() => force_single_pa01_row(frm), 50);\r\n        return;\r\n      }\r\n      if (typeName === TYPE_PTS_TRANSFER) {\r\n        setTimeout(() => ensure_pcb_only_item_row(frm), 50);\r\n        return;\r\n      }\r\n\r\n      const cfg = MAP[typeName] || { from: null, to: null };\r\n      apply_queries(frm, cfg.from, cfg.to, typeName);\r\n      apply_row_defaults_if_blank(frm, cfg.from, cfg.to);\r\n      apply_reuse_row_targets(frm);\r\n    },\r\n\r\n    from_warehouse(frm) {\r\n      const fromWh = frm.doc[FIELD_FROM];\r\n      if (!fromWh) return;\r\n      (frm.doc[ITEMS_TABLE] || []).forEach(r => frappe.model.set_value(r.doctype, r.name, ROW_S_WH, fromWh));\r\n    },\r\n\r\n    to_warehouse(frm) {\r\n      const toWh = frm.doc[FIELD_TO];\r\n      if (!toWh) return;\r\n\r\n      const typeName = get_type(frm);\r\n      (frm.doc[ITEMS_TABLE] || []).forEach(r => frappe.model.set_value(r.doctype, r.name, ROW_T_WH, toWh));\r\n      if (typeName === TYPE_REUSE) apply_reuse_row_targets(frm);\r\n    },\r\n\r\n    before_save(frm) {\r\n      const f = frm.doc[FIELD_FROM];\r\n      const t = frm.doc[FIELD_TO];\r\n\r\n      (frm.doc[ITEMS_TABLE] || []).forEach(r => {\r\n        if (f && !r[ROW_S_WH]) frappe.model.set_value(r.doctype, r.name, ROW_S_WH, f);\r\n        if (t && !r[ROW_T_WH]) frappe.model.set_value(r.doctype, r.name, ROW_T_WH, t);\r\n      });\r\n\r\n      apply_reuse_row_targets(frm);\r\n    },\r\n\r\n    before_submit(frm) {\r\n      return validate_before_submit(frm);\r\n    },\r\n  });\r\n\r\n  frappe.ui.form.on(\"Stock Entry Detail\", {\r\n    item_code(frm, cdt, cdn) {\r\n      enforce_item_rules(frm, cdt, cdn);\r\n      sync_pcb_qty_to_item(frm);\r\n    },\r\n\r\n    qty(frm, cdt, cdn) {\r\n      if (frm.__pcb_qty_syncing) return;\r\n      const row = locals[cdt][cdn];\r\n      if (is_pcb_item_code(row.item_code)) sync_pcb_qty_to_item(frm);\r\n    },\r\n\r\n    t_warehouse(frm, cdt, cdn) {\r\n      const typeName = get_type(frm);\r\n      const row = locals[cdt][cdn];\r\n\r\n      if (typeName === TYPE_MFG_TRANSFER && row.t_warehouse) {\r\n        if (!ALLOWED_ASSEMBLY_TARGETS.includes(row.t_warehouse)) {\r\n          const bad = row.t_warehouse;\r\n          frappe.model.set_value(cdt, cdn, \"t_warehouse\", \"\");\r\n          show_msg(\r\n            \"Invalid Target Warehouse\",\r\n            `For <b>${TYPE_MFG_TRANSFER}</b>, Target must be one of:<br><b>${ALLOWED_ASSEMBLY_TARGETS.join(\", \")}</b><br><br>Removed: <b>${bad}</b>`,\r\n            \"red\"\r\n          );\r\n        }\r\n      }\r\n\r\n      if (typeName === TYPE_REUSE) {\r\n        // enforce targets\r\n        if (is_pcb_item_code(row.item_code) && row.t_warehouse && row.t_warehouse !== WH_PTS) {\r\n          frappe.model.set_value(cdt, cdn, \"t_warehouse\", WH_PTS);\r\n          frappe.show_alert({ message: \"PCB in Reuse must go to PTS Testing\", indicator: \"orange\" }, 3);\r\n        }\r\n        if (row.item_code && !is_pcb_item_code(row.item_code) && row.t_warehouse && row.t_warehouse !== WH_INCOMING) {\r\n          frappe.model.set_value(cdt, cdn, \"t_warehouse\", WH_INCOMING);\r\n          frappe.show_alert({ message: \"Non-PCB Reuse items must go to Incoming QC\", indicator: \"orange\" }, 3);\r\n        }\r\n      }\r\n    },\r\n\r\n    s_warehouse(frm, cdt, cdn) {\r\n      const typeName = get_type(frm);\r\n      const row = locals[cdt][cdn];\r\n\r\n      if (typeName === TYPE_REJ_ASM && row.s_warehouse) {\r\n        if (!ALLOWED_ASSEMBLY_SOURCES.includes(row.s_warehouse)) {\r\n          const bad = row.s_warehouse;\r\n          frappe.model.set_value(cdt, cdn, \"s_warehouse\", \"\");\r\n          show_msg(\r\n            \"Invalid Source Warehouse\",\r\n            `For <b>${TYPE_REJ_ASM}</b>, Source must be one of:<br><b>${ALLOWED_ASSEMBLY_SOURCES.join(\", \")}</b><br><br>Removed: <b>${bad}</b>`,\r\n            \"red\"\r\n          );\r\n        }\r\n      }\r\n    },\r\n  });\r\n\r\n  frappe.ui.form.on(\"PCB IQC Line\", {\r\n    pcb_serial_no(frm) {\r\n      sync_pcb_qty_to_item(frm);\r\n    },\r\n  });\r\n\r\n})();\r\n",
+          "firstEditBubbleId": "764da9cd-fd3e-4c20-9c36-83eabafef0ed",
+          "isNewlyCreated": false,
+          "newlyCreatedFolders": []
         }
       },
       "newlyCreatedFiles": [
@@ -1014,7 +1234,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768213636003,
+      "lastUpdatedAt": 1768226561887,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -1090,11 +1310,11 @@
       "forceMode": "edit",
       "usageData": {
         "composer-1": {
-          "costInCents": 32,
-          "amount": 1
+          "costInCents": 52,
+          "amount": 2
         }
       },
-      "contextUsagePercent": 68.62100028991699,
+      "contextUsagePercent": 81.14850044250488,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
         "file:///c%3A/Users/pc/Downloads/erpnext%20conversation%20with%20chatgpt.txt",
@@ -1103,7 +1323,11 @@
         "file:///c%3A/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup_complete.py",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup.bat",
-        "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_LOOKUP_FIX_EXPLAINED.md"
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_LOOKUP_FIX_EXPLAINED.md",
+        "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_rejected_assembly_warehouse.py",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_rejected_assembly.bat",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_REJECTED_ASSEMBLY_WAREHOUSE.md"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -1115,8 +1339,8 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 1946,
-      "totalLinesRemoved": 0,
+      "totalLinesAdded": 1972,
+      "totalLinesRemoved": 2,
       "addedFiles": 0,
       "removedFiles": 0,
       "isArchived": false,
@@ -1137,12 +1361,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "7045dbac-4434-4b47-b645-5bd4d281d32b",
+      "latestChatGenerationUUID": "955f36d5-338b-4a43-943a-5860a01501ce",
       "isAgentic": true,
-      "subtitle": "FIX_REJECTED_ASSEMBLY_WAREHOUSE.md, fix_rejected_assembly.bat, fix_rejected_assembly_warehouse.py, PCB_LOOKUP_FIX_EXPLAINED.md, fix_pcb_lookup.bat",
-      "filesChangedCount": 8
+      "subtitle": "Stock Entry Purpose + Pcb Scan Script.txt, FIX_REJECTED_ASSEMBLY_WAREHOUSE.md, fix_rejected_assembly.bat, fix_rejected_assembly_warehouse.py, PCB_LOOKUP_FIX_EXPLAINED.md",
+      "filesChangedCount": 9
     },
-    "extracted_at": "2026-01-12T19:28:01.400473"
+    "extracted_at": "2026-01-12T19:33:01.263975"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -4729,7 +4953,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-12T19:28:01.401523"
+    "extracted_at": "2026-01-12T19:33:01.263975"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -13240,7 +13464,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-12T19:28:01.407817"
+    "extracted_at": "2026-01-12T19:33:01.274132"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -13458,7 +13682,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-12T19:28:01.408349"
+    "extracted_at": "2026-01-12T19:33:01.274132"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -13635,7 +13859,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-12T19:28:01.408349"
+    "extracted_at": "2026-01-12T19:33:01.274132"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -22745,11 +22969,11 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-12T19:28:01.416262"
+    "extracted_at": "2026-01-12T19:33:01.274132"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-12T19:28:01.416262"
+    "extracted_at": "2026-01-12T19:33:01.274132"
   }
 ]
