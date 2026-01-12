@@ -3958,7 +3958,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "33201c85-3225-44e6-b8a6-28361303730a",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md": {
@@ -8965,7 +8964,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768203725335,
+    "lastUpdatedAt": 1768203908556,
     "createdAt": 1767866567902,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
@@ -9045,7 +9044,7 @@
         "amount": 4
       }
     },
-    "contextUsagePercent": 42.347999572753906,
+    "contextUsagePercent": 43.2234992980957,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/FQCRepository.kt",
       "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseFrequencyTestService.kt",
@@ -9107,5 +9106,5 @@
       "conversationLengthAtSpawn": 861
     }
   },
-  "extracted_at": "2026-01-12T13:13:00.876677"
+  "extracted_at": "2026-01-12T13:18:00.859106"
 }
