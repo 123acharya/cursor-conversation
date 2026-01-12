@@ -3651,6 +3651,10 @@
       {
         "bubbleId": "f0544b30-a481-48d4-ace1-014d6cac3f0f",
         "type": 2
+      },
+      {
+        "bubbleId": "c2928f40-04d4-4d3d-a60b-a0eb0b280a04",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -8426,7 +8430,7 @@
         "data": {}
       }
     ],
-    "name": "FQC6",
+    "name": "Android app project transfer and setup",
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
@@ -8481,6 +8485,7 @@
     "pendingCreateWorktree": false,
     "isBestOfNSubcomposer": false,
     "isBestOfNParent": true,
+    "bestOfNJudgeStatus": "done",
     "bestOfNJudgeWinner": false,
     "isSpec": false,
     "isSpecSubagentDone": false,
@@ -8502,5 +8507,5 @@
     "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
     "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
   },
-  "extracted_at": "2026-01-12T12:58:02.046272"
+  "extracted_at": "2026-01-12T13:03:00.811330"
 }
