@@ -1542,6 +1542,7 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
+      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -1572,8 +1573,7 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      },
-      "ideEditorsState": true
+      }
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -3611,5 +3611,5 @@
     "subtitle": "auto-backup.bat, extract_conversations.py",
     "filesChangedCount": 43
   },
-  "extracted_at": "2026-01-12T12:18:00.870752"
+  "extracted_at": "2026-01-12T12:23:00.790621"
 }
