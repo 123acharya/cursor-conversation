@@ -3954,7 +3954,8 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -8966,7 +8967,7 @@
     "newlyCreatedFolders": [],
     "lastUpdatedAt": 1768203908556,
     "createdAt": 1767866567902,
-    "hasChangedContext": false,
+    "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
       {
@@ -9106,5 +9107,5 @@
       "conversationLengthAtSpawn": 861
     }
   },
-  "extracted_at": "2026-01-12T19:48:00.234229"
+  "extracted_at": "2026-01-12T19:53:00.216477"
 }
