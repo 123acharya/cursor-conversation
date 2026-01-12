@@ -916,7 +916,7 @@
       "subtitle": "ERPNext_System_Understanding.md, ERPNext_DocTypes_Detailed_Understanding.md, fix_pcb_lookup_complete.py, fix_pcb_lookup.bat, PCB_LOOKUP_FIX_EXPLAINED.md",
       "filesChangedCount": 5
     },
-    "extracted_at": "2026-01-12T13:10:02.095525"
+    "extracted_at": "2026-01-12T13:13:00.860051"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -4503,7 +4503,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-12T13:10:02.095525"
+    "extracted_at": "2026-01-12T13:13:00.860051"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -13014,7 +13014,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-12T13:10:02.095525"
+    "extracted_at": "2026-01-12T13:13:00.875223"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -13232,7 +13232,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-12T13:10:02.095525"
+    "extracted_at": "2026-01-12T13:13:00.875223"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -13409,7 +13409,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-12T13:10:02.095525"
+    "extracted_at": "2026-01-12T13:13:00.875223"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -17241,6 +17241,83 @@
         },
         {
           "bubbleId": "9aafa1df-0964-433d-86dc-394e63a0e912",
+          "type": 2,
+          "serverBubbleId": "beb286ee-6d7c-4d58-a49a-a7431761dd3a"
+        },
+        {
+          "bubbleId": "0d979fd1-8890-4a57-adb8-8e762d908675",
+          "type": 2
+        },
+        {
+          "bubbleId": "2ced483f-e14e-4c6d-b018-966568e171d0",
+          "type": 2
+        },
+        {
+          "bubbleId": "c76d92d2-5ef9-4a6e-91bb-c0dd510aa605",
+          "type": 2
+        },
+        {
+          "bubbleId": "64b40f86-2434-4536-923c-8531bd6c4b35",
+          "type": 2,
+          "serverBubbleId": "7ef6f0ed-b515-4230-87bc-0f653cc0a7c8"
+        },
+        {
+          "bubbleId": "52987a27-b4aa-4c83-adf6-bcfcf6e0f109",
+          "type": 2
+        },
+        {
+          "bubbleId": "f09cfd47-ab90-4a87-ba0d-ac922fc89d2e",
+          "type": 2
+        },
+        {
+          "bubbleId": "7eef5661-7aa6-4d04-b784-3a9c99e06bc9",
+          "type": 2
+        },
+        {
+          "bubbleId": "5ad17366-0afc-4f21-acdd-6db7df96fcfb",
+          "type": 2,
+          "serverBubbleId": "e6aa7596-da07-4857-8d01-cdc52283b31c"
+        },
+        {
+          "bubbleId": "3c42fbe3-3a28-45c9-b491-b683b763a27e",
+          "type": 2
+        },
+        {
+          "bubbleId": "61fc60ac-1f42-496f-87cb-7d7f786870c1",
+          "type": 2
+        },
+        {
+          "bubbleId": "644da993-3db5-4aa3-8115-55eb5566b3ad",
+          "type": 2
+        },
+        {
+          "bubbleId": "947290d3-f2e1-4fae-8987-a73cdbc6dd24",
+          "type": 2,
+          "serverBubbleId": "bacdd6ca-b3d5-4bdb-8dd1-8936e6017f22"
+        },
+        {
+          "bubbleId": "b772b86e-a8ab-467b-87d6-e4cf06dec3a0",
+          "type": 2
+        },
+        {
+          "bubbleId": "84748c05-7dbc-4831-98ec-d61505f40378",
+          "type": 1
+        },
+        {
+          "bubbleId": "9dcedfb7-f4cf-4dde-b8b1-fdf46e41f360",
+          "type": 2,
+          "serverBubbleId": "edba3c8c-9b1e-49d8-a086-7de7b353e6dc"
+        },
+        {
+          "bubbleId": "bdc67cda-5fee-46a6-8cb2-944845e45be6",
+          "type": 2
+        },
+        {
+          "bubbleId": "41704e7a-ebd6-4ac4-823d-7ca97901d228",
+          "type": 2
+        },
+        {
+          "bubbleId": "418212e2-a1c3-43e8-b494-7760d2ea5795",
           "type": 2
         }
       ],
@@ -17260,7 +17337,6 @@
         "externalLinks": [],
         "cursorRules": [],
         "cursorCommands": [],
-        "ideEditorsState": true,
         "gitPRDiffSelections": [],
         "mentions": {
           "composers": {},
@@ -17295,7 +17371,7 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
-      "chatGenerationUUID": "c7d12227-c076-4d47-9c2a-d43f5fb263be",
+      "chatGenerationUUID": "33201c85-3225-44e6-b8a6-28361303730a",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md": {
@@ -21933,6 +22009,54 @@
             "lastDiffId": "b3073523-f655-46ef-b936-a56268c6f15c",
             "lastAppliedAt": 1768202978587
           }
+        },
+        "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_EFFICIENT.ps1": {
+          "5ee979b3-37f4-4222-a7d5-6100763f3897": {
+            "_v": 3,
+            "bubbleId": "f09cfd47-ab90-4a87-ba0d-ac922fc89d2e",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\FQC-Tracking-App\\ZIP_PROJECT_EFFICIENT.ps1",
+              "_sep": 1,
+              "external": "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_EFFICIENT.ps1",
+              "path": "/K:/FQC-Tracking-App/ZIP_PROJECT_EFFICIENT.ps1",
+              "scheme": "file"
+            },
+            "codeblockId": "5ee979b3-37f4-4222-a7d5-6100763f3897",
+            "status": "completed",
+            "languageId": "powershell",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768203627063,
+            "composerChatGenerationUuid": "c7d12227-c076-4d47-9c2a-d43f5fb263be",
+            "diffId": "55382ec9-a73a-41f5-8dd0-f31ebcc7089f",
+            "lastDiffId": "50215667-87b5-4b4c-b1fe-3246513555d4",
+            "lastAppliedAt": 1768203637750
+          }
+        },
+        "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_SIMPLE.ps1": {
+          "1e0c7d9e-716e-459a-a07e-1516ece9efb9": {
+            "_v": 3,
+            "bubbleId": "61fc60ac-1f42-496f-87cb-7d7f786870c1",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\FQC-Tracking-App\\ZIP_PROJECT_SIMPLE.ps1",
+              "_sep": 1,
+              "external": "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_SIMPLE.ps1",
+              "path": "/K:/FQC-Tracking-App/ZIP_PROJECT_SIMPLE.ps1",
+              "scheme": "file"
+            },
+            "codeblockId": "1e0c7d9e-716e-459a-a07e-1516ece9efb9",
+            "status": "completed",
+            "languageId": "powershell",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768203670457,
+            "composerChatGenerationUuid": "c7d12227-c076-4d47-9c2a-d43f5fb263be",
+            "diffId": "12e25ec2-518a-4702-97a9-880907c35ee6",
+            "lastDiffId": "dfcb5d05-9db0-4c20-91ee-d6bb8aac4cfa",
+            "lastAppliedAt": 1768203675313
+          }
         }
       },
       "originalFileStates": {
@@ -22157,6 +22281,18 @@
           "firstEditBubbleId": "94cc291f-e1d8-4f3b-ba30-3ddc10acbf3b",
           "isNewlyCreated": true,
           "newlyCreatedFolders": []
+        },
+        "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_EFFICIENT.ps1": {
+          "content": "",
+          "firstEditBubbleId": "f09cfd47-ab90-4a87-ba0d-ac922fc89d2e",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_SIMPLE.ps1": {
+          "content": "",
+          "firstEditBubbleId": "61fc60ac-1f42-496f-87cb-7d7f786870c1",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
         }
       },
       "newlyCreatedFiles": [
@@ -22219,12 +22355,32 @@
             "path": "/K:/FQC-Tracking-App/README_TRANSFER.md",
             "scheme": "file"
           }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\FQC-Tracking-App\\ZIP_PROJECT_EFFICIENT.ps1",
+            "_sep": 1,
+            "external": "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_EFFICIENT.ps1",
+            "path": "/K:/FQC-Tracking-App/ZIP_PROJECT_EFFICIENT.ps1",
+            "scheme": "file"
+          }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\FQC-Tracking-App\\ZIP_PROJECT_SIMPLE.ps1",
+            "_sep": 1,
+            "external": "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_SIMPLE.ps1",
+            "path": "/K:/FQC-Tracking-App/ZIP_PROJECT_SIMPLE.ps1",
+            "scheme": "file"
+          }
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768203398042,
+      "lastUpdatedAt": 1768203725335,
       "createdAt": 1767866567902,
-      "hasChangedContext": true,
+      "hasChangedContext": false,
       "activeTabsShouldBeReactive": true,
       "capabilities": [
         {
@@ -22299,10 +22455,10 @@
       "usageData": {
         "composer-1": {
           "costInCents": 53,
-          "amount": 3
+          "amount": 4
         }
       },
-      "contextUsagePercent": 39.9744987487793,
+      "contextUsagePercent": 42.347999572753906,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/FQCRepository.kt",
         "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseFrequencyTestService.kt",
@@ -22312,7 +22468,9 @@
         "file:///k%3A/FQC-Tracking-App/QUICK_START.md",
         "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT.bat",
         "file:///k%3A/FQC-Tracking-App/PROJECT_TRANSFER_CHECKLIST.md",
-        "file:///k%3A/FQC-Tracking-App/README_TRANSFER.md"
+        "file:///k%3A/FQC-Tracking-App/README_TRANSFER.md",
+        "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_EFFICIENT.ps1",
+        "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_SIMPLE.ps1"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -22347,9 +22505,9 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "c7d12227-c076-4d47-9c2a-d43f5fb263be",
+      "latestChatGenerationUUID": "33201c85-3225-44e6-b8a6-28361303730a",
       "isAgentic": true,
-      "subtitle": "README_TRANSFER.md, PROJECT_TRANSFER_CHECKLIST.md, ZIP_PROJECT.bat, QUICK_START.md, .gitignore",
+      "subtitle": "BACKUP_TODAY.ps1, ZIP_PROJECT_SIMPLE.ps1, ZIP_PROJECT_EFFICIENT.ps1, README_TRANSFER.md, PROJECT_TRANSFER_CHECKLIST.md",
       "filesChangedCount": 0,
       "gitWorktree": {
         "worktreePath": "C:\\Users\\pc\\.cursor\\worktrees\\Desktop\\hvu",
@@ -22362,11 +22520,11 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-12T13:10:02.112487"
+    "extracted_at": "2026-01-12T13:13:00.876677"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-12T13:10:02.112487"
+    "extracted_at": "2026-01-12T13:13:00.876677"
   }
 ]
