@@ -916,7 +916,7 @@
       "subtitle": "ERPNext_System_Understanding.md, ERPNext_DocTypes_Detailed_Understanding.md, fix_pcb_lookup_complete.py, fix_pcb_lookup.bat, PCB_LOOKUP_FIX_EXPLAINED.md",
       "filesChangedCount": 5
     },
-    "extracted_at": "2026-01-12T13:03:00.811330"
+    "extracted_at": "2026-01-12T13:10:02.095525"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -4503,7 +4503,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-12T13:03:00.811330"
+    "extracted_at": "2026-01-12T13:10:02.095525"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -13014,7 +13014,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-12T13:03:00.811330"
+    "extracted_at": "2026-01-12T13:10:02.095525"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -13232,7 +13232,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-12T13:03:00.811330"
+    "extracted_at": "2026-01-12T13:10:02.095525"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -13409,14 +13409,14 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-12T13:03:00.811330"
+    "extracted_at": "2026-01-12T13:10:02.095525"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
     "data": {
       "_v": 11,
       "composerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
-      "richText": "",
+      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
       "text": "",
       "fullConversationHeadersOnly": [
@@ -17195,10 +17195,57 @@
         {
           "bubbleId": "eb7c72e0-77ab-49e7-91f0-72df4cc6a873",
           "type": 2
+        },
+        {
+          "bubbleId": "1d175764-51c9-4e44-8401-3e84ad5efd1e",
+          "type": 1
+        },
+        {
+          "bubbleId": "696a63b4-e321-4759-951a-0ccda635a95f",
+          "type": 2,
+          "serverBubbleId": "b6634741-43c2-4b5e-84f0-e126dabf234c"
+        },
+        {
+          "bubbleId": "27886774-cba3-48e6-a6ca-7b1d435a2c3f",
+          "type": 2
+        },
+        {
+          "bubbleId": "4cf902a8-6cd0-4cf0-a600-661366a46792",
+          "type": 2
+        },
+        {
+          "bubbleId": "0a7abcd8-e0a5-4d76-ae59-36eacfb47e04",
+          "type": 2,
+          "serverBubbleId": "05d81d31-9644-44ad-9187-c97a822369c9"
+        },
+        {
+          "bubbleId": "5ea06f6d-fe2d-4e9d-88a5-f6bfc58bbd9f",
+          "type": 2
+        },
+        {
+          "bubbleId": "5dd445d7-d44a-434b-af7a-80c43131d86c",
+          "type": 2
+        },
+        {
+          "bubbleId": "ade8e8c9-0248-40c1-a7ad-3217b4c84e1d",
+          "type": 2,
+          "serverBubbleId": "c1067d54-aef5-4b55-8ca0-f068cb08471e"
+        },
+        {
+          "bubbleId": "8547ffdd-3ef7-4b29-aea9-8f3166b9ae41",
+          "type": 2
+        },
+        {
+          "bubbleId": "8e6b9eb5-72e7-49b3-9dc4-4a9ccbb9c223",
+          "type": 2
+        },
+        {
+          "bubbleId": "9aafa1df-0964-433d-86dc-394e63a0e912",
+          "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "completed",
+      "status": "aborted",
       "context": {
         "composers": [],
         "quotes": [],
@@ -17248,6 +17295,7 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
+      "chatGenerationUUID": "c7d12227-c076-4d47-9c2a-d43f5fb263be",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md": {
@@ -22174,7 +22222,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768203119538,
+      "lastUpdatedAt": 1768203398042,
       "createdAt": 1767866567902,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -22254,10 +22302,17 @@
           "amount": 3
         }
       },
-      "contextUsagePercent": 39.65800094604492,
+      "contextUsagePercent": 39.9744987487793,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/FQCRepository.kt",
-        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseFrequencyTestService.kt"
+        "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseFrequencyTestService.kt",
+        "file:///k%3A/FQC-Tracking-App/SETUP_GUIDE.md",
+        "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT.ps1",
+        "file:///k%3A/FQC-Tracking-App/.gitignore",
+        "file:///k%3A/FQC-Tracking-App/QUICK_START.md",
+        "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT.bat",
+        "file:///k%3A/FQC-Tracking-App/PROJECT_TRANSFER_CHECKLIST.md",
+        "file:///k%3A/FQC-Tracking-App/README_TRANSFER.md"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -22292,7 +22347,7 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "63c260a4-49a7-475d-bce6-74e4152d7bdf",
+      "latestChatGenerationUUID": "c7d12227-c076-4d47-9c2a-d43f5fb263be",
       "isAgentic": true,
       "subtitle": "README_TRANSFER.md, PROJECT_TRANSFER_CHECKLIST.md, ZIP_PROJECT.bat, QUICK_START.md, .gitignore",
       "filesChangedCount": 0,
@@ -22307,11 +22362,11 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-12T13:03:00.826996"
+    "extracted_at": "2026-01-12T13:10:02.112487"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-12T13:03:00.826996"
+    "extracted_at": "2026-01-12T13:10:02.112487"
   }
 ]
