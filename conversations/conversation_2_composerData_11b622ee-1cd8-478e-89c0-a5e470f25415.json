@@ -1542,7 +1542,6 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -2365,7 +2364,7 @@
             "scheme": "file"
           },
           "codeblockId": "3aebd947-8943-4698-9f09-5fb3f1d6fea9",
-          "status": "completed",
+          "status": "accepted",
           "languageId": "bat",
           "codeBlockDisplayPreference": "collapsed",
           "createdAt": 1767859034363,
@@ -2387,7 +2386,7 @@
             "scheme": "file"
           },
           "codeblockId": "dc71a233-e428-45cb-8dc2-e630d87820e8",
-          "status": "completed",
+          "status": "accepted",
           "languageId": "bat",
           "chainedInfo": {
             "chainedFromCodeblockId": "3aebd947-8943-4698-9f09-5fb3f1d6fea9",
@@ -2432,7 +2431,7 @@
             "scheme": "file"
           },
           "codeblockId": "216b720e-0dd9-4542-a337-b5f7c9aab10a",
-          "status": "completed",
+          "status": "accepted",
           "languageId": "bat",
           "chainedInfo": {
             "chainedFromCodeblockId": "dc71a233-e428-45cb-8dc2-e630d87820e8",
@@ -2443,7 +2442,8 @@
           "composerChatGenerationUuid": "7ed9f92c-e08a-470c-910f-186114969183",
           "diffId": "9b3b2750-3bf7-442f-a75f-1d4bbd6e305a",
           "lastDiffId": "f582880f-611f-410d-ac5a-033064b72b85",
-          "lastAppliedAt": 1768038869974
+          "lastAppliedAt": 1768038869974,
+          "partialInlineDiffFatesId": "b4121211-0388-4754-9fc5-1f927cb5a12f"
         }
       },
       "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat": {
@@ -2556,7 +2556,7 @@
             "scheme": "file"
           },
           "codeblockId": "b90cebd0-b63b-4442-b137-c50c650f07ed",
-          "status": "completed",
+          "status": "accepted",
           "languageId": "ignore",
           "codeBlockDisplayPreference": "collapsed",
           "createdAt": 1767860900397,
@@ -2578,7 +2578,7 @@
             "scheme": "file"
           },
           "codeblockId": "bb0e238b-1b79-49e5-bb8a-60db8f66990f",
-          "status": "completed",
+          "status": "accepted",
           "languageId": "ignore",
           "chainedInfo": {
             "chainedFromCodeblockId": "b90cebd0-b63b-4442-b137-c50c650f07ed",
@@ -2589,7 +2589,8 @@
           "composerChatGenerationUuid": "b88d4f24-dbbd-4f68-94a7-7348d0e87cde",
           "diffId": "23adddad-066e-4815-a9e3-4d6116a93332",
           "lastDiffId": "3ec10ae2-ad05-43e9-bb18-addc6f2a2093",
-          "lastAppliedAt": 1767861078830
+          "lastAppliedAt": 1767861078830,
+          "partialInlineDiffFatesId": "da53b480-ab6e-4646-9b2b-ec9e0fb15cc5"
         }
       },
       "file:///c%3A/Users/pc/Desktop/BACKUP_SYSTEM_COMPLETE.md": {
@@ -2750,14 +2751,15 @@
             "scheme": "file"
           },
           "codeblockId": "d149b339-2cee-4f38-a85c-905f1c2f785b",
-          "status": "completed",
+          "status": "accepted",
           "languageId": "python",
           "codeBlockDisplayPreference": "collapsed",
           "createdAt": 1768038847780,
           "composerChatGenerationUuid": "7ed9f92c-e08a-470c-910f-186114969183",
           "diffId": "fc5cd4d9-13ce-48b2-95bf-297c9ca11c43",
           "lastDiffId": "5f1d8b18-4606-4940-9e37-e3b95955fcdf",
-          "lastAppliedAt": 1768038855134
+          "lastAppliedAt": 1768038855134,
+          "partialInlineDiffFatesId": "e9e0d7ff-cf19-4ceb-b7c4-5640ab39cb27"
         }
       }
     },
@@ -3325,16 +3327,6 @@
       {
         "uri": {
           "$mid": 1,
-          "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\auto-backup.bat",
-          "_sep": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
-          "path": "/C:/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
           "fsPath": "c:\\Users\\pc\\Desktop\\create_scheduled_task.bat",
           "_sep": 1,
           "external": "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
@@ -3369,16 +3361,6 @@
           "_sep": 1,
           "external": "file:///c%3A/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md",
           "path": "/c:/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\.gitignore",
-          "_sep": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/.gitignore",
-          "path": "/C:/Users/pc/Desktop/cursor-chat-backups/.gitignore",
           "scheme": "file"
         }
       },
@@ -3439,16 +3421,6 @@
           "_sep": 1,
           "external": "file:///c%3A/Users/pc/Desktop/SETUP_COMPLETE.md",
           "path": "/c:/Users/pc/Desktop/SETUP_COMPLETE.md",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\extract_conversations.py",
-          "_sep": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
-          "path": "/C:/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
           "scheme": "file"
         }
       }
@@ -3611,5 +3583,5 @@
     "subtitle": "auto-backup.bat, extract_conversations.py",
     "filesChangedCount": 43
   },
-  "extracted_at": "2026-01-12T12:53:00.995926"
+  "extracted_at": "2026-01-12T12:58:02.046272"
 }

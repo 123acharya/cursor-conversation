@@ -8363,11 +8363,10 @@
     },
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768202311826,
+    "lastUpdatedAt": 1768202806076,
     "createdAt": 1767866567902,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
-    "editingBubbleId": "ba82022a-7229-4508-b6cf-53e940e27d0b",
     "capabilities": [
       {
         "type": 30,
@@ -8451,8 +8450,8 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 5099,
-    "totalLinesRemoved": 916,
+    "totalLinesAdded": 0,
+    "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
     "isArchived": false,
@@ -8476,9 +8475,9 @@
     "latestChatGenerationUUID": "8e64f959-a839-4e32-81d8-1bf5cba34856",
     "isAgentic": true,
     "subtitle": "SupabaseFrequencyTestService.kt, FQCRepository.kt",
-    "filesChangedCount": 28,
+    "filesChangedCount": 0,
     "gitWorktree": {
-      "worktreePath": "C:\\Users\\pc\\.cursor\\worktrees\\Desktop\\stp",
+      "worktreePath": "C:\\Users\\pc\\.cursor\\worktrees\\Desktop\\hvu",
       "commitHash": ""
     },
     "subagentInfo": {
@@ -8486,5 +8485,5 @@
       "conversationLengthAtSpawn": 861
     }
   },
-  "extracted_at": "2026-01-12T12:53:01.011551"
+  "extracted_at": "2026-01-12T12:58:02.046272"
 }

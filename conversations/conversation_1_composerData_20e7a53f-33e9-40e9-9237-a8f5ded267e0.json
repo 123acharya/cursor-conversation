@@ -600,8 +600,7 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      },
-      "ideEditorsState": true
+      }
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -669,14 +668,15 @@
             "scheme": "file"
           },
           "codeblockId": "228ccced-32fa-48db-85b7-8cd451787574",
-          "status": "completed",
+          "status": "accepted",
           "languageId": "python",
           "codeBlockDisplayPreference": "collapsed",
           "createdAt": 1768050907069,
           "composerChatGenerationUuid": "ccad3b37-0d7a-4cdf-996f-86335748062f",
           "diffId": "b15014c0-0a46-4bf0-9e13-3c6063c185c7",
           "lastDiffId": "2b377fee-6091-4019-bfe1-2ea243873e2b",
-          "lastAppliedAt": 1768050922027
+          "lastAppliedAt": 1768050922027,
+          "partialInlineDiffFatesId": "cc8ddaba-0ce5-416d-9503-6e67a2fed1a2"
         }
       },
       "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup.bat": {
@@ -693,14 +693,15 @@
             "scheme": "file"
           },
           "codeblockId": "9473b1af-a517-4033-94cd-6ce8032eea6e",
-          "status": "completed",
+          "status": "accepted",
           "languageId": "bat",
           "codeBlockDisplayPreference": "collapsed",
           "createdAt": 1768050945520,
           "composerChatGenerationUuid": "ccad3b37-0d7a-4cdf-996f-86335748062f",
           "diffId": "9cc57658-dac7-4662-a55b-4ff89e498d83",
           "lastDiffId": "6e21d29b-f5e2-4429-a027-16532e19f75a",
-          "lastAppliedAt": 1768050951957
+          "lastAppliedAt": 1768050951957,
+          "partialInlineDiffFatesId": "29a84afb-c935-41ed-ba7c-ea832855b5e0"
         }
       },
       "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_LOOKUP_FIX_EXPLAINED.md": {
@@ -717,14 +718,15 @@
             "scheme": "file"
           },
           "codeblockId": "ebdf2950-89f9-4e7e-9671-cdfaa2282a24",
-          "status": "completed",
+          "status": "accepted",
           "languageId": "markdown",
           "codeBlockDisplayPreference": "collapsed",
           "createdAt": 1768050957000,
           "composerChatGenerationUuid": "ccad3b37-0d7a-4cdf-996f-86335748062f",
           "diffId": "251da3f3-8b7c-4fb1-9618-8b3a0b19824d",
           "lastDiffId": "acf38982-ec75-4260-894d-65c320e1da56",
-          "lastAppliedAt": 1768050965051
+          "lastAppliedAt": 1768050965051,
+          "partialInlineDiffFatesId": "de644a1f-1f1e-466c-b15f-43ac47d7666e"
         }
       }
     },
@@ -784,36 +786,6 @@
           "_sep": 1,
           "external": "file:///c%3A/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md",
           "path": "/c:/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\fix_pcb_lookup_complete.py",
-          "_sep": 1,
-          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup_complete.py",
-          "path": "/G:/frappe_docker-main/frappe_docker-main/fix_pcb_lookup_complete.py",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\fix_pcb_lookup.bat",
-          "_sep": 1,
-          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup.bat",
-          "path": "/G:/frappe_docker-main/frappe_docker-main/fix_pcb_lookup.bat",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\PCB_LOOKUP_FIX_EXPLAINED.md",
-          "_sep": 1,
-          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_LOOKUP_FIX_EXPLAINED.md",
-          "path": "/G:/frappe_docker-main/frappe_docker-main/PCB_LOOKUP_FIX_EXPLAINED.md",
           "scheme": "file"
         }
       }
@@ -943,5 +915,5 @@
     "subtitle": "ERPNext_System_Understanding.md, ERPNext_DocTypes_Detailed_Understanding.md, fix_pcb_lookup_complete.py, fix_pcb_lookup.bat, PCB_LOOKUP_FIX_EXPLAINED.md",
     "filesChangedCount": 5
   },
-  "extracted_at": "2026-01-12T12:53:00.995926"
+  "extracted_at": "2026-01-12T12:58:02.046272"
 }
