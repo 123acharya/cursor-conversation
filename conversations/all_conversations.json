@@ -1620,10 +1620,55 @@
         {
           "bubbleId": "3c608e91-2846-48f7-b786-ac96a9106590",
           "type": 2
+        },
+        {
+          "bubbleId": "923449b1-a1d9-4650-9d90-317364e5c64b",
+          "type": 1
+        },
+        {
+          "bubbleId": "4c2242e4-3344-4f96-863a-3232085a72ba",
+          "type": 2,
+          "serverBubbleId": "54e4d4fa-cc6b-40e0-b0f9-5651d6271e80"
+        },
+        {
+          "bubbleId": "c55c0a59-a118-472f-99a4-ad728a08de17",
+          "type": 2
+        },
+        {
+          "bubbleId": "745d9050-2866-4d29-9594-7a826e745e5e",
+          "type": 2
+        },
+        {
+          "bubbleId": "073c4839-a731-4879-bf29-0392667f8ceb",
+          "type": 2
+        },
+        {
+          "bubbleId": "26e1eeb9-e757-4f03-b116-5c3785305bdd",
+          "type": 2
+        },
+        {
+          "bubbleId": "89c4bc1f-a0c3-4ffd-bb5b-c8dbb2576e63",
+          "type": 2
+        },
+        {
+          "bubbleId": "9f1a0012-406a-48ec-824f-d7c2d108cd8b",
+          "type": 2
+        },
+        {
+          "bubbleId": "1fcbf00d-e897-4b5a-945c-3a27284a7fd0",
+          "type": 2
+        },
+        {
+          "bubbleId": "eaf285f6-ed2a-4ea9-9cfd-644f000ce6f4",
+          "type": 2
+        },
+        {
+          "bubbleId": "a8847883-4899-4cfb-b751-05df15f05543",
+          "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "completed",
+      "status": "aborted",
       "context": {
         "composers": [],
         "quotes": [],
@@ -1686,6 +1731,7 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
+      "chatGenerationUUID": "13ba6379-0272-466e-b77e-1eb59a3cb704",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -3550,7 +3596,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768289728881,
+      "lastUpdatedAt": 1768290752549,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -3630,7 +3676,7 @@
           "amount": 8
         }
       },
-      "contextUsagePercent": 50.423500061035156,
+      "contextUsagePercent": 50.29750061035156,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
         "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
@@ -3640,7 +3686,13 @@
         "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_force.py",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_fix.py",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_SUMMARY_20260113.md",
-        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/2.txt"
+        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/2.txt",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_aggressive.py",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_refresh_fix.py",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/verify_fixes.py",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_after_save.py",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/upload_client_script_simple.py",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/COMPLETE_FIX_SUMMARY.md"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -3674,12 +3726,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "40cff29c-00ae-4ffe-8b3e-68d9ab3f4602",
+      "latestChatGenerationUUID": "13ba6379-0272-466e-b77e-1eb59a3cb704",
       "isAgentic": true,
       "subtitle": "COMPLETE_FIX_SUMMARY.md, upload_client_script_simple.py, update_client_script_after_save.py, Stock Entry Purpose + Pcb Scan Script.txt, verify_fixes.py",
       "filesChangedCount": 36
     },
-    "extracted_at": "2026-01-13T13:18:00.252459"
+    "extracted_at": "2026-01-13T13:23:00.328704"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -7267,7 +7319,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-13T13:18:00.253282"
+    "extracted_at": "2026-01-13T13:23:00.328704"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -15779,7 +15831,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-13T13:18:00.259290"
+    "extracted_at": "2026-01-13T13:23:00.338233"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -15997,7 +16049,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-13T13:18:00.259290"
+    "extracted_at": "2026-01-13T13:23:00.338233"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -16174,7 +16226,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-13T13:18:00.260290"
+    "extracted_at": "2026-01-13T13:23:00.338233"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -25285,11 +25337,11 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-13T13:18:00.265876"
+    "extracted_at": "2026-01-13T13:23:00.349000"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-13T13:18:00.265876"
+    "extracted_at": "2026-01-13T13:23:00.349000"
   }
 ]
