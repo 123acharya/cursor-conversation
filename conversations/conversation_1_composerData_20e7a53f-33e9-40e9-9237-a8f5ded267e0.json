@@ -1837,10 +1837,23 @@
       {
         "bubbleId": "283e03a5-a2ca-4eb6-82d9-a7794fcf8e6f",
         "type": 2
+      },
+      {
+        "bubbleId": "45083520-d880-4a6a-bf91-d213c34dff12",
+        "type": 2
+      },
+      {
+        "bubbleId": "7a532831-5f2a-4344-b5e0-1103805297be",
+        "type": 2,
+        "serverBubbleId": "60026fa0-c237-49a0-9fb7-9f3fc4978c15"
+      },
+      {
+        "bubbleId": "2e932aea-361a-4377-874a-f155d1c1ec27",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -1903,7 +1916,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "9728a8e0-3e77-44a2-b112-8d63333b1028",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -3448,11 +3460,62 @@
             "scheme": "file"
           },
           "codeblockId": "4dde09c9-b5d1-415b-80d5-c3bcbf6525d4",
-          "status": "aborted",
+          "status": "completed",
           "languageId": "markdown",
           "codeBlockDisplayPreference": "collapsed",
           "createdAt": 1768296759910,
-          "composerChatGenerationUuid": "9728a8e0-3e77-44a2-b112-8d63333b1028"
+          "composerChatGenerationUuid": "9728a8e0-3e77-44a2-b112-8d63333b1028",
+          "diffId": "280d0429-e63b-4cfe-ae46-f43ac651ede4",
+          "lastDiffId": "b5ae7c54-16ec-4bf1-a1f5-6c87d7a610d1",
+          "lastAppliedAt": 1768296793541
+        }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/deploy_to_production.sh": {
+        "f20d01d1-340f-48a0-8e35-edaf21731bfa": {
+          "_v": 3,
+          "bubbleId": "283e03a5-a2ca-4eb6-82d9-a7794fcf8e6f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\deploy_to_production.sh",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/deploy_to_production.sh",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/deploy_to_production.sh",
+            "scheme": "file"
+          },
+          "codeblockId": "f20d01d1-340f-48a0-8e35-edaf21731bfa",
+          "status": "completed",
+          "languageId": "shellscript",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768296799264,
+          "composerChatGenerationUuid": "9728a8e0-3e77-44a2-b112-8d63333b1028",
+          "diffId": "6083d458-e0c2-4095-862c-c74b95a36ab0",
+          "lastDiffId": "f10ef7b3-dcee-45c7-a82a-5241c73c9617",
+          "lastAppliedAt": 1768296801409
+        }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_QUICK_START.md": {
+        "eb333371-07cf-4be8-a384-602264aeadbb": {
+          "_v": 3,
+          "bubbleId": "45083520-d880-4a6a-bf91-d213c34dff12",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\DEPLOYMENT_QUICK_START.md",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_QUICK_START.md",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/DEPLOYMENT_QUICK_START.md",
+            "scheme": "file"
+          },
+          "codeblockId": "eb333371-07cf-4be8-a384-602264aeadbb",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768296831812,
+          "composerChatGenerationUuid": "9728a8e0-3e77-44a2-b112-8d63333b1028",
+          "diffId": "4d2a0980-f803-4835-81ce-b6a02e575c45",
+          "lastDiffId": "9b77e43c-be8d-498e-a04a-651b59f8d58b",
+          "lastAppliedAt": 1768296835000
         }
       }
     },
@@ -3718,6 +3781,18 @@
       "file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_GUIDE.md": {
         "content": "",
         "firstEditBubbleId": "57c93e16-d121-452a-bcda-b0908ffdeed6",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/deploy_to_production.sh": {
+        "content": "",
+        "firstEditBubbleId": "283e03a5-a2ca-4eb6-82d9-a7794fcf8e6f",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_QUICK_START.md": {
+        "content": "",
+        "firstEditBubbleId": "45083520-d880-4a6a-bf91-d213c34dff12",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -4032,10 +4107,40 @@
           "path": "/G:/frappe_docker-main/frappe_docker-main/RESET_SYSTEM_GUIDE.md",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\DEPLOYMENT_GUIDE.md",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_GUIDE.md",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/DEPLOYMENT_GUIDE.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\deploy_to_production.sh",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/deploy_to_production.sh",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/deploy_to_production.sh",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\DEPLOYMENT_QUICK_START.md",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_QUICK_START.md",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/DEPLOYMENT_QUICK_START.md",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768296741619,
+    "lastUpdatedAt": 1768296842015,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -4115,7 +4220,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 65.94499969482422,
+    "contextUsagePercent": 73.02449989318848,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
@@ -4149,7 +4254,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 5196,
+    "totalLinesAdded": 6002,
     "totalLinesRemoved": 8,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -4173,8 +4278,8 @@
     "conversationState": "",
     "latestChatGenerationUUID": "9728a8e0-3e77-44a2-b112-8d63333b1028",
     "isAgentic": true,
-    "subtitle": "DEPLOYMENT_GUIDE.md, RESET_SYSTEM_GUIDE.md, reset_system_safe.py, reset_system_for_deployment.py, REPAIRED_PARTS_SEARCH_RESULTS.md",
-    "filesChangedCount": 42
+    "subtitle": "DEPLOYMENT_QUICK_START.md, deploy_to_production.sh, DEPLOYMENT_GUIDE.md, RESET_SYSTEM_GUIDE.md, reset_system_safe.py",
+    "filesChangedCount": 45
   },
-  "extracted_at": "2026-01-13T15:03:00.466901"
+  "extracted_at": "2026-01-13T15:08:00.486389"
 }
