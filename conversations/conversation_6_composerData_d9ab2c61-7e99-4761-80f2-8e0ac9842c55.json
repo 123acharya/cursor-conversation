@@ -3924,7 +3924,6 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -3955,7 +3954,8 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -9094,7 +9094,7 @@
     "conversationState": "",
     "latestChatGenerationUUID": "33201c85-3225-44e6-b8a6-28361303730a",
     "isAgentic": true,
-    "subtitle": "BACKUP_TODAY.ps1, ZIP_PROJECT_SIMPLE.ps1, ZIP_PROJECT_EFFICIENT.ps1, README_TRANSFER.md, PROJECT_TRANSFER_CHECKLIST.md",
+    "subtitle": "BACKUP_TODAY.ps1",
     "filesChangedCount": 0,
     "gitWorktree": {
       "worktreePath": "C:\\Users\\pc\\.cursor\\worktrees\\Desktop\\hvu",
@@ -9107,5 +9107,5 @@
       "conversationLengthAtSpawn": 861
     }
   },
-  "extracted_at": "2026-01-13T12:48:01.448967"
+  "extracted_at": "2026-01-13T12:53:01.974183"
 }
