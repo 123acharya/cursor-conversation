@@ -3,7 +3,7 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "",
     "hasLoaded": true,
     "text": "",
     "fullConversationHeadersOnly": [
@@ -1355,10 +1355,27 @@
       {
         "bubbleId": "1ee27bd4-1e63-4a7e-8ac5-89597fc3ffbb",
         "type": 2
+      },
+      {
+        "bubbleId": "52f7b166-af33-476c-9e11-66bb6328832d",
+        "type": 1
+      },
+      {
+        "bubbleId": "f4d3d6f2-d0df-4fa0-8cf1-d64c607bbdb3",
+        "type": 2,
+        "serverBubbleId": "a78999cf-7451-44ff-b808-0c53c6ad3c4e"
+      },
+      {
+        "bubbleId": "80e785a3-d4db-42ee-9ae9-05b3a066deb0",
+        "type": 2
+      },
+      {
+        "bubbleId": "7c9b01d3-669f-42b1-88e7-8341df61e6a3",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -2896,7 +2913,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768228258059,
+    "lastUpdatedAt": 1768288616496,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -2976,10 +2993,22 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 50.96549987792969,
+    "contextUsagePercent": 20.0224609375,
+    "contextTokensUsed": 41006,
+    "contextTokenLimit": 204800,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
+      "file:///c%3A/Users/pc/Downloads/erpnext%20conversation%20with%20chatgpt.txt",
+      "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
+      "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md",
+      "file:///c%3A/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup_complete.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup.bat",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_LOOKUP_FIX_EXPLAINED.md",
       "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_rejected_assembly_warehouse.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_rejected_assembly.bat",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_REJECTED_ASSEMBLY_WAREHOUSE.md",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_default_warehouse.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_warehouse_server.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_manual.py",
@@ -2995,10 +3024,13 @@
       "file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_direct.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_sync.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/FINAL_FIX_APPLIED.md",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/5.txt"
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/get_debug_logs.sh",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/check_client_script_debug.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/check_server_script_content.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_force.py"
     ],
     "modelConfig": {
-      "modelName": "composer-1",
+      "modelName": "grok-code-fast-1",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -3029,10 +3061,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "9c28ef99-af97-4d29-ada1-d2bbe1a1a7bd",
+    "latestChatGenerationUUID": "cbf81779-2926-4c30-9df0-ff29845894a5",
     "isAgentic": true,
     "subtitle": "fix_server_script_force.py, check_server_script_content.py, check_client_script_debug.py, get_debug_logs.sh",
     "filesChangedCount": 28
   },
-  "extracted_at": "2026-01-13T12:43:01.390990"
+  "extracted_at": "2026-01-13T12:48:01.432328"
 }
