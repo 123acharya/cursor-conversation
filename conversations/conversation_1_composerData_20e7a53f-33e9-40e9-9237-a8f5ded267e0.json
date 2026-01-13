@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"right now bom is structured in this way\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "right now bom is structured in this way\n",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -4599,5 +4599,5 @@
     "subtitle": "OFFICE_HOSTING_COMPARISON.md, setup_office_laptop.bat, OFFICE_LAPTOP_HOSTING_GUIDE.md, prepare_for_deployment.py, DEPLOYMENT_READINESS_CHECKLIST.md",
     "filesChangedCount": 51
   },
-  "extracted_at": "2026-01-13T19:28:00.992106"
+  "extracted_at": "2026-01-13T19:33:01.039571"
 }
