@@ -3032,10 +3032,10 @@
       "conversationState": "",
       "latestChatGenerationUUID": "9c28ef99-af97-4d29-ada1-d2bbe1a1a7bd",
       "isAgentic": true,
-      "subtitle": "fix_server_script_force.py, check_server_script_content.py, check_client_script_debug.py, get_debug_logs.sh, Stock Entry Purpose + Pcb Scan Script.txt",
+      "subtitle": "fix_server_script_force.py, check_server_script_content.py, check_client_script_debug.py, get_debug_logs.sh",
       "filesChangedCount": 28
     },
-    "extracted_at": "2026-01-13T11:38:02.569251"
+    "extracted_at": "2026-01-13T11:43:01.060608"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -4581,6 +4581,7 @@
         "externalLinks": [],
         "cursorRules": [],
         "cursorCommands": [],
+        "ideEditorsState": true,
         "gitPRDiffSelections": [],
         "mentions": {
           "composers": {},
@@ -6622,7 +6623,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-13T11:38:02.569251"
+    "extracted_at": "2026-01-13T11:43:01.060608"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -10299,6 +10300,7 @@
         "externalLinks": [],
         "cursorRules": [],
         "cursorCommands": [],
+        "ideEditorsState": true,
         "gitPRDiffSelections": [],
         "mentions": {
           "composers": {},
@@ -15123,7 +15125,7 @@
       "conversationState": "",
       "latestChatGenerationUUID": "577e61e0-e40a-4771-b40b-2b4e8642cb85",
       "isAgentic": true,
-      "subtitle": "SupabaseFrequencyTestService.kt, FQCRepository.kt",
+      "subtitle": "PROJECT_STATUS_SUMMARY.md, COMPREHENSIVE_ANALYSIS.md, COMPLETE_SCREEN_DATA_FLOW.md, WORKFLOW_REQUIREMENTS_SUMMARY.md, UnsyncedDataSyncService.kt",
       "filesChangedCount": 0,
       "gitWorktree": {
         "worktreePath": "C:\\Users\\pc\\.cursor\\worktrees\\Desktop\\kjg",
@@ -15133,7 +15135,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-13T11:38:02.569251"
+    "extracted_at": "2026-01-13T11:43:01.076233"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -15351,7 +15353,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-13T11:38:02.569251"
+    "extracted_at": "2026-01-13T11:43:01.076233"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -15528,7 +15530,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-13T11:38:02.569251"
+    "extracted_at": "2026-01-13T11:43:01.076233"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -19456,6 +19458,7 @@
         "externalLinks": [],
         "cursorRules": [],
         "cursorCommands": [],
+        "ideEditorsState": true,
         "gitPRDiffSelections": [],
         "mentions": {
           "composers": {},
@@ -19486,8 +19489,7 @@
           "consoleLogs": [],
           "ideEditorsState": [],
           "gitPRDiffSelections": {}
-        },
-        "ideEditorsState": true
+        }
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
@@ -24619,7 +24621,7 @@
       "isSpec": false,
       "isSpecSubagentDone": false,
       "stopHookLoopCount": 0,
-      "speculativeSummarizationEncryptionKey": "",
+      "speculativeSummarizationEncryptionKey": "KW9SrU4n5fY7eSJpuWeeDUaTQbzvXmRTPvrlqsyiMzo=",
       "isNAL": false,
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
@@ -24639,11 +24641,11 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-13T11:38:02.569251"
+    "extracted_at": "2026-01-13T11:43:01.077201"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-13T11:38:02.569251"
+    "extracted_at": "2026-01-13T11:43:01.077201"
   }
 ]

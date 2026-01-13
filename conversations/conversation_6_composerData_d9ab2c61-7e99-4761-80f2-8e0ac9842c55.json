@@ -3924,6 +3924,7 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
+      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -3954,8 +3955,7 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      },
-      "ideEditorsState": true
+      }
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -9087,7 +9087,7 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "",
+    "speculativeSummarizationEncryptionKey": "KW9SrU4n5fY7eSJpuWeeDUaTQbzvXmRTPvrlqsyiMzo=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
@@ -9107,5 +9107,5 @@
       "conversationLengthAtSpawn": 861
     }
   },
-  "extracted_at": "2026-01-13T11:38:02.569251"
+  "extracted_at": "2026-01-13T11:43:01.077201"
 }

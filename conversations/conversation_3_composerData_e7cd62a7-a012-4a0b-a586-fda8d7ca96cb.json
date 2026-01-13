@@ -3673,6 +3673,7 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
+      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -8497,7 +8498,7 @@
     "conversationState": "",
     "latestChatGenerationUUID": "577e61e0-e40a-4771-b40b-2b4e8642cb85",
     "isAgentic": true,
-    "subtitle": "SupabaseFrequencyTestService.kt, FQCRepository.kt",
+    "subtitle": "PROJECT_STATUS_SUMMARY.md, COMPREHENSIVE_ANALYSIS.md, COMPLETE_SCREEN_DATA_FLOW.md, WORKFLOW_REQUIREMENTS_SUMMARY.md, UnsyncedDataSyncService.kt",
     "filesChangedCount": 0,
     "gitWorktree": {
       "worktreePath": "C:\\Users\\pc\\.cursor\\worktrees\\Desktop\\kjg",
@@ -8507,5 +8508,5 @@
     "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
     "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
   },
-  "extracted_at": "2026-01-13T11:38:02.569251"
+  "extracted_at": "2026-01-13T11:43:01.076233"
 }
