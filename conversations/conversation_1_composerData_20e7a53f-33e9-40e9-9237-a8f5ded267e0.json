@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"OB final bom ie =BOM-FINAL-COMMON-001+BOM-HB-OB-001 like this \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "OB final bom ie =BOM-FINAL-COMMON-001+BOM-HB-OB-001 like this ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -1988,11 +1988,16 @@
       },
       {
         "bubbleId": "54cb4bc2-38c8-4084-b7e1-ddb4d180c2f3",
+        "type": 2,
+        "serverBubbleId": "9244039c-81dc-44e4-bdfc-7bb93db24140"
+      },
+      {
+        "bubbleId": "926432c1-3b6b-48b8-a59c-c73f0a164e93",
         "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -2055,7 +2060,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "8ff74858-e866-4580-b326-54ed75760f5e",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -3923,6 +3927,30 @@
           "lastDiffId": "90b8515f-ea04-42ad-aadd-eb1d1fab6f95",
           "lastAppliedAt": 1768313251407
         }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_QUICK_GUIDE.md": {
+        "edb906d8-cc75-49c5-81c6-97711a981a9e": {
+          "_v": 3,
+          "bubbleId": "ca6e6e1a-e481-434f-b8e9-e88f91e37e7d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\COMBINE_BOM_QUICK_GUIDE.md",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_QUICK_GUIDE.md",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/COMBINE_BOM_QUICK_GUIDE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "edb906d8-cc75-49c5-81c6-97711a981a9e",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768313279443,
+          "composerChatGenerationUuid": "8ff74858-e866-4580-b326-54ed75760f5e",
+          "diffId": "7a451f8d-4318-4ea2-b8ae-c19261846842",
+          "lastDiffId": "d698ebe1-7022-4784-b925-5402189039a8",
+          "lastAppliedAt": 1768313281477
+        }
       }
     },
     "originalFileStates": {
@@ -4259,6 +4287,12 @@
       "file:///g%3A/frappe_docker-main/frappe_docker-main/check_bom_items.py": {
         "content": "",
         "firstEditBubbleId": "7319f427-19a1-435c-8b3e-3e0a46cebfa7",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_QUICK_GUIDE.md": {
+        "content": "",
+        "firstEditBubbleId": "ca6e6e1a-e481-434f-b8e9-e88f91e37e7d",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -4703,10 +4737,20 @@
           "path": "/G:/frappe_docker-main/frappe_docker-main/check_bom_items.py",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\COMBINE_BOM_QUICK_GUIDE.md",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_QUICK_GUIDE.md",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/COMBINE_BOM_QUICK_GUIDE.md",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768313155360,
+    "lastUpdatedAt": 1768313288546,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -4786,7 +4830,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 85.00850009918213,
+    "contextUsagePercent": 88.34099960327148,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
@@ -4829,7 +4873,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 8288,
+    "totalLinesAdded": 8380,
     "totalLinesRemoved": 8,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -4854,7 +4898,7 @@
     "latestChatGenerationUUID": "8ff74858-e866-4580-b326-54ed75760f5e",
     "isAgentic": true,
     "subtitle": "COMBINE_BOM_QUICK_GUIDE.md, create_combined_bom.py, check_bom_items.py, COMBINE_BOM_MANUAL_STEPS.md, COMBINE_BOM_GUIDE.md",
-    "filesChangedCount": 55
+    "filesChangedCount": 56
   },
-  "extracted_at": "2026-01-13T19:38:28.192638"
+  "extracted_at": "2026-01-13T19:43:01.000566"
 }
