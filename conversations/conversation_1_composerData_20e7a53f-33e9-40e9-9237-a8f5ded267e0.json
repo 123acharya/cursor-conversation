@@ -2025,6 +2025,7 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
+      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -2055,8 +2056,7 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      },
-      "ideEditorsState": true
+      }
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -4900,5 +4900,5 @@
     "subtitle": "COMBINE_BOM_QUICK_GUIDE.md, create_combined_bom.py, check_bom_items.py, COMBINE_BOM_MANUAL_STEPS.md, COMBINE_BOM_GUIDE.md",
     "filesChangedCount": 56
   },
-  "extracted_at": "2026-01-14T12:03:01.999945"
+  "extracted_at": "2026-01-14T12:08:01.128533"
 }
