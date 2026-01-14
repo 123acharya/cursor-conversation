@@ -2004,10 +2004,18 @@
           "bubbleId": "f02a3f39-bc25-4c3f-a73a-3a6dffa2e018",
           "type": 2,
           "serverBubbleId": "766a039a-5808-43e1-8459-6d88e8e0e260"
+        },
+        {
+          "bubbleId": "367000c1-af29-4584-8f90-4626462a0f08",
+          "type": 2
+        },
+        {
+          "bubbleId": "976895b8-8f51-4c6b-be94-fce4abddf050",
+          "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "aborted",
+      "status": "completed",
       "context": {
         "composers": [],
         "quotes": [],
@@ -2070,7 +2078,6 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
-      "chatGenerationUUID": "f70beca5-5f5b-4f30-9da8-ccc01d9963e1",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -4761,7 +4768,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768373256097,
+      "lastUpdatedAt": 1768373317385,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -4841,7 +4848,7 @@
           "amount": 8
         }
       },
-      "contextUsagePercent": 100,
+      "contextUsagePercent": 32.51499938964844,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
         "file:///c%3A/Users/pc/Downloads/erpnext%20conversation%20with%20chatgpt.txt",
@@ -4940,7 +4947,7 @@
       "subtitle": "COMBINE_BOM_QUICK_GUIDE.md, create_combined_bom.py, check_bom_items.py, COMBINE_BOM_MANUAL_STEPS.md, COMBINE_BOM_GUIDE.md",
       "filesChangedCount": 56
     },
-    "extracted_at": "2026-01-14T12:18:01.119412"
+    "extracted_at": "2026-01-14T12:23:01.080348"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -8528,7 +8535,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-14T12:18:01.120411"
+    "extracted_at": "2026-01-14T12:23:01.087670"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -17040,7 +17047,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-14T12:18:01.127116"
+    "extracted_at": "2026-01-14T12:23:01.093190"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -17258,7 +17265,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T12:18:01.127116"
+    "extracted_at": "2026-01-14T12:23:01.093190"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -17435,7 +17442,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T12:18:01.127116"
+    "extracted_at": "2026-01-14T12:23:01.094189"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -26546,11 +26553,11 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-14T12:18:01.133113"
+    "extracted_at": "2026-01-14T12:23:01.100189"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-14T12:18:01.133113"
+    "extracted_at": "2026-01-14T12:23:01.100189"
   }
 ]
