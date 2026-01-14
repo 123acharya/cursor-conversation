@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"when in add stockentry type it giv\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "",
+      "text": "when in add stockentry type it giv",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -2980,10 +2980,126 @@
         {
           "bubbleId": "5e480811-d866-4253-99da-f93155ee8a33",
           "type": 2
+        },
+        {
+          "bubbleId": "31bc9165-4977-41a1-a151-ca2a954b916e",
+          "type": 2,
+          "serverBubbleId": "4c13b7ea-a235-4e92-9bb7-3b1be5420f52"
+        },
+        {
+          "bubbleId": "0220a407-565d-4ed2-bb0e-f1a9f2bf3e81",
+          "type": 2
+        },
+        {
+          "bubbleId": "3df18b87-b0ec-4bb8-91ba-a70521532b3a",
+          "type": 2
+        },
+        {
+          "bubbleId": "6968ae6c-e3b5-4c06-9f8d-c94385e37828",
+          "type": 2
+        },
+        {
+          "bubbleId": "ff34c5d2-f5d9-4636-9a8a-f7341c318cc8",
+          "type": 2,
+          "serverBubbleId": "67632ef5-9814-4e48-aa78-ad498e98f8c4"
+        },
+        {
+          "bubbleId": "ff7f7698-6734-412d-8f1b-f7fcf3642703",
+          "type": 2
+        },
+        {
+          "bubbleId": "fd7e76cf-1d09-43a2-8734-bef76cb2d4d2",
+          "type": 1
+        },
+        {
+          "bubbleId": "0ddcf230-600a-45b4-a9eb-4e8bcd94a5c0",
+          "type": 2,
+          "serverBubbleId": "592e6151-16b5-4b48-8c6c-e8a8d6360c94"
+        },
+        {
+          "bubbleId": "4935282f-1757-4180-945a-4099da4d5b57",
+          "type": 2
+        },
+        {
+          "bubbleId": "bcdefa86-c9f7-4ef1-a84c-e8fbf8fc54ef",
+          "type": 2
+        },
+        {
+          "bubbleId": "7b7724b5-499d-4aef-a12b-6e24ce6bf356",
+          "type": 2
+        },
+        {
+          "bubbleId": "9c171031-e856-4631-904d-879da891efd4",
+          "type": 2,
+          "serverBubbleId": "c3b324e7-a6cc-4e53-928f-bb733139a707"
+        },
+        {
+          "bubbleId": "2d4fae39-310d-41c3-80b4-daf9517a8633",
+          "type": 2
+        },
+        {
+          "bubbleId": "6b7524f1-5a6c-4c62-94be-0a7abbeb83ab",
+          "type": 2
+        },
+        {
+          "bubbleId": "81a204ce-2617-4a8e-be7b-52f15d2629c5",
+          "type": 2
+        },
+        {
+          "bubbleId": "8af7e12f-08ae-4d45-8e2b-746924f98130",
+          "type": 2,
+          "serverBubbleId": "05e124b3-e986-4e02-b378-a5b08d876483"
+        },
+        {
+          "bubbleId": "373d89f5-91eb-40ed-acf6-8c42cdecab76",
+          "type": 2
+        },
+        {
+          "bubbleId": "b93d369a-c139-470a-b30f-c3862cf26d87",
+          "type": 2
+        },
+        {
+          "bubbleId": "287d9ae1-ae25-4bb1-8cb7-40b5946c1923",
+          "type": 2,
+          "serverBubbleId": "c3ca7467-7cb8-4c84-aea7-f9ef1b9071ca"
+        },
+        {
+          "bubbleId": "7965a660-191f-4533-9a58-23bc39f8e67f",
+          "type": 2
+        },
+        {
+          "bubbleId": "bf704623-1908-4ca0-bd70-e377b9cd8c06",
+          "type": 2
+        },
+        {
+          "bubbleId": "5391c270-4415-49c6-befa-6be90d3f0326",
+          "type": 2
+        },
+        {
+          "bubbleId": "ee8c9ee5-9702-493d-9834-58922bd48718",
+          "type": 2,
+          "serverBubbleId": "23514f25-017b-4ee7-b6e8-a8dd391a0df2"
+        },
+        {
+          "bubbleId": "f8a1d344-585f-438a-9ed2-4c2e916597d9",
+          "type": 2
+        },
+        {
+          "bubbleId": "bd3ae60c-3f51-4f19-b081-5c9d3167f969",
+          "type": 2
+        },
+        {
+          "bubbleId": "93bde632-a792-4807-bb84-6289d161e7ee",
+          "type": 2,
+          "serverBubbleId": "30a92ed0-3173-403d-8d90-65e2cf873c64"
+        },
+        {
+          "bubbleId": "7fdfba67-ffc9-4d71-ade7-38aae096f374",
+          "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "aborted",
+      "status": "completed",
       "context": {
         "composers": [],
         "quotes": [],
@@ -3043,12 +3159,10 @@
           "consoleLogs": [],
           "ideEditorsState": [],
           "gitPRDiffSelections": {}
-        },
-        "ideEditorsState": true
+        }
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
-      "chatGenerationUUID": "40f870c9-194d-4633-8d2c-d8ff97e3484c",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -4415,11 +4529,141 @@
               "scheme": "file"
             },
             "codeblockId": "bd46b266-b973-488b-a8b0-f607729a4d32",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "8dbc42d4-913d-441b-8352-853ab3356f0c",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768390054252,
+            "composerChatGenerationUuid": "40f870c9-194d-4633-8d2c-d8ff97e3484c",
+            "diffId": "50d73c85-0798-4ab9-afdc-4f0dbe6707fb",
+            "lastDiffId": "bd8d539c-bf02-4dba-8e63-e61d1b787c32",
+            "lastAppliedAt": 1768390056911
+          },
+          "e463dac8-662a-48a9-a595-baa7ea4d5430": {
+            "_v": 3,
+            "bubbleId": "5e480811-d866-4253-99da-f93155ee8a33",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "e463dac8-662a-48a9-a595-baa7ea4d5430",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "bd46b266-b973-488b-a8b0-f607729a4d32",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768390057286,
+            "composerChatGenerationUuid": "40f870c9-194d-4633-8d2c-d8ff97e3484c",
+            "diffId": "259ba6c1-4e51-4b7f-b849-0015506a4e82",
+            "lastDiffId": "6f97c572-4690-436a-905f-28821c357f5a",
+            "lastAppliedAt": 1768390058398
+          },
+          "7f691550-09ec-4d81-abf2-c744bdaf5869": {
+            "_v": 3,
+            "bubbleId": "6968ae6c-e3b5-4c06-9f8d-c94385e37828",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "7f691550-09ec-4d81-abf2-c744bdaf5869",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "e463dac8-662a-48a9-a595-baa7ea4d5430",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768390060165,
+            "composerChatGenerationUuid": "40f870c9-194d-4633-8d2c-d8ff97e3484c",
+            "diffId": "5f3430dc-7fa2-4237-9788-76f65f283f5c",
+            "lastDiffId": "4903e876-b3c8-4293-a4cb-c7b1d044405b",
+            "lastAppliedAt": 1768390062208
+          },
+          "0810c384-f306-4422-b130-9e0d7bbb7040": {
+            "_v": 3,
+            "bubbleId": "6b7524f1-5a6c-4c62-94be-0a7abbeb83ab",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "0810c384-f306-4422-b130-9e0d7bbb7040",
             "status": "aborted",
             "languageId": "plaintext",
             "codeBlockDisplayPreference": "collapsed",
-            "createdAt": 1768390054252,
-            "composerChatGenerationUuid": "40f870c9-194d-4633-8d2c-d8ff97e3484c"
+            "createdAt": 1768390262497,
+            "composerChatGenerationUuid": "c7c69985-30d5-4f2a-97fc-f9bead700b8d"
+          },
+          "f876361c-5e19-48ca-b559-2e69d5970702": {
+            "_v": 3,
+            "bubbleId": "81a204ce-2617-4a8e-be7b-52f15d2629c5",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "f876361c-5e19-48ca-b559-2e69d5970702",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "7f691550-09ec-4d81-abf2-c744bdaf5869",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768390266355,
+            "composerChatGenerationUuid": "c7c69985-30d5-4f2a-97fc-f9bead700b8d",
+            "diffId": "7ed4e218-7009-4de2-a0d6-cf14ce051deb",
+            "lastDiffId": "48dc90cf-f8fb-46e2-819b-a46fae8d229c",
+            "lastAppliedAt": 1768390271392
+          },
+          "c05dd115-4328-42ff-afa5-97ec58ac1a74": {
+            "_v": 3,
+            "bubbleId": "bd3ae60c-3f51-4f19-b081-5c9d3167f969",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "c05dd115-4328-42ff-afa5-97ec58ac1a74",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "f876361c-5e19-48ca-b559-2e69d5970702",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768390277106,
+            "composerChatGenerationUuid": "c7c69985-30d5-4f2a-97fc-f9bead700b8d",
+            "diffId": "90d76808-06cb-4152-8396-c2c2e8e0de0e",
+            "lastDiffId": "597b5980-98be-4267-b924-38adc9a8a02d",
+            "lastAppliedAt": 1768390280632
           }
         },
         "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_default_warehouse.py": {
@@ -7454,7 +7698,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768390031145,
+      "lastUpdatedAt": 1768390283414,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -7534,7 +7778,7 @@
           "amount": 8
         }
       },
-      "contextUsagePercent": 31.998001098632812,
+      "contextUsagePercent": 40.60049819946289,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
         "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt"
@@ -7549,7 +7793,7 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 12629,
+      "totalLinesAdded": 12690,
       "totalLinesRemoved": 8,
       "addedFiles": 0,
       "removedFiles": 0,
@@ -7571,12 +7815,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "40f870c9-194d-4633-8d2c-d8ff97e3484c",
+      "latestChatGenerationUUID": "c7c69985-30d5-4f2a-97fc-f9bead700b8d",
       "isAgentic": true,
       "subtitle": "Stock Entry Purpose + Pcb Scan Script.txt, ADD_SIMPLE_FILTER.md, SIMPLE_BOM_FILTER_CODE.js, create_proper_api.py, create_api_file.py",
       "filesChangedCount": 81
     },
-    "extracted_at": "2026-01-14T16:58:00.606032"
+    "extracted_at": "2026-01-14T17:03:00.638540"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -9477,8 +9721,7 @@
           "consoleLogs": [],
           "ideEditorsState": [],
           "gitPRDiffSelections": {}
-        },
-        "ideEditorsState": true
+        }
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
@@ -11735,7 +11978,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py, COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-14T16:58:00.606032"
+    "extracted_at": "2026-01-14T17:03:00.638540"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -20247,7 +20490,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-14T16:58:00.613041"
+    "extracted_at": "2026-01-14T17:03:00.640556"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -20465,7 +20708,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T16:58:00.613041"
+    "extracted_at": "2026-01-14T17:03:00.640556"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -20642,7 +20885,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T16:58:00.613041"
+    "extracted_at": "2026-01-14T17:03:00.640556"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -29753,12 +29996,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-14T16:58:00.620040"
+    "extracted_at": "2026-01-14T17:03:00.653106"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-14T16:58:00.620040"
+    "extracted_at": "2026-01-14T17:03:00.653106"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -29937,6 +30180,6 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T16:58:00.620040"
+    "extracted_at": "2026-01-14T17:03:00.653106"
   }
 ]
