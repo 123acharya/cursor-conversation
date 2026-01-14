@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"now there is one trickey condition now things are configured in multilevel bom \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"now inside headband mob like i told you there is HB-COMMON bom which contains near 15items then there is HB-OB this also contains arounf 12 itesm \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"now inside HB-COMMON incluedes another bom BOM-PA01 0001-001 this contains nearly 40 items but since this comes as a single parts \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"thes is is PCBA item boom this contains multiple passive active connect component ext \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so when stock incharge provides this item to the \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "now there is one trickey condition now things are configured in multilevel bom \nnow inside headband mob like i told you there is HB-COMMON bom which contains near 15items then there is HB-OB this also contains arounf 12 itesm \nnow inside HB-COMMON incluedes another bom BOM-PA01 0001-001 this contains nearly 40 items but since this comes as a single parts \nthes is is PCBA item boom this contains multiple passive active connect component ext \nso when stock incharge provides this item to the ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -4946,5 +4946,5 @@
     "subtitle": "COMBINE_BOM_QUICK_GUIDE.md, create_combined_bom.py, check_bom_items.py, COMBINE_BOM_MANUAL_STEPS.md, COMBINE_BOM_GUIDE.md",
     "filesChangedCount": 56
   },
-  "extracted_at": "2026-01-14T12:28:01.089197"
+  "extracted_at": "2026-01-14T12:33:01.120487"
 }
