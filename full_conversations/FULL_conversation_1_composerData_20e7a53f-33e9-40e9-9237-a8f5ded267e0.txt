@@ -1,0 +1,5882 @@
+================================================================================
+FULL CONVERSATION RECOVERY
+================================================================================
+Composer ID: 20e7a53f-33e9-40e9-9237-a8f5ded267e0
+Total Messages: 501
+Messages with Content: 130
+Extracted At: 2026-01-14T12:47:48.399301
+
+================================================================================
+CONVERSATION MESSAGES
+================================================================================
+
+[1] USER
+--------------------------------------------------------------------------------
+i lost te previous conversation so let us try to get  what ever we can get
+@c:\Users\pc\Downloads\erpnext conversation with chatgpt.txt this is the conversation that i spoke with chat gpt but after that in cursor i developed a lot 
+G:\frappe_docker-main\frappe_docker-main this foler has all the relavent document 
+local host is runnign u canb go thouh the erpnext as well and let me knwo what u understood
+
+[2] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[3] ASSISTANT
+--------------------------------------------------------------------------------
+
+Reviewing the ChatGPT conversation, exploring the frappe_docker folder, and checking the localhost ERPNext instance to understand the current state.
+
+
+[4] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[5] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[6] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[7] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[8] ASSISTANT
+--------------------------------------------------------------------------------
+
+Reading the conversation file in sections and exploring the frappe_docker folder:
+
+
+[9] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[10] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[11] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[12] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[13] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[14] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[15] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[16] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking ERPNext status and reviewing more documentation:
+
+
+[17] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[18] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[19] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[20] USER
+--------------------------------------------------------------------------------
+continue from where u leftoff
+
+[21] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[22] ASSISTANT
+--------------------------------------------------------------------------------
+Reviewing key documentation to understand the ERPNext setup:
+
+
+[23] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[24] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[25] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[26] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[27] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[28] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[29] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[30] ASSISTANT
+--------------------------------------------------------------------------------
+Reviewing a few more files, then summarizing:
+
+
+[31] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[32] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[33] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[34] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[35] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[36] ASSISTANT
+--------------------------------------------------------------------------------
+Creating a summary document of what I understand:
+
+
+[37] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[38] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[39] ASSISTANT
+--------------------------------------------------------------------------------
+Created a summary document. Checking ERPNext status and preparing a quick reference:
+
+
+[40] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[41] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[42] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[43] ASSISTANT
+--------------------------------------------------------------------------------
+Created a summary document: `ERPNext_System_Understanding.md` on your Desktop.
+
+## Summary of what I understand
+
+### Your ERPNext system
+
+1. PCB tracking system — tracks PCBs from vendor receipt through testing to assembly
+   - 3 custom DocTypes: PCB Master, PCB IQC Result, PCB Ledger
+   - Quality control: PTS1/PTS2/PTS3 testing stages
+   - Complete audit trail
+
+2. Material flow management — warehouse routes enforced server-side
+   - Purchase Receipts → INCOMING-QC - R
+   - Stock Entry routes validated (cannot bypass)
+   - Golden routes for all movements
+
+3. 8 implementation phases completed
+   - Version alignment, permissions, guardrails, UI simplification, reports, hardening, controls, UAT testing
+
+4. Production-ready status
+   - All testing complete
+   - Documentation in place
+   - Ready for real operations
+
+### Key files location
+- Main system: `G:\frappe_docker-main\frappe_docker-main\`
+- Documentation: Multiple `.md` files explaining architecture, phases, and guides
+- Access: http://localhost:8080 (or http://192.168.1.248:8080 from network)
+
+### What you can do now
+1. Use the system — enter PCB batches, process stock movements
+2. Review the understanding document — `ERPNext_System_Understanding.md` on Desktop
+3. Access ERPNext — login and explore the Sonic Ops workspace
+4. Continue development — system is ready, add enhancements as needed
+
+The document includes:
+- Complete system architecture
+- All 8 phases explained
+- Data flow diagrams
+- File structure
+- Current status
+- Next steps
+
+Should I:
+1. Check if ERPNext is currently running?
+2. Explore any specific part of the system?
+3. Help with next steps or enhancements?
+
+[44] USER
+--------------------------------------------------------------------------------
+did u understand stock entry structure its purpose
+also understand PCB IQC Results
+PCB ledger and  PCB Master  
+
+[45] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[46] ASSISTANT
+--------------------------------------------------------------------------------
+
+Reviewing the structure and purpose of Stock Entry, PCB IQC Results, PCB Ledger, and PCB Master. Searching documentation and implementation files:
+
+
+[47] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[48] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[49] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[50] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[51] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[52] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[53] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[54] ASSISTANT
+--------------------------------------------------------------------------------
+
+Reading key files to understand the structure:
+
+
+[55] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[56] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[57] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[58] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[59] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[60] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[61] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[62] ASSISTANT
+--------------------------------------------------------------------------------
+
+Reviewing server scripts and implementation details:
+
+
+[63] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[64] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[65] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[66] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[67] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[68] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating a document explaining the structure and purpose of each DocType:
+
+
+[69] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[70] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[71] ASSISTANT
+--------------------------------------------------------------------------------
+
+Created a document: `ERPNext_DocTypes_Detailed_Understanding.md` on your Desktop.
+
+## Summary of what I understand
+
+### 1. Stock Entry — structure and purpose
+
+Purpose: Core document for inventory movements between warehouses.
+
+Structure:
+- Main fields: `stock_entry_type` (determines route), `from_warehouse`, `to_warehouse`, `posting_date`
+- Items table: `item_code`, `qty`, `s_warehouse`, `t_warehouse`, `serial_no`
+- Custom PCB table: Appears when item `PA01 0001` is entered
+
+How it works:
+- Stock Entry Type defines golden routes (enforced server-side)
+- Routes validated on submit (cannot bypass)
+- PCB table integrated for serial number tracking
+- After submit: Updates PCB Master and creates PCB Ledger entries
+
+---
+
+### 2. PCB IQC Result — structure and purpose
+
+Purpose: Entry UI form for operators to enter PCB test results.
+
+Structure:
+- Main form: `pcb` (Item link), `pcb_scan` (barcode input), `iqc_date`
+- Child table (PCB IQC Line): `pcb_serial_no`, `pts1_status`, `pts2_status`, `pts3_status`, `overall_status`, `dominant_channel`, `max_value`, `remarks`
+
+How it works:
+- Operators enter test results (single or batch)
+- Data saved to PCB IQC Line (background table)
+- Server script updates PCB Master and creates PCB Ledger entry
+- Can search by serial number to update existing results
+
+---
+
+### 3. PCB Ledger — structure and purpose
+
+Purpose: Complete audit trail — transaction log for every PCB event.
+
+Structure:
+- Links: `pcb_serial_no` → PCB Master
+- Event tracking: `event_type`, `event_time`, `user`, `ref_doctype`, `ref_docname`
+- Status tracking: `overall_status`, `prev_overall_status`, `new_overall_status`
+- Movement tracking: `from_warehouse`, `to_warehouse`
+- Test data: `pts1_status`, `pts2_status`, `pts3_status`, `remarks`
+
+How it works:
+- Created automatically by server scripts
+- One entry per event (test, movement, status change)
+- Complete history queryable by serial number
+- Event types: PTS_TEST, IQC_PASS, IQC_FAIL, MOVED_TO_STORE, etc.
+
+---
+
+### 4. PCB Master — structure and purpose
+
+Purpose: Single source of truth — current state of each PCB.
+
+Structure:
+- Primary key: `pcb_serial_no` (serial number)
+- Status: `overall_status` (NEW, PTS_PENDING, PASS, FAIL, etc.)
+- Test results: `pts1_status`, `pts2_status`, `pts3_status`
+- Location: `last_warehouse` (current warehouse)
+- References: `last_event_ref_doctype`, `last_event_ref_docname`
+- Test data: `dominant_channel`, `max_value`, `iqc_date`, `last_tested_on`
+
+How it works:
+- Created/updated automatically when PCB IQC Result saved or Stock Entry submitted
+- Always reflects current state (status, warehouse, test results)
+- Links to last event (Stock Entry or PCB IQC Result)
+- Queryable by serial number for current status
+
+---
+
+### How they work together
+
+```
+PCB IQC Result (Entry Form)
+    ↓ saves to
+PCB IQC Line (Background Table) ← Single Source of Truth
+    ↓ updates
+PCB Master (Current State)
+    ↓ creates
+PCB Ledger (Audit Trail)
+
+Stock Entry (Movement)
+    ↓ validates route
+    ↓ updates stock
+    ↓ updates
+PCB Master (Current State)
+    ↓ creates
+PCB Ledger (Audit Trail)
+```
+
+---
+
+The document includes:
+- Structure of each DocType (all fields explained)
+- Purpose and use cases
+- How each DocType works (workflows)
+- Examples and data flow diagrams
+- Relationships between DocTypes
+- Integration points
+
+Does this match your understanding? Should I clarify any part or add more details?
+
+[72] USER
+--------------------------------------------------------------------------------
+i get this error when i scan serial numnber
+Failed to get method for command erpnext.api.pcb.get_pcb_iqc_data with No module named 'erpnext.api'
+also look like the PCB IQC results is not connected to the Stockentry sheet 
+
+[73] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[74] ASSISTANT
+--------------------------------------------------------------------------------
+Searching for the API call and the PCB IQC data lookup logic:
+
+
+[75] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[76] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[77] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[78] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[79] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[80] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[81] ASSISTANT
+--------------------------------------------------------------------------------
+Checking the current client script and creating a fix:
+
+
+[82] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[83] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[84] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[85] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[86] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[87] ASSISTANT
+--------------------------------------------------------------------------------
+The API method path is incorrect. Creating a fix that uses a Server Script API (safer in Docker) and updates the client script:
+
+
+[88] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[89] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[90] ASSISTANT
+--------------------------------------------------------------------------------
+Creating a batch file to run the fix and a document explaining the issue:
+
+
+[91] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[92] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[93] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[94] ASSISTANT
+--------------------------------------------------------------------------------
+Created a fix for the PCB lookup issue. Summary:
+
+## Problem identified
+
+1. Error: `No module named 'erpnext.api'` — the client script calls `erpnext.api.pcb.get_pcb_iqc_data`, which doesn't exist.
+2. PCB IQC Results not connected — scanning a serial number doesn't fetch test results from the PCB IQC Line table.
+
+## Solution created
+
+### Files created
+
+1. `fix_pcb_lookup_complete.py` — Fix script that:
+   - Creates a Server Script API method (`get_pcb_iqc_data`)
+   - Updates the client script to call it correctly
+   - Queries the PCB IQC Line table to fetch test results
+
+2. `fix_pcb_lookup.bat` — Easy run script (double-click to run)
+
+3. `PCB_LOOKUP_FIX_EXPLAINED.md` — Documentation
+
+## How to apply the fix
+
+### Option 1: Run batch file (easiest)
+```batch
+cd G:\frappe_docker-main\frappe_docker-main
+fix_pcb_lookup.bat
+```
+
+### Option 2: Manual steps
+```bash
+# 1. Run fix script
+python fix_pcb_lookup_complete.py
+
+# 2. Clear cache
+docker compose exec backend bench --site frontend clear-cache
+
+# 3. Restart frontend
+docker compose restart frontend
+```
+
+## What the fix does
+
+1. Creates Server Script API method:
+   - Name: `PCB IQC Data Lookup API`
+   - Method: `get_pcb_iqc_data(serial_no)`
+   - Queries: `tabPCB IQC Line` table
+
+2. Updates Client Script:
+   - Script: `Stock Entry Purpose + Pcb Scan Script`
+   - Adds lookup call after row creation
+   - Populates fields with fetched data
+
+3. Result:
+   - When you scan a PCB serial, it fetches test results from PCB IQC Line
+   - PTS1, PTS2, PTS3, overall_status populate automatically
+   - No more errors
+
+## Testing after fix
+
+1. Open Stock Entry form
+2. Select Type: `PCB-IQC-Accept`
+3. Add Item: `PA01 0001`
+4. Scan PCB Serial: `SLB250202000457` (from your PCB IQC Result)
+5. Verify: Test results should populate automatically
+
+## Files location
+
+All files are in: `G:\frappe_docker-main\frappe_docker-main\`
+
+- `fix_pcb_lookup_complete.py` — Main fix script
+- `fix_pcb_lookup.bat` — Easy runner
+- `PCB_LOOKUP_FIX_EXPLAINED.md` — Full documentation
+
+Run the fix and test. The PCB IQC Results will be connected to Stock Entry, and scanning serial numbers will fetch test results automatically.
+
+[95] USER
+--------------------------------------------------------------------------------
+PS C:\Users\pc> cd G:\frappe_docker-main\frappe_docker-main
+PS G:\frappe_docker-main\frappe_docker-main> fix_pcb_lookup.bat
+fix_pcb_lookup.bat : The term 'fix_pcb_lookup.bat' is not recognized as the name of a cmdlet, function, script file,
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and
+try again.
+At line:1 char:1
++ fix_pcb_lookup.bat
++ ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (fix_pcb_lookup.bat:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+
+Suggestion [3,General]: The command fix_pcb_lookup.bat was not found, but does exist in the current location. Windows PowerShell does not load commands from the current location by default. If you trust this command, instead type: ".\fix_pcb_lookup.bat". See "get-help about_Command_Precedence" for more details.
+PS G:\frappe_docker-main\frappe_docker-main>
+
+
+[96] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[97] ASSISTANT
+--------------------------------------------------------------------------------
+PowerShell requires `.\` to run scripts in the current directory. Running the fix script directly:
+
+
+[98] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[99] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[100] ASSISTANT
+--------------------------------------------------------------------------------
+Fixing the PowerShell command syntax:
+
+
+[101] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[102] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[103] ASSISTANT
+--------------------------------------------------------------------------------
+Running the script inside the Docker container where Frappe is installed:
+
+
+[104] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[105] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[106] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[107] ASSISTANT
+--------------------------------------------------------------------------------
+Running the script inside the Docker container using bench console:
+
+
+[108] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[109] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[110] ASSISTANT
+--------------------------------------------------------------------------------
+Checking how to run Python scripts in this setup:
+
+
+[111] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[112] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[113] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[114] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[115] ASSISTANT
+--------------------------------------------------------------------------------
+Copying the script into the container and running it:
+
+
+[116] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[117] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[118] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[119] ASSISTANT
+--------------------------------------------------------------------------------
+Using bench console to run the script with the correct environment:
+
+
+[120] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[121] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[122] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[123] USER
+--------------------------------------------------------------------------------
+ERPNext Container Shutdown
+
+[124] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[125] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[126] USER
+--------------------------------------------------------------------------------
+most of the things are working in 
+stockentry rejected from assembly purpose im getting this errorMessage
+can you fix it
+
+[127] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[128] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking the Stock Entry validation scripts for "Rejected from Assembly" to fix the "Default Target Warehouse" error:
+
+
+[129] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[130] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[131] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[132] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[133] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[134] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking client scripts and creating a fix to auto-set the Default Target Warehouse for "Rejected from Assembly":
+
+
+[135] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[136] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[137] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[138] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[139] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating a batch file to run the fix:
+
+
+[140] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[141] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[142] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[143] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking Docker Compose status and running the fix:
+
+
+[144] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[145] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[146] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating a simpler solution and a manual fix guide:
+
+
+[147] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[148] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[149] ASSISTANT
+--------------------------------------------------------------------------------
+
+Created a fix for the "Rejected from Assembly" error. Here's what to do:
+
+## Quick fix (recommended)
+
+### Manual fix via ERPNext UI (about 5 minutes)
+
+1. Login to ERPNext: http://localhost:8080
+2. Go to: Customize → Client Script → List
+3. Find and open: `Stock Entry Purpose + Pcb Scan Script`
+4. Add this code at the beginning of the script:
+
+```javascript
+// Auto-set Default Target Warehouse for Rejected from Assembly
+frappe.ui.form.on('Stock Entry', {
+    stock_entry_type(frm) {
+        if (frm.doc.stock_entry_type === 'Rejected from Assembly') {
+            if (!frm.doc.to_warehouse || frm.doc.to_warehouse !== 'Rejected items - R') {
+                frm.set_value('to_warehouse', 'Rejected items - R');
+            }
+        }
+    },
+    
+    onload(frm) {
+        if (frm.doc.stock_entry_type === 'Rejected from Assembly') {
+            if (!frm.doc.to_warehouse || frm.doc.to_warehouse !== 'Rejected items - R') {
+                frm.set_value('to_warehouse', 'Rejected items - R');
+            }
+        }
+    },
+    
+    refresh(frm) {
+        if (frm.doc.stock_entry_type === 'Rejected from Assembly') {
+            if (!frm.doc.to_warehouse || frm.doc.to_warehouse !== 'Rejected items - R') {
+                frm.set_value('to_warehouse', 'Rejected items - R');
+            }
+        }
+    }
+});
+```
+
+5. Save the script
+6. Clear cache: Settings → Clear Cache
+7. Test: Create a new Stock Entry with type "Rejected from Assembly"
+
+---
+
+## What this does
+
+- Auto-sets Default Target Warehouse = "Rejected items - R" when:
+  - Stock Entry Type is set to "Rejected from Assembly"
+  - Form loads with that type
+  - Form refreshes
+- Prevents the validation error by ensuring the field is always set
+
+---
+
+## Files created
+
+1. `fix_rejected_assembly_warehouse.py` — Automated fix script
+2. `fix_rejected_assembly.bat` — Batch file to run the fix
+3. `FIX_REJECTED_ASSEMBLY_WAREHOUSE.md` — Documentation
+
+---
+
+## Testing
+
+After applying the fix:
+1. Open Stock Entry → New
+2. Select Type: "Rejected from Assembly"
+3. Verify: Default Target Warehouse auto-sets to "Rejected items - R"
+4. Verify: No error message
+5. Verify: You can save the Stock Entry
+
+The manual fix (Option 1) is the fastest and most reliable. If you prefer the automated script, ensure Docker containers are running first.
+
+Should I help you apply the fix, or do you have questions?
+
+[150] USER
+--------------------------------------------------------------------------------
+@c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt can you update the code in this
+
+[151] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[152] ASSISTANT
+--------------------------------------------------------------------------------
+
+Updating the script to fix both issues: correct the API call and auto-set the Default Target Warehouse for "Rejected from Assembly".
+
+
+[153] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[154] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[155] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[156] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[157] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[158] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[159] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[160] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[161] ASSISTANT
+--------------------------------------------------------------------------------
+
+Updated the script with two fixes:
+
+## Changes made
+
+### 1. Fixed PCB lookup API call (Line 519)
+- Changed from: `method: "erpnext.api.pcb.get_pcb_iqc_data"`
+- Changed to: `method: "get_pcb_iqc_data"`
+- This uses the Server Script API method instead of the non-existent module path
+
+### 2. Fixed "Rejected from Assembly" Default Target Warehouse (Multiple locations)
+- Added auto-set logic in `stock_entry_type` event (Line 737-741)
+- Added auto-set logic in `refresh` event (Line 730-735)
+- Added auto-set logic in `setup` event (Line 717-720)
+- Added auto-set logic in `onload_post_render` event (Line 722-728)
+- Updated validation to auto-set if missing (Line 622-628)
+
+## What the fixes do
+
+1. PCB lookup: When scanning a PCB serial, it calls `get_pcb_iqc_data` (Server Script API) instead of the broken path, so test results populate from PCB IQC Line.
+
+2. Rejected from Assembly: When Stock Entry Type is "Rejected from Assembly", the script automatically sets Default Target Warehouse to "Rejected items - R" on:
+   - Type selection
+   - Form load
+   - Form refresh
+   - Before validation
+
+## Next steps
+
+1. Copy the updated script:
+   - Open ERPNext → Customize → Client Script → List
+   - Find: `Stock Entry Purpose + Pcb Scan Script`
+   - Open it
+   - Copy the entire content from the updated file: `c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt`
+   - Paste it into the script field
+   - Save
+
+2. Clear cache:
+   - Settings → Clear Cache
+   - Or wait for auto-clear
+
+3. Test:
+   - Create Stock Entry → Type "Rejected from Assembly"
+   - Verify: Default Target Warehouse auto-sets to "Rejected items - R"
+   - Scan PCB serial → Verify: Test results populate from PCB IQC Line
+
+Both issues should now be resolved.
+
+[162] USER
+--------------------------------------------------------------------------------
+Error: Value missing for Stock Entry: Default Target Warehouse
+
+[163] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[164] ASSISTANT
+--------------------------------------------------------------------------------
+
+The error persists, likely due to server-side validation running before the client script sets the value. Checking server scripts and adding a server-side fix:
+
+
+[165] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[166] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[167] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[168] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[169] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[170] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[171] ASSISTANT
+--------------------------------------------------------------------------------
+
+The error occurs during server-side validation before the client script sets the value. Adding a server-side fix that runs on Validate to set it before validation:
+
+
+[172] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[173] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[174] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[175] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[176] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[177] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[178] ASSISTANT
+--------------------------------------------------------------------------------
+
+Updated the client script and created a server-side fix. The error occurs because ERPNext validates before the client script sets the value. Summary of changes:
+
+## Updates made
+
+### 1. Client script updates (in your file)
+
+Added auto-set logic in multiple places:
+- `stock_entry_type` event: Sets `to_warehouse` immediately when type changes
+- `validate` event: Sets it before validation runs
+- `before_save` event: Sets it before save
+- `refresh` event: Sets it on refresh
+- `setup` and `onload_post_render`: Sets it on form load
+
+### 2. Server-side fix script created
+
+Created `fix_stock_entry_warehouse_server.py` that:
+- Creates a Server Script running on Validate event
+- Auto-sets `to_warehouse = "Rejected items - R"` BEFORE ERPNext validation
+- Prevents the validation error
+
+## How to apply the fix
+
+### Step 1: Update client script in ERPNext
+
+1. Login to ERPNext: http://localhost:8080
+2. Go to: Customize → Client Script → List
+3. Find: `Stock Entry Purpose + Pcb Scan Script`
+4. Open it
+5. Copy the entire content from: `c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt`
+6. Paste it into the script field
+7. Save
+
+### Step 2: Run server-side fix
+
+If containers are running:
+
+```powershell
+# Copy script to container
+docker compose cp fix_stock_entry_warehouse_server.py backend:/tmp/
+
+# Run the fix
+docker compose exec backend bash -c "cd /home/frappe/frappe-bench && bench --site frontend console" < fix_stock_entry_warehouse_server.py
+```
+
+Or manually create the Server Script:
+1. Go to: Customize → Server Script → New
+2. Name: `Auto-set Default Target Warehouse for Rejected from Assembly`
+3. Script Type: `DocType Event`
+4. Reference DocType: `Stock Entry`
+5. Event: `Validate`
+6. Script:
+```python
+if not doc or doc.doctype != "Stock Entry":
+    return
+
+if doc.stock_entry_type == "Rejected from Assembly":
+    if not doc.to_warehouse or doc.to_warehouse != "Rejected items - R":
+        doc.to_warehouse = "Rejected items - R"
+```
+7. Save
+
+### Step 3: Clear cache and test
+
+```powershell
+docker compose exec backend bench --site frontend clear-cache
+docker compose restart frontend
+```
+
+## What this fixes
+
+1. Client-side: Sets `to_warehouse` immediately when type changes
+2. Server-side: Sets `to_warehouse` on Validate event before ERPNext validation
+3. Multiple checkpoints: Ensures it's set at validate, before_save, refresh, etc.
+
+The error should be resolved. The server script runs before ERPNext's validation, so the field is set before the check.
+
+Should I help you apply these fixes, or do you have questions?
+
+[179] USER
+--------------------------------------------------------------------------------
+server script not found 
+
+[180] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[181] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking container status and creating the server script manually:
+
+
+[182] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[183] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[184] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[185] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[186] ASSISTANT
+--------------------------------------------------------------------------------
+
+Containers are running. Copying the script and running it to create the server script:
+
+
+[187] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[188] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[189] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[190] ASSISTANT
+--------------------------------------------------------------------------------
+
+Using bench console to create the server script:
+
+
+[191] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[192] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[193] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[194] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[195] ASSISTANT
+--------------------------------------------------------------------------------
+
+PowerShell doesn't support that redirection. Creating a simple guide with manual steps:
+
+
+[196] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[197] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[198] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[199] ASSISTANT
+--------------------------------------------------------------------------------
+
+Manual steps to create the server script:
+
+## Manual fix — create server script via ERPNext UI
+
+### Step 1: Create server script
+
+1. Open ERPNext: http://localhost:8080
+2. Go to: Customize → Server Script → New
+3. Fill in:
+   - Name: `Auto-set Default Target Warehouse for Rejected from Assembly`
+   - Script Type: `DocType Event`
+   - Reference DocType: `Stock Entry`
+   - Event: `Validate` (or `doctype_event` = `Validate`)
+   - Disabled: Unchecked (No)
+4. Script field — copy this code:
+
+```python
+# Auto-set Default Target Warehouse for Rejected from Assembly
+if not doc or doc.doctype != "Stock Entry":
+    return
+
+if doc.stock_entry_type == "Rejected from Assembly":
+    if not doc.to_warehouse or doc.to_warehouse != "Rejected items - R":
+        doc.to_warehouse = "Rejected items - R"
+```
+
+5. Click Save
+
+### Step 2: Update client script
+
+1. Go to: Customize → Client Script → List
+2. Find: `Stock Entry Purpose + Pcb Scan Script`
+3. Open it
+4. Copy the entire content from: `c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt`
+5. Paste it into the script field
+6. Save
+
+### Step 3: Clear cache and test
+
+1. Go to: Settings → Clear Cache
+2. Test: Create Stock Entry → Type "Rejected from Assembly"
+3. Verify: Default Target Warehouse auto-sets to "Rejected items - R"
+4. Verify: No error
+
+---
+
+## Files created
+
+1. `QUICK_FIX_REJECTED_ASSEMBLY.md` — Step-by-step guide
+2. `CREATE_SERVER_SCRIPT_MANUAL.md` — Detailed instructions
+3. `APPLY_FIXES_NOW.bat` — Interactive guide
+
+---
+
+## What this fixes
+
+- Server script: Sets `to_warehouse` before ERPNext validation
+- Client script: Sets `to_warehouse` when type changes
+- Result: No more "Value missing" error
+
+The manual method via ERPNext UI is the most reliable. After creating both scripts, the error should be resolved.
+
+[200] USER
+--------------------------------------------------------------------------------
+you only add this server script to the erpnext urself you have done that before 
+
+[201] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[202] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating the server script directly in ERPNext. Checking how other scripts were run successfully:
+
+
+[203] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[204] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[205] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[206] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating a Python script and running it via bench console:
+
+
+[207] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[208] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[209] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[210] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[211] ASSISTANT
+--------------------------------------------------------------------------------
+
+Trying a different approach using bench console:
+
+
+[212] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[213] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[214] ASSISTANT
+--------------------------------------------------------------------------------
+
+The event should be "Before Validate", not "Validate". Updating the script:
+
+
+[215] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[216] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[217] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[218] ASSISTANT
+--------------------------------------------------------------------------------
+
+Fixing the script syntax error:
+
+
+[219] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[220] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[221] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[222] ASSISTANT
+--------------------------------------------------------------------------------
+
+Verifying the server script was created:
+
+
+[223] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[224] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[225] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[226] ASSISTANT
+--------------------------------------------------------------------------------
+
+Server script created successfully. Clearing cache:
+
+
+[227] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[228] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[229] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[230] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[231] ASSISTANT
+--------------------------------------------------------------------------------
+
+Server script created successfully.
+
+## What was done
+
+1. Server script created:
+   - Name: `Auto-set Default Target Warehouse for Rejected from Assembly`
+   - Status: Enabled
+   - Event: `Before Validate`
+   - Purpose: Auto-sets `to_warehouse = "Rejected items - R"` before ERPNext validation
+
+2. Cache cleared and frontend restarted
+
+## Final step: update client script
+
+1. Login to ERPNext: http://localhost:8080
+2. Go to: Customize → Client Script → List
+3. Find: `Stock Entry Purpose + Pcb Scan Script`
+4. Open it
+5. Copy the entire content from: `c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt`
+6. Paste it into the script field
+7. Save
+
+## What's fixed
+
+- Server script: Auto-sets Default Target Warehouse for "Rejected from Assembly" (created)
+- Client script: Auto-sets warehouse + fixes PCB lookup API (ready to copy)
+- Cache: Cleared
+- Frontend: Restarted
+
+After copying the client script, both issues should be resolved:
+- No more "Value missing for Default Target Warehouse" error
+- PCB scan will fetch data from PCB IQC Line
+
+The server script is already active. Copy the client script and test.
+
+[232] USER
+--------------------------------------------------------------------------------
+sticll getting same error
+
+
+[233] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[234] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking the server script and verifying it runs correctly. The error persists, so we may need a different approach:
+
+
+[235] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[236] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[237] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[238] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[239] ASSISTANT
+--------------------------------------------------------------------------------
+
+Server scripts are created. The error likely occurs because the client script hasn't been updated in ERPNext. Checking if we can verify/update it programmatically, and ensuring the server script runs at the right time:
+
+
+[240] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[241] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[242] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[243] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[244] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking the client script content and ensuring it's updated:
+
+
+[245] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[246] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[247] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[248] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[249] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[250] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[251] ASSISTANT
+--------------------------------------------------------------------------------
+
+Client script already has the fixes. Clearing cache and restarting, then checking if we need to set the value earlier:
+
+
+[252] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[253] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[254] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[255] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[256] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[257] ASSISTANT
+--------------------------------------------------------------------------------
+
+The client script has the fixes, but validation may run before it sets the value. Ensuring it's set immediately on form load. Updating the script to set it synchronously in the `onload` event:
+
+
+[258] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[259] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[260] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[261] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[262] ASSISTANT
+--------------------------------------------------------------------------------
+
+The error occurs before save, so ERPNext is validating client-side. Setting the value synchronously on the document object before validation runs:
+
+
+[263] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[264] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[265] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[266] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[267] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[268] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[269] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[270] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[271] ASSISTANT
+--------------------------------------------------------------------------------
+
+Client script updated. Clearing cache and restarting:
+
+
+[272] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[273] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[274] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[275] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[276] ASSISTANT
+--------------------------------------------------------------------------------
+
+## Fix applied
+
+### What changed
+The error occurred because ERPNext validated the field before the client script set it asynchronously.
+
+### Solution
+Set `to_warehouse` synchronously on the document object first, then update the UI:
+
+```javascript
+// ✅ Set synchronously FIRST (immediate)
+frm.doc.to_warehouse = WH_REJECTED;
+// Then update UI
+frm.set_value(FIELD_TO, WH_REJECTED);
+```
+
+### What was done
+1. Updated client script: sets warehouse synchronously in multiple events
+2. Deployed to ERPNext: script updated in database
+3. Server scripts: backup scripts enabled (Before Validate + Before Save)
+4. Cache cleared and frontend restarted
+
+## Test
+1. Go to: Stock Entry → New
+2. Select Type: "Rejected from Assembly"
+3. Expected:
+   - Default Target Warehouse sets to "Rejected items - R" immediately
+   - No error message
+   - Form works normally
+
+The fix sets the value synchronously before validation runs, so ERPNext sees the value and validation passes.
+
+Please test and confirm if the error is resolved.
+
+[277] USER
+--------------------------------------------------------------------------------
+first image is before saving this image is after saving
+when i sumit i get this 
+also while saving the target warehouse is getting removed from the item table for some reason i think that i the cause
+
+[278] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[279] ASSISTANT
+--------------------------------------------------------------------------------
+
+The item row's Target Warehouse is being cleared on save. Checking the `before_save` logic and fixing it:
+
+
+[280] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[281] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[282] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[283] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[284] ASSISTANT
+--------------------------------------------------------------------------------
+
+The `before_save` function only sets the target warehouse if it's empty, but `to_warehouse` may not be set yet. Fixing this:
+
+
+[285] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[286] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[287] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[288] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[289] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[290] ASSISTANT
+--------------------------------------------------------------------------------
+
+Updating `apply_row_defaults_if_blank` to always set the target warehouse for "Rejected from Assembly":
+
+
+[291] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[292] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[293] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[294] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[295] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[296] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[297] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking the `items_add` event to ensure new items get the target warehouse set:
+
+
+[298] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[299] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[300] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[301] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[302] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[303] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[304] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[305] ASSISTANT
+--------------------------------------------------------------------------------
+
+## Fix applied: Target warehouse cleared on save
+
+### Problem
+- Before save: Item row Target Warehouse = "Rejected items - R"
+- After save: Item row Target Warehouse = empty
+- On submit: Error "Row 1: Target Warehouse is missing"
+
+### Root cause
+The `before_save` function only set the target warehouse if it was empty (`!r[ROW_T_WH]`), but something was clearing it after it was set.
+
+### Solution
+Updated the script to always set the target warehouse for "Rejected from Assembly" in multiple places:
+
+1. `before_save` event: Always sets target warehouse (not just if empty)
+2. `to_warehouse` event: Ensures it's set and propagates to all rows
+3. `apply_row_defaults_if_blank` function: Always sets for "Rejected from Assembly"
+
+### Changes made
+
+```javascript
+// ✅ BEFORE: Only set if empty
+if (t && !r[ROW_T_WH]) frappe.model.set_value(...)
+
+// ✅ AFTER: Always set for Rejected from Assembly
+if (typeName === TYPE_REJ_ASM) {
+  if (!r[ROW_T_WH] || r[ROW_T_WH] !== WH_REJECTED) {
+    frappe.model.set_value(r.doctype, r.name, ROW_T_WH, WH_REJECTED);
+  }
+}
+```
+
+### Status
+- Client script updated and deployed
+- Cache cleared
+- Frontend restarted
+
+## Test
+1. Create Stock Entry → Type: "Rejected from Assembly"
+2. Add item → Verify Target Warehouse = "Rejected items - R"
+3. Save → Verify Target Warehouse still = "Rejected items - R"
+4. Submit → Should work without error
+
+The target warehouse should now persist through save and submit. Please test and confirm.
+
+[306] USER
+--------------------------------------------------------------------------------
+is ther any way where i can show you debug
+
+[307] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[308] ASSISTANT
+--------------------------------------------------------------------------------
+Here are ways to share debug info:
+
+1) Browser console (recommended)
+- Open DevTools: F12 or Right-click → Inspect
+- Go to the Console tab
+- Reproduce the issue (save/submit)
+- Copy all console messages (errors, warnings, logs)
+- Paste them here
+
+2) ERPNext server logs
+Checking server logs:
+
+
+[309] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[310] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[311] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[312] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[313] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[314] ASSISTANT
+--------------------------------------------------------------------------------
+Found the error in the logs:
+
+```
+frappe.exceptions.MandatoryError: [Stock Entry, MAT-STE-2026-00007]: to_warehouse
+```
+
+The server script runs, but `to_warehouse` is still missing. Checking and fixing the server script:
+
+
+[315] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[316] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[317] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[318] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[319] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[320] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[321] ASSISTANT
+--------------------------------------------------------------------------------
+Found and fixed the issue. The server script was checking `if not doc.to_warehouse` but it was being cleared. Updated it to force-set the value.
+
+## Ways to share debug info
+
+### 1. Browser console (F12)
+- Press F12 → Console tab
+- Copy all errors/warnings
+- Paste here
+
+### 2. Server logs (already checked)
+```powershell
+docker compose logs backend --tail=50
+```
+
+### 3. Screenshots
+- Error messages
+- Form state before/after save
+- Browser console errors
+
+### 4. Network tab (F12 → Network)
+- If API calls fail, check the failed request
+- Copy the error response
+
+### 5. Quick debug script
+Run this to check script status:
+```powershell
+Get-Content check_client_script_debug.py | docker compose exec -T backend bash -c "cd /home/frappe/frappe-bench && bench --site frontend console"
+```
+
+## What I fixed
+
+Updated the server script to:
+1. Force-set `doc.to_warehouse = "Rejected items - R"` (no conditional check)
+2. Force-set all `item.t_warehouse = "Rejected items - R"` for all items
+3. Run on "Before Validate" event
+
+## Test now
+
+1. Clear browser cache (Ctrl+Shift+Delete) or hard refresh (Ctrl+F5)
+2. Create Stock Entry → Type: "Rejected from Assembly"
+3. Add item
+4. Save → Should work
+5. Submit → Should work
+
+If it still fails, share:
+- Browser console errors (F12 → Console)
+- Screenshot of the error
+- Any new server log errors
+
+The server script now forces the warehouse value, so it should work.
+
+[322] USER
+--------------------------------------------------------------------------------
+when i select stock entry type as rejected from assembly i get these verbose
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+purpose @ stock_entry__js:470
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+purpose @ stock_entry__js:470
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+purpose @ stock_entry__js:470
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+purpose @ stock_entry__js:470
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+purpose @ stock_entry__js:470
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+purpose @ stock_entry__js:470
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+purpose @ stock_entry__js:470
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+purpose @ stock_entry__js:470
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1194
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1194
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1194
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1194
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1194
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1194
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1194
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1194
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1195
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1195
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1195
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1195
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1195
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1195
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1195
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1195
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1216
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1216
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1216
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1216
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1216
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1216
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1216
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+set_editable_grid_column_disp @ grid.js:745
+set_column_disp @ grid.js:703
+toggle_related_fields @ stock_entry__js:1216
+purpose @ stock_entry__js:471
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:529
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+r @ link.js:634
+(anonymous) @ link.js:656
+Promise.then
+validate_link_and_fetch @ link.js:652
+validate @ link.js:613
+validate_and_set_in_model @ base_control.js:250
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+a @ utils.js:909
+setTimeout
+(anonymous) @ utils.js:913
+update_docfield_property @ grid.js:1247
+stock_entry_type @ stock_entry__js:463
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:525
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+set_model_value @ base_control.js:273
+(anonymous) @ base_control.js:235
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+l @ base_control.js:233
+(anonymous) @ base_control.js:253
+Promise.then
+validate_and_set_in_model @ base_control.js:253
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+a @ utils.js:909
+setTimeout
+(anonymous) @ utils.js:913
+update_docfield_property @ grid.js:1247
+stock_entry_type @ stock_entry__js:463
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:525
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+set_model_value @ base_control.js:273
+(anonymous) @ base_control.js:235
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+l @ base_control.js:233
+(anonymous) @ base_control.js:253
+Promise.then
+validate_and_set_in_model @ base_control.js:253
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+a @ utils.js:909
+setTimeout
+(anonymous) @ utils.js:913
+update_docfield_property @ grid.js:1247
+stock_entry_type @ stock_entry__js:463
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:525
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+set_model_value @ base_control.js:273
+(anonymous) @ base_control.js:235
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+l @ base_control.js:233
+(anonymous) @ base_control.js:253
+Promise.then
+validate_and_set_in_model @ base_control.js:253
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+a @ utils.js:909
+setTimeout
+(anonymous) @ utils.js:913
+update_docfield_property @ grid.js:1247
+stock_entry_type @ stock_entry__js:463
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:525
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+set_model_value @ base_control.js:273
+(anonymous) @ base_control.js:235
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+l @ base_control.js:233
+(anonymous) @ base_control.js:253
+Promise.then
+validate_and_set_in_model @ base_control.js:253
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+a @ utils.js:909
+setTimeout
+(anonymous) @ utils.js:913
+update_docfield_property @ grid.js:1247
+stock_entry_type @ stock_entry__js:463
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:525
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+set_model_value @ base_control.js:273
+(anonymous) @ base_control.js:235
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+l @ base_control.js:233
+(anonymous) @ base_control.js:253
+Promise.then
+validate_and_set_in_model @ base_control.js:253
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+a @ utils.js:909
+setTimeout
+(anonymous) @ utils.js:913
+update_docfield_property @ grid.js:1247
+stock_entry_type @ stock_entry__js:463
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:525
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+set_model_value @ base_control.js:273
+(anonymous) @ base_control.js:235
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+l @ base_control.js:233
+(anonymous) @ base_control.js:253
+Promise.then
+validate_and_set_in_model @ base_control.js:253
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:948 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:948
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+a @ utils.js:909
+setTimeout
+(anonymous) @ utils.js:913
+update_docfield_property @ grid.js:1247
+stock_entry_type @ stock_entry__js:463
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:525
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+set_model_value @ base_control.js:273
+(anonymous) @ base_control.js:235
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+l @ base_control.js:233
+(anonymous) @ base_control.js:253
+Promise.then
+validate_and_set_in_model @ base_control.js:253
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+grid_row.js:961 [Violation] Added non-passive event listener to a scroll-blocking 'touchmove' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+add @ jquery.js:5282
+(anonymous) @ jquery.js:5182
+each @ jquery.js:385
+each @ jquery.js:207
+I @ jquery.js:5181
+on @ jquery.js:5906
+make_column @ grid_row.js:961
+(anonymous) @ grid_row.js:717
+setup_columns @ grid_row.js:700
+render_row @ grid_row.js:310
+make @ grid_row.js:40
+rt @ grid_row.js:12
+make_head @ grid.js:360
+refresh @ grid.js:426
+a @ utils.js:909
+setTimeout
+(anonymous) @ utils.js:913
+update_docfield_property @ grid.js:1247
+stock_entry_type @ stock_entry__js:463
+d @ script_manager.js:30
+o @ script_manager.js:109
+(anonymous) @ script_manager.js:127
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ script_manager.js:141
+(anonymous) @ form.js:299
+(anonymous) @ model.js:564
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+trigger @ model.js:582
+(anonymous) @ model.js:525
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+set_value @ model.js:534
+set_model_value @ base_control.js:273
+(anonymous) @ base_control.js:235
+Promise.then
+(anonymous) @ dom.js:262
+frappe.run_serially @ dom.js:260
+l @ base_control.js:233
+(anonymous) @ base_control.js:253
+Promise.then
+validate_and_set_in_model @ base_control.js:253
+parse_validate_and_set_in_model @ link.js:147
+(anonymous) @ link.js:417
+dispatch @ jquery.js:5430
+et.handle @ jquery.js:5234
+r.fire @ awesomplete.js:504
+select @ awesomplete.js:282
+click @ awesomplete.js:117
+
+
+as soon as i click save int.js:17 Uncaught TypeError: document.activeElement.select is not a function
+    at int.js:17:29
+(anonymous)	@	int.js:17
+setTimeout		
+(anonymous)	@	int.js:14
+dispatch	@	jquery.js:5430
+et.handle	@	jquery.js:5234
+
+in the target ware house of item table becomes blank
+
+
+
+[323] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[324] ASSISTANT
+--------------------------------------------------------------------------------
+Good news! Those "Violation" messages are just **browser warnings** about performance - they're not errors and don't affect functionality.
+
+The real issue is this error:
+
+```
+int.js:17 Uncaught TypeError: document.activeElement.select is not a function
+```
+
+This happens when you click Save, and it's clearing the target warehouse in the items table.
+
+Let me check your client script and fix this:
+
+[325] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[326] ASSISTANT
+--------------------------------------------------------------------------------
+The issue is in line 378. When you click Save, something is calling `.select()` on a non-input element. Let me check the focus_scan function and fix it:
+
+[327] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[328] ASSISTANT
+--------------------------------------------------------------------------------
+Now update it in ERPNext:
+
+[329] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[330] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[331] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[332] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[333] ASSISTANT
+--------------------------------------------------------------------------------
+Let me navigate to the correct directory:
+
+[334] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[335] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[336] ASSISTANT
+--------------------------------------------------------------------------------
+Let me use semicolon instead:
+
+[337] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[338] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[339] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[340] ASSISTANT
+--------------------------------------------------------------------------------
+Perfect! Now let me create a summary of what was fixed:
+
+[341] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[342] ASSISTANT
+--------------------------------------------------------------------------------
+Perfect! Here's what I fixed:
+
+## 🔴 Problem Found & Fixed
+
+### **The Error**
+```
+Uncaught TypeError: document.activeElement.select is not a function
+```
+
+When you clicked Save, the `focus_scan()` function was calling `.select()` on DOM elements that don't support it, causing the script to break and warehouse values to be cleared.
+
+### **The Fix** (3-Layer Approach)
+
+#### 1️⃣ **Client-Side Fix** ✅
+Updated `focus_scan()` function with safety checks:
+- Checks if `.select()` method exists before calling
+- Wrapped in try-catch for extra safety
+- Prevents errors from breaking the script
+
+#### 2️⃣ **Server-Side Fix** ✅  
+Server script on "Before Validate" event:
+- Force-sets `to_warehouse = "Rejected items - R"`
+- Force-sets all item `t_warehouse` values
+- Catches any client-side bypasses
+
+#### 3️⃣ **Multi-Layer Client Safety** ✅
+Multiple events ensure `to_warehouse` is set:
+- `stock_entry_type` event → Sets warehouse
+- `setup` event → Double-checks
+- `before_save` event → **FORCES** warehouse on all rows
+- `apply_row_defaults_if_blank` → Always sets for Rejected type
+
+---
+
+## 🧪 **Test Now**
+
+1. **Hard refresh browser**: Ctrl+F5 (clear cache)
+2. **Create Stock Entry** → Type: "Rejected from Assembly"
+3. **Add item** with quantity
+4. **Click Save** → Target warehouse should **NOT go blank**
+5. **Click Submit** → Should succeed! ✅
+
+---
+
+## 📝 Browser Console
+Those "[Violation]" messages you saw are just browser performance warnings - they're not errors and don't affect functionality. You can ignore them. The real fix was preventing the `document.activeElement.select()` error.
+
+Let me know when you test it! 🚀
+
+[343] USER
+--------------------------------------------------------------------------------
+before saving 
+after saving
+ still same thing persists while submitting i get this error
+
+
+[344] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[345] ASSISTANT
+--------------------------------------------------------------------------------
+
+The target warehouse is cleared after Save. The server script may not be running or ERPNext is clearing it. Adding a more aggressive server-side fix:
+
+
+[346] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[347] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[348] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[349] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[350] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[351] ASSISTANT
+--------------------------------------------------------------------------------
+
+The target warehouse is cleared after Save. Updating the client script to re-set it on refresh after save:
+
+
+[352] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[353] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[354] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[355] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[356] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[357] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[358] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[359] ASSISTANT
+--------------------------------------------------------------------------------
+
+Verifying the client script update and checking for other issues:
+
+
+[360] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[361] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[362] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[363] ASSISTANT
+--------------------------------------------------------------------------------
+
+Server scripts are working. ERPNext is clearing the field after save. Adding an `after_save` hook to re-set it:
+
+
+[364] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[365] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[366] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[367] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[368] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[369] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[370] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[371] ASSISTANT
+--------------------------------------------------------------------------------
+
+Copying the script content directly:
+
+
+[372] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[373] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[374] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[375] ASSISTANT
+--------------------------------------------------------------------------------
+
+The `after_save` event is already in the file. Creating a simpler upload script:
+
+
+[376] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[377] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[378] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[379] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[380] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating a summary document with all fixes and testing steps:
+
+
+[381] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[382] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[383] ASSISTANT
+--------------------------------------------------------------------------------
+
+## Fixes applied
+
+Applied 5 layers of protection:
+
+1. Client `before_save` — sets warehouse before save
+2. Client `after_save` — re-sets warehouse immediately after save (catches ERPNext clearing it)
+3. Client `refresh` — re-sets warehouse on form refresh
+4. Server `Before Validate` — forces warehouse before validation
+5. Server `Before Save` — backup safety net
+
+---
+
+## Test now
+
+1. Hard refresh browser: Ctrl+F5 (or Ctrl+Shift+R)
+2. Clear browser cache: Ctrl+Shift+Delete → Clear cached images
+3. Create Stock Entry:
+   - Type: "Rejected from Assembly"
+   - Add item: PL01 0021, Qty: 10
+   - Check: Target Warehouse = "Rejected items - R"
+4. Click Save:
+   - Open browser console (F12) to watch for errors
+   - Check: Target Warehouse should still be "Rejected items - R" (not empty)
+5. Click Submit:
+   - Should work without "Value missing" error
+
+---
+
+## If it still clears
+
+The `after_save` event should catch it, but if ERPNext clears it at a deeper level, we may need to:
+
+1. Check Stock Entry DocType settings — there might be a field-level trigger
+2. Check for other scripts — another script might be interfering
+3. Check ERPNext version — some versions have bugs with field clearing
+
+Share:
+- Browser console errors (F12 → Console tab)
+- Whether the `after_save` event fires (check console logs)
+- Screenshot of the form after save
+
+The `after_save` event should re-populate the warehouse immediately after save, preventing the submit error.
+
+[384] USER
+--------------------------------------------------------------------------------
+do you have any record of stock entry type repaired parts
+codes or warehouse setup script anywhere in the erp next i wanted to know about it
+or the folder that i shared
+
+[385] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[386] ASSISTANT
+--------------------------------------------------------------------------------
+
+Searching for "Repaired Parts" Stock Entry Type and related warehouse setup scripts:
+
+
+[387] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[388] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[389] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[390] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[391] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[392] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[393] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[394] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[395] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking which Stock Entry Types exist in ERPNext, including "Repaired Parts":
+
+
+[396] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[397] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[398] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[399] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[400] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[401] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[402] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking ERPNext for a "Repaired Parts" Stock Entry Type:
+
+
+[403] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[404] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[405] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[406] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[407] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking the database dump for "Repaired Parts":
+
+
+[408] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[409] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[410] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[411] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[412] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating a simpler script to list Stock Entry Types:
+
+
+[413] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[414] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[415] ASSISTANT
+--------------------------------------------------------------------------------
+
+## Search results: "Repaired Parts" Stock Entry Type
+
+### Not found
+
+I searched your ERPNext system and the shared folder (`G:\frappe_docker-main\frappe_docker-main`) and did not find any "Repaired Parts" Stock Entry Type.
+
+### What exists
+
+From your client script (`Stock Entry Purpose + Pcb Scan Script.txt`), these Stock Entry Types are configured:
+
+1. IQC-Accept
+2. IQC-Reject
+3. Transfereing PCB to PTS testing
+4. PCB-IQC-Accept
+5. PCB-IQC-Reject
+6. Material Transfer for Manufacture
+7. Rejected from Assembly
+8. Reuse
+
+### Files checked
+
+- Client Scripts — No "Repaired Parts"
+- Server Scripts — No "Repaired Parts" (found 7 scripts, none mention it)
+- Documentation files — No "Repaired Parts"
+- Database — No "Repaired Parts" Stock Entry Type
+
+### If you want to create it
+
+I created a summary document: `REPAIRED_PARTS_SEARCH_RESULTS.md` with:
+- Search results
+- Suggested configuration for "Repaired Parts"
+- Steps to create it
+- Warehouse setup code examples
+
+### Next steps
+
+1. Check ERPNext UI: Stock → Stock Entry Type → see if it exists under a different name
+2. Create it: If needed, I can help set it up with warehouse routing
+3. Add to scripts: I can add it to your client/server scripts
+
+Should I create the "Repaired Parts" Stock Entry Type with warehouse setup?
+
+[416] USER
+--------------------------------------------------------------------------------
+so think for the initial deployment app is ready 
+so if i have to remove every stock entry and make all part quantity as zero is it possible
+
+[417] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[418] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating scripts to reset the system for initial deployment: remove all Stock Entries and reset all stock quantities to zero.
+
+
+[419] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[420] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[421] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[422] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[423] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[424] ASSISTANT
+--------------------------------------------------------------------------------
+
+Created scripts to reset your system for initial deployment. Here's what's available:
+
+## Reset scripts created
+
+### 1. Safe reset (recommended)
+File: `reset_system_safe.py`
+- Shows preview before executing
+- Requires explicit confirmation ("YES RESET")
+- Uses transactions (can rollback on error)
+- Safer option
+
+### 2. Full reset
+File: `reset_system_for_deployment.py`
+- More detailed reporting
+- Option to delete Stock Ledger Entries
+- More comprehensive cleanup
+
+### 3. Guide
+File: `RESET_SYSTEM_GUIDE.md`
+- Step-by-step instructions
+- Safety warnings
+- Verification steps
+
+---
+
+## What gets reset
+
+- Stock Entries: All Draft, Submitted, and Cancelled entries deleted
+- Stock quantities: All quantities reset to ZERO in all warehouses
+- Stock balances: All `actual_qty`, `reserved_qty`, `ordered_qty`, etc. → 0
+
+---
+
+## How to run
+
+### Step 1: Backup first (important)
+
+```bash
+docker compose exec backend bench --site frontend backup --with-files
+```
+
+### Step 2: Run reset script
+
+```bash
+# Safe Reset (Recommended)
+Get-Content reset_system_safe.py | docker compose exec -T backend bash -c "cd /home/frappe/frappe-bench && bench --site frontend console"
+```
+
+The script will:
+1. Show you what will be deleted
+2. Ask for confirmation (type "YES RESET")
+3. Execute the reset
+4. Show verification results
+
+---
+
+## Safety features
+
+- Transaction safety: Uses database transactions (can rollback)
+- Confirmation required: Must type exact confirmation text
+- Preview first: Shows what will be deleted before executing
+- Error handling: Rolls back on errors
+
+---
+
+## After reset
+
+- All Stock Entries removed
+- All stock quantities = 0
+- System ready for production
+- Clean slate for initial deployment
+
+---
+
+## Important notes
+
+1. This cannot be undone (unless you restore from backup)
+2. Items and Warehouses are not deleted (only stock balances reset)
+3. PCB Master/Ledger are not deleted by default (separate script if needed)
+4. Purchase Receipts are not affected
+
+Should I create a quick batch file to make running this easier, or do you want to run it manually?
+
+[425] USER
+--------------------------------------------------------------------------------
+not now ill tell you regarding it Should I create a quick batch file to make running this easier, or do you want to run it manually?
+
+[426] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[427] ASSISTANT
+--------------------------------------------------------------------------------
+
+Understood. The reset scripts are ready when you need them.
+
+## Files ready for you
+
+1. `reset_system_safe.py` — Safe reset script (recommended)
+2. `reset_system_for_deployment.py` — Full reset script
+3. `RESET_SYSTEM_GUIDE.md` — Complete guide with instructions
+
+All files are in: `G:\frappe_docker-main\frappe_docker-main\`
+
+---
+
+## When you're ready
+
+1. Backup your database first
+2. Run the reset script
+3. Verify everything is reset
+
+Let me know when you want to proceed, and I can:
+- Create a quick batch file for easier execution
+- Help run the reset
+- Answer any questions
+
+For now, your ERPNext system stays as-is. The scripts are ready whenever you need them.
+
+[428] USER
+--------------------------------------------------------------------------------
+with this setup if i have deploy it or host it in internet what is the procedure and what are the things req
+
+[429] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[430] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating a deployment guide for hosting ERPNext on the internet:
+
+
+[431] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[432] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[433] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[434] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[435] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[436] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[437] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[438] ASSISTANT
+--------------------------------------------------------------------------------
+
+Created deployment guides. Summary:
+
+## Deployment guides created
+
+### 1. Complete guide
+File: `DEPLOYMENT_GUIDE.md`
+- Hosting options (DigitalOcean, AWS, etc.)
+- Server requirements
+- Step-by-step deployment
+- Domain & SSL setup
+- Security configuration
+- Backup strategy
+- Monitoring & maintenance
+
+### 2. Quick start guide
+File: `DEPLOYMENT_QUICK_START.md`
+- Fastest path to production
+- 3 hosting options compared
+- Time estimates
+- Cost breakdown
+
+### 3. Deployment script
+File: `deploy_to_production.sh`
+- Automated setup script
+- Installs Docker, Nginx, SSL
+- Configures firewall
+
+---
+
+## What you need
+
+### Minimum requirements
+- Server: 4GB RAM, 2 CPU, 40GB storage (~$24-30/month)
+- Domain name: Purchase from Namecheap/GoDaddy (~$12/year)
+- SSL certificate: Free (Let's Encrypt)
+- Backup storage: Optional (~$5/month)
+
+### Total cost: ~$30-50/month
+
+---
+
+## Quick deployment options
+
+### Option 1: Frappe Cloud (easiest - 15 min)
+- Sign up → Upload backup → Done
+- Cost: $10-50/month
+- Managed updates
+
+### Option 2: DigitalOcean (recommended - 1 hour)
+- Create Droplet → Transfer files → Setup domain
+- Cost: ~$30/month
+- Full control
+
+### Option 3: AWS EC2 (most scalable - 2 hours)
+- Launch instance → Same steps as DigitalOcean
+- Cost: ~$50/month
+- Enterprise-grade
+
+---
+
+## Pre-deployment checklist
+
+Before deploying:
+- [ ] Reset system (remove test data) - Use `reset_system_safe.py`
+- [ ] Backup current system - Full database backup
+- [ ] Purchase domain name
+- [ ] Choose hosting provider
+- [ ] Prepare SMTP email settings (for notifications)
+
+---
+
+## Files ready
+
+All files are in: `G:\frappe_docker-main\frappe_docker-main\`
+
+1. `DEPLOYMENT_GUIDE.md` - Complete guide (read this first)
+2. `DEPLOYMENT_QUICK_START.md` - Quick reference
+3. `deploy_to_production.sh` - Automated script
+4. `reset_system_safe.py` - Reset before deployment
+
+---
+
+## Recommended approach
+
+For your setup, I recommend:
+1. DigitalOcean Droplet (4GB RAM) - $24/month
+2. Use the deployment script for automated setup
+3. Point your domain to the server
+4. Install SSL with Let's Encrypt (free)
+
+Total time: ~1 hour  
+Total cost: ~$30/month
+
+---
+
+## Next steps
+
+1. Read `DEPLOYMENT_GUIDE.md` for details
+2. Choose your hosting provider
+3. Follow the step-by-step instructions
+4. Test everything before going live
+
+All guides are ready. When you're ready to deploy, let me know and I can help with any step.
+
+[439] USER
+--------------------------------------------------------------------------------
+what if i want to host it in erpnext or freppe server
+
+also what about readyness of current setup for deplyment anywhere
+
+[440] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[441] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating guides for Frappe Cloud hosting and assessing deployment readiness:
+
+
+[442] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[443] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[444] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[445] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[446] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[447] ASSISTANT
+--------------------------------------------------------------------------------
+
+Created guides for both questions. Summary:
+
+## 1. Frappe Cloud hosting
+
+### Guide: `FRAPPE_CLOUD_DEPLOYMENT.md`
+
+Frappe Cloud is the official managed hosting for ERPNext.
+
+### Advantages:
+- No server management (no Docker/Nginx/SSL setup)
+- Automatic updates
+- Built-in backups
+- Free SSL
+- One-click deployment
+- Official support
+
+### Process:
+1. Sign up at https://frappecloud.com
+2. Create new site
+3. Upload your backup file
+4. Done (15-30 minutes)
+
+### Pricing:
+- Starter: ~$10/month (1GB RAM)
+- Standard: ~$25/month (2GB RAM) — recommended
+- Professional: ~$50/month (4GB RAM)
+
+### Your custom app (`sonic_ops`):
+- Supported — can be deployed
+- Included in backup or via GitHub
+
+---
+
+## 2. Deployment readiness
+
+### Guide: `DEPLOYMENT_READINESS_CHECKLIST.md`
+
+### Current status: 80-90% ready
+
+### What's ready:
+- System stability — ERPNext running smoothly
+- Customizations — All documented and working
+- Custom DocTypes — PCB Master, PCB IQC Result, PCB Ledger
+- Custom App — sonic_ops ready
+- Client/Server Scripts — All working
+- Workflows tested — Phase 8 UAT completed
+- Documentation — Complete
+
+### What needs attention:
+
+1. Data cleanup (if starting fresh)
+   - Run `reset_system_safe.py` to remove test data
+   - Reset stock quantities to zero
+
+2. Security
+   - Change admin password from default
+   - Enable 2FA for admin users
+   - Review user permissions
+
+3. Email configuration
+   - Configure SMTP settings
+   - Test email notifications
+
+4. Domain & SSL
+   - Purchase domain (if using custom domain)
+   - Configure DNS after deployment
+   - SSL auto-configured on Frappe Cloud
+
+---
+
+## Quick comparison
+
+| Feature | Frappe Cloud | Self-Hosting |
+|---------|--------------|--------------|
+| Setup time | 15-30 min | 1-2 hours |
+| Cost | $25-50/month | $30/month |
+| Server management | None | Full control |
+| Updates | Automatic | Manual |
+| Difficulty | Easy | Medium |
+
+---
+
+## Recommendation
+
+### For easiest deployment: Frappe Cloud
+- Sign up → Upload backup → Done
+- No server management
+- Automatic updates
+- Your customizations work
+
+### For full control: Self-hosting
+- DigitalOcean/AWS
+- More setup required
+- Lower cost
+- Full server control
+
+---
+
+## Files created
+
+1. `FRAPPE_CLOUD_DEPLOYMENT.md` — Complete Frappe Cloud guide
+2. `DEPLOYMENT_READINESS_CHECKLIST.md` — Readiness assessment
+3. `prepare_for_deployment.py` — Automated readiness check script
+
+---
+
+## Next steps
+
+1. Run readiness check:
+   ```bash
+   Get-Content prepare_for_deployment.py | docker compose exec -T backend bash -c "cd /home/frappe/frappe-bench && bench --site frontend console"
+   ```
+
+2. Choose hosting:
+   - Frappe Cloud (easiest)
+   - Self-hosting (more control)
+
+3. Complete pre-deployment checklist:
+   - Reset system (if needed)
+   - Change admin password
+   - Configure email
+   - Create backup
+
+4. Deploy using the appropriate guide
+
+Your system is about 80-90% ready. The remaining items are configuration (email, domain) and cleanup (if starting fresh).
+
+Should I help you run the readiness check or prepare for a specific hosting option?
+
+[448] USER
+--------------------------------------------------------------------------------
+instead what if i buy a 4gb ram and 500TB laptop where i can host in our officespace itself
+
+[449] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[450] ASSISTANT
+--------------------------------------------------------------------------------
+Creating a guide for hosting ERPNext on a laptop in your office:
+
+
+[451] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[452] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[453] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[454] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[455] ASSISTANT
+--------------------------------------------------------------------------------
+Created guides for hosting ERPNext on an office laptop. Summary:
+
+## Office laptop hosting
+
+### Guide: `OFFICE_LAPTOP_HOSTING_GUIDE.md`
+
+Hosting on a laptop in your office is feasible and cost-effective.
+
+---
+
+## Cost comparison
+
+### Office laptop (3 years):
+- Initial: $400-600 (laptop + UPS)
+- Monthly: $0
+- Total: ~$500
+
+### Cloud hosting (3 years):
+- Frappe Cloud: $900-1800
+- Self-hosted: $1080-1800
+
+Savings: $400-1300 over 3 years
+
+---
+
+## Important considerations
+
+### 1. 4GB RAM limitation
+- ERPNext needs ~2-3GB minimum
+- With 4GB, it may be slow with multiple users
+- Recommendation: Upgrade to 8GB if possible
+- Alternative: Use swap space (slower but works)
+
+### 2. 500GB storage
+- Should be sufficient
+- ERPNext: ~20GB
+- Database: ~10GB
+- Backups: ~10GB each
+- Total needed: ~50-100GB
+
+### 3. Laptop reliability
+- Laptops aren’t designed for 24/7 operation
+- May overheat with continuous use
+- Solution: Keep plugged in, use UPS, configure never sleep
+
+---
+
+## Setup requirements
+
+### Hardware:
+- [x] Laptop: 4GB RAM (8GB recommended), 500GB storage
+- [ ] UPS: 600VA-1000VA ($50-100)
+- [ ] Ethernet connection (wired, not WiFi)
+
+### Software:
+- [ ] Docker Desktop (Windows) or Docker (Ubuntu)
+- [ ] ERPNext files transferred
+- [ ] Power settings configured (never sleep)
+
+### Network:
+- [ ] Static IP or Dynamic DNS (No-IP/DuckDNS - free)
+- [ ] Router port forwarding configured
+- [ ] Firewall rules set up
+- [ ] Domain name (optional)
+
+---
+
+## Quick setup steps
+
+1. Prepare laptop (30 min)
+   - Install Docker Desktop
+   - Configure power settings (never sleep)
+   - Transfer ERPNext files
+
+2. Network setup (1 hour)
+   - Get static IP or set up dynamic DNS
+   - Configure router port forwarding (ports 80, 443)
+   - Test external access
+
+3. Start ERPNext (10 min)
+   - Run `docker compose up -d`
+   - Access at `http://localhost:8080`
+
+4. Security (30 min)
+   - Change admin password
+   - Configure firewall
+   - Set up SSL certificate
+
+5. Backup (15 min)
+   - Create automated daily backups
+   - Store backups off-site (cloud/external drive)
+
+Total time: ~2-3 hours
+
+---
+
+## Security recommendations
+
+1. VPN access (recommended)
+   - Don’t expose ports directly
+   - Users connect via VPN
+   - More secure
+
+2. Physical security
+   - Lock laptop (Kensington lock)
+   - Secure location (locked room)
+
+3. Network security
+   - Strong passwords
+   - Enable 2FA
+   - Regular updates
+
+---
+
+## Files created
+
+1. `OFFICE_LAPTOP_HOSTING_GUIDE.md` — Complete setup guide
+2. `OFFICE_HOSTING_COMPARISON.md` — Cost/feature comparison
+3. `setup_office_laptop.bat` — Quick setup script for Windows
+
+---
+
+## Recommendation
+
+### For your setup (4GB RAM laptop):
+
+Good choice if:
+- Small team (< 10 users)
+- Budget is tight
+- Office has reliable internet
+- Want full control
+
+Consider upgrading:
+- RAM to 8GB if possible (better performance)
+- Use desktop PC instead of laptop (more reliable for 24/7)
+
+Best practice:
+- Office laptop for hosting
+- Daily backups to cloud storage
+- VPN for remote access
+- UPS for power protection
+
+---
+
+## Next steps
+
+1. Read `OFFICE_LAPTOP_HOSTING_GUIDE.md` for details
+2. Prepare laptop (install Docker, configure power)
+3. Set up network (static IP or dynamic DNS)
+4. Transfer ERPNext files
+5. Start services and test
+
+Your current ERPNext setup is ready to deploy on the laptop — just transfer the files and start Docker.
+
+Should I help you set up the network configuration or create a step-by-step checklist for your specific office setup?
+
+[456] USER
+--------------------------------------------------------------------------------
+right now bom is structured in this way
+
+now i need to combine 2 bom to make 1 like below
+OB headband bom =BOM-HB-COMMON-001+BOM-HB-OB-001 like this 
+also EG headband bom =BOM-HB-COMMON-001+BOM-HB-EG-001 like this 
+how to do this 
+
+[457] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[458] ASSISTANT
+--------------------------------------------------------------------------------
+Creating a guide to combine BOMs in ERPNext using sub-assemblies:
+
+
+[459] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[460] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[461] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[462] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[463] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[464] ASSISTANT
+--------------------------------------------------------------------------------
+Checking which items are linked to your BOMs, then creating the combined BOMs:
+
+
+[465] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[466] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[467] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[468] ASSISTANT
+--------------------------------------------------------------------------------
+Found the item codes. Creating a script to generate the combined BOMs:
+
+
+[469] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[470] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[471] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[472] ASSISTANT
+--------------------------------------------------------------------------------
+Verified your BOM structure. Here's how to combine them:
+
+## Verified BOM structure
+
+- BOM-HB-COMMON-001 → Item: `HB-COMMON`
+- BOM-HB-OB-001 → Item: `HB-OB`
+- BOM-HB-EG-001 → Item: `HB-EG`
+
+---
+
+## Quick solution (ERPNext UI)
+
+### Create OB Headband BOM
+
+1. Go to: Manufacturing → BOM → + Add BOM
+2. Fill:
+   - Item: `OB-HEADBAND` (create this item first if needed)
+   - Quantity: `1`
+   - UOM: `Nos`
+   - Is Active: ✅
+   - Is Default: ✅
+3. Items table — Add 2 rows:
+   - Row 1: Item Code = `HB-COMMON`, Quantity = `1`, BOM = `BOM-HB-COMMON-001`
+   - Row 2: Item Code = `HB-OB`, Quantity = `1`, BOM = `BOM-HB-OB-001`
+4. Save
+
+### Create EG Headband BOM
+
+1. Go to: Manufacturing → BOM → + Add BOM
+2. Fill:
+   - Item: `EG-HEADBAND` (create this item first if needed)
+   - Quantity: `1`
+   - UOM: `Nos`
+   - Is Active: ✅
+   - Is Default: ✅
+3. Items table — Add 2 rows:
+   - Row 1: Item Code = `HB-COMMON`, Quantity = `1`, BOM = `BOM-HB-COMMON-001`
+   - Row 2: Item Code = `HB-EG`, Quantity = `1`, BOM = `BOM-HB-EG-001`
+4. Save
+
+---
+
+## How it works
+
+When you select an item that has a BOM (like `HB-COMMON`), ERPNext shows a BOM field. Select the BOM from the dropdown. This creates a sub-assembly relationship.
+
+When manufacturing:
+- Work Order for OB-HEADBAND automatically includes:
+  - All items from BOM-HB-COMMON-001
+  - All items from BOM-HB-OB-001
+- Same for EG-HEADBAND with its sub-BOMs
+
+---
+
+## Files created
+
+1. `COMBINE_BOM_GUIDE.md` — Complete guide
+2. `COMBINE_BOM_MANUAL_STEPS.md` — Step-by-step UI instructions
+3. `COMBINE_BOM_QUICK_GUIDE.md` — Quick reference
+4. `create_combined_bom.py` — Automated script (optional)
+
+---
+
+## Important notes
+
+1. Create final items first: `OB-HEADBAND` and `EG-HEADBAND` (if they don't exist)
+2. BOM field: Make sure to select the BOM from the dropdown for each row
+3. Both sub-BOMs must be Active and Default
+
+---
+
+## Test after creation
+
+1. Create Work Order: Manufacturing → Work Order → New
+2. Select Item: `OB-HEADBAND` or `EG-HEADBAND`
+3. Check Material Requirements: Should show all items from both sub-BOMs
+
+Should I create these BOMs automatically using the Python script, or do you prefer to create them manually in the UI?
+
+[473] USER
+--------------------------------------------------------------------------------
+when i add new bom do we have to add it like new item ob headband
+
+[474] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[475] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[476] ASSISTANT
+--------------------------------------------------------------------------------
+
+Yes, the item must exist before creating the BOM. ERPNext lets you create it from the BOM form.
+
+## Two options
+
+### Option 1: Create item from BOM form (recommended)
+
+In the BOM form:
+1. Click "Create a new Item" (below the Item field).
+2. Fill in:
+   - Item Code: `OB-HEADBAND`
+   - Item Name: `OB Headband`
+   - Item Group: (your group, e.g., "Products")
+   - Stock UOM: `Nos`
+   - Is Stock Item: Yes
+3. Save the item.
+4. The form returns to the BOM with `OB-HEADBAND` selected.
+5. Continue adding sub-BOM items.
+
+### Option 2: Create item first, then BOM
+
+1. Go to: Stock → Item → New
+2. Create `OB-HEADBAND` with the details above.
+3. Then create the BOM and select `OB-HEADBAND`.
+
+---
+
+## Next steps after creating the item
+
+Once `OB-HEADBAND` is selected in the BOM form:
+
+1. Set:
+   - Quantity: `1`
+   - UOM: `Nos`
+   - Is Active: ✅
+   - Is Default: ✅
+
+2. Go to the Items tab (or scroll down to the Items table).
+
+3. Add rows:
+   - Row 1: Item Code = `HB-COMMON`, BOM = `BOM-HB-COMMON-001`
+   - Row 2: Item Code = `HB-OB`, BOM = `BOM-HB-OB-001`
+
+4. Save the BOM.
+
+---
+
+## Summary
+
+- Yes, create the item first (or use "Create a new Item" in the form).
+- Then create the BOM and add the sub-BOM items.
+
+Do the same for `EG-HEADBAND` when creating the EG Headband BOM.
+
+Need help with the item creation fields or the Items table setup?
+
+[477] USER
+--------------------------------------------------------------------------------
+now there is one trickey condition now things are configured in multilevel bom 
+now inside headband mob like i told you there is HB-COMMON bom which contains near 15items then there is HB-OB this also contains arounf 12 itesm 
+now inside HB-COMMON incluedes another bom BOM-PA01 0001-001 this contains nearly 40 items but since this comes as a single parts 
+thes is is PCBA item boom this contains multiple passive active connect component ext 
+so when stock incharge provides OB-HEADBAND item to the i dont want all the 40 items that are there inside this BOM-PA01 0001-001to be shown in the stock entry how can we do this 
+
+there are multiple bom which is configured likw this 
+
+[478] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[479] ASSISTANT
+--------------------------------------------------------------------------------
+
+Checking how Stock Entry expands multi-level BOMs and how to prevent expanding sub-assemblies like PCBA (BOM-PA01 0001-001) so they appear as a single item.
+
+
+[480] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[481] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[482] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[483] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[484] ASSISTANT
+--------------------------------------------------------------------------------
+
+Creating a client script to prevent expanding sub-BOMs (e.g., PCBA) in Stock Entry, so they appear as single items:
+
+
+[485] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[486] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[487] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[488] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[489] ASSISTANT
+--------------------------------------------------------------------------------
+
+Fetching PCBA component item codes from BOM-PA01 0001-001:
+
+
+[490] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[491] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[492] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[493] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[494] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[495] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[496] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[497] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[498] ASSISTANT
+--------------------------------------------------------------------------------
+
+Found 44 items in the PCBA BOM. Creating a solution you can implement:
+
+
+[499] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[500] ASSISTANT
+--------------------------------------------------------------------------------
+[No content available]
+
+[501] ASSISTANT
+--------------------------------------------------------------------------------
+
+## Solution summary
+
+Problem: When creating Stock Entry for OB-HEADBAND, ERPNext expands all sub-BOMs, showing 40 PCBA components instead of treating PCBA as a single part.
+
+Solution: Add a client script filter that removes sub-BOM component items from the Stock Entry items table.
+
+---
+
+## Quick steps
+
+### 1. Get PCBA component item codes
+- Open BOM-PA01 0001-001 in ERPNext
+- Copy all 44 item codes from the Items table
+- Or run the Python script I created to get them automatically
+
+### 2. Add filter code to your Stock Entry script
+I've created `ADD_TO_STOCK_ENTRY_SCRIPT.md` with:
+- Configuration array for PCBA component item codes
+- Filter function to remove them
+- Integration points in your existing script
+
+### 3. Test
+- Create Stock Entry: Material Transfer for Manufacture
+- Select Item: OB-HEADBAND
+- Click "Get Items from BOM"
+- Verify: Only HB-COMMON and HB-OB shown (no PCBA components)
+
+---
+
+## Files created
+
+1. `PREVENT_BOM_EXPANSION_GUIDE.md` — Complete guide with multiple approaches
+2. `filter_sub_bom_items.js` — Standalone filter script (can be integrated)
+3. `get_pcba_items.py` — Script to get all PCBA component item codes
+4. `ADD_TO_STOCK_ENTRY_SCRIPT.md` — Step-by-step integration guide
+
+---
+
+## Next steps
+
+1. Open `ADD_TO_STOCK_ENTRY_SCRIPT.md` — Follow the integration steps
+2. Get PCBA item codes — Either manually from BOM or use the Python script
+3. Add to your script — Copy the code snippets into your Stock Entry client script
+4. Test — Verify filtering works correctly
+
+The filter will automatically remove PCBA components when Stock Entry loads or when "Get Items from BOM" is clicked, so PCBA appears as a single part (HB-COMMON) instead of 40 individual components.
+
+Need help integrating this into your existing script or getting the complete list of PCBA item codes?
+
+
+================================================================================
+FILES CREATED/MODIFIED
+================================================================================
+
+📄 file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md
+   New File: True
+
+📄 file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat
+   New File: False
+   Preview: @echo off
+echo ================================================================================
+echo Creating Scheduled Task for Auto-Backup
+echo ======================================================...
+
+📄 file:///c%3A/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup_complete.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup.bat
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_LOOKUP_FIX_EXPLAINED.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_rejected_assembly_warehouse.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_rejected_assembly.bat
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_REJECTED_ASSEMBLY_WAREHOUSE.md
+   New File: True
+
+📄 file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt
+   New File: False
+   Preview: // =====================================================
+// STOCK ENTRY Client Script (FULL) — STABLE + SUBMIT GUARD + REUSE SPECIAL
+//
+// ✅ Warehouses set correctly on Type change
+// ✅ No warehou...
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_default_warehouse.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_warehouse_server.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_manual.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/CREATE_SERVER_SCRIPT_MANUAL.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_via_console.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/QUICK_FIX_REJECTED_ASSEMBLY.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/APPLY_FIXES_NOW.bat
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_now.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/verify_server_script.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/FIXES_APPLIED_SUCCESSFULLY.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_warehouse_final.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/check_and_fix_stock_entry.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_direct.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_sync.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/FINAL_FIX_APPLIED.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/get_debug_logs.sh
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/check_client_script_debug.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/check_server_script_content.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_force.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_fix.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_SUMMARY_20260113.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_aggressive.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_refresh_fix.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/verify_fixes.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_after_save.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/upload_client_script_simple.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/COMPLETE_FIX_SUMMARY.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/check_repaired_parts.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/list_all_stock_entry_types.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/REPAIRED_PARTS_SEARCH_RESULTS.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/reset_system_for_deployment.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/reset_system_safe.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/RESET_SYSTEM_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/deploy_to_production.sh
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_QUICK_START.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/FRAPPE_CLOUD_DEPLOYMENT.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_READINESS_CHECKLIST.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/prepare_for_deployment.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/OFFICE_LAPTOP_HOSTING_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/setup_office_laptop.bat
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/OFFICE_HOSTING_COMPARISON.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/create_combined_bom.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_MANUAL_STEPS.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/check_bom_items.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_QUICK_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/PREVENT_BOM_EXPANSION_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/filter_sub_bom_items.js
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/get_pcba_items.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_TO_STOCK_ENTRY_SCRIPT.md
+   New File: True

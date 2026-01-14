@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"in that case there are lot of other bom that need to considered like this in building the erp \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"it should be flexible such that future modification should be possible \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also main feature should be when we add BOM-PA01 0001-001 it should ignore \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"in that case there are lot of other bom that need to considered like this in building the erp \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"it should be flexible such that future modification should be possible \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also main feature should be when we add BOM-PA01 0001-001 it should ignore that is there in the bom currently its 44 in future it might change in future or new bom with differebt number might get added to the list of HB-COMMON  BOM-PA01 0001-002 like this so there \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "in that case there are lot of other bom that need to considered like this in building the erp \nit should be flexible such that future modification should be possible \n\nalso main feature should be when we add BOM-PA01 0001-001 it should ignore ",
+      "text": "in that case there are lot of other bom that need to considered like this in building the erp \nit should be flexible such that future modification should be possible \n\nalso main feature should be when we add BOM-PA01 0001-001 it should ignore that is there in the bom currently its 44 in future it might change in future or new bom with differebt number might get added to the list of HB-COMMON  BOM-PA01 0001-002 like this so there ",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -5164,16 +5164,16 @@
       "subtitle": "ADD_TO_STOCK_ENTRY_SCRIPT.md, get_pcba_items.py, filter_sub_bom_items.js, PREVENT_BOM_EXPANSION_GUIDE.md, COMBINE_BOM_QUICK_GUIDE.md",
       "filesChangedCount": 60
     },
-    "extracted_at": "2026-01-14T12:43:01.139641"
+    "extracted_at": "2026-01-14T12:48:01.151327"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
     "data": {
       "_v": 11,
       "composerId": "11b622ee-1cd8-478e-89c0-a5e470f25415",
-      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"type\":\"mention\",\"version\":1,\"mentionName\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"typeaheadType\":\"file\",\"storedKey\":\"92\",\"metadata\":{\"selection\":{\"type\":2,\"selectionWithoutUuid\":{\"uri\":{\"scheme\":\"file\",\"authority\":\"\",\"path\":\"/C:/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"query\":\"\",\"fragment\":\"\",\"_formatted\":\"file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"_fsPath\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\"}}},\"selectedOption\":{\"key\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"type\":\"file\",\"selectionPrecursor\":{\"uri\":{\"scheme\":\"file\",\"authority\":\"\",\"path\":\"/C:/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"query\":\"\",\"fragment\":\"\",\"_formatted\":\"file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"_fsPath\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\"}},\"secondaryText\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"id\":\"0afbd68f-a0c6-47e2-9099-13bb2ee622da\",\"name\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"_score\":0,\"isSlash\":false},\"iconClasses\":[\"file-icon\",\"downloads-name-dir-icon\",\"conversation_6_composerdata_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json-name-file-icon\",\"name-file-icon\",\"json-ext-file-icon\",\"ext-file-icon\",\"json-lang-file-icon\"]},\"source\":\"chat\"},{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" now conversation like this is getting uploaded but will you be able to recover anything from this script i wanted to know\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"let me know ever\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "@c:\\Users\\pc\\Downloads\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json now conversation like this is getting uploaded but will you be able to recover anything from this script i wanted to know\nlet me know ever",
+      "text": "",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "c48b9da0-d1a9-4b91-8d5a-d6ca906abb61",
@@ -6692,43 +6692,199 @@
         {
           "bubbleId": "46237bdd-9493-4e81-a1a9-fe1385c30d40",
           "type": 2
+        },
+        {
+          "bubbleId": "2e7deeaa-5200-4b7d-9c51-6c00243e73ba",
+          "type": 1
+        },
+        {
+          "bubbleId": "e5eb930f-15a5-49ac-89ad-10ff61248217",
+          "type": 2,
+          "serverBubbleId": "a1f81980-cb12-46bf-862b-220d7c38e279"
+        },
+        {
+          "bubbleId": "daa28a3d-fadb-4dd1-a2b9-46973bbacd01",
+          "type": 2
+        },
+        {
+          "bubbleId": "ff10bbd0-b64e-4213-9498-dc6591796a99",
+          "type": 2
+        },
+        {
+          "bubbleId": "17e2a8f2-2d18-4d67-927c-14f516a6e07e",
+          "type": 2
+        },
+        {
+          "bubbleId": "29b78b15-5017-403a-8a95-c90a130b84de",
+          "type": 2,
+          "serverBubbleId": "f3830abf-3cd3-40c8-9d45-fd042a7fd72e"
+        },
+        {
+          "bubbleId": "9b295a48-6af5-4a80-a595-344e13d94a54",
+          "type": 2
+        },
+        {
+          "bubbleId": "42844653-07d9-42c7-9f48-fbf4b2d40bff",
+          "type": 2
+        },
+        {
+          "bubbleId": "ecaa26e2-87d7-413d-957c-3d056e12ec8a",
+          "type": 2
+        },
+        {
+          "bubbleId": "b671a4a8-3c2b-41e2-afdd-57fef1d65893",
+          "type": 2
+        },
+        {
+          "bubbleId": "ef65d0a1-f05f-445b-92c3-c4bc3915b7c3",
+          "type": 2,
+          "serverBubbleId": "e012fb17-f238-4d4b-838d-873e0fc1ceb4"
+        },
+        {
+          "bubbleId": "b912301c-1e33-4e61-9ab1-e161f4802f7e",
+          "type": 2
+        },
+        {
+          "bubbleId": "3d6c6399-d360-4962-8b2f-4f0e2dc185dc",
+          "type": 2
+        },
+        {
+          "bubbleId": "c9b927f0-d50b-4777-b1ad-fa722b0d0d94",
+          "type": 2
+        },
+        {
+          "bubbleId": "314a5bc9-fac9-4cd0-b9dd-757d2912b5ac",
+          "type": 2
+        },
+        {
+          "bubbleId": "83747f80-94ea-4716-bcad-6ee24a24021f",
+          "type": 2,
+          "serverBubbleId": "08e0c552-b4c6-4750-bfac-1bd64ed11dc7"
+        },
+        {
+          "bubbleId": "5f7b8eee-1ba7-4ede-a276-759f5f4b3d63",
+          "type": 2
+        },
+        {
+          "bubbleId": "c051f4c9-15cc-485b-9e3d-913085361b18",
+          "type": 2
+        },
+        {
+          "bubbleId": "8f9ba3e3-1178-4539-9312-942db9de9d94",
+          "type": 2
+        },
+        {
+          "bubbleId": "44b87a4c-70cb-4323-b710-d3f32a72b29b",
+          "type": 2,
+          "serverBubbleId": "ff94194a-9876-4555-8fc0-77568ab33355"
+        },
+        {
+          "bubbleId": "8dbccfac-ea10-46be-91a8-1c65f7d97a4a",
+          "type": 2
+        },
+        {
+          "bubbleId": "474dd92d-ad61-4043-aea7-0b14d714acca",
+          "type": 2
+        },
+        {
+          "bubbleId": "e6cb1353-0562-46f6-884e-5a77c3564656",
+          "type": 2
+        },
+        {
+          "bubbleId": "e8bd7fda-277a-4494-8f7d-5a29d248cd78",
+          "type": 2
+        },
+        {
+          "bubbleId": "42e0658b-79c4-4e27-9375-08a24e0b2bac",
+          "type": 2,
+          "serverBubbleId": "d455d877-0381-473f-8a7a-e978020dc1e9"
+        },
+        {
+          "bubbleId": "d3dd2290-a18f-42e2-b391-ad36d8a36769",
+          "type": 2
+        },
+        {
+          "bubbleId": "5b64f93c-31d1-484b-b71f-6c23735ae287",
+          "type": 1
+        },
+        {
+          "bubbleId": "b1ec46d7-0b4a-4334-af91-012b4d8fc7cd",
+          "type": 2,
+          "serverBubbleId": "4cd56766-e7dd-47ab-8e48-fe5a2e75c013"
+        },
+        {
+          "bubbleId": "8351b2f3-018a-4c75-995d-1429a417a9d2",
+          "type": 2
+        },
+        {
+          "bubbleId": "27cb6312-4dee-474d-8ef6-84c3ca09725b",
+          "type": 2
+        },
+        {
+          "bubbleId": "f590c10d-f275-4b6c-8180-5fa7201b78aa",
+          "type": 2
+        },
+        {
+          "bubbleId": "c4c22156-f1bb-45eb-b69b-a6a79e0efa91",
+          "type": 2
+        },
+        {
+          "bubbleId": "befa9752-e800-4a21-bc42-d2c33c52fba9",
+          "type": 2,
+          "serverBubbleId": "0308565b-f1c4-4f2a-ae02-817b5677aaf0"
+        },
+        {
+          "bubbleId": "04f141ed-7133-4dd1-bf4d-97d8a0cb4671",
+          "type": 2
+        },
+        {
+          "bubbleId": "92f3e4ed-1637-434e-ad90-258d52499ac5",
+          "type": 2
+        },
+        {
+          "bubbleId": "08bb42f9-10ec-4fbb-8529-b5e1b7dbf378",
+          "type": 2
+        },
+        {
+          "bubbleId": "4f49cc62-a718-4f3c-8fd0-a23b90f881bd",
+          "type": 2
+        },
+        {
+          "bubbleId": "aadf6c24-24c7-4df9-aa0f-7f6174ea5e02",
+          "type": 2,
+          "serverBubbleId": "f8d4e9e9-c1da-4db7-8117-939ed562801f"
+        },
+        {
+          "bubbleId": "a274f854-2988-4330-841f-17dad98ad575",
+          "type": 2
+        },
+        {
+          "bubbleId": "09b6ad45-6066-4346-888c-dd151139a126",
+          "type": 2
+        },
+        {
+          "bubbleId": "8ec12d78-b370-4d2f-bfcc-0202bcf756c6",
+          "type": 2
+        },
+        {
+          "bubbleId": "da26edf8-8e07-4099-80eb-30fc376130fa",
+          "type": 2
+        },
+        {
+          "bubbleId": "6ef3f7b7-3d1e-431b-8594-5062cc5ef8d4",
+          "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "completed",
+      "status": "aborted",
       "context": {
         "composers": [],
         "quotes": [],
         "selectedCommits": [],
         "selectedPullRequests": [],
-        "selectedImages": [
-          {
-            "uuid": "d8ea82a7-a4f7-4363-8074-6bf6600f65e9",
-            "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-51d93f49-bbab-459c-b471-0d23349ffa06.png",
-            "dimension": {
-              "width": 1631,
-              "height": 856
-            },
-            "loadedAt": 1768374768153,
-            "addedWithoutMention": true
-          }
-        ],
+        "selectedImages": [],
         "folderSelections": [],
-        "fileSelections": [
-          {
-            "uri": {
-              "$mid": 1,
-              "fsPath": "c:\\Users\\pc\\Downloads\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
-              "_sep": 1,
-              "external": "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
-              "path": "/C:/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
-              "scheme": "file"
-            },
-            "uuid": "92",
-            "collapseByDefault": false,
-            "addedWithoutMention": false
-          }
-        ],
+        "fileSelections": [],
         "selections": [],
         "terminalSelections": [],
         "selectedDocs": [],
@@ -6748,11 +6904,7 @@
           "useWeb": [],
           "folderSelections": {},
           "fileSelections": {
-            "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json": [
-              {
-                "uuid": "92"
-              }
-            ]
+            "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json": []
           },
           "terminalFiles": {},
           "selections": {},
@@ -6776,6 +6928,7 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
+      "chatGenerationUUID": "103c4a20-660f-4379-8ca1-47e56e790444",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py": {
@@ -7961,6 +8114,123 @@
             "lastAppliedAt": 1768038855134,
             "partialInlineDiffFatesId": "e9e0d7ff-cf19-4ceb-b7c4-5640ab39cb27"
           }
+        },
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/recover_from_json.py": {
+          "bdf009a6-85f6-45bc-adb5-3fb40e8820fb": {
+            "_v": 3,
+            "bubbleId": "c051f4c9-15cc-485b-9e3d-913085361b18",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\recover_from_json.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/recover_from_json.py",
+              "path": "/C:/Users/pc/Desktop/cursor-chat-backups/recover_from_json.py",
+              "scheme": "file"
+            },
+            "codeblockId": "bdf009a6-85f6-45bc-adb5-3fb40e8820fb",
+            "status": "completed",
+            "languageId": "python",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768374808930,
+            "composerChatGenerationUuid": "c23aa60b-de95-4c04-85e2-c75bc944ab88",
+            "diffId": "d969580d-e723-4b80-bf60-32b0aa873b4b",
+            "lastDiffId": "b2e34fa3-9c72-430a-9cb8-f03d75dfff42",
+            "lastAppliedAt": 1768374823756
+          }
+        },
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/RECOVERY_GUIDE.md": {
+          "04723a1f-6fdd-47aa-b681-c94866bc369f": {
+            "_v": 3,
+            "bubbleId": "e6cb1353-0562-46f6-884e-5a77c3564656",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\RECOVERY_GUIDE.md",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/RECOVERY_GUIDE.md",
+              "path": "/C:/Users/pc/Desktop/cursor-chat-backups/RECOVERY_GUIDE.md",
+              "scheme": "file"
+            },
+            "codeblockId": "04723a1f-6fdd-47aa-b681-c94866bc369f",
+            "status": "completed",
+            "languageId": "markdown",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768374827465,
+            "composerChatGenerationUuid": "c23aa60b-de95-4c04-85e2-c75bc944ab88",
+            "diffId": "c79b783d-a96d-495c-b7f6-55c176d8869d",
+            "lastDiffId": "9d9e89f3-5aaf-4dcf-909d-0cf8b1c7309f",
+            "lastAppliedAt": 1768374835623
+          }
+        },
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_full_conversations.py": {
+          "c06fefad-3908-4a4a-a38d-4deb970a92c5": {
+            "_v": 3,
+            "bubbleId": "92f3e4ed-1637-434e-ad90-258d52499ac5",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\extract_full_conversations.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_full_conversations.py",
+              "path": "/C:/Users/pc/Desktop/cursor-chat-backups/extract_full_conversations.py",
+              "scheme": "file"
+            },
+            "codeblockId": "c06fefad-3908-4a4a-a38d-4deb970a92c5",
+            "status": "completed",
+            "languageId": "python",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768375035522,
+            "composerChatGenerationUuid": "103c4a20-660f-4379-8ca1-47e56e790444",
+            "diffId": "68c6397c-39e2-415c-ab8a-3750a8d3f782",
+            "lastDiffId": "671684c4-c587-4dfb-bd55-462ae7f7a7e1",
+            "lastAppliedAt": 1768375061111
+          }
+        },
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/SOLUTION_FOR_LIMITATIONS.md": {
+          "4f66e422-a5d0-46b2-b14e-437532f1fcc3": {
+            "_v": 3,
+            "bubbleId": "08bb42f9-10ec-4fbb-8529-b5e1b7dbf378",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\SOLUTION_FOR_LIMITATIONS.md",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/SOLUTION_FOR_LIMITATIONS.md",
+              "path": "/C:/Users/pc/Desktop/cursor-chat-backups/SOLUTION_FOR_LIMITATIONS.md",
+              "scheme": "file"
+            },
+            "codeblockId": "4f66e422-a5d0-46b2-b14e-437532f1fcc3",
+            "status": "completed",
+            "languageId": "markdown",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768375061475,
+            "composerChatGenerationUuid": "103c4a20-660f-4379-8ca1-47e56e790444",
+            "diffId": "76fd9f0e-9afc-402f-a8e4-ac27b32a757e",
+            "lastDiffId": "a1d6b346-b91d-4550-ae8d-ac7bbcb19a2f",
+            "lastAppliedAt": 1768375067697
+          }
+        },
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/COMPLETE_SOLUTION_SUMMARY.md": {
+          "34dd8cf4-b0ea-4c65-8bf0-11a5ecb0c51f": {
+            "_v": 3,
+            "bubbleId": "da26edf8-8e07-4099-80eb-30fc376130fa",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\COMPLETE_SOLUTION_SUMMARY.md",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/COMPLETE_SOLUTION_SUMMARY.md",
+              "path": "/C:/Users/pc/Desktop/cursor-chat-backups/COMPLETE_SOLUTION_SUMMARY.md",
+              "scheme": "file"
+            },
+            "codeblockId": "34dd8cf4-b0ea-4c65-8bf0-11a5ecb0c51f",
+            "status": "aborted",
+            "languageId": "markdown",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768375071994,
+            "composerChatGenerationUuid": "103c4a20-660f-4379-8ca1-47e56e790444"
+          }
         }
       },
       "originalFileStates": {
@@ -8219,6 +8489,36 @@
         "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py": {
           "content": "",
           "firstEditBubbleId": "b90d53d6-77ec-460f-a77e-e5248265d8fe",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/recover_from_json.py": {
+          "content": "",
+          "firstEditBubbleId": "c051f4c9-15cc-485b-9e3d-913085361b18",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/RECOVERY_GUIDE.md": {
+          "content": "",
+          "firstEditBubbleId": "e6cb1353-0562-46f6-884e-5a77c3564656",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_full_conversations.py": {
+          "content": "",
+          "firstEditBubbleId": "92f3e4ed-1637-434e-ad90-258d52499ac5",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/SOLUTION_FOR_LIMITATIONS.md": {
+          "content": "",
+          "firstEditBubbleId": "08bb42f9-10ec-4fbb-8529-b5e1b7dbf378",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/COMPLETE_SOLUTION_SUMMARY.md": {
+          "content": "",
+          "firstEditBubbleId": "da26edf8-8e07-4099-80eb-30fc376130fa",
           "isNewlyCreated": true,
           "newlyCreatedFolders": []
         }
@@ -8623,10 +8923,50 @@
             "path": "/c:/Users/pc/Desktop/SETUP_COMPLETE.md",
             "scheme": "file"
           }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\recover_from_json.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/recover_from_json.py",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/recover_from_json.py",
+            "scheme": "file"
+          }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\RECOVERY_GUIDE.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/RECOVERY_GUIDE.md",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/RECOVERY_GUIDE.md",
+            "scheme": "file"
+          }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\extract_full_conversations.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_full_conversations.py",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/extract_full_conversations.py",
+            "scheme": "file"
+          }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\SOLUTION_FOR_LIMITATIONS.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/SOLUTION_FOR_LIMITATIONS.md",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/SOLUTION_FOR_LIMITATIONS.md",
+            "scheme": "file"
+          }
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768038903429,
+      "lastUpdatedAt": 1768375023628,
       "createdAt": 1767854262948,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -8701,50 +9041,13 @@
       "unifiedMode": "agent",
       "forceMode": "edit",
       "usageData": {},
-      "contextUsagePercent": 10.764503479003906,
+      "contextUsagePercent": 38.5994987487793,
       "allAttachedFileCodeChunksUris": [
-        "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py",
-        "file:///c%3A/Users/pc/Desktop/inspect_cursor_db.py",
-        "file:///c%3A/Users/pc/Desktop/extract_cursor_chats.py",
-        "file:///c%3A/Users/pc/Desktop/deep_extract_chats.py",
-        "file:///c%3A/Users/pc/Desktop/CHAT_RECOVERY_SUMMARY.md",
-        "file:///c%3A/Users/pc/Desktop/recover_all_cursor_data.bat",
-        "file:///c%3A/Users/pc/Desktop/extract_specific_chats.py",
-        "file:///c%3A/Users/pc/Desktop/reconstruct_conversations.py",
-        "file:///c%3A/Users/pc/Desktop/OPEN_RECOVERED_CHATS.md",
-        "file:///c%3A/Users/pc/Desktop/recover_specific_chats.py",
-        "file:///c%3A/Users/pc/Desktop/find_all_conversation_titles.py",
-        "file:///c%3A/Users/pc/Desktop/extract_all_workspace_conversations.py",
-        "file:///c%3A/Users/pc/Desktop/recover_frappe_fqc5.py",
-        "file:///c%3A/Users/pc/Desktop/final_recovery_attempt.py",
-        "file:///c%3A/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md",
-        "file:///c%3A/Users/pc/Desktop/export_full_conversations.py",
-        "file:///c%3A/Users/pc/Desktop/export_complete_from_database.py",
-        "file:///c%3A/Users/pc/Desktop/EXPORT_COMPLETE_SUMMARY.md",
-        "file:///c%3A/Users/pc/Desktop/extract_toolformer_data.py",
-        "file:///c%3A/Users/pc/Desktop/setup_auto_backup_cursor_chats.bat",
-        "file:///c%3A/Users/pc/Desktop/INSTALL_SPECSTORY.md",
-        "file:///c%3A/Users/pc/Desktop/setup_git_auto_backup.ps1",
-        "file:///c%3A/Users/pc/Desktop/AUTO_BACKUP_SETUP_GUIDE.md",
-        "file:///c%3A/Users/pc/Desktop/QUICK_SETUP_AUTO_BACKUP.bat",
-        "file:///c%3A/Users/pc/Desktop/START_HERE_AUTO_BACKUP.md",
-        "file:///c%3A/Users/pc/Desktop/verify_backup_system.bat",
-        "file:///c%3A/Users/pc/Desktop/fix_and_verify_backup.bat",
-        "file:///c%3A/Users/pc/Desktop/create_auto_backup_script.bat",
-        "file:///c%3A/Users/pc/Desktop/verify_all_components.ps1",
-        "file:///c%3A/Users/pc/Desktop/CHECK_BACKUP_STATUS.bat",
+        "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
         "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
-        "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
-        "file:///c%3A/Users/pc/Desktop/FINAL_STATUS_REPORT.md",
-        "file:///c%3A/Users/pc/Desktop/QUICK_VERIFY.bat",
-        "file:///c%3A/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md",
-        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/.gitignore",
-        "file:///c%3A/Users/pc/Desktop/BACKUP_SYSTEM_COMPLETE.md",
-        "file:///c%3A/Users/pc/Desktop/FINAL_STATUS.md",
-        "file:///c%3A/Users/pc/Desktop/VERIFICATION_COMPLETE.md",
-        "file:///c%3A/Users/pc/Desktop/SYSTEM_READY.md",
-        "file:///c%3A/Users/pc/Desktop/EVERYTHING_READY.md",
-        "file:///c%3A/Users/pc/Desktop/SETUP_COMPLETE.md"
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/recover_from_json.py",
+        "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/RECOVERY_GUIDE.md"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -8756,7 +9059,7 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 7033,
+      "totalLinesAdded": 8028,
       "totalLinesRemoved": 0,
       "addedFiles": 0,
       "removedFiles": 0,
@@ -8778,12 +9081,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "7ed9f92c-e08a-470c-910f-186114969183",
+      "latestChatGenerationUUID": "103c4a20-660f-4379-8ca1-47e56e790444",
       "isAgentic": true,
-      "subtitle": "auto-backup.bat, extract_conversations.py",
-      "filesChangedCount": 43
+      "subtitle": "COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py, RECOVERY_GUIDE.md, recover_from_json.py",
+      "filesChangedCount": 47
     },
-    "extracted_at": "2026-01-14T12:43:01.139641"
+    "extracted_at": "2026-01-14T12:48:01.152327"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -17295,7 +17598,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-14T12:43:01.147642"
+    "extracted_at": "2026-01-14T12:48:01.159688"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -17513,7 +17816,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T12:43:01.147642"
+    "extracted_at": "2026-01-14T12:48:01.159688"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -17690,7 +17993,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T12:43:01.147642"
+    "extracted_at": "2026-01-14T12:48:01.159688"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -26801,11 +27104,188 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-14T12:43:01.155525"
+    "extracted_at": "2026-01-14T12:48:01.165690"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-14T12:43:01.155525"
+    "extracted_at": "2026-01-14T12:48:01.165690"
+  },
+  {
+    "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
+    "data": {
+      "_v": 11,
+      "composerId": "60bd3346-e308-45b5-b00f-f24b4281493d",
+      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "hasLoaded": true,
+      "text": "",
+      "fullConversationHeadersOnly": [],
+      "conversationMap": {},
+      "status": "none",
+      "context": {
+        "composers": [],
+        "quotes": [],
+        "selectedCommits": [],
+        "selectedPullRequests": [],
+        "selectedImages": [],
+        "folderSelections": [],
+        "fileSelections": [],
+        "selections": [],
+        "terminalSelections": [],
+        "selectedDocs": [],
+        "externalLinks": [],
+        "cursorRules": [],
+        "cursorCommands": [],
+        "ideEditorsState": true,
+        "gitPRDiffSelections": [],
+        "mentions": {
+          "composers": {},
+          "quotes": {},
+          "selectedCommits": {},
+          "selectedPullRequests": {},
+          "gitDiff": [],
+          "gitDiffFromBranchToMain": [],
+          "selectedImages": {},
+          "useWeb": [],
+          "folderSelections": {},
+          "fileSelections": {
+            "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json": []
+          },
+          "terminalFiles": {},
+          "selections": {},
+          "terminalSelections": {},
+          "selectedDocs": {},
+          "externalLinks": {},
+          "useLinterErrors": [],
+          "useDiffReview": [],
+          "useGenerateRules": [],
+          "useContextPicking": [],
+          "useRememberThis": [],
+          "diffHistory": [],
+          "cursorRules": {},
+          "cursorCommands": {},
+          "autoContext": [],
+          "uiElementSelections": [],
+          "consoleLogs": [],
+          "ideEditorsState": [],
+          "gitPRDiffSelections": {}
+        }
+      },
+      "gitGraphFileSuggestions": [],
+      "generatingBubbleIds": [],
+      "isReadingLongFile": false,
+      "codeBlockData": {},
+      "originalFileStates": {},
+      "newlyCreatedFiles": [],
+      "newlyCreatedFolders": [],
+      "createdAt": 1768374789054,
+      "hasChangedContext": false,
+      "activeTabsShouldBeReactive": true,
+      "capabilities": [
+        {
+          "type": 30,
+          "data": {}
+        },
+        {
+          "type": 34,
+          "data": {}
+        },
+        {
+          "type": 15,
+          "data": {
+            "bubbleDataMap": "{}"
+          }
+        },
+        {
+          "type": 22,
+          "data": {}
+        },
+        {
+          "type": 18,
+          "data": {}
+        },
+        {
+          "type": 19,
+          "data": {}
+        },
+        {
+          "type": 33,
+          "data": {}
+        },
+        {
+          "type": 32,
+          "data": {}
+        },
+        {
+          "type": 23,
+          "data": {}
+        },
+        {
+          "type": 16,
+          "data": {}
+        },
+        {
+          "type": 24,
+          "data": {}
+        },
+        {
+          "type": 25,
+          "data": {}
+        },
+        {
+          "type": 21,
+          "data": {}
+        },
+        {
+          "type": 31,
+          "data": {}
+        },
+        {
+          "type": 29,
+          "data": {}
+        }
+      ],
+      "isFileListExpanded": false,
+      "browserChipManuallyDisabled": false,
+      "browserChipManuallyEnabled": false,
+      "unifiedMode": "agent",
+      "forceMode": "edit",
+      "usageData": {},
+      "allAttachedFileCodeChunksUris": [],
+      "modelConfig": {
+        "modelName": "composer-1",
+        "maxMode": false
+      },
+      "subComposerIds": [],
+      "capabilityContexts": [],
+      "todos": [],
+      "isQueueExpanded": true,
+      "hasUnreadMessages": false,
+      "gitHubPromptDismissed": false,
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 0,
+      "addedFiles": 0,
+      "removedFiles": 0,
+      "isArchived": false,
+      "isDraft": false,
+      "isCreatingWorktree": false,
+      "isApplyingWorktree": false,
+      "isUndoingWorktree": false,
+      "applied": false,
+      "pendingCreateWorktree": false,
+      "isBestOfNSubcomposer": false,
+      "isBestOfNParent": false,
+      "bestOfNJudgeWinner": false,
+      "isSpec": false,
+      "isSpecSubagentDone": false,
+      "stopHookLoopCount": 0,
+      "speculativeSummarizationEncryptionKey": "0qo2Y3xLNqyqGENFpmHc3RbgzhZTcAum0ZqdsCqc9a0=",
+      "isNAL": false,
+      "planModeSuggestionUsed": false,
+      "debugModeSuggestionUsed": false,
+      "conversationState": "",
+      "isAgentic": true
+    },
+    "extracted_at": "2026-01-14T12:48:01.165690"
   }
 ]

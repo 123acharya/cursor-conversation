@@ -1,0 +1,3947 @@
+[
+  {
+    "composer_id": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
+    "extracted_at": "2026-01-14T12:43:44.267802",
+    "source_file": "C:\\Users\\pc\\Desktop\\cursor-chat-backups\\conversations\\conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.json",
+    "total_messages": 501,
+    "messages_with_content": 0,
+    "files_created": [
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
+        "is_new": false,
+        "content_preview": "@echo off\necho ================================================================================\necho Creating Scheduled Task for Auto-Backup\necho ================================================================================\necho.\necho This will create a scheduled task that runs every 5 minutes.\necho You may need to run this as Administrator.\necho.\npause\n\nset BACKUP_DIR=%USERPROFILE%\\Desktop\\cursor-chat-backups\nset TASK_NAME=CursorChatAutoBackup\n\necho.\necho Creating scheduled task: %TASK_NAME%"
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup_complete.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_LOOKUP_FIX_EXPLAINED.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_rejected_assembly_warehouse.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_rejected_assembly.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_REJECTED_ASSEMBLY_WAREHOUSE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+        "is_new": false,
+        "content_preview": "// =====================================================\r\n// STOCK ENTRY Client Script (FULL) — STABLE + SUBMIT GUARD + REUSE SPECIAL\r\n//\r\n// ✅ Warehouses set correctly on Type change\r\n// ✅ No warehouse reset on Save / Refresh\r\n// ✅ Default Target Warehouse will NOT go blank after Save\r\n// ✅ Parent + row warehouse dropdown restrictions (MFG Transfer / Rejected from Assembly)\r\n// ✅ PCB-only types (single PA01 row / remove other items)\r\n// ✅ PCB scan table + qty sync\r\n// ✅ Submit Guard checklist ("
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_default_warehouse.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_warehouse_server.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_manual.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/CREATE_SERVER_SCRIPT_MANUAL.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_via_console.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/QUICK_FIX_REJECTED_ASSEMBLY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/APPLY_FIXES_NOW.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_now.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/verify_server_script.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/FIXES_APPLIED_SUCCESSFULLY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_warehouse_final.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/check_and_fix_stock_entry.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_direct.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_sync.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/FINAL_FIX_APPLIED.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/get_debug_logs.sh",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/check_client_script_debug.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/check_server_script_content.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_force.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_fix.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_SUMMARY_20260113.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_aggressive.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_refresh_fix.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/verify_fixes.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_after_save.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/upload_client_script_simple.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/COMPLETE_FIX_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/check_repaired_parts.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/list_all_stock_entry_types.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/REPAIRED_PARTS_SEARCH_RESULTS.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/reset_system_for_deployment.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/reset_system_safe.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/RESET_SYSTEM_GUIDE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_GUIDE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/deploy_to_production.sh",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_QUICK_START.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/FRAPPE_CLOUD_DEPLOYMENT.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_READINESS_CHECKLIST.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/prepare_for_deployment.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/OFFICE_LAPTOP_HOSTING_GUIDE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/setup_office_laptop.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/OFFICE_HOSTING_COMPARISON.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_GUIDE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/create_combined_bom.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_MANUAL_STEPS.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/check_bom_items.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_QUICK_GUIDE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/PREVENT_BOM_EXPANSION_GUIDE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/filter_sub_bom_items.js",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/get_pcba_items.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_TO_STOCK_ENTRY_SCRIPT.md",
+        "is_new": true,
+        "content_preview": ""
+      }
+    ],
+    "code_blocks": [
+      {
+        "file": "c:\\Users\\pc\\Desktop\\ERPNext_System_Understanding.md",
+        "language": "markdown",
+        "status": "accepted",
+        "created_at": 1767869012344
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\ERPNext_DocTypes_Detailed_Understanding.md",
+        "language": "markdown",
+        "status": "accepted",
+        "created_at": 1768049789505
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\fix_pcb_lookup_complete.py",
+        "language": "python",
+        "status": "accepted",
+        "created_at": 1768050907069
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\fix_pcb_lookup.bat",
+        "language": "bat",
+        "status": "accepted",
+        "created_at": 1768050945520
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\PCB_LOOKUP_FIX_EXPLAINED.md",
+        "language": "markdown",
+        "status": "accepted",
+        "created_at": 1768050957000
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\fix_rejected_assembly_warehouse.py",
+        "language": "python",
+        "status": "accepted",
+        "created_at": 1768213573023
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\fix_rejected_assembly.bat",
+        "language": "bat",
+        "status": "accepted",
+        "created_at": 1768213603990
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\FIX_REJECTED_ASSEMBLY_WAREHOUSE.md",
+        "language": "markdown",
+        "status": "accepted",
+        "created_at": 1768213625142
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "accepted",
+        "created_at": 1768226431581
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "accepted",
+        "created_at": 1768226433015
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "accepted",
+        "created_at": 1768226434781
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "accepted",
+        "created_at": 1768226436052
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "accepted",
+        "created_at": 1768226437305
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "accepted",
+        "created_at": 1768226438599
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "accepted",
+        "created_at": 1768226601343
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "accepted",
+        "created_at": 1768226603724
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "accepted",
+        "created_at": 1768226605343
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768227584556
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768227586779
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768227589660
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768227985015
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768227988557
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768227992766
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768227999965
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768288703856
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768289330993
+      },
+      {
+        "file": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768289574771
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\fix_stock_entry_default_warehouse.py",
+        "language": "python",
+        "status": "accepted",
+        "created_at": 1768226593020
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\fix_stock_entry_warehouse_server.py",
+        "language": "python",
+        "status": "accepted",
+        "created_at": 1768226611521
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\create_server_script_manual.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768226905586
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\CREATE_SERVER_SCRIPT_MANUAL.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768226910902
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\create_server_script_via_console.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768226940475
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\QUICK_FIX_REJECTED_ASSEMBLY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768226954588
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\APPLY_FIXES_NOW.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1768227013699
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\create_server_script_now.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768227236999
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\create_server_script_now.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768227252725
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\create_server_script_now.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768227260135
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\verify_server_script.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768227269867
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\FIXES_APPLIED_SUCCESSFULLY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768227297538
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\fix_stock_entry_warehouse_final.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768227522172
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\check_and_fix_stock_entry.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768227536095
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\update_client_script_direct.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768227549779
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\update_client_script_sync.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768227596351
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\FINAL_FIX_APPLIED.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768227676592
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\get_debug_logs.sh",
+        "language": "shellscript",
+        "status": "completed",
+        "created_at": 1768228210637
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\check_client_script_debug.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768228215523
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\check_server_script_content.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768228227134
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\fix_server_script_force.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768228247868
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\update_client_script_fix.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768288715062
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\FIX_SUMMARY_20260113.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768288872875
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\fix_server_script_aggressive.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768289321201
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\update_client_script_refresh_fix.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768289336512
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\verify_fixes.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768289568638
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\update_client_script_after_save.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768289599883
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\upload_client_script_simple.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768289639245
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\COMPLETE_FIX_SUMMARY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768289714901
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\check_repaired_parts.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768290810099
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\list_all_stock_entry_types.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768290819216
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\REPAIRED_PARTS_SEARCH_RESULTS.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768290827001
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\reset_system_for_deployment.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768292742495
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\reset_system_safe.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768292752810
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\RESET_SYSTEM_GUIDE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768292762285
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\DEPLOYMENT_GUIDE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768296759910
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\deploy_to_production.sh",
+        "language": "shellscript",
+        "status": "completed",
+        "created_at": 1768296799264
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\DEPLOYMENT_QUICK_START.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768296831812
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\FRAPPE_CLOUD_DEPLOYMENT.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768297284180
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\DEPLOYMENT_READINESS_CHECKLIST.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768297319807
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\prepare_for_deployment.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768297352883
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\OFFICE_LAPTOP_HOSTING_GUIDE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768297524537
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\setup_office_laptop.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1768297571258
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\OFFICE_HOSTING_COMPARISON.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768297615199
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\COMBINE_BOM_GUIDE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768313198461
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\create_combined_bom.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768313216033
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\create_combined_bom.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768313265597
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\COMBINE_BOM_MANUAL_STEPS.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768313228095
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\check_bom_items.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768313249363
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\COMBINE_BOM_QUICK_GUIDE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768313279443
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\PREVENT_BOM_EXPANSION_GUIDE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768374299722
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\filter_sub_bom_items.js",
+        "language": "javascript",
+        "status": "completed",
+        "created_at": 1768374359886
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\get_pcba_items.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1768374370526
+      },
+      {
+        "file": "g:\\frappe_docker-main\\frappe_docker-main\\ADD_TO_STOCK_ENTRY_SCRIPT.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768374392431
+      }
+    ]
+  },
+  {
+    "composer_id": "11b622ee-1cd8-478e-89c0-a5e470f25415",
+    "extracted_at": "2026-01-14T12:43:44.290803",
+    "source_file": "C:\\Users\\pc\\Desktop\\cursor-chat-backups\\conversations\\conversation_2_composerData_11b622ee-1cd8-478e-89c0-a5e470f25415.json",
+    "total_messages": 362,
+    "messages_with_content": 0,
+    "files_created": [
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/inspect_cursor_db.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/extract_cursor_chats.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/deep_extract_chats.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/CHAT_RECOVERY_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/recover_all_cursor_data.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/extract_specific_chats.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/reconstruct_conversations.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/OPEN_RECOVERED_CHATS.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/recover_specific_chats.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/find_all_conversation_titles.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/extract_all_workspace_conversations.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/recover_frappe_fqc5.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/final_recovery_attempt.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/export_full_conversations.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/export_complete_from_database.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/EXPORT_COMPLETE_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/extract_toolformer_data.py",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/setup_auto_backup_cursor_chats.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/INSTALL_SPECSTORY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/setup_git_auto_backup.ps1",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/AUTO_BACKUP_SETUP_GUIDE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/QUICK_SETUP_AUTO_BACKUP.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/START_HERE_AUTO_BACKUP.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/verify_backup_system.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/fix_and_verify_backup.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/create_auto_backup_script.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/verify_all_components.ps1",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/CHECK_BACKUP_STATUS.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/auto-backup.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/FINAL_STATUS_REPORT.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/QUICK_VERIFY.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/SYSTEM_STATUS_FINAL.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/.gitignore",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/BACKUP_SYSTEM_COMPLETE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/FINAL_STATUS.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/VERIFICATION_COMPLETE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/SYSTEM_READY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/EVERYTHING_READY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/SETUP_COMPLETE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
+        "is_new": true,
+        "content_preview": ""
+      }
+    ],
+    "code_blocks": [
+      {
+        "file": "c:\\Users\\pc\\Desktop\\recover_cursor_chats.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767854653965
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\inspect_cursor_db.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767854677696
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\extract_cursor_chats.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767854696545
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\deep_extract_chats.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767854727933
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\CHAT_RECOVERY_SUMMARY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767854766500
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\recover_all_cursor_data.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1767854786793
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\extract_specific_chats.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767855405023
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\reconstruct_conversations.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767855431782
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\OPEN_RECOVERED_CHATS.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767855458630
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\recover_specific_chats.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767855765379
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\find_all_conversation_titles.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767855788690
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\extract_all_workspace_conversations.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767855817105
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\recover_frappe_fqc5.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767855836503
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\final_recovery_attempt.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767855876396
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767855897776
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\export_full_conversations.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767857169485
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\export_complete_from_database.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767857198889
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\EXPORT_COMPLETE_SUMMARY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767857227651
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\extract_toolformer_data.py",
+        "language": "python",
+        "status": "completed",
+        "created_at": 1767857243128
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\setup_auto_backup_cursor_chats.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1767857521293
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\INSTALL_SPECSTORY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767857534041
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\setup_git_auto_backup.ps1",
+        "language": "powershell",
+        "status": "completed",
+        "created_at": 1767857544219
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\setup_git_auto_backup.ps1",
+        "language": "powershell",
+        "status": "completed",
+        "created_at": 1767857570751
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\setup_git_auto_backup.ps1",
+        "language": "powershell",
+        "status": "completed",
+        "created_at": 1767857588937
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\AUTO_BACKUP_SETUP_GUIDE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767857554765
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\QUICK_SETUP_AUTO_BACKUP.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1767857607189
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\START_HERE_AUTO_BACKUP.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767857641919
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\verify_backup_system.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1767858904122
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\fix_and_verify_backup.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1767858922024
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\create_auto_backup_script.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1767858948302
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\verify_all_components.ps1",
+        "language": "powershell",
+        "status": "completed",
+        "created_at": 1767858973728
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\CHECK_BACKUP_STATUS.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1767859000011
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\auto-backup.bat",
+        "language": "bat",
+        "status": "accepted",
+        "created_at": 1767859034363
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\auto-backup.bat",
+        "language": "bat",
+        "status": "accepted",
+        "created_at": 1767860961414
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\auto-backup.bat",
+        "language": "bat",
+        "status": "aborted",
+        "created_at": 1767866370692
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\auto-backup.bat",
+        "language": "bat",
+        "status": "accepted",
+        "created_at": 1768038862418
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\create_scheduled_task.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1767860041512
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\FINAL_STATUS_REPORT.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767860079501
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\QUICK_VERIFY.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1767860782782
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\SYSTEM_STATUS_FINAL.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767860851150
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\.gitignore",
+        "language": "ignore",
+        "status": "accepted",
+        "created_at": 1767860900397
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\.gitignore",
+        "language": "ignore",
+        "status": "accepted",
+        "created_at": 1767861069208
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\BACKUP_SYSTEM_COMPLETE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767861029259
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\FINAL_STATUS.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767861048737
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\VERIFICATION_COMPLETE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767861128307
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\SYSTEM_READY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767866395188
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\EVERYTHING_READY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767866424739
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\SETUP_COMPLETE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767866456433
+      },
+      {
+        "file": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\extract_conversations.py",
+        "language": "python",
+        "status": "accepted",
+        "created_at": 1768038847780
+      }
+    ]
+  },
+  {
+    "composer_id": "e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
+    "extracted_at": "2026-01-14T12:43:44.316084",
+    "source_file": "C:\\Users\\pc\\Desktop\\cursor-chat-backups\\conversations\\conversation_3_composerData_e7cd62a7-a012-4a0b-a586-fda8d7ca96cb.json",
+    "total_messages": 864,
+    "messages_with_content": 0,
+    "files_created": [
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/COMPREHENSIVE_ANALYSIS.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/COMPLETE_SCREEN_DATA_FLOW.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/WORKFLOW_REQUIREMENTS_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+        "is_new": false,
+        "content_preview": "# Recovery Summary: Frappe Docker & FQC5 Conversations\n\n## ✅ **Recovery Status**\n\nI've searched all Cursor databases for \"Frappe Docker port and login issues\" and \"FQC5\" conversations.\n\n### **What Was Found:**\n\n1. **Frappe/Docker Conversation:**\n   - Composer ID: `11b622ee-1cd8-478e-89c0-a5e470f25415`\n   - **Status:** ✅ **RECOVERED** (102 messages)\n   - **File:** `RECOVERED_FRAPPE_1_11b622ee.txt`\n   - **Note:** This is the same conversation as \"Lost chat recovery\" - it contains discussions about"
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
+        "is_new": false,
+        "content_preview": "@echo off\necho ================================================================================\necho Creating Scheduled Task for Auto-Backup\necho ================================================================================\necho.\necho This will create a scheduled task that runs every 5 minutes.\necho You may need to run this as Administrator.\necho.\npause\n\nset BACKUP_DIR=%USERPROFILE%\\Desktop\\cursor-chat-backups\nset TASK_NAME=CursorChatAutoBackup\n\necho.\necho Creating scheduled task: %TASK_NAME%"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/UnsyncedDataSyncService.kt",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/LandingScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp\n\nimport androidx.compose.foundation.layout.*\nimport androidx.compose.foundation.shape.RoundedCornerShape\nimport androidx.compose.foundation.clickable\nimport androidx.compose.foundation.rememberScrollState\nimport androidx.compose.foundation.verticalScroll\nimport androidx.compose.material.icons.Icons\nimport androidx.compose.material.icons.filled.Menu\nimport androidx.compose.material3.*\nimport androidx.compose.runtime.Composable\nimport androidx.compose.ui.Alignment\nimport"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/entities/Device.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data.entities\n\nimport androidx.room.Entity\nimport androidx.room.PrimaryKey\n\n@Entity(tableName = \"devices\")\ndata class Device(\n    @PrimaryKey val serialNumber: String,\n    // DEPRECATED: macId is deprecated - MAC ID should be derived from active PCB link\n    // Use FQCRepository.getMacIdFromActivePcb(deviceId) instead\n    // Keeping for backward compatibility during migration, but should not be used\n    @Deprecated(\"Use getMacIdFromActivePcb() instead - MAC comes from "
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/AppDatabase.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data\n\nimport android.content.Context\nimport androidx.room.Database\nimport androidx.room.Room\nimport androidx.room.RoomDatabase\nimport androidx.room.migration.Migration\nimport androidx.sqlite.db.SupportSQLiteDatabase\nimport com.example.fqcapp.data.dao.*\nimport com.example.fqcapp.data.entities.*\nimport java.util.UUID\nimport java.text.SimpleDateFormat\nimport java.util.Date\nimport java.util.Locale\n\n@Database(\n    entities = [\n        Operator::class,\n        Device::class,"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/FQCRepository.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data\n\nimport android.util.Log\nimport androidx.compose.ui.graphics.Color\nimport androidx.room.withTransaction\nimport com.example.fqcapp.data.entities.*\nimport com.example.fqcapp.supabase.SupabaseFrequencyTestService\nimport com.example.fqcapp.ui.models.*\nimport com.example.fqcapp.utils.ResultFormatter\nimport com.example.fqcapp.utils.SerialGenerator\nimport kotlinx.coroutines.flow.Flow\nimport kotlinx.coroutines.flow.flowOf\nimport kotlinx.coroutines.launch\nimport kotlinx.co"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/ScannerScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.scanner\n\nimport android.Manifest\nimport android.content.pm.PackageManager\nimport androidx.activity.compose.rememberLauncherForActivityResult\nimport androidx.activity.result.contract.ActivityResultContracts\nimport androidx.camera.camera2.interop.Camera2Interop\nimport androidx.camera.core.*\nimport androidx.camera.lifecycle.ProcessCameraProvider\nimport androidx.camera.view.PreviewView\nimport androidx.compose.foundation.Canvas\nimport androidx.compose.foundation.layout.*\nim"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/IMPLEMENTATION_PROGRESS.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/FrequencyGeneratorScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp\n\nimport android.media.AudioFormat\nimport android.media.AudioManager\nimport android.media.AudioTrack\nimport android.media.AudioFocusRequest\nimport android.os.Build\nimport android.util.Log\nimport androidx.compose.animation.core.*\nimport androidx.compose.foundation.Canvas\nimport androidx.compose.foundation.ExperimentalFoundationApi\nimport androidx.compose.foundation.clickable\nimport androidx.compose.foundation.combinedClickable\nimport androidx.compose.foundation.gestures."
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/dao/FrequencyTestDao.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data.dao\n\nimport androidx.room.*\nimport com.example.fqcapp.data.entities.FrequencyTest\nimport kotlinx.coroutines.flow.Flow\n\n@Dao\ninterface FrequencyTestDao {\n    @Insert\n    suspend fun insert(test: FrequencyTest): Long\n\n    \n    @Query(\"SELECT * FROM frequency_tests WHERE serialNumber = :serialNumber ORDER BY timestamp ASC\")\n    suspend fun getFrequencyTests(serialNumber: String): List<FrequencyTest>\n\n    @Query(\"SELECT * FROM frequency_tests WHERE testId = :id\")\n    "
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/ui/TestSongScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.ui\n\nimport android.Manifest\nimport android.content.pm.PackageManager\nimport android.media.AudioManager\nimport android.media.AudioFocusRequest\nimport android.os.Build\nimport android.util.Log\nimport com.example.fqcapp.utils.VLCPlayerManager\nimport androidx.activity.compose.BackHandler\nimport androidx.activity.compose.rememberLauncherForActivityResult\nimport androidx.activity.result.contract.ActivityResultContracts\nimport androidx.compose.foundation.ExperimentalFoundation"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/dao/SongTestDao.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data.dao\n\nimport androidx.room.*\nimport com.example.fqcapp.data.entities.SongTest\nimport kotlinx.coroutines.flow.Flow\n\n@Dao\ninterface SongTestDao {\n    @Insert\n    suspend fun insert(test: SongTest): Long\n\n    \n    @Query(\"SELECT * FROM song_tests WHERE serialNumber = :serialNumber ORDER BY timestamp ASC\")\n    suspend fun getSongTests(serialNumber: String): List<SongTest>\n\n    @Query(\"SELECT * FROM song_tests WHERE testId = :id\")\n    suspend fun getTestById(id: Long): "
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/FQCReviewScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp\n\nimport android.util.Log\nimport androidx.compose.animation.AnimatedContent\nimport androidx.compose.foundation.layout.*\nimport androidx.compose.foundation.rememberScrollState\nimport androidx.compose.foundation.shape.RoundedCornerShape\nimport androidx.compose.foundation.verticalScroll\nimport androidx.compose.material.icons.Icons\nimport androidx.compose.material.icons.filled.ArrowBack\nimport androidx.compose.material3.*\nimport androidx.compose.runtime.*\nimport androidx.co"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/dao/FQCRecordDao.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data.dao\n\nimport androidx.room.*\nimport com.example.fqcapp.data.entities.FQCRecord\nimport kotlinx.coroutines.flow.Flow\n\n@Dao\ninterface FQCRecordDao {\n    \n    @Query(\"SELECT * FROM fqc_records WHERE serialNumber = :serialNumber ORDER BY timestamp ASC\")\n    suspend fun getFQCRecords(serialNumber: String): List<FQCRecord>\n    \n    @Query(\"SELECT * FROM fqc_records WHERE serialNumber = :serialNumber ORDER BY timestamp ASC\")\n    fun getFQCRecordsFlow(serialNumber: String):"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/Navigation.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp\n\nimport androidx.activity.ComponentActivity\nimport androidx.compose.foundation.layout.Column\nimport androidx.compose.foundation.layout.Spacer\nimport androidx.compose.foundation.layout.fillMaxSize\nimport androidx.compose.foundation.layout.fillMaxWidth\nimport androidx.compose.foundation.layout.height\nimport androidx.compose.material3.DrawerValue\nimport androidx.compose.material3.ModalNavigationDrawer\nimport androidx.compose.material3.Scaffold\nimport androidx.compose.mate"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/IMPLEMENTATION_VERIFICATION.md",
+        "is_new": false,
+        "content_preview": "# Implementation Verification - DATA_FLOW_AND_STORAGE_PLAN.md\r\n\r\n## ✅ COMPLETED - App Front Implementation\r\n\r\n### 1. Supabase Device Data Service ✅\r\n- **File**: `app/src/main/java/com/example/fqcapp/supabase/SupabaseDeviceDataService.kt`\r\n- **Status**: ✅ COMPLETE\r\n- **Features**:\r\n  - `fetchDeviceData(serialNumber)` - Queries all Supabase tables\r\n  - `getNextIterationNumber(serialNumber, testType)` - Gets iteration per test type\r\n  - Returns `DeviceDataSnapshot` with all device history\r\n  - Inde"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/SUPABASE_API_REQUESTS_EXPLANATION.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DeviceWorkflowService.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.services\n\nimport android.util.Log\nimport com.example.fqcapp.data.FQCRepository\nimport com.example.fqcapp.data.entities.DeviceWorkflow\nimport com.example.fqcapp.data.entities.MilestoneEntry\nimport kotlinx.coroutines.CancellationException\nimport kotlinx.coroutines.CoroutineScope\nimport kotlinx.coroutines.Dispatchers\nimport kotlinx.coroutines.SupervisorJob\nimport kotlinx.coroutines.launch\nimport kotlinx.coroutines.withContext\n\n/**\n * Service to log device workflow events "
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/SUPABASE_SYNC_REMOVAL_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/MacIdCacheManager.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.services\r\n\r\nimport android.content.Context\r\nimport android.util.Log\r\nimport com.example.fqcapp.data.dao.MacIdCacheDao\r\nimport com.example.fqcapp.data.entities.MacIdCache\r\nimport kotlinx.coroutines.Dispatchers\r\nimport kotlinx.coroutines.withContext\r\n\r\nclass MacIdCacheManager(\r\n    private val context: Context,\r\n    private val macIdCacheDao: MacIdCacheDao,\r\n    private val googleSheetsAPI: GoogleSheetsAPI\r\n) {\r\n    companion object {\r\n        private const val TAG = \"Ma"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/RELIABILITY_FIXES_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DriverPairingCacheManager.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.services\n\nimport android.content.Context\nimport android.util.Log\nimport com.example.fqcapp.data.dao.DriverPairingCacheDao\nimport com.example.fqcapp.data.entities.DriverPairingCache\nimport kotlinx.coroutines.Dispatchers\nimport kotlinx.coroutines.withContext\nimport kotlinx.coroutines.CompletableDeferred\nimport kotlinx.coroutines.sync.Mutex\nimport kotlinx.coroutines.sync.withLock\nimport org.json.JSONArray\n\nclass DriverPairingCacheManager(\n    private val driverPairingCach"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/DriverPairingScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp\n\nimport androidx.compose.foundation.clickable\nimport androidx.compose.foundation.layout.*\nimport androidx.compose.foundation.rememberScrollState\nimport androidx.compose.foundation.shape.CircleShape\nimport androidx.compose.foundation.shape.RoundedCornerShape\nimport androidx.compose.foundation.text.KeyboardOptions\nimport androidx.compose.foundation.verticalScroll\nimport androidx.compose.material.icons.Icons\nimport androidx.compose.material.icons.filled.Add\nimport android"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.supabase\n\nimport android.util.Log\nimport com.example.fqcapp.data.entities.SongTest\nimport io.github.jan.supabase.postgrest.from\nimport io.github.jan.supabase.postgrest.query.Columns\nimport io.github.jan.supabase.postgrest.query.Order\nimport kotlinx.coroutines.Dispatchers\nimport kotlinx.coroutines.withContext\nimport kotlinx.serialization.Serializable\n\n/**\n * Data transfer object for Supabase song_tests table.\n * This matches the structure of the SongTest entity but uses"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseFrequencyTestService.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.supabase\n\nimport android.util.Log\nimport com.example.fqcapp.data.entities.FrequencyTest\nimport io.github.jan.supabase.postgrest.from\nimport io.github.jan.supabase.postgrest.query.Columns\nimport io.github.jan.supabase.postgrest.query.Order\nimport kotlinx.coroutines.Dispatchers\nimport kotlinx.coroutines.withContext\nimport kotlinx.serialization.Serializable\nimport org.json.JSONArray\n\n/**\n * Data transfer object for Supabase frequency_tests table.\n * This matches the struc"
+      }
+    ],
+    "code_blocks": [
+      {
+        "file": "k:\\FQC-Tracking-App\\PROJECT_STATUS_SUMMARY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767866902089
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\COMPREHENSIVE_ANALYSIS.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767867141987
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\COMPLETE_SCREEN_DATA_FLOW.md",
+        "language": "markdown",
+        "status": "accepted",
+        "created_at": 1767867683805
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\WORKFLOW_REQUIREMENTS_SUMMARY.md",
+        "language": "markdown",
+        "status": "accepted",
+        "created_at": 1767882669545
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946591881
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946645488
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946655174
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946664827
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946674435
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946684286
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946694107
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946704198
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946714260
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946724174
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946734241
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946778779
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946789182
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767946799078
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946805729
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946815860
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952315835
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952352443
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952429583
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952443799
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946858348
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946869080
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946888373
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946899048
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952251096
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952260986
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963826089
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963857039
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963869526
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767967736455
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768028898720
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038198818
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\entities\\Device.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947025783
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947062259
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947072334
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947087500
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952228848
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952715096
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952796865
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947136387
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947379008
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947471843
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947489840
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947560938
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947580425
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947598481
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947609655
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947628251
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947648775
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947774704
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947800133
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947834862
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947880287
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951645706
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952186324
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952291757
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954874722
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954888782
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954901130
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954911196
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954920929
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954931073
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767955005963
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767955027214
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963801464
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963812855
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034587811
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768034599922
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034611111
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034627575
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034638091
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034653085
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034663570
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039362956
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768051950096
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768051986252
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768052014703
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ScannerScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947193442
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ScannerScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947209366
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ScannerScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947342612
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\IMPLEMENTATION_PROGRESS.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767947252838
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947427878
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947500648
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947510505
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947540502
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952386041
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952627863
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034711440
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\FrequencyTestDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947461170
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\FrequencyTestDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039340660
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947703416
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947715583
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947784392
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947902995
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952271021
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952326206
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952398105
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952469132
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952497719
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952512547
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952549406
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952615906
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952638685
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952705327
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952840725
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\SongTestDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947764097
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\SongTestDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947824509
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\SongTestDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039352574
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767951445818
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951502855
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951523613
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951560482
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951570901
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951615228
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767951665210
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952216348
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952673022
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\FQCRecordDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951703954
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951742451
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952107604
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768028881236
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768028922012
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038945967
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768038968125
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039208721
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039225496
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039241165
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039270246
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039281186
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768039558998
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039574949
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768043123520
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768043802899
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768043911564
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050189180
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768050206218
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050216619
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050234174
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050249723
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050322060
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050372945
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768050384280
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050394036
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050408166
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050436421
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768051198805
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\IMPLEMENTATION_VERIFICATION.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767951894382
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\SUPABASE_API_REQUESTS_EXPLANATION.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767954482021
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954976466
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767955037698
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767955066734
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767955080139
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050792545
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\SUPABASE_SYNC_REMOVAL_SUMMARY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767955281263
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963775857
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963790159
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767967687758
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767967721503
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038112558
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038123504
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038247714
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038258156
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039911957
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039925135
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768039935500
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039942158
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768043102066
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768043154115
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\RELIABILITY_FIXES_SUMMARY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767963884164
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DriverPairingCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038144415
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DriverPairingCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038154454
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DriverPairingCacheManager.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768038164107
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DriverPairingCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038180640
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\DriverPairingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039546418
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseSongTestService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050834562
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseSongTestService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050848069
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseSongTestService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050885968
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseFrequencyTestService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768052122133
+      }
+    ]
+  },
+  {
+    "composer_id": "bbfda600-fe93-4052-a4df-3f2ea3cabbea",
+    "extracted_at": "2026-01-14T12:43:44.326833",
+    "source_file": "C:\\Users\\pc\\Desktop\\cursor-chat-backups\\conversations\\conversation_4_composerData_bbfda600-fe93-4052-a4df-3f2ea3cabbea.json",
+    "total_messages": 0,
+    "messages_with_content": 0,
+    "files_created": [],
+    "code_blocks": []
+  },
+  {
+    "composer_id": "d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
+    "extracted_at": "2026-01-14T12:43:44.337578",
+    "source_file": "C:\\Users\\pc\\Desktop\\cursor-chat-backups\\conversations\\conversation_5_composerData_d45ae0b4-5f83-4d7e-8a51-f532dbba8198.json",
+    "total_messages": 0,
+    "messages_with_content": 0,
+    "files_created": [],
+    "code_blocks": []
+  },
+  {
+    "composer_id": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
+    "extracted_at": "2026-01-14T12:43:44.361241",
+    "source_file": "C:\\Users\\pc\\Desktop\\cursor-chat-backups\\conversations\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
+    "total_messages": 923,
+    "messages_with_content": 0,
+    "files_created": [
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/PROJECT_STATUS_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/COMPREHENSIVE_ANALYSIS.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/COMPLETE_SCREEN_DATA_FLOW.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/WORKFLOW_REQUIREMENTS_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/RECOVERY_SUMMARY_FRAPPE_FQC5.md",
+        "is_new": false,
+        "content_preview": "# Recovery Summary: Frappe Docker & FQC5 Conversations\n\n## ✅ **Recovery Status**\n\nI've searched all Cursor databases for \"Frappe Docker port and login issues\" and \"FQC5\" conversations.\n\n### **What Was Found:**\n\n1. **Frappe/Docker Conversation:**\n   - Composer ID: `11b622ee-1cd8-478e-89c0-a5e470f25415`\n   - **Status:** ✅ **RECOVERED** (102 messages)\n   - **File:** `RECOVERED_FRAPPE_1_11b622ee.txt`\n   - **Note:** This is the same conversation as \"Lost chat recovery\" - it contains discussions about"
+      },
+      {
+        "path": "file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat",
+        "is_new": false,
+        "content_preview": "@echo off\necho ================================================================================\necho Creating Scheduled Task for Auto-Backup\necho ================================================================================\necho.\necho This will create a scheduled task that runs every 5 minutes.\necho You may need to run this as Administrator.\necho.\npause\n\nset BACKUP_DIR=%USERPROFILE%\\Desktop\\cursor-chat-backups\nset TASK_NAME=CursorChatAutoBackup\n\necho.\necho Creating scheduled task: %TASK_NAME%"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/UnsyncedDataSyncService.kt",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/LandingScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp\n\nimport androidx.compose.foundation.layout.*\nimport androidx.compose.foundation.shape.RoundedCornerShape\nimport androidx.compose.foundation.clickable\nimport androidx.compose.foundation.rememberScrollState\nimport androidx.compose.foundation.verticalScroll\nimport androidx.compose.material.icons.Icons\nimport androidx.compose.material.icons.filled.Menu\nimport androidx.compose.material3.*\nimport androidx.compose.runtime.Composable\nimport androidx.compose.ui.Alignment\nimport"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/entities/Device.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data.entities\n\nimport androidx.room.Entity\nimport androidx.room.PrimaryKey\n\n@Entity(tableName = \"devices\")\ndata class Device(\n    @PrimaryKey val serialNumber: String,\n    // DEPRECATED: macId is deprecated - MAC ID should be derived from active PCB link\n    // Use FQCRepository.getMacIdFromActivePcb(deviceId) instead\n    // Keeping for backward compatibility during migration, but should not be used\n    @Deprecated(\"Use getMacIdFromActivePcb() instead - MAC comes from "
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/AppDatabase.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data\n\nimport android.content.Context\nimport androidx.room.Database\nimport androidx.room.Room\nimport androidx.room.RoomDatabase\nimport androidx.room.migration.Migration\nimport androidx.sqlite.db.SupportSQLiteDatabase\nimport com.example.fqcapp.data.dao.*\nimport com.example.fqcapp.data.entities.*\nimport java.util.UUID\nimport java.text.SimpleDateFormat\nimport java.util.Date\nimport java.util.Locale\n\n@Database(\n    entities = [\n        Operator::class,\n        Device::class,"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/FQCRepository.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data\n\nimport android.util.Log\nimport androidx.compose.ui.graphics.Color\nimport androidx.room.withTransaction\nimport com.example.fqcapp.data.entities.*\nimport com.example.fqcapp.supabase.SupabaseFrequencyTestService\nimport com.example.fqcapp.ui.models.*\nimport com.example.fqcapp.utils.ResultFormatter\nimport com.example.fqcapp.utils.SerialGenerator\nimport kotlinx.coroutines.flow.Flow\nimport kotlinx.coroutines.flow.flowOf\nimport kotlinx.coroutines.launch\nimport kotlinx.co"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/ScannerScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.scanner\n\nimport android.Manifest\nimport android.content.pm.PackageManager\nimport androidx.activity.compose.rememberLauncherForActivityResult\nimport androidx.activity.result.contract.ActivityResultContracts\nimport androidx.camera.camera2.interop.Camera2Interop\nimport androidx.camera.core.*\nimport androidx.camera.lifecycle.ProcessCameraProvider\nimport androidx.camera.view.PreviewView\nimport androidx.compose.foundation.Canvas\nimport androidx.compose.foundation.layout.*\nim"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/IMPLEMENTATION_PROGRESS.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/FrequencyGeneratorScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp\n\nimport android.media.AudioFormat\nimport android.media.AudioManager\nimport android.media.AudioTrack\nimport android.media.AudioFocusRequest\nimport android.os.Build\nimport android.util.Log\nimport androidx.compose.animation.core.*\nimport androidx.compose.foundation.Canvas\nimport androidx.compose.foundation.ExperimentalFoundationApi\nimport androidx.compose.foundation.clickable\nimport androidx.compose.foundation.combinedClickable\nimport androidx.compose.foundation.gestures."
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/dao/FrequencyTestDao.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data.dao\n\nimport androidx.room.*\nimport com.example.fqcapp.data.entities.FrequencyTest\nimport kotlinx.coroutines.flow.Flow\n\n@Dao\ninterface FrequencyTestDao {\n    @Insert\n    suspend fun insert(test: FrequencyTest): Long\n\n    \n    @Query(\"SELECT * FROM frequency_tests WHERE serialNumber = :serialNumber ORDER BY timestamp ASC\")\n    suspend fun getFrequencyTests(serialNumber: String): List<FrequencyTest>\n\n    @Query(\"SELECT * FROM frequency_tests WHERE testId = :id\")\n    "
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/ui/TestSongScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.ui\n\nimport android.Manifest\nimport android.content.pm.PackageManager\nimport android.media.AudioManager\nimport android.media.AudioFocusRequest\nimport android.os.Build\nimport android.util.Log\nimport com.example.fqcapp.utils.VLCPlayerManager\nimport androidx.activity.compose.BackHandler\nimport androidx.activity.compose.rememberLauncherForActivityResult\nimport androidx.activity.result.contract.ActivityResultContracts\nimport androidx.compose.foundation.ExperimentalFoundation"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/dao/SongTestDao.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data.dao\n\nimport androidx.room.*\nimport com.example.fqcapp.data.entities.SongTest\nimport kotlinx.coroutines.flow.Flow\n\n@Dao\ninterface SongTestDao {\n    @Insert\n    suspend fun insert(test: SongTest): Long\n\n    \n    @Query(\"SELECT * FROM song_tests WHERE serialNumber = :serialNumber ORDER BY timestamp ASC\")\n    suspend fun getSongTests(serialNumber: String): List<SongTest>\n\n    @Query(\"SELECT * FROM song_tests WHERE testId = :id\")\n    suspend fun getTestById(id: Long): "
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/FQCReviewScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp\n\nimport android.util.Log\nimport androidx.compose.animation.AnimatedContent\nimport androidx.compose.foundation.layout.*\nimport androidx.compose.foundation.rememberScrollState\nimport androidx.compose.foundation.shape.RoundedCornerShape\nimport androidx.compose.foundation.verticalScroll\nimport androidx.compose.material.icons.Icons\nimport androidx.compose.material.icons.filled.ArrowBack\nimport androidx.compose.material3.*\nimport androidx.compose.runtime.*\nimport androidx.co"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/data/dao/FQCRecordDao.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.data.dao\n\nimport androidx.room.*\nimport com.example.fqcapp.data.entities.FQCRecord\nimport kotlinx.coroutines.flow.Flow\n\n@Dao\ninterface FQCRecordDao {\n    \n    @Query(\"SELECT * FROM fqc_records WHERE serialNumber = :serialNumber ORDER BY timestamp ASC\")\n    suspend fun getFQCRecords(serialNumber: String): List<FQCRecord>\n    \n    @Query(\"SELECT * FROM fqc_records WHERE serialNumber = :serialNumber ORDER BY timestamp ASC\")\n    fun getFQCRecordsFlow(serialNumber: String):"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/Navigation.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp\n\nimport androidx.activity.ComponentActivity\nimport androidx.compose.foundation.layout.Column\nimport androidx.compose.foundation.layout.Spacer\nimport androidx.compose.foundation.layout.fillMaxSize\nimport androidx.compose.foundation.layout.fillMaxWidth\nimport androidx.compose.foundation.layout.height\nimport androidx.compose.material3.DrawerValue\nimport androidx.compose.material3.ModalNavigationDrawer\nimport androidx.compose.material3.Scaffold\nimport androidx.compose.mate"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/IMPLEMENTATION_VERIFICATION.md",
+        "is_new": false,
+        "content_preview": "# Implementation Verification - DATA_FLOW_AND_STORAGE_PLAN.md\r\n\r\n## ✅ COMPLETED - App Front Implementation\r\n\r\n### 1. Supabase Device Data Service ✅\r\n- **File**: `app/src/main/java/com/example/fqcapp/supabase/SupabaseDeviceDataService.kt`\r\n- **Status**: ✅ COMPLETE\r\n- **Features**:\r\n  - `fetchDeviceData(serialNumber)` - Queries all Supabase tables\r\n  - `getNextIterationNumber(serialNumber, testType)` - Gets iteration per test type\r\n  - Returns `DeviceDataSnapshot` with all device history\r\n  - Inde"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/SUPABASE_API_REQUESTS_EXPLANATION.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DeviceWorkflowService.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.services\n\nimport android.util.Log\nimport com.example.fqcapp.data.FQCRepository\nimport com.example.fqcapp.data.entities.DeviceWorkflow\nimport com.example.fqcapp.data.entities.MilestoneEntry\nimport kotlinx.coroutines.CancellationException\nimport kotlinx.coroutines.CoroutineScope\nimport kotlinx.coroutines.Dispatchers\nimport kotlinx.coroutines.SupervisorJob\nimport kotlinx.coroutines.launch\nimport kotlinx.coroutines.withContext\n\n/**\n * Service to log device workflow events "
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/SUPABASE_SYNC_REMOVAL_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/MacIdCacheManager.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.services\r\n\r\nimport android.content.Context\r\nimport android.util.Log\r\nimport com.example.fqcapp.data.dao.MacIdCacheDao\r\nimport com.example.fqcapp.data.entities.MacIdCache\r\nimport kotlinx.coroutines.Dispatchers\r\nimport kotlinx.coroutines.withContext\r\n\r\nclass MacIdCacheManager(\r\n    private val context: Context,\r\n    private val macIdCacheDao: MacIdCacheDao,\r\n    private val googleSheetsAPI: GoogleSheetsAPI\r\n) {\r\n    companion object {\r\n        private const val TAG = \"Ma"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/RELIABILITY_FIXES_SUMMARY.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/services/DriverPairingCacheManager.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.services\n\nimport android.content.Context\nimport android.util.Log\nimport com.example.fqcapp.data.dao.DriverPairingCacheDao\nimport com.example.fqcapp.data.entities.DriverPairingCache\nimport kotlinx.coroutines.Dispatchers\nimport kotlinx.coroutines.withContext\nimport kotlinx.coroutines.CompletableDeferred\nimport kotlinx.coroutines.sync.Mutex\nimport kotlinx.coroutines.sync.withLock\nimport org.json.JSONArray\n\nclass DriverPairingCacheManager(\n    private val driverPairingCach"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/DriverPairingScreen.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp\n\nimport androidx.compose.foundation.clickable\nimport androidx.compose.foundation.layout.*\nimport androidx.compose.foundation.rememberScrollState\nimport androidx.compose.foundation.shape.CircleShape\nimport androidx.compose.foundation.shape.RoundedCornerShape\nimport androidx.compose.foundation.text.KeyboardOptions\nimport androidx.compose.foundation.verticalScroll\nimport androidx.compose.material.icons.Icons\nimport androidx.compose.material.icons.filled.Add\nimport android"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseSongTestService.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.supabase\n\nimport android.util.Log\nimport com.example.fqcapp.data.entities.SongTest\nimport io.github.jan.supabase.postgrest.from\nimport io.github.jan.supabase.postgrest.query.Columns\nimport io.github.jan.supabase.postgrest.query.Order\nimport kotlinx.coroutines.Dispatchers\nimport kotlinx.coroutines.withContext\nimport kotlinx.serialization.Serializable\n\n/**\n * Data transfer object for Supabase song_tests table.\n * This matches the structure of the SongTest entity but uses"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/app/src/main/java/com/example/fqcapp/supabase/SupabaseFrequencyTestService.kt",
+        "is_new": false,
+        "content_preview": "package com.example.fqcapp.supabase\n\nimport android.util.Log\nimport com.example.fqcapp.data.entities.FrequencyTest\nimport io.github.jan.supabase.postgrest.from\nimport io.github.jan.supabase.postgrest.query.Columns\nimport io.github.jan.supabase.postgrest.query.Order\nimport kotlinx.coroutines.Dispatchers\nimport kotlinx.coroutines.withContext\nimport kotlinx.serialization.Serializable\nimport org.json.JSONArray\n\n/**\n * Data transfer object for Supabase frequency_tests table.\n * This matches the struc"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/SETUP_GUIDE.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT.ps1",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/.gitignore",
+        "is_new": false,
+        "content_preview": "# Built application files\n*.apk\n*.aar\n*.ap_\n*.aab\n\n# Files for the ART/Dalvik VM\n*.dex\n\n# Java class files\n*.class\n\n# Generated files\nbin/\ngen/\nout/\n#  Uncomment the following line in case you need and you don't have the release build type files in your app\n# release/\n\n# Gradle files\n.gradle/\nbuild/\n\n# Local configuration file (sdk path, etc)\nlocal.properties\n\n# Proguard folder generated by Eclipse\nproguard/\n\n# Log Files\n*.log\n\n# Android Studio Navigation editor temp files\n.navigation/\n\n# Androi"
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/QUICK_START.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT.bat",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/PROJECT_TRANSFER_CHECKLIST.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/README_TRANSFER.md",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_EFFICIENT.ps1",
+        "is_new": true,
+        "content_preview": ""
+      },
+      {
+        "path": "file:///k%3A/FQC-Tracking-App/ZIP_PROJECT_SIMPLE.ps1",
+        "is_new": true,
+        "content_preview": ""
+      }
+    ],
+    "code_blocks": [
+      {
+        "file": "k:\\FQC-Tracking-App\\PROJECT_STATUS_SUMMARY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767866902089
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\COMPREHENSIVE_ANALYSIS.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767867141987
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\COMPLETE_SCREEN_DATA_FLOW.md",
+        "language": "markdown",
+        "status": "accepted",
+        "created_at": 1767867683805
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\WORKFLOW_REQUIREMENTS_SUMMARY.md",
+        "language": "markdown",
+        "status": "accepted",
+        "created_at": 1767882669545
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946591881
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946645488
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946655174
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946664827
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946674435
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946684286
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946694107
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946704198
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946714260
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946724174
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946734241
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946778779
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946789182
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767946799078
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946805729
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946815860
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952315835
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952352443
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952429583
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\UnsyncedDataSyncService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952443799
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946858348
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946869080
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946888373
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767946899048
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952251096
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952260986
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963826089
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963857039
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963869526
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767967736455
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768028898720
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\LandingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038198818
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\entities\\Device.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947025783
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947062259
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947072334
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947087500
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952228848
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952715096
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\AppDatabase.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952796865
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947136387
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947379008
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947471843
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947489840
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947560938
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947580425
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947598481
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947609655
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947628251
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947648775
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947774704
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947800133
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947834862
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947880287
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951645706
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952186324
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952291757
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954874722
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954888782
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954901130
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954911196
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954920929
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954931073
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767955005963
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767955027214
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963801464
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963812855
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034587811
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768034599922
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034611111
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034627575
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034638091
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034653085
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034663570
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039362956
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768051950096
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768051986252
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\FQCRepository.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768052014703
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ScannerScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947193442
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ScannerScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947209366
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ScannerScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947342612
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\IMPLEMENTATION_PROGRESS.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767947252838
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947427878
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947500648
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947510505
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947540502
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952386041
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952627863
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FrequencyGeneratorScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768034711440
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\FrequencyTestDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947461170
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\FrequencyTestDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039340660
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947703416
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947715583
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767947784392
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947902995
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952271021
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952326206
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952398105
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952469132
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952497719
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952512547
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952549406
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952615906
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952638685
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767952705327
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\ui\\TestSongScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952840725
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\SongTestDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947764097
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\SongTestDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767947824509
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\SongTestDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039352574
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767951445818
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951502855
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951523613
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951560482
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951570901
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951615228
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767951665210
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952216348
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\FQCReviewScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952673022
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\data\\dao\\FQCRecordDao.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951703954
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767951742451
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767952107604
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768028881236
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768028922012
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038945967
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768038968125
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039208721
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039225496
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039241165
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039270246
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039281186
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768039558998
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039574949
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768043123520
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768043802899
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768043911564
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050189180
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768050206218
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050216619
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050234174
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050249723
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050322060
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050372945
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768050384280
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050394036
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050408166
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050436421
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\Navigation.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768051198805
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\IMPLEMENTATION_VERIFICATION.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767951894382
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\SUPABASE_API_REQUESTS_EXPLANATION.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767954482021
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767954976466
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1767955037698
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767955066734
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767955080139
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DeviceWorkflowService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050792545
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\SUPABASE_SYNC_REMOVAL_SUMMARY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767955281263
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963775857
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767963790159
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767967687758
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1767967721503
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038112558
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038123504
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038247714
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038258156
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039911957
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039925135
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768039935500
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039942158
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768043102066
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\MacIdCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768043154115
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\RELIABILITY_FIXES_SUMMARY.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1767963884164
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DriverPairingCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038144415
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DriverPairingCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038154454
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DriverPairingCacheManager.kt",
+        "language": "plaintext",
+        "status": "aborted",
+        "created_at": 1768038164107
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\services\\DriverPairingCacheManager.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768038180640
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\DriverPairingScreen.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768039546418
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseSongTestService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050834562
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseSongTestService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050848069
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseSongTestService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768050885968
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\app\\src\\main\\java\\com\\example\\fqcapp\\supabase\\SupabaseFrequencyTestService.kt",
+        "language": "plaintext",
+        "status": "completed",
+        "created_at": 1768052122133
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\SETUP_GUIDE.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768202906111
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\ZIP_PROJECT.ps1",
+        "language": "powershell",
+        "status": "completed",
+        "created_at": 1768202928262
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\.gitignore",
+        "language": "ignore",
+        "status": "completed",
+        "created_at": 1768202936430
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\QUICK_START.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768202942217
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\ZIP_PROJECT.bat",
+        "language": "bat",
+        "status": "completed",
+        "created_at": 1768202949960
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\PROJECT_TRANSFER_CHECKLIST.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768202956249
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\README_TRANSFER.md",
+        "language": "markdown",
+        "status": "completed",
+        "created_at": 1768202974415
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\ZIP_PROJECT_EFFICIENT.ps1",
+        "language": "powershell",
+        "status": "completed",
+        "created_at": 1768203627063
+      },
+      {
+        "file": "k:\\FQC-Tracking-App\\ZIP_PROJECT_SIMPLE.ps1",
+        "language": "powershell",
+        "status": "completed",
+        "created_at": 1768203670457
+      }
+    ]
+  }
+]

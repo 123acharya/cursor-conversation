@@ -1,0 +1,1042 @@
+================================================================================
+RECOVERED CONVERSATION
+================================================================================
+Composer ID: 20e7a53f-33e9-40e9-9237-a8f5ded267e0
+Total Messages: 501
+Messages with Content: 0
+Files Created/Modified: 61
+Code Blocks: 60
+
+================================================================================
+MESSAGE STRUCTURE (Content not available in JSON)
+================================================================================
+
+Note: The JSON file contains conversation structure but not message content.
+Message content is stored separately in the database.
+To get full content, use the database extraction method.
+
+[1] USER - Bubble ID: 6239644d-c08e-45aa-9cfa-987d7df50605
+[2] ASSISTANT - Bubble ID: b7047145-0c93-4ae2-bd60-c905f36b28c3
+[3] ASSISTANT - Bubble ID: 9daacb81-a97e-4e26-aa34-f99c386db636
+[4] ASSISTANT - Bubble ID: 9e2d7ef3-8b55-4ac2-b289-9b863a3befe2
+[5] ASSISTANT - Bubble ID: f88ef21d-855e-45e1-9144-e780dedecc2c
+[6] ASSISTANT - Bubble ID: 3b3fd8ed-a7cf-40af-b06c-a8cbbc5a9b6b
+[7] ASSISTANT - Bubble ID: b3419eee-0fc2-414d-8860-b7a57cd0bbba
+[8] ASSISTANT - Bubble ID: 98263f64-d213-439c-b1ff-6c15e78d6c9b
+[9] ASSISTANT - Bubble ID: cc6f3784-3cbf-4644-8db4-6022fc490ffb
+[10] ASSISTANT - Bubble ID: 56165aad-d491-4ae2-8758-5eda29dec103
+[11] ASSISTANT - Bubble ID: 7f8ceca1-32a4-4a7d-9ae2-b3f821c42be2
+[12] ASSISTANT - Bubble ID: 5c6d2c39-dc38-43d5-b4d8-447bb0fda3d6
+[13] ASSISTANT - Bubble ID: 42e1d301-90d3-4edf-9e8f-d1a83cf3e4da
+[14] ASSISTANT - Bubble ID: 23113588-1aec-4086-ab01-9e6de0fdbab3
+[15] ASSISTANT - Bubble ID: 009584c6-778d-4edf-ad94-2768e289ad5f
+[16] ASSISTANT - Bubble ID: 69e5f56b-e8a9-4a29-95f4-cb0361766cfc
+[17] ASSISTANT - Bubble ID: 8db2ea1e-ff08-4f23-8bcc-53a02a8f9620
+[18] ASSISTANT - Bubble ID: 5311ecb0-35e9-4b8d-a625-5a62c3d31ba4
+[19] ASSISTANT - Bubble ID: 09f042c7-458d-48bc-8fe6-fc6254d92ca1
+[20] USER - Bubble ID: 1c48d443-e926-4c6a-b77b-75e90029be13
+[21] ASSISTANT - Bubble ID: 2c1edb01-f240-48b8-9b7b-bc2a71f3320e
+[22] ASSISTANT - Bubble ID: a4f6fe7a-a8b4-4b78-bd24-424e90d7546e
+[23] ASSISTANT - Bubble ID: 5ec55713-fdd2-4b71-afd8-2ae11eed091e
+[24] ASSISTANT - Bubble ID: ba0b4d0f-21b6-4435-86e7-b6db921c1c70
+[25] ASSISTANT - Bubble ID: 6a777e7b-77c2-4cda-a34d-8464bb05e190
+[26] ASSISTANT - Bubble ID: 8b10c6b4-95df-4334-83f5-6bdf92a032c1
+[27] ASSISTANT - Bubble ID: 8d959180-6cb9-4b44-a575-722e4990dc6b
+[28] ASSISTANT - Bubble ID: 94d01c6a-8b39-4c9a-9317-cd41342e9812
+[29] ASSISTANT - Bubble ID: 6f9056c9-9b43-484f-91af-0f8c21907f91
+[30] ASSISTANT - Bubble ID: 3dcaf78c-b7fb-497d-a41f-5d092daee746
+[31] ASSISTANT - Bubble ID: ae58cfbd-2621-4424-8e28-4c448b7ec469
+[32] ASSISTANT - Bubble ID: 7b5a80d0-9a20-4d3a-9daa-fb158c3d4d19
+[33] ASSISTANT - Bubble ID: 772c8535-49ba-4f6d-8dcd-d31f03f9475f
+[34] ASSISTANT - Bubble ID: 5320cac5-0ffe-449f-92bc-4e25f749b9fa
+[35] ASSISTANT - Bubble ID: d3de5dba-71c7-4b54-9c88-be6b7c5798b6
+[36] ASSISTANT - Bubble ID: 6b10bd7e-0891-417e-8444-bf51daab8958
+[37] ASSISTANT - Bubble ID: 093d7171-1862-4609-868f-da5328b40ba1
+[38] ASSISTANT - Bubble ID: 902e27b9-44c3-4d9c-9c79-75cf700b69c3
+[39] ASSISTANT - Bubble ID: aaa3bd73-34c0-44ac-aef7-c6adbab0f97d
+[40] ASSISTANT - Bubble ID: ba15bdba-810d-40f0-823c-f01dde8b788d
+[41] ASSISTANT - Bubble ID: d975b475-f326-4dbe-9080-980e8f0cc089
+[42] ASSISTANT - Bubble ID: 6f0afc93-a98e-436e-863e-14d4fb63068c
+[43] ASSISTANT - Bubble ID: 4a921e1c-54da-4399-90cf-8296aaeb2428
+[44] USER - Bubble ID: 0b60ac94-fd2e-41da-aa15-d195c8466ce2
+[45] ASSISTANT - Bubble ID: b20ea625-c8eb-4862-99b7-79aae30a7c9a
+[46] ASSISTANT - Bubble ID: 770a6a2f-83f4-4814-8f98-af0fb2491eb5
+[47] ASSISTANT - Bubble ID: 7259b7a7-a174-470e-9497-7b843c59d158
+[48] ASSISTANT - Bubble ID: 8e8854ef-8fdd-43b9-93c8-df49abddcd19
+[49] ASSISTANT - Bubble ID: b8f72bf7-b768-4373-9d1e-e2e910ee126f
+[50] ASSISTANT - Bubble ID: b8845df9-e55c-43d1-aa93-afa5a81b8697
+[51] ASSISTANT - Bubble ID: 09313ac5-c843-4abe-a388-7aca3863d8e3
+[52] ASSISTANT - Bubble ID: d73e1845-fa33-489c-b4cf-71e2911e01db
+[53] ASSISTANT - Bubble ID: d316a360-43d4-46ff-aa2e-6fc29a4425f1
+[54] ASSISTANT - Bubble ID: 24ce71cc-ba4e-4af4-aa1d-3aad4bac2b43
+[55] ASSISTANT - Bubble ID: be5e8ee3-294a-4b0c-80c6-3c310ef28b90
+[56] ASSISTANT - Bubble ID: 1b7dfd15-68db-4f3b-9ebe-b4a5a64f10f9
+[57] ASSISTANT - Bubble ID: cc10ac46-c78d-4003-a3d1-e8de889c6a8b
+[58] ASSISTANT - Bubble ID: 0b183a78-7d63-41a3-880b-cc4e93446485
+[59] ASSISTANT - Bubble ID: 0e36077b-ea43-4ab1-be5c-65700146448b
+[60] ASSISTANT - Bubble ID: 0b9e9b3d-450c-4e8b-8471-bf1dbfe4d131
+[61] ASSISTANT - Bubble ID: 763e933b-fb00-4c25-8c88-9f2beab1ed1f
+[62] ASSISTANT - Bubble ID: 76766cf1-cf2a-44f3-8968-a85ba9593cc1
+[63] ASSISTANT - Bubble ID: cfa2786e-c7af-474e-bbdd-e758b862aa58
+[64] ASSISTANT - Bubble ID: c919822b-fc9a-49df-9e13-01a9c403ed3b
+[65] ASSISTANT - Bubble ID: aa61f100-e014-40c1-935f-7bc2be58d2c0
+[66] ASSISTANT - Bubble ID: 6d885091-92b7-4399-a9d7-57d8c043166b
+[67] ASSISTANT - Bubble ID: ae921498-3095-429a-876a-9e701fd6eca9
+[68] ASSISTANT - Bubble ID: 7d3c20b9-3f90-4cf7-b049-58f44eda52c7
+[69] ASSISTANT - Bubble ID: 1ed16de6-67b4-4d35-b02a-090cf355c1f9
+[70] ASSISTANT - Bubble ID: a055d044-a5f7-46de-a652-4f9d7023d492
+[71] ASSISTANT - Bubble ID: e45589e4-67b8-472f-b08e-9ad527efc7b2
+[72] USER - Bubble ID: c001e0f6-5c80-4388-939c-3e4819917d0b
+[73] ASSISTANT - Bubble ID: 6373c8d4-ec19-4d9d-b660-92f9718bb6f8
+[74] ASSISTANT - Bubble ID: efdddcb6-354a-45cd-bd0e-167e422405be
+[75] ASSISTANT - Bubble ID: 6b96397c-8278-46b7-8c54-5f6cbb5da73e
+[76] ASSISTANT - Bubble ID: 96ac58e3-29bc-4bea-9e35-7fe71ad2c2be
+[77] ASSISTANT - Bubble ID: 669810a8-f6e7-4c3a-a1e4-51b17d7e59e3
+[78] ASSISTANT - Bubble ID: 8d6bcee4-3d11-4b6c-84b2-9978afe3484b
+[79] ASSISTANT - Bubble ID: 581adb11-785c-497b-8ec7-1bf4b8f65b20
+[80] ASSISTANT - Bubble ID: db827ae1-7994-44ff-850b-b7d433b8dca8
+[81] ASSISTANT - Bubble ID: ca515840-7390-465a-b835-f321d0c48a61
+[82] ASSISTANT - Bubble ID: 76b12083-0547-450f-aff0-b22d64a46fe3
+[83] ASSISTANT - Bubble ID: 465276a4-54eb-4fdc-bae9-8e09aa4b980a
+[84] ASSISTANT - Bubble ID: 07c92349-220a-43a9-8008-a8cdce72b7d4
+[85] ASSISTANT - Bubble ID: d1da3169-7f93-4e3f-bc76-4a2f685ae3a3
+[86] ASSISTANT - Bubble ID: 1268bed3-85f1-4d8d-8198-4dc5c4f981b2
+[87] ASSISTANT - Bubble ID: 26f28f28-77db-4c6d-a5a1-ad46bb88a64f
+[88] ASSISTANT - Bubble ID: 920d44ca-77b8-41c0-b32b-f081cfb8deb7
+[89] ASSISTANT - Bubble ID: 1bbe3988-a542-4900-a3bf-401b1d9d5701
+[90] ASSISTANT - Bubble ID: d7399387-2e76-40d3-9eea-8f48a88191c7
+[91] ASSISTANT - Bubble ID: 961ac1d6-fb02-4f58-a2a3-992b21a685fc
+[92] ASSISTANT - Bubble ID: 43dbfa44-0016-40d9-9afb-08893e51ee77
+[93] ASSISTANT - Bubble ID: 530ba424-58aa-4558-9ffd-2602f657b120
+[94] ASSISTANT - Bubble ID: b8d00873-e6e0-45da-b4b1-37ef04c35a95
+[95] USER - Bubble ID: 09d8bc96-dc30-430e-aa8f-24fbb5cff59f
+[96] ASSISTANT - Bubble ID: 6a0ccf9a-a30c-431c-b834-d88ff3cf5678
+[97] ASSISTANT - Bubble ID: 5ff232d5-c93e-4705-a0e9-fc51a5dfb01d
+[98] ASSISTANT - Bubble ID: 21eb54f6-75c4-45fc-be8e-800542a73c38
+[99] ASSISTANT - Bubble ID: 94036f4d-de79-4165-8e5c-90da7447beb6
+[100] ASSISTANT - Bubble ID: c8638bcf-71cd-4d44-9680-fe8e8f38fa73
+[101] ASSISTANT - Bubble ID: 8f5226e5-b24e-41fb-9b8b-51b88748e66f
+[102] ASSISTANT - Bubble ID: 6510c993-c683-4649-aa4f-9cb91101007e
+[103] ASSISTANT - Bubble ID: 88b783dc-38dc-40e0-b763-8b0529187e79
+[104] ASSISTANT - Bubble ID: f94b88ea-d473-4652-9e6d-8a749b86434a
+[105] ASSISTANT - Bubble ID: e1e4d7a5-68f1-48a3-aeee-4ea97219ba03
+[106] ASSISTANT - Bubble ID: 55e8e940-81bb-4c14-9e03-e5f20e8eb295
+[107] ASSISTANT - Bubble ID: 7a271615-b511-4bd5-80c3-3a5e077df0de
+[108] ASSISTANT - Bubble ID: 05337b59-8331-4f18-a618-f7741d75a169
+[109] ASSISTANT - Bubble ID: 918512c4-1db2-4b86-9e8e-a4f6235fbb46
+[110] ASSISTANT - Bubble ID: 2376f8c1-72e8-4f78-b582-2bfa032d3538
+[111] ASSISTANT - Bubble ID: cd5bfdb3-a75c-4053-9b19-703b0f0dcbd7
+[112] ASSISTANT - Bubble ID: 93100d66-c91f-4228-8437-0fba4e248ef7
+[113] ASSISTANT - Bubble ID: 5e36d744-170c-4a9c-b7bf-9971b218d3bf
+[114] ASSISTANT - Bubble ID: 29e0662c-4440-4934-9a5c-cb9edd97f7da
+[115] ASSISTANT - Bubble ID: a6c7ba31-6ac8-4123-a5e6-e40c806fda83
+[116] ASSISTANT - Bubble ID: 9f467cf4-1980-4c1e-9a5c-de4a5fd25722
+[117] ASSISTANT - Bubble ID: de4d28a9-e3ce-4923-998b-d0380eeb000a
+[118] ASSISTANT - Bubble ID: 79244a5c-01b7-41db-b839-4a04a33cfc65
+[119] ASSISTANT - Bubble ID: afcd8429-39bc-4973-a57d-1d8a218caa8c
+[120] ASSISTANT - Bubble ID: c19dfea5-8e96-4ad2-bc27-89785d887bae
+[121] ASSISTANT - Bubble ID: 439fe217-bc9a-49d2-966d-f9c9cce977bb
+[122] ASSISTANT - Bubble ID: ffa3237a-ddf5-430c-a0fb-04c58c4cce67
+[123] USER - Bubble ID: d9a01674-d772-46e3-9e2e-b10e1d813852
+[124] ASSISTANT - Bubble ID: f22210a8-27d2-4b3f-8a51-883fec1e7557
+[125] ASSISTANT - Bubble ID: 7c953467-06c6-4d0b-b5e0-197621022604
+[126] USER - Bubble ID: b33e11d0-06cf-4ea5-a11e-f956d4a4279c
+[127] ASSISTANT - Bubble ID: dd7eae4b-3a79-40a9-8fc6-02695903a9ad
+[128] ASSISTANT - Bubble ID: 4fc9a312-bd18-47e9-9020-39be09d21c83
+[129] ASSISTANT - Bubble ID: 9e0134ef-ab2b-432c-9582-5b244bacbae8
+[130] ASSISTANT - Bubble ID: b88b4982-88c7-4290-a729-a97a97a0d27d
+[131] ASSISTANT - Bubble ID: 8251d6a1-5f58-4646-b676-8a929683c413
+[132] ASSISTANT - Bubble ID: 305c81bd-70b6-45bf-a6cc-2344f722cf1e
+[133] ASSISTANT - Bubble ID: 7efbf575-e696-4e7b-81be-1d02add503f0
+[134] ASSISTANT - Bubble ID: 9da15f23-c048-4a03-8355-5b02b5bbc14b
+[135] ASSISTANT - Bubble ID: 3f8efe80-f859-4730-b050-130231043c75
+[136] ASSISTANT - Bubble ID: c703b71b-35e1-4bd9-910b-4b720ad695fd
+[137] ASSISTANT - Bubble ID: 1a34a830-acd4-4d6c-a9c6-aeadb4395026
+[138] ASSISTANT - Bubble ID: 08a6c7ea-3e7a-4f67-8d4a-8c27c4e3e0fa
+[139] ASSISTANT - Bubble ID: 1b988db2-8386-41d9-bf6f-7a1ab14f4330
+[140] ASSISTANT - Bubble ID: 0f535a06-b4d9-4c9d-bc4f-7da71511f46b
+[141] ASSISTANT - Bubble ID: b0645d5a-af9b-4fe5-8c5c-acd39915f0e3
+[142] ASSISTANT - Bubble ID: b29acd8f-1463-405d-969c-0a713c1d8a3d
+[143] ASSISTANT - Bubble ID: d19c960d-d744-4a91-8ce5-eaba22e5b42a
+[144] ASSISTANT - Bubble ID: efb09dfe-1b50-4619-ad69-092f90329a1c
+[145] ASSISTANT - Bubble ID: 8ea72382-60d0-45f6-b64d-b7c3809c1a1a
+[146] ASSISTANT - Bubble ID: 2f4e80ef-4a9a-4618-bfcd-5b9e90613c74
+[147] ASSISTANT - Bubble ID: 75b1a2b0-cb5a-4d81-a40f-2e1b9f1bbfaa
+[148] ASSISTANT - Bubble ID: d3818b0e-0b26-401b-ba89-0611cd946f5d
+[149] ASSISTANT - Bubble ID: 27ee227d-e4e1-4ce2-a055-fc81e2976b56
+[150] USER - Bubble ID: 8b6665de-c7f5-476a-ad11-e68466d758b0
+[151] ASSISTANT - Bubble ID: 180da1e5-e8e5-42f8-90cd-fe18e153ff48
+[152] ASSISTANT - Bubble ID: d065634f-c0a2-4866-b0e4-9137ca5e894e
+[153] ASSISTANT - Bubble ID: dd576540-5d58-4cfc-8df6-00f28bad96ce
+[154] ASSISTANT - Bubble ID: 764da9cd-fd3e-4c20-9c36-83eabafef0ed
+[155] ASSISTANT - Bubble ID: 34fa76ae-a8f7-4daa-a1bd-de7265a984e8
+[156] ASSISTANT - Bubble ID: bf953d1b-a50c-48da-9d8e-3d6ec89843f1
+[157] ASSISTANT - Bubble ID: 83b8f87e-f86b-42d9-a463-44c48655c3ca
+[158] ASSISTANT - Bubble ID: 9aefd526-c689-442c-ab3a-4f1be085d8e5
+[159] ASSISTANT - Bubble ID: 7347253f-43da-457f-8089-db2602d1118d
+[160] ASSISTANT - Bubble ID: afcf2f83-f3b8-410e-a9f4-513a15093620
+[161] ASSISTANT - Bubble ID: c8fe773e-5568-4d39-8e5c-1cd289f65b98
+[162] USER - Bubble ID: d4a108aa-66bd-40d3-a223-1df5974298d1
+[163] ASSISTANT - Bubble ID: 5b5a7b25-7fa8-4156-bd03-a01a0681567a
+[164] ASSISTANT - Bubble ID: d4db0a35-d2a4-4a66-b762-ff647ddd5314
+[165] ASSISTANT - Bubble ID: 9ebf971b-a7a6-436c-8da0-32b099d8798e
+[166] ASSISTANT - Bubble ID: 356bd544-ff97-4d48-83c9-aabc99ef1ad7
+[167] ASSISTANT - Bubble ID: 40565747-cc32-47b6-9207-98cbb0e702d0
+[168] ASSISTANT - Bubble ID: d89ba68a-77bf-4e1b-8076-c8a67475a106
+[169] ASSISTANT - Bubble ID: f8256adc-9ace-43dd-a3da-b371be62b6fa
+[170] ASSISTANT - Bubble ID: 40441534-e535-4b73-aa80-0c58d6f488c6
+[171] ASSISTANT - Bubble ID: e3c24601-d1eb-4663-b194-faa943ce4ae6
+[172] ASSISTANT - Bubble ID: 7d895a91-09d5-4fe1-817b-3a9be69131c8
+[173] ASSISTANT - Bubble ID: 9a51aa8c-7e6e-4fcf-98fb-d9251404e544
+[174] ASSISTANT - Bubble ID: dbf853a5-893e-417d-a6e7-42cb2ea7f5b4
+[175] ASSISTANT - Bubble ID: 7497cb8e-0ae2-42aa-b507-c4834c53306e
+[176] ASSISTANT - Bubble ID: 0ffdcaba-877d-4950-82f3-5904465fb8b8
+[177] ASSISTANT - Bubble ID: 8387814f-b1fd-4a4e-9032-ad6700918799
+[178] ASSISTANT - Bubble ID: 63d05b60-11e4-418b-bc09-8424c3f58bb3
+[179] USER - Bubble ID: 8e1bd5b5-9fb0-4993-abd7-d1d98b09aa9e
+[180] ASSISTANT - Bubble ID: cc3b46d1-a821-4bbb-8caf-9f237a8975f0
+[181] ASSISTANT - Bubble ID: d65edce2-b315-4ad6-ac5f-8ad8b637b26c
+[182] ASSISTANT - Bubble ID: 59ce92ea-f1ca-4c06-a75c-744b7fd4fdde
+[183] ASSISTANT - Bubble ID: 95056f6b-e8f4-4a70-972f-b2f91387391c
+[184] ASSISTANT - Bubble ID: 4437a787-c5ee-4e96-97a4-f62846722305
+[185] ASSISTANT - Bubble ID: 36eca00a-e018-4547-bc9a-276cd177c6a4
+[186] ASSISTANT - Bubble ID: ec597f0f-25dc-4a23-9b68-7efa80580410
+[187] ASSISTANT - Bubble ID: ec797d3d-691c-4a30-875d-d951da7117ea
+[188] ASSISTANT - Bubble ID: 7f06d553-5f18-4cb5-b9d1-4c1c781c04ce
+[189] ASSISTANT - Bubble ID: 21453f6b-52ca-408c-b082-526ddfa18454
+[190] ASSISTANT - Bubble ID: f2ca7a9e-48bd-4d8e-b125-499fb892d751
+[191] ASSISTANT - Bubble ID: f49215c6-11ec-44f0-8b48-f4f17059a25d
+[192] ASSISTANT - Bubble ID: 97b8d0e4-98df-43dd-8398-5df75abd0f4c
+[193] ASSISTANT - Bubble ID: 32b377e4-c9c2-4af3-b749-ba66739269fa
+[194] ASSISTANT - Bubble ID: 25c304a0-730a-4d2d-97ac-2319ee3fd0d5
+[195] ASSISTANT - Bubble ID: 2415ded8-aeb3-44ce-a2a0-60b62d3dc840
+[196] ASSISTANT - Bubble ID: e72edfad-e447-481b-9167-15e28ad55484
+[197] ASSISTANT - Bubble ID: 86fe16d6-9ee6-4e18-930e-b4ea2e25ea4e
+[198] ASSISTANT - Bubble ID: 58328fa8-f4cb-4e2a-99f5-1953d6eaa695
+[199] ASSISTANT - Bubble ID: d3c37077-be00-4b7b-bb1f-87a29c9ee9a0
+[200] USER - Bubble ID: 3d1851fa-a0ab-40e2-a948-98993591e5c6
+[201] ASSISTANT - Bubble ID: edac7fe9-d03a-4361-b0f7-6bac8a2ea276
+[202] ASSISTANT - Bubble ID: bc6d50fc-4c51-4d5b-ad37-6a96f70eed86
+[203] ASSISTANT - Bubble ID: df2b2ab0-9407-4faf-9ee0-e57bf78f58d0
+[204] ASSISTANT - Bubble ID: e6d66597-fec8-4c8c-bfda-8c988c582e76
+[205] ASSISTANT - Bubble ID: f62d35aa-14df-4c57-a417-d4d570605ef0
+[206] ASSISTANT - Bubble ID: 08aaeaed-0fbf-4311-8be5-fe3259945cb1
+[207] ASSISTANT - Bubble ID: be346396-e4f1-4ee6-9662-f16ff4db9978
+[208] ASSISTANT - Bubble ID: 4bf4ce3d-5f1e-4d4f-8858-c0ca090560e2
+[209] ASSISTANT - Bubble ID: 648b7321-9722-42cb-8fd0-1f198f8922f1
+[210] ASSISTANT - Bubble ID: f2b1e9e0-04ac-4a45-8c1e-e807f5c898f7
+[211] ASSISTANT - Bubble ID: 2a251caf-5baf-445b-902f-45647f9f054e
+[212] ASSISTANT - Bubble ID: 9ed87d9a-fe58-4474-93b4-6671abfed6b0
+[213] ASSISTANT - Bubble ID: 8fc9612b-d552-454c-b152-eb55f5b83af5
+[214] ASSISTANT - Bubble ID: b2dcce69-9b30-48f8-848d-e5bc094df111
+[215] ASSISTANT - Bubble ID: 20985ce4-45c2-4751-81d1-c9b23899bd7c
+[216] ASSISTANT - Bubble ID: 0bf2bbd0-25f5-4ad8-a534-1093d4b88509
+[217] ASSISTANT - Bubble ID: c67037fe-ac71-4524-a986-3415bc8366e2
+[218] ASSISTANT - Bubble ID: dc16f57e-139c-48f9-a858-56724b1914cb
+[219] ASSISTANT - Bubble ID: b860dd22-1b23-4292-aee7-e3c5ff99d49d
+[220] ASSISTANT - Bubble ID: 1e1cd6da-1d69-4a60-a7cd-30fcb095331d
+[221] ASSISTANT - Bubble ID: 043dae5a-e47e-47e2-85f0-3d4337d5548e
+[222] ASSISTANT - Bubble ID: 50f2cbe2-ed02-4cbd-943f-897d9956e802
+[223] ASSISTANT - Bubble ID: 0b28bd73-cf68-4b20-8c8c-460f6f70c043
+[224] ASSISTANT - Bubble ID: 9fb98b72-330b-4e9d-85b9-a7859b2dd44e
+[225] ASSISTANT - Bubble ID: 9a2af939-309d-4ebd-bdc1-e9eeb5d28978
+[226] ASSISTANT - Bubble ID: 1b3c50ab-00b0-4b0d-ad0a-ed4423f04540
+[227] ASSISTANT - Bubble ID: bc1f5ab8-1159-4a86-bd0e-def1b39711d1
+[228] ASSISTANT - Bubble ID: 06af745e-c5e1-46dc-b343-12359356e9e7
+[229] ASSISTANT - Bubble ID: 5879419d-f366-46f4-a2b4-63d42d0ba93b
+[230] ASSISTANT - Bubble ID: 0c139ad3-09a8-4e62-8e59-18edf388f06b
+[231] ASSISTANT - Bubble ID: cd777dc5-79b1-40e7-b8df-9d382f03ac57
+[232] USER - Bubble ID: 40fef791-8ddf-47bf-b222-7abdbb814c57
+[233] ASSISTANT - Bubble ID: 6baf44e0-e25c-4f54-a86f-70bd5564e00f
+[234] ASSISTANT - Bubble ID: e70e2206-e6e4-4b02-b282-ba68ed8f6de4
+[235] ASSISTANT - Bubble ID: cf214773-9652-4e82-877a-5dabac5b2ff8
+[236] ASSISTANT - Bubble ID: 445b9885-81db-4d70-b5a2-edca94cd61f5
+[237] ASSISTANT - Bubble ID: c91f2dcf-d15f-4556-920f-7de4e1787e21
+[238] ASSISTANT - Bubble ID: c3df3522-70bd-4a37-b61b-179fe21f8c89
+[239] ASSISTANT - Bubble ID: 14aca613-a199-4c0e-87f7-5479c5c28f6c
+[240] ASSISTANT - Bubble ID: dd61a6bf-7269-48bc-915f-47891a54968c
+[241] ASSISTANT - Bubble ID: 88ffcfa7-a987-4b50-bafc-f316218be804
+[242] ASSISTANT - Bubble ID: 30b197b8-0fc9-41eb-b34b-e7f492e86607
+[243] ASSISTANT - Bubble ID: 65d4a7dd-24cf-4c2c-800e-8e84c5e6dbea
+[244] ASSISTANT - Bubble ID: a8790774-0631-4dc5-9c1f-92c97eddf94f
+[245] ASSISTANT - Bubble ID: 2cedc6cb-af30-432d-ac2a-37ee9138c395
+[246] ASSISTANT - Bubble ID: 5eff89e7-6a45-4558-890d-ba7a37a18339
+[247] ASSISTANT - Bubble ID: d589edbe-f079-4e5b-a053-dc4f59c72bf6
+[248] ASSISTANT - Bubble ID: 6523499d-0abd-4822-9171-8dfe43374e1d
+[249] ASSISTANT - Bubble ID: 2771cfdc-f837-4881-937f-0be87ae8b89c
+[250] ASSISTANT - Bubble ID: 3149532a-7972-4e43-986a-44f0b20184bc
+[251] ASSISTANT - Bubble ID: adb7598b-2815-4c4d-82a6-bb1e6561c10c
+[252] ASSISTANT - Bubble ID: 13055283-88e4-4ac8-904c-1f71a16d03db
+[253] ASSISTANT - Bubble ID: ac8e14a7-37ac-4beb-9461-b710e93cc9b0
+[254] ASSISTANT - Bubble ID: 9f935924-2bc7-4721-9e73-902337fef6fa
+[255] ASSISTANT - Bubble ID: 6b985723-e9a6-499c-8341-d79a2c9b5429
+[256] ASSISTANT - Bubble ID: c9d1e6f0-dc10-49c9-87a2-ac7695119770
+[257] ASSISTANT - Bubble ID: 4ada5b30-8e3b-441c-9cd3-e2487a2523da
+[258] ASSISTANT - Bubble ID: 0060434c-f2ef-4284-a60e-4de4b7b59eec
+[259] ASSISTANT - Bubble ID: cbd5b284-7167-45ab-a5b7-9742535e0d98
+[260] ASSISTANT - Bubble ID: 03b96414-b737-45c9-9f83-41995417c069
+[261] ASSISTANT - Bubble ID: 834f8c4a-b11e-474d-b486-619ce2c0e85a
+[262] ASSISTANT - Bubble ID: 54345498-cf82-4d70-a021-28af583c724b
+[263] ASSISTANT - Bubble ID: aaf21db4-56a9-49b1-b913-1efbb3ebda52
+[264] ASSISTANT - Bubble ID: fa24444d-0eae-488d-9fb7-0acbf483cd82
+[265] ASSISTANT - Bubble ID: 6504af21-9493-4eea-8f43-45af187faa7c
+[266] ASSISTANT - Bubble ID: 04769e74-2e9c-4082-bb02-a5a369d1f7c1
+[267] ASSISTANT - Bubble ID: b6066e1f-781f-4810-862b-b502c07ca93d
+[268] ASSISTANT - Bubble ID: 7f530bb7-8728-4ce6-a83e-904d38157fd3
+[269] ASSISTANT - Bubble ID: 41d6eecf-a9dd-472e-a5f1-1c84231afa04
+[270] ASSISTANT - Bubble ID: 799e2b9f-8db0-4f03-935e-60e7743d8c03
+[271] ASSISTANT - Bubble ID: f2e22322-14c2-432d-aa62-31778ecaa83f
+[272] ASSISTANT - Bubble ID: d0378144-1b88-43e8-9ce5-52f0322b0df2
+[273] ASSISTANT - Bubble ID: 0a9c1168-9efb-4a71-8efe-d01fb4405509
+[274] ASSISTANT - Bubble ID: bc844c8b-fc8b-48dd-ba2a-f6dd865bbfd6
+[275] ASSISTANT - Bubble ID: b7d1d04d-c208-4a81-8b45-c2a0fdf0cef0
+[276] ASSISTANT - Bubble ID: eb24e05b-0265-4eed-baf1-fb67a4e2bc09
+[277] USER - Bubble ID: 230ded26-9ef7-4838-a65b-812ed8e6574b
+[278] ASSISTANT - Bubble ID: 0fd8eef7-e61d-4081-945b-3ab1b36827b4
+[279] ASSISTANT - Bubble ID: eeba048a-37e3-49c5-af9b-d69118b4d778
+[280] ASSISTANT - Bubble ID: beb8811e-4981-4ed3-b87f-1cdcf4e7349a
+[281] ASSISTANT - Bubble ID: 21be3dc7-b831-41ed-aa42-3c117d6ab723
+[282] ASSISTANT - Bubble ID: aa87f2c3-70c4-4a7d-8a7f-59a71ea75242
+[283] ASSISTANT - Bubble ID: df9525d2-7ea3-47a4-b12d-4bed56375a1a
+[284] ASSISTANT - Bubble ID: bdc854d6-cf1c-41e2-9904-30ae1a467768
+[285] ASSISTANT - Bubble ID: 26adc855-f832-4cfd-8ba5-8d7fed353228
+[286] ASSISTANT - Bubble ID: 628e7078-71aa-4e5b-bad2-da13996211f9
+[287] ASSISTANT - Bubble ID: 8eb71285-e225-4394-ac0e-2ff8607f8d08
+[288] ASSISTANT - Bubble ID: 3e0a4896-2821-4bb1-8aee-7c1021020b6f
+[289] ASSISTANT - Bubble ID: 36f8d18e-9529-44f0-b5f7-05289eedceac
+[290] ASSISTANT - Bubble ID: 7afc3da6-a24a-4013-8fd4-6fec896b81b2
+[291] ASSISTANT - Bubble ID: 7774e59c-325c-4491-a40b-055e84c7ccda
+[292] ASSISTANT - Bubble ID: ab5a97b0-a17b-4675-9584-2e0c5a6a45ba
+[293] ASSISTANT - Bubble ID: 5bed9221-adac-495f-8ef0-fb1ed7d2e3dc
+[294] ASSISTANT - Bubble ID: a6ce8de4-343a-4f28-a7d8-48032c8c8d8b
+[295] ASSISTANT - Bubble ID: 525b4def-bb49-43de-8298-f9af0fe672a7
+[296] ASSISTANT - Bubble ID: 6480898a-e311-4827-b295-58894b8258dd
+[297] ASSISTANT - Bubble ID: 4fb2c5b7-76f4-45f6-a19a-d01d56741038
+[298] ASSISTANT - Bubble ID: 0a9e1077-8ac8-40b3-b20a-ed54a8f2174a
+[299] ASSISTANT - Bubble ID: 58b3cfb6-e360-46df-a473-bc2f0a5efcb4
+[300] ASSISTANT - Bubble ID: 6e16b648-d5f8-4c1b-9422-a608d2650750
+[301] ASSISTANT - Bubble ID: 14c439e5-66c7-405c-9361-7c3ca921baaf
+[302] ASSISTANT - Bubble ID: 80322c12-b146-41cc-8f75-24e686d4129b
+[303] ASSISTANT - Bubble ID: 29533090-89f8-4c60-a802-a128630e5a26
+[304] ASSISTANT - Bubble ID: 1a3283af-990f-4d9a-b8c1-a5457f1a78f7
+[305] ASSISTANT - Bubble ID: 7174e1fc-1d4e-479f-9bb6-ee81b2091a32
+[306] USER - Bubble ID: 1a2b5ffd-bd36-41b5-81e6-eac1c8103d79
+[307] ASSISTANT - Bubble ID: 623039a9-240e-4743-9500-91f11956d47a
+[308] ASSISTANT - Bubble ID: 2aa59182-5d4f-402e-81af-35dca757c506
+[309] ASSISTANT - Bubble ID: 87743944-243e-44f5-a302-01fbedb340e4
+[310] ASSISTANT - Bubble ID: 45932515-08e1-4ef7-8ce8-89a89101aab3
+[311] ASSISTANT - Bubble ID: 837632f2-5e73-425c-ab4a-096ac1a0701c
+[312] ASSISTANT - Bubble ID: 6f1a488d-2261-42db-840e-80206f988d72
+[313] ASSISTANT - Bubble ID: d2873240-64f3-4cf6-b0f6-7d5252b3206a
+[314] ASSISTANT - Bubble ID: db51a0e6-9946-4410-94ba-7cb93de8dccb
+[315] ASSISTANT - Bubble ID: 8a33c2a3-f20f-4f0e-bc8e-9284503f25d3
+[316] ASSISTANT - Bubble ID: 6da18125-f482-4bc1-b92b-b984f2c52dad
+[317] ASSISTANT - Bubble ID: 3a7e4df5-f317-464b-928a-6174a8b56fd5
+[318] ASSISTANT - Bubble ID: d147d376-570c-4d75-a9d1-762b58da8414
+[319] ASSISTANT - Bubble ID: 17935410-0503-4f68-82a9-800dfb7a2245
+[320] ASSISTANT - Bubble ID: 0ee6fc33-1610-43d0-9462-e0e58472d727
+[321] ASSISTANT - Bubble ID: 1ee27bd4-1e63-4a7e-8ac5-89597fc3ffbb
+[322] USER - Bubble ID: 52f7b166-af33-476c-9e11-66bb6328832d
+[323] ASSISTANT - Bubble ID: 4c550dd4-a4d9-4247-9f57-9baba0f6f207
+[324] ASSISTANT - Bubble ID: 613f06b5-c785-4a63-a235-41f63bdb2b0d
+[325] ASSISTANT - Bubble ID: 6c287215-5278-4a3e-80e2-a55c32839d1c
+[326] ASSISTANT - Bubble ID: 8c0f9e5e-95b3-4907-89f7-4c3eabbf958f
+[327] ASSISTANT - Bubble ID: 20aebf8c-6e99-4e7c-827a-167728b8aa79
+[328] ASSISTANT - Bubble ID: 0bb5cfb3-d347-4a61-b50d-2d038a80ca4f
+[329] ASSISTANT - Bubble ID: d86e64f8-c699-49cc-8c3b-e38f44587a14
+[330] ASSISTANT - Bubble ID: a5bfe02f-e3bc-41dd-af93-5fc95a9af57c
+[331] ASSISTANT - Bubble ID: 20976f2d-8625-47ee-bc2a-d1fa3bc551d4
+[332] ASSISTANT - Bubble ID: 61bf9549-49ce-481b-b587-fb33b7d855b9
+[333] ASSISTANT - Bubble ID: fdc52359-95ec-4b4c-9043-5f0be96ea837
+[334] ASSISTANT - Bubble ID: f14c8cd1-4ff5-4eff-b137-159ea0da941e
+[335] ASSISTANT - Bubble ID: dc1e1d49-fab7-40cc-b34e-c91670467d58
+[336] ASSISTANT - Bubble ID: 7a9b1844-2a17-4f21-ab17-2e6ead65474a
+[337] ASSISTANT - Bubble ID: 2b2c5e80-7bb4-4d81-b69d-7b27ce3b4072
+[338] ASSISTANT - Bubble ID: 2dc9a2de-dc87-4991-b471-523cda486dd4
+[339] ASSISTANT - Bubble ID: bab6b7f6-26a1-40d3-ab66-1385e891a8c4
+[340] ASSISTANT - Bubble ID: 4e6ac061-8f88-495e-8c74-f416728a6065
+[341] ASSISTANT - Bubble ID: fc93bed2-645c-4f39-b0ee-7d909b76de7a
+[342] ASSISTANT - Bubble ID: 015ddea9-1a61-4b4a-950b-f0a16ff74699
+[343] USER - Bubble ID: c6cce0ee-be08-4530-a0dc-cf88791132e1
+[344] ASSISTANT - Bubble ID: 4db55c9e-1dd5-4039-8e69-1c9a5f647167
+[345] ASSISTANT - Bubble ID: 0c7b2a82-da2f-4dff-8431-7f4f76e15340
+[346] ASSISTANT - Bubble ID: e4fcfde7-1531-4ae3-abf5-dc90d43fec88
+[347] ASSISTANT - Bubble ID: 4d256494-de2c-4678-827c-1d4583552b37
+[348] ASSISTANT - Bubble ID: 15000170-8aca-4d92-9375-f3a730a44a36
+[349] ASSISTANT - Bubble ID: 5d0f5702-1c54-4778-9ade-001d31111615
+[350] ASSISTANT - Bubble ID: d1111ee7-319b-467e-818c-7f8f71cd6f1b
+[351] ASSISTANT - Bubble ID: 86b9024e-1777-4831-b66a-717a8c0e37bb
+[352] ASSISTANT - Bubble ID: e4b04255-27ca-4d08-8139-f66c04cc392f
+[353] ASSISTANT - Bubble ID: ab66c150-ae0d-434b-b9e6-b4011162696b
+[354] ASSISTANT - Bubble ID: 9949524d-7dc4-43c1-88d5-53c20c93398f
+[355] ASSISTANT - Bubble ID: 9525066a-0523-4b87-b2bc-efb0d6f8e24c
+[356] ASSISTANT - Bubble ID: f27592cd-7dca-440e-ab70-f6dbb4d3673f
+[357] ASSISTANT - Bubble ID: eb7400aa-47da-4366-9410-8cda860fbdf7
+[358] ASSISTANT - Bubble ID: 50009342-bbf1-42bc-88a9-44d7556f3bd8
+[359] ASSISTANT - Bubble ID: cf33948d-05ef-442e-a5ed-1d087c244ef7
+[360] ASSISTANT - Bubble ID: 4c4b7a5a-50e7-444f-a869-f8cead1ebca9
+[361] ASSISTANT - Bubble ID: e2355b0e-7394-4e93-9d0a-a702c6c71059
+[362] ASSISTANT - Bubble ID: 944c0d27-2365-4275-a04b-5eec27e054ac
+[363] ASSISTANT - Bubble ID: 4b881c7f-b5d2-4d22-a130-cede42b22fd6
+[364] ASSISTANT - Bubble ID: 2d4c98b5-522a-4813-85fd-92a692599019
+[365] ASSISTANT - Bubble ID: 0c9d2723-2d68-49f4-bb89-16d33b9aa66e
+[366] ASSISTANT - Bubble ID: 9043341f-ebc8-4754-ac23-5cc2d281dec8
+[367] ASSISTANT - Bubble ID: 3d3c2f7c-2af4-472e-a459-3dd7917dfc8c
+[368] ASSISTANT - Bubble ID: 3ec218cb-24aa-4ade-bd25-01ab19d61b5d
+[369] ASSISTANT - Bubble ID: 5f541af5-bde0-42bb-b591-dead4bbe49e7
+[370] ASSISTANT - Bubble ID: 23365aac-7452-4563-ae48-b46fe77d06f7
+[371] ASSISTANT - Bubble ID: a295ca62-b24d-4022-962b-5bd94e085eee
+[372] ASSISTANT - Bubble ID: ed9bb8db-8904-4278-aeaa-e08f07a370c0
+[373] ASSISTANT - Bubble ID: 3e347aa2-53b3-445d-9a41-a1f025f9395a
+[374] ASSISTANT - Bubble ID: 30d755cb-1ca9-4b86-9c9d-6f9407ffd003
+[375] ASSISTANT - Bubble ID: cd4df36c-0db0-45bf-86bf-3126ebcfe994
+[376] ASSISTANT - Bubble ID: 5f9b5e84-915a-4b42-b7e4-2746ad896b67
+[377] ASSISTANT - Bubble ID: b0adcdfe-0f1d-4f53-89d0-5ae4952e5d16
+[378] ASSISTANT - Bubble ID: 8f855956-7c93-4733-b7ba-e79eab197468
+[379] ASSISTANT - Bubble ID: ac57966a-bb53-4beb-96bb-8a8f1306b557
+[380] ASSISTANT - Bubble ID: afd91483-2eaa-4542-8904-1bedc8089190
+[381] ASSISTANT - Bubble ID: 12cc641c-eb0f-4168-a923-d6d17e049803
+[382] ASSISTANT - Bubble ID: 9a15919e-109a-44ad-b0e8-fb20efd39411
+[383] ASSISTANT - Bubble ID: 3c608e91-2846-48f7-b786-ac96a9106590
+[384] USER - Bubble ID: 923449b1-a1d9-4650-9d90-317364e5c64b
+[385] ASSISTANT - Bubble ID: 4c2242e4-3344-4f96-863a-3232085a72ba
+[386] ASSISTANT - Bubble ID: c55c0a59-a118-472f-99a4-ad728a08de17
+[387] ASSISTANT - Bubble ID: 745d9050-2866-4d29-9594-7a826e745e5e
+[388] ASSISTANT - Bubble ID: 073c4839-a731-4879-bf29-0392667f8ceb
+[389] ASSISTANT - Bubble ID: 26e1eeb9-e757-4f03-b116-5c3785305bdd
+[390] ASSISTANT - Bubble ID: 89c4bc1f-a0c3-4ffd-bb5b-c8dbb2576e63
+[391] ASSISTANT - Bubble ID: 9f1a0012-406a-48ec-824f-d7c2d108cd8b
+[392] ASSISTANT - Bubble ID: 1fcbf00d-e897-4b5a-945c-3a27284a7fd0
+[393] ASSISTANT - Bubble ID: eaf285f6-ed2a-4ea9-9cfd-644f000ce6f4
+[394] ASSISTANT - Bubble ID: a8847883-4899-4cfb-b751-05df15f05543
+[395] ASSISTANT - Bubble ID: e8d7ce02-4e21-46a7-8ad5-84411f3dd453
+[396] ASSISTANT - Bubble ID: 62e697f2-3c5e-48e5-b0b9-448f273f1328
+[397] ASSISTANT - Bubble ID: 6c443355-96aa-4e6a-b797-acdbbf378582
+[398] ASSISTANT - Bubble ID: 7df65d78-f42c-4a63-87ad-c73b3befbc36
+[399] ASSISTANT - Bubble ID: dd94039f-0948-4d4f-a07d-3724c6e5c4b3
+[400] ASSISTANT - Bubble ID: 7354b1d8-ab16-41eb-8875-7d8910898868
+[401] ASSISTANT - Bubble ID: 274775dd-e6af-4caa-a5d6-1d226473cf1f
+[402] ASSISTANT - Bubble ID: d8b257d2-b974-4bd9-8285-a611274e42a5
+[403] ASSISTANT - Bubble ID: 977c0e5b-83cf-4830-98ac-188e6315b4ac
+[404] ASSISTANT - Bubble ID: 88504461-eac7-421e-aa12-8e52dcda99c9
+[405] ASSISTANT - Bubble ID: cca813cf-c294-4a38-90c1-8dede038441a
+[406] ASSISTANT - Bubble ID: 516b53ac-3cf4-4d54-bcf6-b558b3a76c0c
+[407] ASSISTANT - Bubble ID: 940d94fc-715c-43c5-ac5f-75d1ee533554
+[408] ASSISTANT - Bubble ID: b1b5eadf-db53-4c55-80c4-79c495692d1f
+[409] ASSISTANT - Bubble ID: 4b228703-1d73-4bef-a397-c458f24a4fc3
+[410] ASSISTANT - Bubble ID: f2f21950-9fa9-4589-9f1e-e9c22ad19ab5
+[411] ASSISTANT - Bubble ID: 228130ba-1dbe-4fe8-bb58-57aad7c52658
+[412] ASSISTANT - Bubble ID: 9f21eb9b-842e-42fe-8dd6-f93c39bb6ef9
+[413] ASSISTANT - Bubble ID: fb68fb15-5ff8-4647-bc29-994e9fd14835
+[414] ASSISTANT - Bubble ID: 18fcb9ab-32ec-4f14-a95e-e4bc8239ff43
+[415] ASSISTANT - Bubble ID: 48830c8d-401d-46c4-bfa2-20a766f9e7bb
+[416] USER - Bubble ID: 6d122ca7-cac1-4288-ad5e-109dd8f1fce8
+[417] ASSISTANT - Bubble ID: 9f9e30c0-d831-474b-8cf0-e4da82e13726
+[418] ASSISTANT - Bubble ID: 8eefc924-2e0f-49a9-9b5f-b39f28ad68a5
+[419] ASSISTANT - Bubble ID: 3849547a-bff7-4f8f-ba58-cef0f0e1a4d1
+[420] ASSISTANT - Bubble ID: 17bfc106-6179-49ee-9a0c-4c9581fd36e0
+[421] ASSISTANT - Bubble ID: f31d7f52-09d2-4a8c-9c79-e40cd087da3b
+[422] ASSISTANT - Bubble ID: 499cfbaf-e63e-4cde-91e6-de6793d3293a
+[423] ASSISTANT - Bubble ID: e370f560-a588-4694-a2cf-57dac00142a4
+[424] ASSISTANT - Bubble ID: dea70ea4-0a2e-43bd-805c-ef6055aefea4
+[425] USER - Bubble ID: b32b0c52-b0f2-40fc-8af6-9243723ef08b
+[426] ASSISTANT - Bubble ID: 04ddf36c-88b7-42c7-94c9-54958f7876d1
+[427] ASSISTANT - Bubble ID: b1930329-6e15-45d9-b6d8-2b52044f775f
+[428] USER - Bubble ID: 7f9a2d29-28dc-4419-90aa-35390c33dbe6
+[429] ASSISTANT - Bubble ID: 4a70873e-61ea-4aed-a2f0-5b0176e6d26d
+[430] ASSISTANT - Bubble ID: 8e6bf1ab-e780-40fc-b3e2-308953d10e66
+[431] ASSISTANT - Bubble ID: b24cfc84-b3e5-4adf-987b-16593acb0028
+[432] ASSISTANT - Bubble ID: 275d00c1-c1e0-4b39-8df4-3afa75e00fc7
+[433] ASSISTANT - Bubble ID: 4fb0ede9-bef5-4c46-bb32-2378f599635d
+[434] ASSISTANT - Bubble ID: 57c93e16-d121-452a-bcda-b0908ffdeed6
+[435] ASSISTANT - Bubble ID: 283e03a5-a2ca-4eb6-82d9-a7794fcf8e6f
+[436] ASSISTANT - Bubble ID: 45083520-d880-4a6a-bf91-d213c34dff12
+[437] ASSISTANT - Bubble ID: 7a532831-5f2a-4344-b5e0-1103805297be
+[438] ASSISTANT - Bubble ID: 2e932aea-361a-4377-874a-f155d1c1ec27
+[439] USER - Bubble ID: 123324b7-ef75-4177-8ace-9298c8ec93b5
+[440] ASSISTANT - Bubble ID: d29607be-c77e-476c-9fea-4d44662471a2
+[441] ASSISTANT - Bubble ID: c5fd2a6f-17a9-4f0d-aa85-8f4216c12cd4
+[442] ASSISTANT - Bubble ID: 78929dfb-dd33-47c3-aaff-a25ce0c706b6
+[443] ASSISTANT - Bubble ID: bad8e8ad-9dd8-4239-a122-afa35e7588a3
+[444] ASSISTANT - Bubble ID: 74cbfb6e-be7c-4fd3-b107-2ec6f0871833
+[445] ASSISTANT - Bubble ID: 36d3d7cf-c205-47ad-aaaf-af59e4391dd9
+[446] ASSISTANT - Bubble ID: 023330f0-be6f-452d-8656-e9c1ad69cedb
+[447] ASSISTANT - Bubble ID: 6717c782-cc09-4457-a5ca-410cb8dbd1df
+[448] USER - Bubble ID: bc718053-dabb-4e02-9691-e3ff55da4989
+[449] ASSISTANT - Bubble ID: 0840d892-b2d8-40bb-87d2-caf0002749b9
+[450] ASSISTANT - Bubble ID: 0079af86-749d-4a4d-863a-f997b0740d27
+[451] ASSISTANT - Bubble ID: 59f9676f-2c2e-466a-a86b-9ddf5733a59a
+[452] ASSISTANT - Bubble ID: 0ef24d9b-dafa-43be-8e26-cbdda4921e1f
+[453] ASSISTANT - Bubble ID: c2573ba0-a3fe-4bcd-b542-f6193052483f
+[454] ASSISTANT - Bubble ID: 2848cc84-c991-40c5-98d7-e443f4e02a8b
+[455] ASSISTANT - Bubble ID: 4099e956-cd27-4504-80a9-d71101b2a909
+[456] USER - Bubble ID: 75cc07b3-a84c-4208-af48-da7f7a18522c
+[457] ASSISTANT - Bubble ID: 28b18d2d-b1a4-42d5-848d-2d0102703164
+[458] ASSISTANT - Bubble ID: 9d23c819-c9ba-4a7b-8d0b-97bd24cf32ba
+[459] ASSISTANT - Bubble ID: 611df4ef-771f-4ac4-a588-d6db8b26fc70
+[460] ASSISTANT - Bubble ID: df543ec9-6954-44a9-89b6-cba44e38ab44
+[461] ASSISTANT - Bubble ID: 884390d5-47e4-46c5-b447-63f666505b79
+[462] ASSISTANT - Bubble ID: 76af450d-fe85-46d5-b9db-122c8c92a21d
+[463] ASSISTANT - Bubble ID: 931d2043-c0e0-48f7-a459-b3a900c8c689
+[464] ASSISTANT - Bubble ID: 53ea4720-40d4-492e-9e7d-72c254fc9f9e
+[465] ASSISTANT - Bubble ID: 7319f427-19a1-435c-8b3e-3e0a46cebfa7
+[466] ASSISTANT - Bubble ID: d5880221-eecb-411a-bf12-7c43ce3516dc
+[467] ASSISTANT - Bubble ID: d69790ca-6d7e-4e60-8c68-06f1b8392298
+[468] ASSISTANT - Bubble ID: 6cb899be-5519-4219-b52d-0c710bc675bd
+[469] ASSISTANT - Bubble ID: 1d9958f4-c58f-4f6c-8250-084ee0e0615d
+[470] ASSISTANT - Bubble ID: ca6e6e1a-e481-434f-b8e9-e88f91e37e7d
+[471] ASSISTANT - Bubble ID: 54cb4bc2-38c8-4084-b7e1-ddb4d180c2f3
+[472] ASSISTANT - Bubble ID: 926432c1-3b6b-48b8-a59c-c73f0a164e93
+[473] USER - Bubble ID: 88dbf148-2947-4f15-ad82-10f90b7a4460
+[474] ASSISTANT - Bubble ID: f02a3f39-bc25-4c3f-a73a-3a6dffa2e018
+[475] ASSISTANT - Bubble ID: 367000c1-af29-4584-8f90-4626462a0f08
+[476] ASSISTANT - Bubble ID: 976895b8-8f51-4c6b-be94-fce4abddf050
+[477] USER - Bubble ID: 3d37105b-aa61-4db8-b88f-f7576e8e5309
+[478] ASSISTANT - Bubble ID: d33928a9-94f5-4c6f-8652-7d5ee2362c16
+[479] ASSISTANT - Bubble ID: 81de322d-0025-405e-8b5c-93615e86b63a
+[480] ASSISTANT - Bubble ID: 3520bd93-e265-4da4-8123-6779197fc033
+[481] ASSISTANT - Bubble ID: 61b7d0ad-f369-43f7-ba89-7c28bff2e262
+[482] ASSISTANT - Bubble ID: 376a3569-0ef3-4ae6-8d79-f2d6d3d01564
+[483] ASSISTANT - Bubble ID: 95c1dfca-f15b-4e25-81a3-d647d57894e7
+[484] ASSISTANT - Bubble ID: 9109f71f-ff01-4a4a-a3dd-7ef1b9c1a923
+[485] ASSISTANT - Bubble ID: 6d938893-a711-4e61-b34c-595116525e84
+[486] ASSISTANT - Bubble ID: 0a3cfe3d-6d26-428f-a7f1-c26534a176b4
+[487] ASSISTANT - Bubble ID: 83bb6e66-54a0-49d9-ad52-f00240222c36
+[488] ASSISTANT - Bubble ID: 97847088-a0b3-42b5-aac3-172caba1e245
+[489] ASSISTANT - Bubble ID: 8271b2a9-7b10-4d48-adc3-904d9fe41205
+[490] ASSISTANT - Bubble ID: b5c6c4d7-ce05-4ec6-8685-0863f31e675d
+[491] ASSISTANT - Bubble ID: b0d0e272-cd71-440f-b67a-52a7521446da
+[492] ASSISTANT - Bubble ID: 5df86539-b38f-4e6e-b61b-b914c3723ac9
+[493] ASSISTANT - Bubble ID: 4b6d591f-5a08-4680-9cfc-a22d178cbd0b
+[494] ASSISTANT - Bubble ID: cb5624a5-7c37-4456-88eb-564375f0d3c1
+[495] ASSISTANT - Bubble ID: 046355ec-7e47-4834-ae91-6a3e648c2286
+[496] ASSISTANT - Bubble ID: 1e3d3d28-5607-4864-8507-5e46daf1a625
+[497] ASSISTANT - Bubble ID: 99304283-3d16-4f84-9b2f-97a2c4e869ec
+[498] ASSISTANT - Bubble ID: 2fe079a1-a751-4b3d-bd91-c0997a67585f
+[499] ASSISTANT - Bubble ID: c3e40a54-c6af-4ec7-a8c5-828ae3acaf29
+[500] ASSISTANT - Bubble ID: df6e56d3-a754-4061-9172-686be374fa5f
+[501] ASSISTANT - Bubble ID: 2a7b5804-ea0e-41d0-bd68-bfeb12f689e3
+
+================================================================================
+FILES CREATED/MODIFIED
+================================================================================
+
+📄 file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md
+   New File: True
+
+📄 file:///c%3A/Users/pc/Desktop/create_scheduled_task.bat
+   New File: False
+   Preview: @echo off
+echo ================================================================================
+echo Creating Scheduled Task for Auto-Backup
+echo ======================================================...
+
+📄 file:///c%3A/Users/pc/Desktop/ERPNext_DocTypes_Detailed_Understanding.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup_complete.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_pcb_lookup.bat
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_LOOKUP_FIX_EXPLAINED.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_rejected_assembly_warehouse.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_rejected_assembly.bat
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_REJECTED_ASSEMBLY_WAREHOUSE.md
+   New File: True
+
+📄 file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt
+   New File: False
+   Preview: // =====================================================
+// STOCK ENTRY Client Script (FULL) — STABLE + SUBMIT GUARD + REUSE SPECIAL
+//
+// ✅ Warehouses set correctly on Type change
+// ✅ No warehou...
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_default_warehouse.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_warehouse_server.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_manual.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/CREATE_SERVER_SCRIPT_MANUAL.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_via_console.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/QUICK_FIX_REJECTED_ASSEMBLY.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/APPLY_FIXES_NOW.bat
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_now.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/verify_server_script.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/FIXES_APPLIED_SUCCESSFULLY.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_warehouse_final.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/check_and_fix_stock_entry.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_direct.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_sync.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/FINAL_FIX_APPLIED.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/get_debug_logs.sh
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/check_client_script_debug.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/check_server_script_content.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_force.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_fix.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_SUMMARY_20260113.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_aggressive.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_refresh_fix.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/verify_fixes.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/update_client_script_after_save.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/upload_client_script_simple.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/COMPLETE_FIX_SUMMARY.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/check_repaired_parts.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/list_all_stock_entry_types.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/REPAIRED_PARTS_SEARCH_RESULTS.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/reset_system_for_deployment.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/reset_system_safe.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/RESET_SYSTEM_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/deploy_to_production.sh
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_QUICK_START.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/FRAPPE_CLOUD_DEPLOYMENT.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/DEPLOYMENT_READINESS_CHECKLIST.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/prepare_for_deployment.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/OFFICE_LAPTOP_HOSTING_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/setup_office_laptop.bat
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/OFFICE_HOSTING_COMPARISON.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/create_combined_bom.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_MANUAL_STEPS.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/check_bom_items.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/COMBINE_BOM_QUICK_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/PREVENT_BOM_EXPANSION_GUIDE.md
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/filter_sub_bom_items.js
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/get_pcba_items.py
+   New File: True
+
+📄 file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_TO_STOCK_ENTRY_SCRIPT.md
+   New File: True
+
+================================================================================
+CODE BLOCKS GENERATED
+================================================================================
+
+💻 c:\Users\pc\Desktop\ERPNext_System_Understanding.md
+   Language: markdown
+   Status: accepted
+
+💻 c:\Users\pc\Desktop\ERPNext_DocTypes_Detailed_Understanding.md
+   Language: markdown
+   Status: accepted
+
+💻 g:\frappe_docker-main\frappe_docker-main\fix_pcb_lookup_complete.py
+   Language: python
+   Status: accepted
+
+💻 g:\frappe_docker-main\frappe_docker-main\fix_pcb_lookup.bat
+   Language: bat
+   Status: accepted
+
+💻 g:\frappe_docker-main\frappe_docker-main\PCB_LOOKUP_FIX_EXPLAINED.md
+   Language: markdown
+   Status: accepted
+
+💻 g:\frappe_docker-main\frappe_docker-main\fix_rejected_assembly_warehouse.py
+   Language: python
+   Status: accepted
+
+💻 g:\frappe_docker-main\frappe_docker-main\fix_rejected_assembly.bat
+   Language: bat
+   Status: accepted
+
+💻 g:\frappe_docker-main\frappe_docker-main\FIX_REJECTED_ASSEMBLY_WAREHOUSE.md
+   Language: markdown
+   Status: accepted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: accepted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: accepted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: accepted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: accepted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: accepted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: accepted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: accepted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: accepted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: accepted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: completed
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: completed
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: completed
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: completed
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: completed
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: completed
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: aborted
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: completed
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: completed
+
+💻 c:\Users\pc\Downloads\Stock Entry Purpose + Pcb Scan Script.txt
+   Language: plaintext
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\fix_stock_entry_default_warehouse.py
+   Language: python
+   Status: accepted
+
+💻 g:\frappe_docker-main\frappe_docker-main\fix_stock_entry_warehouse_server.py
+   Language: python
+   Status: accepted
+
+💻 g:\frappe_docker-main\frappe_docker-main\create_server_script_manual.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\CREATE_SERVER_SCRIPT_MANUAL.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\create_server_script_via_console.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\QUICK_FIX_REJECTED_ASSEMBLY.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\APPLY_FIXES_NOW.bat
+   Language: bat
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\create_server_script_now.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\create_server_script_now.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\create_server_script_now.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\verify_server_script.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\FIXES_APPLIED_SUCCESSFULLY.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\fix_stock_entry_warehouse_final.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\check_and_fix_stock_entry.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\update_client_script_direct.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\update_client_script_sync.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\FINAL_FIX_APPLIED.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\get_debug_logs.sh
+   Language: shellscript
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\check_client_script_debug.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\check_server_script_content.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\fix_server_script_force.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\update_client_script_fix.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\FIX_SUMMARY_20260113.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\fix_server_script_aggressive.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\update_client_script_refresh_fix.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\verify_fixes.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\update_client_script_after_save.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\upload_client_script_simple.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\COMPLETE_FIX_SUMMARY.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\check_repaired_parts.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\list_all_stock_entry_types.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\REPAIRED_PARTS_SEARCH_RESULTS.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\reset_system_for_deployment.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\reset_system_safe.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\RESET_SYSTEM_GUIDE.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\DEPLOYMENT_GUIDE.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\deploy_to_production.sh
+   Language: shellscript
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\DEPLOYMENT_QUICK_START.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\FRAPPE_CLOUD_DEPLOYMENT.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\DEPLOYMENT_READINESS_CHECKLIST.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\prepare_for_deployment.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\OFFICE_LAPTOP_HOSTING_GUIDE.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\setup_office_laptop.bat
+   Language: bat
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\OFFICE_HOSTING_COMPARISON.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\COMBINE_BOM_GUIDE.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\create_combined_bom.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\create_combined_bom.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\COMBINE_BOM_MANUAL_STEPS.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\check_bom_items.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\COMBINE_BOM_QUICK_GUIDE.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\PREVENT_BOM_EXPANSION_GUIDE.md
+   Language: markdown
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\filter_sub_bom_items.js
+   Language: javascript
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\get_pcba_items.py
+   Language: python
+   Status: completed
+
+💻 g:\frappe_docker-main\frappe_docker-main\ADD_TO_STOCK_ENTRY_SCRIPT.md
+   Language: markdown
+   Status: completed
