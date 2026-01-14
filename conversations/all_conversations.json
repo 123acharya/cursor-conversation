@@ -2447,6 +2447,32 @@
         {
           "bubbleId": "69462937-e87d-44d8-bf3f-ff904e98931a",
           "type": 2
+        },
+        {
+          "bubbleId": "4d56415c-375e-490e-8ac1-d7d48987485e",
+          "type": 1
+        },
+        {
+          "bubbleId": "bb64ed22-116e-447d-9b89-24cdbde0acb9",
+          "type": 2,
+          "serverBubbleId": "8beac87a-4193-4cf2-8c37-2a8584aa4be6"
+        },
+        {
+          "bubbleId": "f3b3f5bd-0304-4547-aae8-deaf21efd785",
+          "type": 2
+        },
+        {
+          "bubbleId": "d4373b25-ab77-40ed-96ab-5ed50479969e",
+          "type": 2
+        },
+        {
+          "bubbleId": "6c2e9a27-3a14-405f-93a4-1f25ef7efeae",
+          "type": 2,
+          "serverBubbleId": "de0433e2-bd73-4327-8180-e5c2008c5c1a"
+        },
+        {
+          "bubbleId": "5b57b824-f98d-4ea0-a0cd-296e417acf30",
+          "type": 2
         }
       ],
       "conversationMap": {},
@@ -4888,6 +4914,30 @@
             "lastDiffId": "60730e6a-97f2-4763-a1b7-cfeeedf8f701",
             "lastAppliedAt": 1768386938206
           }
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/DEBUG_BOM_FILTER.md": {
+          "6a56a54f-9888-4aaa-bcea-89123be9279b": {
+            "_v": 3,
+            "bubbleId": "d4373b25-ab77-40ed-96ab-5ed50479969e",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\DEBUG_BOM_FILTER.md",
+              "_sep": 1,
+              "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/DEBUG_BOM_FILTER.md",
+              "path": "/G:/frappe_docker-main/frappe_docker-main/DEBUG_BOM_FILTER.md",
+              "scheme": "file"
+            },
+            "codeblockId": "6a56a54f-9888-4aaa-bcea-89123be9279b",
+            "status": "completed",
+            "languageId": "markdown",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768387137189,
+            "composerChatGenerationUuid": "ff1eedff-9a12-476d-b2b4-6556c6e5f42f",
+            "diffId": "0bf25440-c1e8-4832-ab4a-2bc0f09c0a81",
+            "lastDiffId": "af696689-c692-4889-8383-22731cca944f",
+            "lastAppliedAt": 1768387141730
+          }
         }
       },
       "originalFileStates": {
@@ -5344,6 +5394,12 @@
         "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_BOM_FILTER_TO_STOCK_ENTRY.md": {
           "content": "",
           "firstEditBubbleId": "332a3714-0df4-4497-a113-eea942f63d2b",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/DEBUG_BOM_FILTER.md": {
+          "content": "",
+          "firstEditBubbleId": "d4373b25-ab77-40ed-96ab-5ed50479969e",
           "isNewlyCreated": true,
           "newlyCreatedFolders": []
         }
@@ -5988,10 +6044,20 @@
             "path": "/G:/frappe_docker-main/frappe_docker-main/ADD_BOM_FILTER_TO_STOCK_ENTRY.md",
             "scheme": "file"
           }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\DEBUG_BOM_FILTER.md",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/DEBUG_BOM_FILTER.md",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/DEBUG_BOM_FILTER.md",
+            "scheme": "file"
+          }
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768386940962,
+      "lastUpdatedAt": 1768387146962,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -6071,7 +6137,7 @@
           "amount": 8
         }
       },
-      "contextUsagePercent": 70.77899932861328,
+      "contextUsagePercent": 72.44700050354004,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/OFFICE_LAPTOP_HOSTING_GUIDE.md",
@@ -6100,7 +6166,8 @@
         "file:///g%3A/frappe_docker-main/frappe_docker-main/verify_and_complete_rules.py",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_and_create_all_rules.py",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/create_rules_final.py",
-        "file:///g%3A/frappe_docker-main/frappe_docker-main/setup_bom_rules.py"
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/setup_bom_rules.py",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_BOM_FILTER_TO_STOCK_ENTRY.md"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -6112,7 +6179,7 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 11636,
+      "totalLinesAdded": 11786,
       "totalLinesRemoved": 8,
       "addedFiles": 0,
       "removedFiles": 0,
@@ -6134,12 +6201,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "7456974d-2f01-4f00-929f-b2d8bc701f03",
+      "latestChatGenerationUUID": "ff1eedff-9a12-476d-b2b4-6556c6e5f42f",
       "isAgentic": true,
-      "subtitle": "ADD_BOM_FILTER_TO_STOCK_ENTRY.md, setup_bom_rules.py, create_rules_final.py, fix_and_create_all_rules.py, verify_and_complete_rules.py",
-      "filesChangedCount": 75
+      "subtitle": "DEBUG_BOM_FILTER.md, ADD_BOM_FILTER_TO_STOCK_ENTRY.md, setup_bom_rules.py, create_rules_final.py, fix_and_create_all_rules.py",
+      "filesChangedCount": 76
     },
-    "extracted_at": "2026-01-14T16:08:00.537475"
+    "extracted_at": "2026-01-14T16:13:00.549424"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -10298,7 +10365,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py, COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-14T16:08:00.538475"
+    "extracted_at": "2026-01-14T16:13:00.549424"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -18810,7 +18877,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-14T16:08:00.544474"
+    "extracted_at": "2026-01-14T16:13:00.555523"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -19028,7 +19095,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T16:08:00.544474"
+    "extracted_at": "2026-01-14T16:13:00.555523"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -19205,7 +19272,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T16:08:00.544474"
+    "extracted_at": "2026-01-14T16:13:00.555523"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -28316,12 +28383,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-14T16:08:00.551474"
+    "extracted_at": "2026-01-14T16:13:00.561714"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-14T16:08:00.551474"
+    "extracted_at": "2026-01-14T16:13:00.561714"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -28500,6 +28567,6 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T16:08:00.551474"
+    "extracted_at": "2026-01-14T16:13:00.561714"
   }
 ]
