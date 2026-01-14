@@ -5463,16 +5463,16 @@
       "subtitle": "SETUP_BOM_FILTER_COMPLETE.md, bom_filter_client_script.js, create_server_script_bom_filter.py, FLEXIBLE_BOM_FILTER_SOLUTION.md, get_bom_items_to_filter.py",
       "filesChangedCount": 66
     },
-    "extracted_at": "2026-01-14T13:13:00.281455"
+    "extracted_at": "2026-01-14T13:18:00.408070"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
     "data": {
       "_v": 11,
       "composerId": "11b622ee-1cd8-478e-89c0-a5e470f25415",
-      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"im doing this ro recover and make the cursor ai understnad what na ll happed in the process of building the projecject i want to test with you itself first in case of i lost the chat \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so i want you to go to this files C:\\\\Users\\\\pc\\\\Desktop\\\\cursor-chat-backups\\\\full_conversations\\\\FULL_conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.txt\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"understnd what happen in the chat \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"we will try to get as much data as possbile with right things  currently i think there is no recored of what is getting creted and where its placed and stiff we have to recove tha\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "",
+      "text": "im doing this ro recover and make the cursor ai understnad what na ll happed in the process of building the projecject i want to test with you itself first in case of i lost the chat \nso i want you to go to this files C:\\Users\\pc\\Desktop\\cursor-chat-backups\\full_conversations\\FULL_conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.txt\nunderstnd what happen in the chat \nwe will try to get as much data as possbile with right things  currently i think there is no recored of what is getting creted and where its placed and stiff we have to recove tha",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "c48b9da0-d1a9-4b91-8d5a-d6ca906abb61",
@@ -9402,7 +9402,7 @@
       "subtitle": "COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py, RECOVERY_GUIDE.md, recover_from_json.py",
       "filesChangedCount": 48
     },
-    "extracted_at": "2026-01-14T13:13:00.282456"
+    "extracted_at": "2026-01-14T13:18:00.409070"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -17914,7 +17914,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-14T13:13:00.289199"
+    "extracted_at": "2026-01-14T13:18:00.416160"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -18132,7 +18132,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T13:13:00.289199"
+    "extracted_at": "2026-01-14T13:18:00.416160"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -18309,7 +18309,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T13:13:00.289199"
+    "extracted_at": "2026-01-14T13:18:00.416160"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -27420,12 +27420,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-14T13:13:00.295198"
+    "extracted_at": "2026-01-14T13:18:00.423338"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-14T13:13:00.295198"
+    "extracted_at": "2026-01-14T13:18:00.423338"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -27604,6 +27604,6 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T13:13:00.295198"
+    "extracted_at": "2026-01-14T13:18:00.423338"
   }
 ]
