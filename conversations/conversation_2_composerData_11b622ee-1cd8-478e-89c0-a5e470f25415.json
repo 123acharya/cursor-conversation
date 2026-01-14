@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "11b622ee-1cd8-478e-89c0-a5e470f25415",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"g:\\\\frappe_docker-main\\\\frappe_docker-main\\\\TEST_BEFORE_AFTER.md:28-30\",\"type\":\"mention\",\"version\":1,\"mentionName\":\"TEST_BEFORE_AFTER.md (28-30)\",\"typeaheadType\":\"file\",\"storedKey\":\"file:file:///g%3A/frappe_docker-main/frappe_docker-main/TEST_BEFORE_AFTER.md\",\"metadata\":{\"iconClasses\":[\"file-icon\",\"frappe_docker-main-name-dir-icon\",\"test_before_after.md-name-file-icon\",\"name-file-icon\",\"md-ext-file-icon\",\"ext-file-icon\",\"markdown-lang-file-icon\"]}},{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "@g:\\frappe_docker-main\\frappe_docker-main\\TEST_BEFORE_AFTER.md:28-30 ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "c48b9da0-d1a9-4b91-8d5a-d6ca906abb61",
@@ -1832,7 +1832,28 @@
       "selectedImages": [],
       "folderSelections": [],
       "fileSelections": [],
-      "selections": [],
+      "selections": [
+        {
+          "text": "```markdown\n- HB-OB (1)\r\n- DI01 0004 (1)  ← PCBA component\r\n- IC01 0006 (1)  ← PCBA component\n```",
+          "rawText": "- HB-OB (1)\r\n- DI01 0004 (1)  ← PCBA component\r\n- IC01 0006 (1)  ← PCBA component",
+          "range": {
+            "selectionStartLineNumber": 28,
+            "selectionStartColumn": 1,
+            "positionLineNumber": 30,
+            "positionColumn": 34
+          },
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\TEST_BEFORE_AFTER.md",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/TEST_BEFORE_AFTER.md",
+            "path": "/g:/frappe_docker-main/frappe_docker-main/TEST_BEFORE_AFTER.md",
+            "scheme": "file"
+          },
+          "uuid": "da933492-8923-4d2f-a5cf-0d3fd58dcfc5",
+          "addedWithoutMention": false
+        }
+      ],
       "terminalSelections": [],
       "selectedDocs": [],
       "externalLinks": [],
@@ -1854,7 +1875,13 @@
           "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json": []
         },
         "terminalFiles": {},
-        "selections": {},
+        "selections": {
+          "{\"uri\":\"file:///g%3A/frappe_docker-main/frappe_docker-main/TEST_BEFORE_AFTER.md\",\"range\":{\"selectionStartLineNumber\":28,\"selectionStartColumn\":1,\"positionLineNumber\":30,\"positionColumn\":34},\"text\":\"```markdown\\n- HB-OB (1)\\r\\n- DI01 0004 (1)  ← PCBA component\\r\\n- IC01 0006 (1)  ← PCBA component\\n```\"}": [
+            {
+              "uuid": "da933492-8923-4d2f-a5cf-0d3fd58dcfc5"
+            }
+          ]
+        },
         "terminalSelections": {},
         "selectedDocs": {},
         "externalLinks": {},
@@ -4128,5 +4155,5 @@
     "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py, COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py",
     "filesChangedCount": 50
   },
-  "extracted_at": "2026-01-14T14:03:00.313343"
+  "extracted_at": "2026-01-14T14:08:00.285674"
 }
