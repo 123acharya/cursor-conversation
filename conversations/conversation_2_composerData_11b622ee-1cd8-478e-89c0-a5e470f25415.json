@@ -1897,7 +1897,8 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -4154,5 +4155,5 @@
     "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py, COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py",
     "filesChangedCount": 50
   },
-  "extracted_at": "2026-01-14T17:08:00.632437"
+  "extracted_at": "2026-01-14T18:58:01.071348"
 }

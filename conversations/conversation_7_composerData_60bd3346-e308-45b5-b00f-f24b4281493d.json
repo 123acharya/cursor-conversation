@@ -1,9 +1,9 @@
 {
-  "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
+  "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
   "data": {
     "_v": 11,
-    "composerId": "d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
-    "richText": "",
+    "composerId": "60bd3346-e308-45b5-b00f-f24b4281493d",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
     "text": "",
     "fullConversationHeadersOnly": [],
@@ -35,7 +35,9 @@
         "selectedImages": {},
         "useWeb": [],
         "folderSelections": {},
-        "fileSelections": {},
+        "fileSelections": {
+          "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json": []
+        },
         "terminalFiles": {},
         "selections": {},
         "terminalSelections": {},
@@ -63,7 +65,7 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1768039456705,
+    "createdAt": 1768374789054,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
@@ -164,7 +166,7 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "Wt2tQoup53L1R4nDu4+M8enZqyOrbhZPp9ofevJUWsw=",
+    "speculativeSummarizationEncryptionKey": "0qo2Y3xLNqyqGENFpmHc3RbgzhZTcAum0ZqdsCqc9a0=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
@@ -173,5 +175,5 @@
     "subtitle": "New chat",
     "filesChangedCount": 0
   },
-  "extracted_at": "2026-01-14T18:58:01.082694"
+  "extracted_at": "2026-01-14T17:13:00.663950"
 }
