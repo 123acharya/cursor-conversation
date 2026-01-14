@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"in that case there are lot of other bom that need to considered like this in building the erp \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"it should be flexible such that future modification should be possible \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also main feature should be when we add BOM-PA01 0001-001 it should ignore \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "",
+      "text": "in that case there are lot of other bom that need to considered like this in building the erp \nit should be flexible such that future modification should be possible \n\nalso main feature should be when we add BOM-PA01 0001-001 it should ignore ",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -5164,16 +5164,16 @@
       "subtitle": "ADD_TO_STOCK_ENTRY_SCRIPT.md, get_pcba_items.py, filter_sub_bom_items.js, PREVENT_BOM_EXPANSION_GUIDE.md, COMBINE_BOM_QUICK_GUIDE.md",
       "filesChangedCount": 60
     },
-    "extracted_at": "2026-01-14T12:38:01.100042"
+    "extracted_at": "2026-01-14T12:43:01.139641"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
     "data": {
       "_v": 11,
       "composerId": "11b622ee-1cd8-478e-89c0-a5e470f25415",
-      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"type\":\"mention\",\"version\":1,\"mentionName\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"typeaheadType\":\"file\",\"storedKey\":\"92\",\"metadata\":{\"selection\":{\"type\":2,\"selectionWithoutUuid\":{\"uri\":{\"scheme\":\"file\",\"authority\":\"\",\"path\":\"/C:/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"query\":\"\",\"fragment\":\"\",\"_formatted\":\"file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"_fsPath\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\"}}},\"selectedOption\":{\"key\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"type\":\"file\",\"selectionPrecursor\":{\"uri\":{\"scheme\":\"file\",\"authority\":\"\",\"path\":\"/C:/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"query\":\"\",\"fragment\":\"\",\"_formatted\":\"file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"_fsPath\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\"}},\"secondaryText\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"id\":\"0afbd68f-a0c6-47e2-9099-13bb2ee622da\",\"name\":\"c:\\\\Users\\\\pc\\\\Downloads\\\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json\",\"_score\":0,\"isSlash\":false},\"iconClasses\":[\"file-icon\",\"downloads-name-dir-icon\",\"conversation_6_composerdata_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json-name-file-icon\",\"name-file-icon\",\"json-ext-file-icon\",\"ext-file-icon\",\"json-lang-file-icon\"]},\"source\":\"chat\"},{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" now conversation like this is getting uploaded but will you be able to recover anything from this script i wanted to know\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"let me know ever\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "",
+      "text": "@c:\\Users\\pc\\Downloads\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json now conversation like this is getting uploaded but will you be able to recover anything from this script i wanted to know\nlet me know ever",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "c48b9da0-d1a9-4b91-8d5a-d6ca906abb61",
@@ -6701,9 +6701,34 @@
         "quotes": [],
         "selectedCommits": [],
         "selectedPullRequests": [],
-        "selectedImages": [],
+        "selectedImages": [
+          {
+            "uuid": "d8ea82a7-a4f7-4363-8074-6bf6600f65e9",
+            "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-51d93f49-bbab-459c-b471-0d23349ffa06.png",
+            "dimension": {
+              "width": 1631,
+              "height": 856
+            },
+            "loadedAt": 1768374768153,
+            "addedWithoutMention": true
+          }
+        ],
         "folderSelections": [],
-        "fileSelections": [],
+        "fileSelections": [
+          {
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
+              "path": "/C:/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
+              "scheme": "file"
+            },
+            "uuid": "92",
+            "collapseByDefault": false,
+            "addedWithoutMention": false
+          }
+        ],
         "selections": [],
         "terminalSelections": [],
         "selectedDocs": [],
@@ -6722,7 +6747,13 @@
           "selectedImages": {},
           "useWeb": [],
           "folderSelections": {},
-          "fileSelections": {},
+          "fileSelections": {
+            "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json": [
+              {
+                "uuid": "92"
+              }
+            ]
+          },
           "terminalFiles": {},
           "selections": {},
           "terminalSelections": {},
@@ -8752,7 +8783,7 @@
       "subtitle": "auto-backup.bat, extract_conversations.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-01-14T12:38:01.101044"
+    "extracted_at": "2026-01-14T12:43:01.139641"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -17264,7 +17295,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-14T12:38:01.108124"
+    "extracted_at": "2026-01-14T12:43:01.147642"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -17482,7 +17513,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T12:38:01.108124"
+    "extracted_at": "2026-01-14T12:43:01.147642"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -17659,7 +17690,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T12:38:01.108124"
+    "extracted_at": "2026-01-14T12:43:01.147642"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -26770,11 +26801,11 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-14T12:38:01.114708"
+    "extracted_at": "2026-01-14T12:43:01.155525"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-14T12:38:01.114708"
+    "extracted_at": "2026-01-14T12:43:01.155525"
   }
 ]
