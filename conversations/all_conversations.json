@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"when in add stockentry type it giv\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"befror pressing \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"after pressing assets.js:70 localStorage cleared\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"stock_entry__custom_js:283 [BOM Filter] First item keys: (24) ['docstatus', 'doctype', 'name', '__islocal', '__unsaved', 'owner', 'has_item_scanned', 'is_finished_item', 'is_scrap_item', 'retain_sample', 'stock_uom', 'allow_zero_valuation_rate', 'set_basic_rate_manually', 'cost_center', 'allow_alternative_item', 'parent', 'parentfield', 'parenttype', 'idx', 'expense_account', 's_warehouse', 'actual_qty', 'basic_rate', 'basic_amount']\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"stock_entry__custom_js:284 [BOM Filter] First item item_code: undefined\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"stock_entry__custom_js:285 [BOM Filter] First item full: {\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"docstatus\\\": 0,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"doctype\\\": \\\"Stock Entry Detail\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"name\\\": \\\"new-stock-entry-detail-iioynabgfn\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"__islocal\\\": 1,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"__unsaved\\\": 1,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"owner\\\": \\\"acharyacgpt@gmail.com\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"has_item_scanned\\\": 0,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"is_finished_item\\\": 0,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"is_scrap_item\\\": 0,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"retain_sample\\\": 0,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"stock_uom\\\": \\\"Nos\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"allow_zero_valuation_rate\\\": 0,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"set_basic_rate_manually\\\": 0,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"cost_center\\\": \\\"Main - R\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"allow_alternative_item\\\": 0,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"parent\\\": \\\"new-stock-entry-llqbcajrjt\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"parentfield\\\": \\\"items\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"parenttype\\\": \\\"Stock Entry\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"idx\\\": 1,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"expense_account\\\": \\\"Stock Adjustment - R\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"s_warehouse\\\": \\\"Stores - R\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"actual_qty\\\": 0,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"basic_rate\\\": 0,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  \\\"basic_amount\\\": 0\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"}\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"stock_entry__custom_js:314 [BOM Filter] Row 0 (new-stock-entry-detail-iioynabgfn) - local_row exists but no item_code. Keys: (24) ['docstatus', 'doctype', 'name', '__islocal', '__unsaved', 'owner', 'has_item_scanned', 'is_finished_item', 'is_scrap_item', 'retain_sample', 'stock_uom', 'allow_zero_valuation_rate', 'set_basic_rate_manually', 'cost_center', 'allow_alternative_item', 'parent', 'parentfield', 'parenttype', 'idx', 'expense_account', 's_warehouse', 'actual_qty', 'basic_rate', 'basic_amount']\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"stock_entry__custom_js:323 [BOM Filter] Items exist but item_code not accessible yet\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"stock_entry__custom_js:324 [BOM Filter] Total items: 1\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"stock_entry__custom_js:325 [BOM Filter] This is normal - items are still loading. Will retry...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"messages.js:26 Uncaught (in promise) Error: BOM and Manufacturing Quantity are required\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at frappe.throw (messages.js:26:8)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at frappe.ui.form.Controller.get_items (stock_entry__js:1093:16)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at o (script_manager.js:106:31)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at script_manager.js:136:22\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "when in add stockentry type it giv",
+      "text": "befror pressing \nafter pressing assets.js:70 localStorage cleared\nstock_entry__custom_js:283 [BOM Filter] First item keys: (24) ['docstatus', 'doctype', 'name', '__islocal', '__unsaved', 'owner', 'has_item_scanned', 'is_finished_item', 'is_scrap_item', 'retain_sample', 'stock_uom', 'allow_zero_valuation_rate', 'set_basic_rate_manually', 'cost_center', 'allow_alternative_item', 'parent', 'parentfield', 'parenttype', 'idx', 'expense_account', 's_warehouse', 'actual_qty', 'basic_rate', 'basic_amount']\nstock_entry__custom_js:284 [BOM Filter] First item item_code: undefined\nstock_entry__custom_js:285 [BOM Filter] First item full: {\n  \"docstatus\": 0,\n  \"doctype\": \"Stock Entry Detail\",\n  \"name\": \"new-stock-entry-detail-iioynabgfn\",\n  \"__islocal\": 1,\n  \"__unsaved\": 1,\n  \"owner\": \"acharyacgpt@gmail.com\",\n  \"has_item_scanned\": 0,\n  \"is_finished_item\": 0,\n  \"is_scrap_item\": 0,\n  \"retain_sample\": 0,\n  \"stock_uom\": \"Nos\",\n  \"allow_zero_valuation_rate\": 0,\n  \"set_basic_rate_manually\": 0,\n  \"cost_center\": \"Main - R\",\n  \"allow_alternative_item\": 0,\n  \"parent\": \"new-stock-entry-llqbcajrjt\",\n  \"parentfield\": \"items\",\n  \"parenttype\": \"Stock Entry\",\n  \"idx\": 1,\n  \"expense_account\": \"Stock Adjustment - R\",\n  \"s_warehouse\": \"Stores - R\",\n  \"actual_qty\": 0,\n  \"basic_rate\": 0,\n  \"basic_amount\": 0\n}\nstock_entry__custom_js:314 [BOM Filter] Row 0 (new-stock-entry-detail-iioynabgfn) - local_row exists but no item_code. Keys: (24) ['docstatus', 'doctype', 'name', '__islocal', '__unsaved', 'owner', 'has_item_scanned', 'is_finished_item', 'is_scrap_item', 'retain_sample', 'stock_uom', 'allow_zero_valuation_rate', 'set_basic_rate_manually', 'cost_center', 'allow_alternative_item', 'parent', 'parentfield', 'parenttype', 'idx', 'expense_account', 's_warehouse', 'actual_qty', 'basic_rate', 'basic_amount']\nstock_entry__custom_js:323 [BOM Filter] Items exist but item_code not accessible yet\nstock_entry__custom_js:324 [BOM Filter] Total items: 1\nstock_entry__custom_js:325 [BOM Filter] This is normal - items are still loading. Will retry...\nmessages.js:26 Uncaught (in promise) Error: BOM and Manufacturing Quantity are required\n    at frappe.throw (messages.js:26:8)\n    at frappe.ui.form.Controller.get_items (stock_entry__js:1093:16)\n    at o (script_manager.js:106:31)\n    at script_manager.js:136:22",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -3096,16 +3096,101 @@
         {
           "bubbleId": "7fdfba67-ffc9-4d71-ade7-38aae096f374",
           "type": 2
+        },
+        {
+          "bubbleId": "7f924ec5-ab97-4d29-b753-f745b027ef41",
+          "type": 1
+        },
+        {
+          "bubbleId": "a0d36646-dddf-4571-ae85-5fef97b33ec4",
+          "type": 2,
+          "serverBubbleId": "5cd2213d-bcb9-4fda-bda2-d1d6fcbb02ac"
+        },
+        {
+          "bubbleId": "f025c234-ef35-4a81-a002-7166e681a9a0",
+          "type": 2
+        },
+        {
+          "bubbleId": "59b44928-cf41-4723-849b-bea8909b3560",
+          "type": 2
+        },
+        {
+          "bubbleId": "2facecc0-537a-4c96-8e87-364974a83cdb",
+          "type": 2
+        },
+        {
+          "bubbleId": "60a06d84-9388-41da-a861-c3869e6b869c",
+          "type": 2
+        },
+        {
+          "bubbleId": "363511b0-59df-43ae-a5cc-8238a25d8dd9",
+          "type": 2,
+          "serverBubbleId": "c177b42c-34fa-4438-a6a4-425c27fa9385"
+        },
+        {
+          "bubbleId": "6ac65979-bbea-460d-b405-0f1cef3208b1",
+          "type": 2
+        },
+        {
+          "bubbleId": "fd64960d-0b44-44de-bd06-348fe5c43065",
+          "type": 2
+        },
+        {
+          "bubbleId": "c1904d0e-e199-46ec-b8ae-70f2e21fb813",
+          "type": 2
+        },
+        {
+          "bubbleId": "79f47f38-d220-4161-9d7f-dd9fb4aa4060",
+          "type": 2,
+          "serverBubbleId": "8b47b0db-8bcb-4f15-acff-2a429d9cc6b8"
+        },
+        {
+          "bubbleId": "9f59b70b-7291-4ed7-9feb-5a1e9703931c",
+          "type": 2
+        },
+        {
+          "bubbleId": "f6276244-724a-4062-9760-08c0af5974b7",
+          "type": 2
+        },
+        {
+          "bubbleId": "b67c0d4d-b271-4b3f-8e8f-212ddce34e84",
+          "type": 2,
+          "serverBubbleId": "8a183d06-65b4-422a-b333-9f802470e333"
+        },
+        {
+          "bubbleId": "90e33ca1-57c2-460c-b772-2146e7ce5581",
+          "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "completed",
+      "status": "aborted",
       "context": {
         "composers": [],
         "quotes": [],
         "selectedCommits": [],
         "selectedPullRequests": [],
-        "selectedImages": [],
+        "selectedImages": [
+          {
+            "uuid": "cf45a250-f270-47f2-b355-e1f17bbf5457",
+            "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-0e5d44f1-50e0-4d1d-b4e4-dfbd83d32be7.png",
+            "dimension": {
+              "width": 2343,
+              "height": 895
+            },
+            "loadedAt": 1768390595618,
+            "addedWithoutMention": true
+          },
+          {
+            "uuid": "c5caa22c-bd36-4264-8bc0-731e60b76037",
+            "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-af602c7f-050d-4247-8698-2a67f49fbe6a.png",
+            "dimension": {
+              "width": 2342,
+              "height": 862
+            },
+            "loadedAt": 1768390612968,
+            "addedWithoutMention": true
+          }
+        ],
         "folderSelections": [],
         "fileSelections": [
           {
@@ -4664,6 +4749,77 @@
             "diffId": "90d76808-06cb-4152-8396-c2c2e8e0de0e",
             "lastDiffId": "597b5980-98be-4267-b924-38adc9a8a02d",
             "lastAppliedAt": 1768390280632
+          },
+          "a672c60b-d15a-44e4-bf37-f6fe0f4a59d5": {
+            "_v": 3,
+            "bubbleId": "2facecc0-537a-4c96-8e87-364974a83cdb",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "a672c60b-d15a-44e4-bf37-f6fe0f4a59d5",
+            "status": "aborted",
+            "languageId": "plaintext",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768390453853,
+            "composerChatGenerationUuid": "49389c5e-5cac-4dc8-b6dd-0365c8dfc14a"
+          },
+          "f42c2211-1ff3-4044-8f06-cbdc152786ed": {
+            "_v": 3,
+            "bubbleId": "60a06d84-9388-41da-a861-c3869e6b869c",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "f42c2211-1ff3-4044-8f06-cbdc152786ed",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "c05dd115-4328-42ff-afa5-97ec58ac1a74",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768390462057,
+            "composerChatGenerationUuid": "49389c5e-5cac-4dc8-b6dd-0365c8dfc14a",
+            "diffId": "85aac7e2-6f86-4527-8690-5e8f3c8a66c7",
+            "lastDiffId": "feded4fd-3ea7-4e2f-a8ee-8490607126c5",
+            "lastAppliedAt": 1768390465776
+          },
+          "42bb806e-3ee1-46d2-a378-93cbfcabaf15": {
+            "_v": 3,
+            "bubbleId": "f6276244-724a-4062-9760-08c0af5974b7",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+              "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "42bb806e-3ee1-46d2-a378-93cbfcabaf15",
+            "status": "completed",
+            "languageId": "plaintext",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "f42c2211-1ff3-4044-8f06-cbdc152786ed",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768390471292,
+            "composerChatGenerationUuid": "49389c5e-5cac-4dc8-b6dd-0365c8dfc14a",
+            "diffId": "25d6d89a-7ddb-4b68-aef4-7b5095e83421",
+            "lastDiffId": "5261bf3b-b877-4f28-9912-f308264aa036",
+            "lastAppliedAt": 1768390476601
           }
         },
         "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_default_warehouse.py": {
@@ -7698,10 +7854,11 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768390283414,
+      "lastUpdatedAt": 1768390647636,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
+      "editingBubbleId": "7f924ec5-ab97-4d29-b753-f745b027ef41",
       "capabilities": [
         {
           "type": 30,
@@ -7778,7 +7935,7 @@
           "amount": 8
         }
       },
-      "contextUsagePercent": 40.60049819946289,
+      "contextUsagePercent": 45.90599822998047,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
         "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt"
@@ -7793,7 +7950,7 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 12690,
+      "totalLinesAdded": 12748,
       "totalLinesRemoved": 8,
       "addedFiles": 0,
       "removedFiles": 0,
@@ -7815,12 +7972,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "c7c69985-30d5-4f2a-97fc-f9bead700b8d",
+      "latestChatGenerationUUID": "f5f97040-d12e-4a93-90c7-61b57a42d0ad",
       "isAgentic": true,
       "subtitle": "Stock Entry Purpose + Pcb Scan Script.txt, ADD_SIMPLE_FILTER.md, SIMPLE_BOM_FILTER_CODE.js, create_proper_api.py, create_api_file.py",
       "filesChangedCount": 81
     },
-    "extracted_at": "2026-01-14T17:03:00.638540"
+    "extracted_at": "2026-01-14T17:08:00.631437"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -11978,7 +12135,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py, COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-14T17:03:00.638540"
+    "extracted_at": "2026-01-14T17:08:00.632437"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -20490,7 +20647,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-14T17:03:00.640556"
+    "extracted_at": "2026-01-14T17:08:00.638437"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -20708,7 +20865,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T17:03:00.640556"
+    "extracted_at": "2026-01-14T17:08:00.638437"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -20885,7 +21042,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T17:03:00.640556"
+    "extracted_at": "2026-01-14T17:08:00.638437"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -29996,12 +30153,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-14T17:03:00.653106"
+    "extracted_at": "2026-01-14T17:08:00.645196"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-14T17:03:00.653106"
+    "extracted_at": "2026-01-14T17:08:00.645196"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -30180,6 +30337,6 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T17:03:00.653106"
+    "extracted_at": "2026-01-14T17:08:00.645196"
   }
 ]
