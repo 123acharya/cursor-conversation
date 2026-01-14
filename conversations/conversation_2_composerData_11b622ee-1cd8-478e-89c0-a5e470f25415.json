@@ -1704,11 +1704,16 @@
       },
       {
         "bubbleId": "6ef3f7b7-3d1e-431b-8594-5062cc5ef8d4",
+        "type": 2,
+        "serverBubbleId": "065bb409-9d3c-4641-aac8-2e77eb9f2283"
+      },
+      {
+        "bubbleId": "32f68881-52c1-45a7-9aa1-9cdee445f925",
         "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -1760,7 +1765,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "103c4a20-660f-4379-8ca1-47e56e790444",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py": {
@@ -3057,11 +3061,14 @@
             "scheme": "file"
           },
           "codeblockId": "34dd8cf4-b0ea-4c65-8bf0-11a5ecb0c51f",
-          "status": "aborted",
+          "status": "completed",
           "languageId": "markdown",
           "codeBlockDisplayPreference": "collapsed",
           "createdAt": 1768375071994,
-          "composerChatGenerationUuid": "103c4a20-660f-4379-8ca1-47e56e790444"
+          "composerChatGenerationUuid": "103c4a20-660f-4379-8ca1-47e56e790444",
+          "diffId": "39a764bb-d921-4504-a6c8-85ed11768171",
+          "lastDiffId": "7a231582-3fef-41f2-837c-0d13f1f7f6bb",
+          "lastAppliedAt": 1768375083364
         }
       }
     },
@@ -3795,10 +3802,20 @@
           "path": "/C:/Users/pc/Desktop/cursor-chat-backups/SOLUTION_FOR_LIMITATIONS.md",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\COMPLETE_SOLUTION_SUMMARY.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/COMPLETE_SOLUTION_SUMMARY.md",
+          "path": "/C:/Users/pc/Desktop/cursor-chat-backups/COMPLETE_SOLUTION_SUMMARY.md",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768375023628,
+    "lastUpdatedAt": 1768375089222,
     "createdAt": 1767854262948,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -3873,7 +3890,7 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 38.5994987487793,
+    "contextUsagePercent": 41.15549850463867,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
       "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
@@ -3891,7 +3908,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 8028,
+    "totalLinesAdded": 8271,
     "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -3916,7 +3933,7 @@
     "latestChatGenerationUUID": "103c4a20-660f-4379-8ca1-47e56e790444",
     "isAgentic": true,
     "subtitle": "COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py, RECOVERY_GUIDE.md, recover_from_json.py",
-    "filesChangedCount": 47
+    "filesChangedCount": 48
   },
-  "extracted_at": "2026-01-14T12:48:01.152327"
+  "extracted_at": "2026-01-14T12:53:01.488785"
 }

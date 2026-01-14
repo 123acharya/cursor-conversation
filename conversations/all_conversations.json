@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"in that case there are lot of other bom that need to considered like this in building the erp \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"it should be flexible such that future modification should be possible \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also main feature should be when we add BOM-PA01 0001-001 it should ignore that is there in the bom currently its 44 in future it might change in future or new bom with differebt number might get added to the list of HB-COMMON  BOM-PA01 0001-002 like this so there \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"in that case there are lot of other bom that need to considered like this in building the erp \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"it should be flexible such that future modification should be possible \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also main feature should be when we add BOM-PA01 0001-001 it should ignore that is there in the bom currently its 44 in future it might change in future or new bom with differebt number might get added to the list of HB-COMMON  BOM-PA01 0001-002 like this so there should be structured way to deal with this \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also the are lot of other boms where we have ignore the parts  that are stored inside it \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"like BOM-PA01 0001-001\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"BOM-PA01 0002-001\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"BOM-PL01 0220-001 in HB-EG\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "in that case there are lot of other bom that need to considered like this in building the erp \nit should be flexible such that future modification should be possible \n\nalso main feature should be when we add BOM-PA01 0001-001 it should ignore that is there in the bom currently its 44 in future it might change in future or new bom with differebt number might get added to the list of HB-COMMON  BOM-PA01 0001-002 like this so there ",
+      "text": "in that case there are lot of other bom that need to considered like this in building the erp \nit should be flexible such that future modification should be possible \n\nalso main feature should be when we add BOM-PA01 0001-001 it should ignore that is there in the bom currently its 44 in future it might change in future or new bom with differebt number might get added to the list of HB-COMMON  BOM-PA01 0001-002 like this so there should be structured way to deal with this \n\nalso the are lot of other boms where we have ignore the parts  that are stored inside it \nlike BOM-PA01 0001-001\nBOM-PA01 0002-001\nBOM-PL01 0220-001 in HB-EG\n",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -5164,7 +5164,7 @@
       "subtitle": "ADD_TO_STOCK_ENTRY_SCRIPT.md, get_pcba_items.py, filter_sub_bom_items.js, PREVENT_BOM_EXPANSION_GUIDE.md, COMBINE_BOM_QUICK_GUIDE.md",
       "filesChangedCount": 60
     },
-    "extracted_at": "2026-01-14T12:48:01.151327"
+    "extracted_at": "2026-01-14T12:53:01.487783"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -6872,11 +6872,16 @@
         },
         {
           "bubbleId": "6ef3f7b7-3d1e-431b-8594-5062cc5ef8d4",
+          "type": 2,
+          "serverBubbleId": "065bb409-9d3c-4641-aac8-2e77eb9f2283"
+        },
+        {
+          "bubbleId": "32f68881-52c1-45a7-9aa1-9cdee445f925",
           "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "aborted",
+      "status": "completed",
       "context": {
         "composers": [],
         "quotes": [],
@@ -6928,7 +6933,6 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
-      "chatGenerationUUID": "103c4a20-660f-4379-8ca1-47e56e790444",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py": {
@@ -8225,11 +8229,14 @@
               "scheme": "file"
             },
             "codeblockId": "34dd8cf4-b0ea-4c65-8bf0-11a5ecb0c51f",
-            "status": "aborted",
+            "status": "completed",
             "languageId": "markdown",
             "codeBlockDisplayPreference": "collapsed",
             "createdAt": 1768375071994,
-            "composerChatGenerationUuid": "103c4a20-660f-4379-8ca1-47e56e790444"
+            "composerChatGenerationUuid": "103c4a20-660f-4379-8ca1-47e56e790444",
+            "diffId": "39a764bb-d921-4504-a6c8-85ed11768171",
+            "lastDiffId": "7a231582-3fef-41f2-837c-0d13f1f7f6bb",
+            "lastAppliedAt": 1768375083364
           }
         }
       },
@@ -8963,10 +8970,20 @@
             "path": "/C:/Users/pc/Desktop/cursor-chat-backups/SOLUTION_FOR_LIMITATIONS.md",
             "scheme": "file"
           }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor-chat-backups\\COMPLETE_SOLUTION_SUMMARY.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/COMPLETE_SOLUTION_SUMMARY.md",
+            "path": "/C:/Users/pc/Desktop/cursor-chat-backups/COMPLETE_SOLUTION_SUMMARY.md",
+            "scheme": "file"
+          }
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768375023628,
+      "lastUpdatedAt": 1768375089222,
       "createdAt": 1767854262948,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -9041,7 +9058,7 @@
       "unifiedMode": "agent",
       "forceMode": "edit",
       "usageData": {},
-      "contextUsagePercent": 38.5994987487793,
+      "contextUsagePercent": 41.15549850463867,
       "allAttachedFileCodeChunksUris": [
         "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
         "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
@@ -9059,7 +9076,7 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 8028,
+      "totalLinesAdded": 8271,
       "totalLinesRemoved": 0,
       "addedFiles": 0,
       "removedFiles": 0,
@@ -9084,9 +9101,9 @@
       "latestChatGenerationUUID": "103c4a20-660f-4379-8ca1-47e56e790444",
       "isAgentic": true,
       "subtitle": "COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py, RECOVERY_GUIDE.md, recover_from_json.py",
-      "filesChangedCount": 47
+      "filesChangedCount": 48
     },
-    "extracted_at": "2026-01-14T12:48:01.152327"
+    "extracted_at": "2026-01-14T12:53:01.488785"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -17598,7 +17615,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-14T12:48:01.159688"
+    "extracted_at": "2026-01-14T12:53:01.496638"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -17816,7 +17833,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T12:48:01.159688"
+    "extracted_at": "2026-01-14T12:53:01.496638"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -17993,7 +18010,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T12:48:01.159688"
+    "extracted_at": "2026-01-14T12:53:01.496638"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -27104,12 +27121,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-14T12:48:01.165690"
+    "extracted_at": "2026-01-14T12:53:01.502637"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-14T12:48:01.165690"
+    "extracted_at": "2026-01-14T12:53:01.503638"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -27286,6 +27303,6 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-14T12:48:01.165690"
+    "extracted_at": "2026-01-14T12:53:01.503638"
   }
 ]
