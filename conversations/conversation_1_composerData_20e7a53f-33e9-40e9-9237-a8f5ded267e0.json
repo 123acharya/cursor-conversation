@@ -2216,6 +2216,15 @@
       {
         "bubbleId": "5910c8a1-f37e-4c29-bce7-d2e65571aa0b",
         "type": 2
+      },
+      {
+        "bubbleId": "621d01fd-78b9-4b8e-9d8f-2961c7745d63",
+        "type": 1
+      },
+      {
+        "bubbleId": "dcb11153-0942-402d-9ac7-e6f6ff1f47be",
+        "type": 2,
+        "serverBubbleId": "f9f6d424-9241-4393-8726-d0a45bdde9f7"
       }
     ],
     "conversationMap": {},
@@ -2261,7 +2270,9 @@
         "folderSelections": {},
         "fileSelections": {},
         "terminalFiles": {},
-        "selections": {},
+        "selections": {
+          "{\"uri\":\"file:///g%3A/frappe_docker-main/frappe_docker-main/TEST_BEFORE_AFTER.md\",\"range\":{\"selectionStartLineNumber\":29,\"selectionStartColumn\":3,\"positionLineNumber\":36,\"positionColumn\":33},\"text\":\"```markdown\\nDI01 0004 (1)  ← PCBA component\\r\\n- IC01 0006 (1)  ← PCBA component\\r\\n- MD01 0001 (1)  ← PCBA component\\r\\n- PC01 0001 (1)  ← PCBA component\\r\\n- RE01 0023 (1)  ← PCBA component\\r\\n- CC01 0001 (8) ← PCBA component\\r\\n- CC01 0002 (2) ← PCBA component\\r\\n- CC01 0003 (4) ← PCBA component\\n```\"}": []
+        },
         "terminalSelections": {},
         "selectedDocs": {},
         "externalLinks": {},
@@ -2282,7 +2293,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "af92a64d-f6e0-4d03-9d55-947b2e0dc7ed",
+    "chatGenerationUUID": "ea530dde-081c-4d80-8b4c-5ff40e99c941",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -5413,7 +5424,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768378979833,
+    "lastUpdatedAt": 1768379556368,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -5493,7 +5504,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 56.27000045776367,
+    "contextUsagePercent": 58.50450134277344,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/OFFICE_LAPTOP_HOSTING_GUIDE.md",
@@ -5514,7 +5525,8 @@
       "file:///g%3A/frappe_docker-main/frappe_docker-main/create_server_script_bom_filter.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/bom_filter_client_script.js",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/SETUP_BOM_FILTER_COMPLETE.md",
-      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/COMPLETE_SOLUTION_SUMMARY.md"
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/COMPLETE_SOLUTION_SUMMARY.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/TEST_BEFORE_AFTER.md"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -5548,10 +5560,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "af92a64d-f6e0-4d03-9d55-947b2e0dc7ed",
+    "latestChatGenerationUUID": "ea530dde-081c-4d80-8b4c-5ff40e99c941",
     "isAgentic": true,
     "subtitle": "TEST_BEFORE_AFTER.md, SETUP_BOM_FILTER_COMPLETE.md, bom_filter_client_script.js, create_server_script_bom_filter.py, FLEXIBLE_BOM_FILTER_SOLUTION.md",
     "filesChangedCount": 67
   },
-  "extracted_at": "2026-01-14T13:58:00.312734"
+  "extracted_at": "2026-01-14T14:03:00.312343"
 }
