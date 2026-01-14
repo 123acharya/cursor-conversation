@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"its removing every item from BOM-OB-HEADBAND-002 from the stock entry and its just showing hb common\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"even if i try to add bom of hb common it add at first then it removes everything \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"actually what we have to do is when hb common is invoked we have to find the latedst file from all the boms of headband then we have add all the items in it in ex\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "its removing every item from BOM-OB-HEADBAND-002 from the stock entry and its just showing hb common\neven if i try to add bom of hb common it add at first then it removes everything \nactually what we have to do is when hb common is invoked we have to find the latedst file from all the boms of headband then we have add all the items in it in ex",
+    "text": "",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -4002,6 +4002,53 @@
       {
         "bubbleId": "55e240be-01b3-41ac-b7f8-f0f7a7fd2805",
         "type": 2
+      },
+      {
+        "bubbleId": "88b20cc9-f5eb-47ad-a682-c82a9e8ae333",
+        "type": 1
+      },
+      {
+        "bubbleId": "c46e20f2-fc55-41b6-8ec1-f6a40cde5b2d",
+        "type": 2,
+        "serverBubbleId": "dd2e7adb-d3d2-4dfd-8b17-6d87243bdc5f"
+      },
+      {
+        "bubbleId": "6762b95a-fadc-42bc-9e07-1901f87326e2",
+        "type": 2
+      },
+      {
+        "bubbleId": "17081327-d291-4064-ac64-69778dc76ce2",
+        "type": 2
+      },
+      {
+        "bubbleId": "282935fd-943c-4b1b-a6e1-bbba1f03a9a4",
+        "type": 2
+      },
+      {
+        "bubbleId": "1cc2c491-4d5c-4cbf-b298-6c46b3a7ba1c",
+        "type": 2,
+        "serverBubbleId": "ae8aa092-af6a-4e07-9bfb-7e2faaf0d1db"
+      },
+      {
+        "bubbleId": "30ee69a5-a3ee-4ec4-9f39-07684dde9018",
+        "type": 2
+      },
+      {
+        "bubbleId": "5316261a-1f61-4592-a797-46069247ba42",
+        "type": 2
+      },
+      {
+        "bubbleId": "34cb507d-ecbe-401f-a8f6-cfe317ff2bd5",
+        "type": 2
+      },
+      {
+        "bubbleId": "f627e278-2e0a-49fa-b057-dcc507474123",
+        "type": 2,
+        "serverBubbleId": "a7b6a364-4dab-45ba-ae13-d5528653870c"
+      },
+      {
+        "bubbleId": "054e87d7-dfaa-4882-9c7c-a7c97775ae11",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -4011,18 +4058,7 @@
       "quotes": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [
-        {
-          "uuid": "1f47a1e8-beb2-4fa0-b228-5eda855d759d",
-          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-d7121c9a-ef35-4fd2-99e1-70f0561f8872.png",
-          "dimension": {
-            "width": 1307,
-            "height": 899
-          },
-          "loadedAt": 1768399550018,
-          "addedWithoutMention": true
-        }
-      ],
+      "selectedImages": [],
       "folderSelections": [],
       "fileSelections": [
         {
@@ -6209,6 +6245,58 @@
           "diffId": "c417dd3c-62cb-43b4-abef-82b3955f3cde",
           "lastDiffId": "91cb2d20-e4f7-4538-b9d3-ce075ccb94ac",
           "lastAppliedAt": 1768399034146
+        },
+        "b3863938-b516-4117-83f5-01518879d9a9": {
+          "_v": 3,
+          "bubbleId": "282935fd-943c-4b1b-a6e1-bbba1f03a9a4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+            "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "b3863938-b516-4117-83f5-01518879d9a9",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "6ead7e3f-012e-41f3-b9e2-e515af3e3112",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768399917218,
+          "composerChatGenerationUuid": "97713fa6-dd0f-4cca-8532-447c3317ec4c",
+          "diffId": "28ccae19-98e0-4281-bf22-afa6ae0bf2a8",
+          "lastDiffId": "5e3ab0d4-c54f-40bc-a146-36d7d8c4b80b",
+          "lastAppliedAt": 1768399922505
+        },
+        "afa9878e-f03c-42fc-9a60-b431ae5b85df": {
+          "_v": 3,
+          "bubbleId": "34cb507d-ecbe-401f-a8f6-cfe317ff2bd5",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Downloads\\Stock Entry Purpose + Pcb Scan Script.txt",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
+            "path": "/c:/Users/pc/Downloads/Stock Entry Purpose + Pcb Scan Script.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "afa9878e-f03c-42fc-9a60-b431ae5b85df",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "b3863938-b516-4117-83f5-01518879d9a9",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768399926963,
+          "composerChatGenerationUuid": "97713fa6-dd0f-4cca-8532-447c3317ec4c",
+          "diffId": "1c57a8c7-652d-44dc-a935-b34166d2b370",
+          "lastDiffId": "3851fb99-595d-4d1e-a263-13fc386b0d19",
+          "lastAppliedAt": 1768399935921
         }
       },
       "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_stock_entry_default_warehouse.py": {
@@ -10043,7 +10131,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768399040318,
+    "lastUpdatedAt": 1768399943120,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -10123,7 +10211,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 94.39400005340576,
+    "contextUsagePercent": 98.34150004386902,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
@@ -10159,7 +10247,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 13671,
+    "totalLinesAdded": 13717,
     "totalLinesRemoved": 8,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -10181,10 +10269,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "8d5f633d-5e70-4e9b-a009-81f6e426eb98",
+    "latestChatGenerationUUID": "97713fa6-dd0f-4cca-8532-447c3317ec4c",
     "isAgentic": true,
     "subtitle": "Stock Entry Purpose + Pcb Scan Script.txt, CREATE_HB_COMMON_RULE.txt, CHECK_AND_UPDATE_RULES.txt, UPDATE_RULE_CLEAN.txt, MAKE_BOM_INACTIVE_UNLOCKED.txt",
     "filesChangedCount": 101
   },
-  "extracted_at": "2026-01-14T19:38:00.946122"
+  "extracted_at": "2026-01-14T19:43:01.215882"
 }
