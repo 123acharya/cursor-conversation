@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Microsoft Windows [Version 10.0.19045.6466]\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(c) Microsoft Corporation. All rights reserved.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"G:\\\\frappe_docker-main\\\\frappe_docker-main>docker compose exec backend bash -c \\\"cd /home/frappe/frappe-bench && bench --site frontend console\\\"\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Apps in this namespace:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe, erpnext\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [1]: exec(\\\"\\\"\\\"bom = frappe.get_doc(\\\"BOM\\\", \\\"BOM-HB-COMMON-001\\\"); print(f\\\"Found BOM with {len(bom.items)} items\\\")\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   ...: ; exists = False; [setattr(locals(), 'exists', True) or print(f\\\"Item already exists at row {item.idx}, qt\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   ...: y: {item.qty}\\\") for item in bom.items if item.item_code == \\\"PL01 0013\\\"]; bom.append(\\\"items\\\", {\\\"item_code\\\"\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   ...: : \\\"PL01 0013\\\", \\\"qty\\\": 1, \\\"uom\\\": \\\"Nos\\\", \\\"rate\\\": 0}) if not exists else None; bom.save() if not exists else\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   ...:  None; bom.reload() if not exists else None; print(f\\\"✅ Added PL01 0013. BOM now has {len(bom.items)} it e\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   ...: ms\\\") if not exists else print(\\\"No changes - item exists\\\"); frappe.db.commit() if not exists else None\\\"\\\"\\\")\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Found BOM with 12 items\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"---------------------------------------------------------------------------\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"UpdateAfterSubmitError                    Traceback (most recent call last)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"File <ipython-input-1-d925b8e3a91d>:1\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"----> 1 exec(\\\"\\\"\\\"bom = frappe.get_doc(\\\"BOM\\\", \\\"BOM-HB-COMMON-001\\\"); print(f\\\"Found BOM with {len(bom.items)} items\\\"); exists = False; [setattr(locals(), 'exists', True) or print(f\\\"Item already exists at row {item.idx}, qty: {item.qty}\\\") for item in bom.items if item.item_code == \\\"PL01 0013\\\"]; bom.append(\\\"items\\\", {\\\"item_code\\\": \\\"PL01 0013\\\", \\\"qty\\\": 1, \\\"uom\\\": \\\"Nos\\\", \\\"rate\\\": 0}) if not exists else None; bom.save() if not exists else None; bom.reload() if not exists else None; print(f\\\"✅ Added PL01 0013. BOM now has {len(bom.items)} items\\\") if not exists else print(\\\"No changes - item exists\\\"); frappe.db.commit() if not exists else None\\\"\\\"\\\")\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"File <string>:1\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"File ~/frappe-bench/apps/frappe/frappe/model/document.py:324, in Document.save(self, *args, **kwargs)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    322 def save(self, *args, **kwargs):\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    323         \\\"\\\"\\\"Wrapper for _save\\\"\\\"\\\"\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"--> 324         return self._save(*args, **kwargs)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"File ~/frappe-bench/apps/frappe/frappe/model/document.py:365, in Document._save(self, ignore_permissions, ignore_version)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    362         self._validate()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    364 if self._action == \\\"update_after_submit\\\":\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"--> 365         self.validate_update_after_submit()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    367 self.set_docstatus()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    369 # parent\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"File ~/frappe-bench/apps/frappe/frappe/model/document.py:867, in Document.validate_update_after_submit(self)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    864 if self.flags.ignore_validate_update_after_submit:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    865         return\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"--> 867 self._validate_update_after_submit()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    868 for d in self.get_all_children():\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    869         if d.is_new() and self.meta.get_field(d.parentfield).allow_on_submit:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    870                 # in case of a new row, don't validate allow on submit, if table is allow on submit\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"File ~/frappe-bench/apps/frappe/frappe/model/base_document.py:1013, in BaseDocument._validate_update_after_submit(self)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1006         db_value = datetime.timedelta(\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1007                 hours=db_value.hour,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1008                 minutes=db_value.minute,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1009                 seconds=db_value.second,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1010                 microseconds=db_value.microsecond,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1011         )\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1012 if self_value != db_value:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"-> 1013         frappe.throw(\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1014                 _(\\\"{0} Not allowed to change {1} after submission from {2} to {3}\\\").format(\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1015                         f\\\"Row #{self.idx}:\\\" if self.get(\\\"parent\\\") else \\\"\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1016                         frappe.bold(_(df.label)),\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1017                         frappe.bold(db_value),\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1018                         frappe.bold(self_value),\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1019                 ),\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1020                 frappe.UpdateAfterSubmitError,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1021                 title=_(\\\"Cannot Update After Submit\\\"),\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   1022         )\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"File ~/frappe-bench/apps/frappe/frappe/__init__.py:552, in throw(msg, exc, title, is_minimizable, wide, as_list, primary_action)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    533 def throw(\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    534         msg: str,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    535         exc: type[Exception] | Exception = ValidationError,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   (...)\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    540         primary_action=None,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    541 ) -> None:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    542         \\\"\\\"\\\"Throw execption and show message (`msgprint`).\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    543\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    544         :param msg: Message.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"   (...)\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    550         :param primary_action: [optional] Bind a primary server/client side action.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    551         \\\"\\\"\\\"\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"--> 552         msgprint(\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    553                 msg,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    554                 raise_exception=exc,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    555                 title=title,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    556                 indicator=\\\"red\\\",\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    557                 is_minimizable=is_minimizable,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    558                 wide=wide,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    559                 as_list=as_list,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    560                 primary_action=primary_action,\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    561         )\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"File ~/frappe-bench/apps/frappe/frappe/__init__.py:513, in msgprint(msg, title, raise_exception, as_table, as_list, indicator, alert, primary_action, is_minimizable, wide, realtime)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    510 if raise_exception and hasattr(raise_exception, \\\"__name__\\\"):\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    511         local.response[\\\"exc_type\\\"] = raise_exception.__name__\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"--> 513 _raise_exception()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"File ~/frappe-bench/apps/frappe/frappe/__init__.py:456, in msgprint.<locals>._raise_exception()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    454 if raise_exception:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    455         if inspect.isclass(raise_exception) and issubclass(raise_exception, Exception):\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"--> 456                 raise raise_exception(msg)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    457         elif isinstance(raise_exception, Exception):\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    458                 raise_exception.args = (msg,)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"UpdateAfterSubmitError:  Not allowed to change Items after submission from 12 to 13\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [2]:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "Microsoft Windows [Version 10.0.19045.6466]\n(c) Microsoft Corporation. All rights reserved.\n\nG:\\frappe_docker-main\\frappe_docker-main>docker compose exec backend bash -c \"cd /home/frappe/frappe-bench && bench --site frontend console\"\nApps in this namespace:\nfrappe, erpnext\n\nIn [1]: exec(\"\"\"bom = frappe.get_doc(\"BOM\", \"BOM-HB-COMMON-001\"); print(f\"Found BOM with {len(bom.items)} items\")\n   ...: ; exists = False; [setattr(locals(), 'exists', True) or print(f\"Item already exists at row {item.idx}, qt\n   ...: y: {item.qty}\") for item in bom.items if item.item_code == \"PL01 0013\"]; bom.append(\"items\", {\"item_code\"\n   ...: : \"PL01 0013\", \"qty\": 1, \"uom\": \"Nos\", \"rate\": 0}) if not exists else None; bom.save() if not exists else\n   ...:  None; bom.reload() if not exists else None; print(f\"✅ Added PL01 0013. BOM now has {len(bom.items)} it e\n   ...: ms\") if not exists else print(\"No changes - item exists\"); frappe.db.commit() if not exists else None\"\"\")\n   ...:\nFound BOM with 12 items\n---------------------------------------------------------------------------\nUpdateAfterSubmitError                    Traceback (most recent call last)\nFile <ipython-input-1-d925b8e3a91d>:1\n----> 1 exec(\"\"\"bom = frappe.get_doc(\"BOM\", \"BOM-HB-COMMON-001\"); print(f\"Found BOM with {len(bom.items)} items\"); exists = False; [setattr(locals(), 'exists', True) or print(f\"Item already exists at row {item.idx}, qty: {item.qty}\") for item in bom.items if item.item_code == \"PL01 0013\"]; bom.append(\"items\", {\"item_code\": \"PL01 0013\", \"qty\": 1, \"uom\": \"Nos\", \"rate\": 0}) if not exists else None; bom.save() if not exists else None; bom.reload() if not exists else None; print(f\"✅ Added PL01 0013. BOM now has {len(bom.items)} items\") if not exists else print(\"No changes - item exists\"); frappe.db.commit() if not exists else None\"\"\")\n\nFile <string>:1\n\nFile ~/frappe-bench/apps/frappe/frappe/model/document.py:324, in Document.save(self, *args, **kwargs)\n    322 def save(self, *args, **kwargs):\n    323         \"\"\"Wrapper for _save\"\"\"\n--> 324         return self._save(*args, **kwargs)\n\nFile ~/frappe-bench/apps/frappe/frappe/model/document.py:365, in Document._save(self, ignore_permissions, ignore_version)\n    362         self._validate()\n    364 if self._action == \"update_after_submit\":\n--> 365         self.validate_update_after_submit()\n    367 self.set_docstatus()\n    369 # parent\n\nFile ~/frappe-bench/apps/frappe/frappe/model/document.py:867, in Document.validate_update_after_submit(self)\n    864 if self.flags.ignore_validate_update_after_submit:\n    865         return\n--> 867 self._validate_update_after_submit()\n    868 for d in self.get_all_children():\n    869         if d.is_new() and self.meta.get_field(d.parentfield).allow_on_submit:\n    870                 # in case of a new row, don't validate allow on submit, if table is allow on submit\n\nFile ~/frappe-bench/apps/frappe/frappe/model/base_document.py:1013, in BaseDocument._validate_update_after_submit(self)\n   1006         db_value = datetime.timedelta(\n   1007                 hours=db_value.hour,\n   1008                 minutes=db_value.minute,\n   1009                 seconds=db_value.second,\n   1010                 microseconds=db_value.microsecond,\n   1011         )\n   1012 if self_value != db_value:\n-> 1013         frappe.throw(\n   1014                 _(\"{0} Not allowed to change {1} after submission from {2} to {3}\").format(\n   1015                         f\"Row #{self.idx}:\" if self.get(\"parent\") else \"\",\n   1016                         frappe.bold(_(df.label)),\n   1017                         frappe.bold(db_value),\n   1018                         frappe.bold(self_value),\n   1019                 ),\n   1020                 frappe.UpdateAfterSubmitError,\n   1021                 title=_(\"Cannot Update After Submit\"),\n   1022         )\n\nFile ~/frappe-bench/apps/frappe/frappe/__init__.py:552, in throw(msg, exc, title, is_minimizable, wide, as_list, primary_action)\n    533 def throw(\n    534         msg: str,\n    535         exc: type[Exception] | Exception = ValidationError,\n   (...)\n    540         primary_action=None,\n    541 ) -> None:\n    542         \"\"\"Throw execption and show message (`msgprint`).\n    543\n    544         :param msg: Message.\n   (...)\n    550         :param primary_action: [optional] Bind a primary server/client side action.\n    551         \"\"\"\n--> 552         msgprint(\n    553                 msg,\n    554                 raise_exception=exc,\n    555                 title=title,\n    556                 indicator=\"red\",\n    557                 is_minimizable=is_minimizable,\n    558                 wide=wide,\n    559                 as_list=as_list,\n    560                 primary_action=primary_action,\n    561         )\n\nFile ~/frappe-bench/apps/frappe/frappe/__init__.py:513, in msgprint(msg, title, raise_exception, as_table, as_list, indicator, alert, primary_action, is_minimizable, wide, realtime)\n    510 if raise_exception and hasattr(raise_exception, \"__name__\"):\n    511         local.response[\"exc_type\"] = raise_exception.__name__\n--> 513 _raise_exception()\n\nFile ~/frappe-bench/apps/frappe/frappe/__init__.py:456, in msgprint.<locals>._raise_exception()\n    454 if raise_exception:\n    455         if inspect.isclass(raise_exception) and issubclass(raise_exception, Exception):\n--> 456                 raise raise_exception(msg)\n    457         elif isinstance(raise_exception, Exception):\n    458                 raise_exception.args = (msg,)\n\nUpdateAfterSubmitError:  Not allowed to change Items after submission from 12 to 13\n\nIn [2]:\n",
+      "text": "",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -3676,6 +3676,66 @@
         },
         {
           "bubbleId": "040999c9-eed1-4976-862e-37a63f6792a7",
+          "type": 2
+        },
+        {
+          "bubbleId": "a8215f76-6dcd-4a93-b7af-99ff3f3ed354",
+          "type": 1
+        },
+        {
+          "bubbleId": "90259d02-c4c0-40ef-90a4-6d0636a93d4b",
+          "type": 2,
+          "serverBubbleId": "7fba97ea-d86b-4ffe-a193-e2a4322cd246"
+        },
+        {
+          "bubbleId": "d2857971-3e6b-48d9-b4f6-5468df3450fb",
+          "type": 2
+        },
+        {
+          "bubbleId": "af523510-9e7d-45d8-9c35-2e8799b9bbe8",
+          "type": 2
+        },
+        {
+          "bubbleId": "8f5e259f-0452-4fff-8dbd-d7a74994373f",
+          "type": 2
+        },
+        {
+          "bubbleId": "de999ef2-0de9-4d3a-9b2a-6a8ca304872f",
+          "type": 2,
+          "serverBubbleId": "72f40733-2def-4b36-8c78-89b6dca6cd59"
+        },
+        {
+          "bubbleId": "c3286486-c913-46bf-8c4c-ac2ee816a5fa",
+          "type": 2
+        },
+        {
+          "bubbleId": "932ede9b-e3eb-475d-a26a-3333b200ddee",
+          "type": 1
+        },
+        {
+          "bubbleId": "7ada1e2d-28e0-4f4b-a900-1a4694b32aa8",
+          "type": 2,
+          "serverBubbleId": "c7db0511-da54-43fb-a3c8-8becb0d20d6d"
+        },
+        {
+          "bubbleId": "4d23ef21-3e39-47e5-bdf5-e3755f9e3e42",
+          "type": 2
+        },
+        {
+          "bubbleId": "8a4e7499-1532-4344-9e54-f598a455ad51",
+          "type": 2
+        },
+        {
+          "bubbleId": "9153bc0b-2a9e-4f17-858a-5ece5474083f",
+          "type": 2
+        },
+        {
+          "bubbleId": "6dee0a45-86dd-449e-9908-069757ec83c4",
+          "type": 2,
+          "serverBubbleId": "7a2d1cb2-6c36-48a3-ab15-5bb61d6ad34e"
+        },
+        {
+          "bubbleId": "bd7c91a9-0765-423d-a2e9-cecdc14706db",
           "type": 2
         }
       ],
@@ -7766,6 +7826,102 @@
             "lastDiffId": "96b11e8d-7a52-4e06-97ff-dde26f2276db",
             "lastAppliedAt": 1768397045712
           }
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_ITEM_TO_BOM_002.txt": {
+          "61a6a41f-3ce7-4cb3-9dfd-78d1a82dbb4d": {
+            "_v": 3,
+            "bubbleId": "af523510-9e7d-45d8-9c35-2e8799b9bbe8",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\ADD_ITEM_TO_BOM_002.txt",
+              "_sep": 1,
+              "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_ITEM_TO_BOM_002.txt",
+              "path": "/G:/frappe_docker-main/frappe_docker-main/ADD_ITEM_TO_BOM_002.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "61a6a41f-3ce7-4cb3-9dfd-78d1a82dbb4d",
+            "status": "completed",
+            "languageId": "plaintext",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768397285599,
+            "composerChatGenerationUuid": "21ba461b-bf7a-4c44-859a-0ecc2379c6c2",
+            "diffId": "b9ad17de-729b-40f7-95e1-e7a3c4d721f8",
+            "lastDiffId": "ca116ff9-f848-4456-ac6b-7ed74a12f556",
+            "lastAppliedAt": 1768397286741
+          }
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_BOM_001_INACTIVE.txt": {
+          "b7c51fa0-d613-4f0c-bf26-0af20853b9de": {
+            "_v": 3,
+            "bubbleId": "8f5e259f-0452-4fff-8dbd-d7a74994373f",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\MAKE_BOM_001_INACTIVE.txt",
+              "_sep": 1,
+              "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_BOM_001_INACTIVE.txt",
+              "path": "/G:/frappe_docker-main/frappe_docker-main/MAKE_BOM_001_INACTIVE.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "b7c51fa0-d613-4f0c-bf26-0af20853b9de",
+            "status": "completed",
+            "languageId": "plaintext",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768397290191,
+            "composerChatGenerationUuid": "21ba461b-bf7a-4c44-859a-0ecc2379c6c2",
+            "diffId": "07080e4b-2b66-47a9-a764-85a1bb55ef3f",
+            "lastDiffId": "db227d0c-e6b8-4e1c-b82f-e0590f10dba5",
+            "lastAppliedAt": 1768397291342
+          }
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_BOM_INACTIVE_FINAL.txt": {
+          "b3a21648-dd75-4bbd-9146-da8cf1b3f2fa": {
+            "_v": 3,
+            "bubbleId": "8a4e7499-1532-4344-9e54-f598a455ad51",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\MAKE_BOM_INACTIVE_FINAL.txt",
+              "_sep": 1,
+              "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_BOM_INACTIVE_FINAL.txt",
+              "path": "/G:/frappe_docker-main/frappe_docker-main/MAKE_BOM_INACTIVE_FINAL.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "b3a21648-dd75-4bbd-9146-da8cf1b3f2fa",
+            "status": "completed",
+            "languageId": "plaintext",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768397469367,
+            "composerChatGenerationUuid": "8ad948d4-0945-43d7-8549-7fe61ad0bd5f",
+            "diffId": "061f0b81-70ce-4359-bada-647a81c23dc5",
+            "lastDiffId": "e0cee56b-5933-4fa7-8f60-e9b260d87d8b",
+            "lastAppliedAt": 1768397470764
+          }
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/UPDATE_BOM_EXPANSION_RULE.txt": {
+          "36cbe29f-a20e-4d39-a1af-18f42d00ea28": {
+            "_v": 3,
+            "bubbleId": "9153bc0b-2a9e-4f17-858a-5ece5474083f",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\UPDATE_BOM_EXPANSION_RULE.txt",
+              "_sep": 1,
+              "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/UPDATE_BOM_EXPANSION_RULE.txt",
+              "path": "/G:/frappe_docker-main/frappe_docker-main/UPDATE_BOM_EXPANSION_RULE.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "36cbe29f-a20e-4d39-a1af-18f42d00ea28",
+            "status": "completed",
+            "languageId": "plaintext",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768397481279,
+            "composerChatGenerationUuid": "8ad948d4-0945-43d7-8549-7fe61ad0bd5f",
+            "diffId": "6d13fa48-3425-4cff-9b4c-ba14d4899c77",
+            "lastDiffId": "8bcc2fe6-f4a0-4a51-808e-79dc70409b4d",
+            "lastAppliedAt": 1768397482775
+          }
         }
       },
       "originalFileStates": {
@@ -8318,6 +8474,30 @@
         "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_ITEM_SINGLE_LINE.txt": {
           "content": "",
           "firstEditBubbleId": "d9e588c3-fdab-4073-ab14-7e3de06f0739",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_ITEM_TO_BOM_002.txt": {
+          "content": "",
+          "firstEditBubbleId": "af523510-9e7d-45d8-9c35-2e8799b9bbe8",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_BOM_001_INACTIVE.txt": {
+          "content": "",
+          "firstEditBubbleId": "8f5e259f-0452-4fff-8dbd-d7a74994373f",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_BOM_INACTIVE_FINAL.txt": {
+          "content": "",
+          "firstEditBubbleId": "8a4e7499-1532-4344-9e54-f598a455ad51",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/UPDATE_BOM_EXPANSION_RULE.txt": {
+          "content": "",
+          "firstEditBubbleId": "9153bc0b-2a9e-4f17-858a-5ece5474083f",
           "isNewlyCreated": true,
           "newlyCreatedFolders": []
         }
@@ -9122,10 +9302,50 @@
             "path": "/G:/frappe_docker-main/frappe_docker-main/ADD_ITEM_SINGLE_LINE.txt",
             "scheme": "file"
           }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\ADD_ITEM_TO_BOM_002.txt",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_ITEM_TO_BOM_002.txt",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/ADD_ITEM_TO_BOM_002.txt",
+            "scheme": "file"
+          }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\MAKE_BOM_001_INACTIVE.txt",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_BOM_001_INACTIVE.txt",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/MAKE_BOM_001_INACTIVE.txt",
+            "scheme": "file"
+          }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\MAKE_BOM_INACTIVE_FINAL.txt",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_BOM_INACTIVE_FINAL.txt",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/MAKE_BOM_INACTIVE_FINAL.txt",
+            "scheme": "file"
+          }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\UPDATE_BOM_EXPANSION_RULE.txt",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/UPDATE_BOM_EXPANSION_RULE.txt",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/UPDATE_BOM_EXPANSION_RULE.txt",
+            "scheme": "file"
+          }
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768397049732,
+      "lastUpdatedAt": 1768397487653,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -9205,7 +9425,7 @@
           "amount": 8
         }
       },
-      "contextUsagePercent": 73.51049995422363,
+      "contextUsagePercent": 76.70299911499023,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
         "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
@@ -9218,7 +9438,10 @@
         "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_ITEM_TO_BOM.txt",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/make_bom_inactive.py",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/run_add_item.sh",
-        "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_ITEM_CORRECTED.txt"
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_ITEM_CORRECTED.txt",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_ITEM_SINGLE_LINE.txt",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_ITEM_TO_BOM_002.txt",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_BOM_001_INACTIVE.txt"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -9230,7 +9453,7 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 13359,
+      "totalLinesAdded": 13466,
       "totalLinesRemoved": 8,
       "addedFiles": 0,
       "removedFiles": 0,
@@ -9252,12 +9475,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "e37ce279-4dff-4447-9367-4031390a1a7a",
+      "latestChatGenerationUUID": "8ad948d4-0945-43d7-8549-7fe61ad0bd5f",
       "isAgentic": true,
-      "subtitle": "ADD_ITEM_SINGLE_LINE.txt, ADD_ITEM_CORRECTED.txt, run_add_item.sh, make_bom_inactive.py, ADD_ITEM_TO_BOM.txt",
-      "filesChangedCount": 91
+      "subtitle": "UPDATE_BOM_EXPANSION_RULE.txt, MAKE_BOM_INACTIVE_FINAL.txt, MAKE_BOM_001_INACTIVE.txt, ADD_ITEM_TO_BOM_002.txt, ADD_ITEM_SINGLE_LINE.txt",
+      "filesChangedCount": 95
     },
-    "extracted_at": "2026-01-14T18:58:01.058349"
+    "extracted_at": "2026-01-14T19:03:00.863266"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -13416,7 +13639,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py, COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-14T18:58:01.071348"
+    "extracted_at": "2026-01-14T19:03:00.864265"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -21928,7 +22151,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-14T18:58:01.082694"
+    "extracted_at": "2026-01-14T19:03:00.870319"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -22146,7 +22369,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T18:58:01.082694"
+    "extracted_at": "2026-01-14T19:03:00.870319"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -22323,7 +22546,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T18:58:01.082694"
+    "extracted_at": "2026-01-14T19:03:00.870319"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -31434,12 +31657,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-14T18:58:01.091695"
+    "extracted_at": "2026-01-14T19:03:00.877442"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-14T18:58:01.091695"
+    "extracted_at": "2026-01-14T19:03:00.877442"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -31618,6 +31841,6 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T18:58:01.091695"
+    "extracted_at": "2026-01-14T19:03:00.877442"
   }
 ]
