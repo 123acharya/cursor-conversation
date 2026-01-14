@@ -2485,6 +2485,19 @@
       {
         "bubbleId": "369fef0c-767f-4dc3-b81f-58d712a53269",
         "type": 2
+      },
+      {
+        "bubbleId": "c2cddfd3-cb84-4408-a477-3511b0aedf14",
+        "type": 1
+      },
+      {
+        "bubbleId": "7609f972-a1b0-4fe6-9911-a8ffb5947780",
+        "type": 2,
+        "serverBubbleId": "6346b8d9-2832-42b8-889e-2d1d5e1d4498"
+      },
+      {
+        "bubbleId": "a60465ea-3ea2-4ca9-9d6f-80ae1b99767c",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -6069,7 +6082,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768387580860,
+    "lastUpdatedAt": 1768387788099,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -6149,7 +6162,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 73.5674991607666,
+    "contextUsagePercent": 74.07349967956543,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/OFFICE_LAPTOP_HOSTING_GUIDE.md",
@@ -6214,10 +6227,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "0424f0bb-73f1-4d41-aa00-a2fd2f933ba9",
+    "latestChatGenerationUUID": "70d0436b-3954-4aa2-9790-48200a063c42",
     "isAgentic": true,
     "subtitle": "DEBUG_BOM_FILTER.md, ADD_BOM_FILTER_TO_STOCK_ENTRY.md, setup_bom_rules.py, create_rules_final.py, fix_and_create_all_rules.py",
     "filesChangedCount": 76
   },
-  "extracted_at": "2026-01-14T16:18:00.535749"
+  "extracted_at": "2026-01-14T16:23:00.540404"
 }
