@@ -2473,6 +2473,19 @@
         {
           "bubbleId": "5b57b824-f98d-4ea0-a0cd-296e417acf30",
           "type": 2
+        },
+        {
+          "bubbleId": "b78070fe-ffb1-4e94-be77-445c60bd1711",
+          "type": 1
+        },
+        {
+          "bubbleId": "29a57e64-0e37-4646-99ec-1c7fa2bbe46a",
+          "type": 2,
+          "serverBubbleId": "07adb841-08a3-41ce-a01e-a5768c3c1aa0"
+        },
+        {
+          "bubbleId": "369fef0c-767f-4dc3-b81f-58d712a53269",
+          "type": 2
         }
       ],
       "conversationMap": {},
@@ -6057,7 +6070,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768387146962,
+      "lastUpdatedAt": 1768387580860,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -6137,7 +6150,7 @@
           "amount": 8
         }
       },
-      "contextUsagePercent": 72.44700050354004,
+      "contextUsagePercent": 73.5674991607666,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/OFFICE_LAPTOP_HOSTING_GUIDE.md",
@@ -6167,7 +6180,8 @@
         "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_and_create_all_rules.py",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/create_rules_final.py",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/setup_bom_rules.py",
-        "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_BOM_FILTER_TO_STOCK_ENTRY.md"
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_BOM_FILTER_TO_STOCK_ENTRY.md",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/DEBUG_BOM_FILTER.md"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -6201,12 +6215,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "ff1eedff-9a12-476d-b2b4-6556c6e5f42f",
+      "latestChatGenerationUUID": "0424f0bb-73f1-4d41-aa00-a2fd2f933ba9",
       "isAgentic": true,
       "subtitle": "DEBUG_BOM_FILTER.md, ADD_BOM_FILTER_TO_STOCK_ENTRY.md, setup_bom_rules.py, create_rules_final.py, fix_and_create_all_rules.py",
       "filesChangedCount": 76
     },
-    "extracted_at": "2026-01-14T16:13:00.549424"
+    "extracted_at": "2026-01-14T16:18:00.535749"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -10365,7 +10379,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py, COMPLETE_SOLUTION_SUMMARY.md, SOLUTION_FOR_LIMITATIONS.md, extract_full_conversations.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-14T16:13:00.549424"
+    "extracted_at": "2026-01-14T16:18:00.536809"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -18877,7 +18891,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-14T16:13:00.555523"
+    "extracted_at": "2026-01-14T16:18:00.542930"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -19095,7 +19109,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T16:13:00.555523"
+    "extracted_at": "2026-01-14T16:18:00.542930"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -19272,7 +19286,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T16:13:00.555523"
+    "extracted_at": "2026-01-14T16:18:00.542930"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -28383,12 +28397,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-14T16:13:00.561714"
+    "extracted_at": "2026-01-14T16:18:00.549480"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-14T16:13:00.561714"
+    "extracted_at": "2026-01-14T16:18:00.549480"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -28567,6 +28581,6 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-14T16:13:00.561714"
+    "extracted_at": "2026-01-14T16:18:00.549480"
   }
 ]
