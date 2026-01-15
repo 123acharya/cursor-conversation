@@ -4191,6 +4191,19 @@
       {
         "bubbleId": "0c2d3d83-f310-45f9-9217-134ef243305b",
         "type": 2
+      },
+      {
+        "bubbleId": "482aec89-4738-420a-b9e9-b8ab6b5960d0",
+        "type": 1
+      },
+      {
+        "bubbleId": "efcae3cd-d2f5-42b8-aba9-ec75a3e03e8f",
+        "type": 2,
+        "serverBubbleId": "ba3098ee-4615-4bc2-bf41-b2674f9407c8"
+      },
+      {
+        "bubbleId": "963d4467-07bb-41e7-851f-94a88e5a59c8",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -10447,7 +10460,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768464331837,
+    "lastUpdatedAt": 1768464835714,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -10527,13 +10540,14 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 63.83449935913086,
+    "contextUsagePercent": 63.881500244140625,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
       "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/full_conversations/FULL_conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/check_and_fix_bom_eg_headband.txt",
-      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_bom_eg_headband_simple.txt"
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_bom_eg_headband_simple.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/enable_developer_mode_and_fix_bom.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -10567,10 +10581,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "1f7d1f58-d813-4ee8-821b-31005d4eb817",
+    "latestChatGenerationUUID": "a2917ea5-3e45-4189-bfba-37608d3af38a",
     "isAgentic": true,
     "subtitle": "enable_developer_mode_and_fix_bom.txt, fix_bom_eg_headband_simple.txt, check_and_fix_bom_eg_headband.txt, Stock Entry Purpose + Pcb Scan Script.txt, CREATE_HB_COMMON_RULE.txt",
     "filesChangedCount": 104
   },
-  "extracted_at": "2026-01-15T13:43:00.626443"
+  "extracted_at": "2026-01-15T13:48:00.561509"
 }
