@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"EVERYTHING is working pefectly fine except for PCB scanning request.js:270 \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" POST http://localhost:8080/api/method/get_pcb_iqc_data 417 (EXPECTATION FAILED)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"request.js:459 Traceback (most recent call last):\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 74, in execute_cmd\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    method = get_attr(cmd)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 291, in get_attr\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    method = globals()[cmd]\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"KeyError: 'get_pcb_iqc_data'\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"During handling of the above exception, another exception occurred:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Traceback (most recent call last):\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/app.py\\\", line 103, in application\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    response = frappe.api.handle()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/api.py\\\", line 55, in handle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return frappe.handler.handle()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 50, in handle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    data = execute_cmd(cmd)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 76, in execute_cmd\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    frappe.throw(_(\\\"Failed to get method for command {0} with {1}\\\").format(cmd, e))\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 552, in throw\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    msgprint(\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 513, in msgprint\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    _raise_exception()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 456, in _raise_exception\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    raise raise_exception(msg)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.exceptions.ValidationError: Failed to get method for command get_pcb_iqc_data with 'get_pcb_iqc_data'\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"stock_entry__custom_js:957 PCB IQC Line lookup failed: \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"{readyState: 4, getResponseHeader: ƒ, getAllResponseHeaders: ƒ, setRequestHeader: ƒ, overrideMimeType: ƒ, …}\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "EVERYTHING is working pefectly fine except for PCB scanning request.js:270 \n POST http://localhost:8080/api/method/get_pcb_iqc_data 417 (EXPECTATION FAILED)\n\nrequest.js:459 Traceback (most recent call last):\n  File \"apps/frappe/frappe/handler.py\", line 74, in execute_cmd\n    method = get_attr(cmd)\n  File \"apps/frappe/frappe/handler.py\", line 291, in get_attr\n    method = globals()[cmd]\nKeyError: 'get_pcb_iqc_data'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"apps/frappe/frappe/app.py\", line 103, in application\n    response = frappe.api.handle()\n  File \"apps/frappe/frappe/api.py\", line 55, in handle\n    return frappe.handler.handle()\n  File \"apps/frappe/frappe/handler.py\", line 50, in handle\n    data = execute_cmd(cmd)\n  File \"apps/frappe/frappe/handler.py\", line 76, in execute_cmd\n    frappe.throw(_(\"Failed to get method for command {0} with {1}\").format(cmd, e))\n  File \"apps/frappe/frappe/__init__.py\", line 552, in throw\n    msgprint(\n  File \"apps/frappe/frappe/__init__.py\", line 513, in msgprint\n    _raise_exception()\n  File \"apps/frappe/frappe/__init__.py\", line 456, in _raise_exception\n    raise raise_exception(msg)\nfrappe.exceptions.ValidationError: Failed to get method for command get_pcb_iqc_data with 'get_pcb_iqc_data'\nstock_entry__custom_js:957 PCB IQC Line lookup failed: \n{readyState: 4, getResponseHeader: ƒ, getAllResponseHeaders: ƒ, setRequestHeader: ƒ, overrideMimeType: ƒ, …}",
+    "text": "",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "6239644d-c08e-45aa-9cfa-987d7df50605",
@@ -4203,6 +4203,36 @@
       },
       {
         "bubbleId": "963d4467-07bb-41e7-851f-94a88e5a59c8",
+        "type": 2
+      },
+      {
+        "bubbleId": "54d302a0-d035-4c00-b427-7eb2673aa2a4",
+        "type": 1
+      },
+      {
+        "bubbleId": "85fe3182-e93f-4f15-866f-4202c4cc11ac",
+        "type": 2,
+        "serverBubbleId": "9c273e61-301a-4989-a457-6d5fbf2dc606"
+      },
+      {
+        "bubbleId": "b38302ca-a757-4d56-8404-f55a0627eec8",
+        "type": 2
+      },
+      {
+        "bubbleId": "ba73c9af-5f8f-4485-b138-c7857bf66f47",
+        "type": 2
+      },
+      {
+        "bubbleId": "c2c963e8-40c1-4730-8333-0d0f2837b06f",
+        "type": 2
+      },
+      {
+        "bubbleId": "72596cf6-82ba-4a64-9493-829985a92f5f",
+        "type": 2,
+        "serverBubbleId": "b2e28605-7938-42fa-b868-135042c5f13a"
+      },
+      {
+        "bubbleId": "68f555fc-ef32-4075-8ab8-444d844d21ef",
         "type": 2
       }
     ],
@@ -8893,6 +8923,30 @@
           "lastDiffId": "490e2c94-1082-4def-a2fe-e5ee6f318c95",
           "lastAppliedAt": 1768464318051
         }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/create_pcb_iqc_api_server_script.txt": {
+        "39d18a1b-623d-43b3-b917-9f113ba7c89e": {
+          "_v": 3,
+          "bubbleId": "c2c963e8-40c1-4730-8333-0d0f2837b06f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\create_pcb_iqc_api_server_script.txt",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/create_pcb_iqc_api_server_script.txt",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/create_pcb_iqc_api_server_script.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "39d18a1b-623d-43b3-b917-9f113ba7c89e",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768475216084,
+          "composerChatGenerationUuid": "44872969-79b3-4098-881a-5183d6d1a2ce",
+          "diffId": "e04ebcf9-745f-493f-ac67-d8022fa5996c",
+          "lastDiffId": "7cf8d9ff-14e6-4a31-8b26-2d42551da581",
+          "lastAppliedAt": 1768475224528
+        }
       }
     },
     "originalFileStates": {
@@ -9523,6 +9577,12 @@
       "file:///g%3A/frappe_docker-main/frappe_docker-main/enable_developer_mode_and_fix_bom.txt": {
         "content": "",
         "firstEditBubbleId": "7bba234c-40f0-4837-b3a8-51d138e7edd1",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/create_pcb_iqc_api_server_script.txt": {
+        "content": "",
+        "firstEditBubbleId": "c2c963e8-40c1-4730-8333-0d0f2837b06f",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -10457,10 +10517,20 @@
           "path": "/G:/frappe_docker-main/frappe_docker-main/enable_developer_mode_and_fix_bom.txt",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\create_pcb_iqc_api_server_script.txt",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/create_pcb_iqc_api_server_script.txt",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/create_pcb_iqc_api_server_script.txt",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768464835714,
+    "lastUpdatedAt": 1768475229860,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -10540,7 +10610,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 63.881500244140625,
+    "contextUsagePercent": 65.91550064086914,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
@@ -10559,7 +10629,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 14101,
+    "totalLinesAdded": 14299,
     "totalLinesRemoved": 8,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -10581,10 +10651,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "a2917ea5-3e45-4189-bfba-37608d3af38a",
+    "latestChatGenerationUUID": "44872969-79b3-4098-881a-5183d6d1a2ce",
     "isAgentic": true,
-    "subtitle": "enable_developer_mode_and_fix_bom.txt, fix_bom_eg_headband_simple.txt, check_and_fix_bom_eg_headband.txt, Stock Entry Purpose + Pcb Scan Script.txt, CREATE_HB_COMMON_RULE.txt",
-    "filesChangedCount": 104
+    "subtitle": "create_pcb_iqc_api_server_script.txt, enable_developer_mode_and_fix_bom.txt, fix_bom_eg_headband_simple.txt, check_and_fix_bom_eg_headband.txt, Stock Entry Purpose + Pcb Scan Script.txt",
+    "filesChangedCount": 105
   },
-  "extracted_at": "2026-01-15T16:33:01.150275"
+  "extracted_at": "2026-01-15T16:38:01.254504"
 }
