@@ -4534,10 +4534,45 @@
       {
         "bubbleId": "17b0e96d-e1dd-465c-8cdc-0873a1607db3",
         "type": 2
+      },
+      {
+        "bubbleId": "c3aec42c-5de8-476d-99c8-f8f050c8b415",
+        "type": 1
+      },
+      {
+        "bubbleId": "b9d7e4e7-fe44-4248-92f1-f41c1300392e",
+        "type": 2,
+        "serverBubbleId": "d64c5eea-8e85-46d0-b449-e68c3e699785"
+      },
+      {
+        "bubbleId": "b9238aac-356c-442a-b952-422479c263e4",
+        "type": 2
+      },
+      {
+        "bubbleId": "7780152e-54da-45bc-9e18-ab05657cbfd9",
+        "type": 1
+      },
+      {
+        "bubbleId": "4d554f8c-b764-4db1-803c-134b5923acd4",
+        "type": 2,
+        "serverBubbleId": "8eb8f29d-edbb-4cdb-b20e-5a82ef565c2c"
+      },
+      {
+        "bubbleId": "eec0c375-3c8d-4ee4-9642-ce0285b9205f",
+        "type": 2
+      },
+      {
+        "bubbleId": "187af62b-2dd8-49e4-ac4f-7c4895ea9376",
+        "type": 1
+      },
+      {
+        "bubbleId": "d1d50640-41a5-4dd6-8391-e8b15cb97676",
+        "type": 2,
+        "serverBubbleId": "cea29d12-90d3-4765-b23e-3fd8763b1799"
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -4604,6 +4639,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "5fafeb20-262a-4c31-9dd8-3041249ec7ac",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -11110,7 +11146,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768478490351,
+    "lastUpdatedAt": 1768478866530,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -11190,7 +11226,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 56.02199935913086,
+    "contextUsagePercent": 58.67449951171875,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/ANALYZE_EXISTING_SCRIPTS.md",
@@ -11234,10 +11270,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "e6b41974-a970-41c7-b5a3-5d45d8b6d0c8",
+    "latestChatGenerationUUID": "5fafeb20-262a-4c31-9dd8-3041249ec7ac",
     "isAgentic": false,
     "subtitle": "get_server_scripts.py, READ_SERVER_SCRIPTS_INSTRUCTIONS.md, read_server_scripts_simple.py, read_selected_server_scripts.py, CURRENT_SETUP_ANALYSIS.md",
     "filesChangedCount": 112
   },
-  "extracted_at": "2026-01-15T17:33:01.388116"
+  "extracted_at": "2026-01-15T17:38:01.456033"
 }
