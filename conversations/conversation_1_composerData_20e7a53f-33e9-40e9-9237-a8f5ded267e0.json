@@ -4500,6 +4500,40 @@
       {
         "bubbleId": "1b500688-bf52-46a8-b264-84f849c89d4f",
         "type": 2
+      },
+      {
+        "bubbleId": "46d5c074-3e34-42ca-b3dc-258ddb9b618f",
+        "type": 1
+      },
+      {
+        "bubbleId": "27cbf1d7-53dc-40bd-aa96-e4d2ef2d0c82",
+        "type": 2,
+        "serverBubbleId": "21a3ff8f-644a-4ca4-919e-31e3344b62fc"
+      },
+      {
+        "bubbleId": "0bb0d933-73c8-4d3c-8d8c-21658136aa9d",
+        "type": 2
+      },
+      {
+        "bubbleId": "1cb0bae1-c74e-48d8-a5a0-b3fede2e1d9d",
+        "type": 2
+      },
+      {
+        "bubbleId": "aa40b965-a1e5-4245-802a-c3981f1db4e3",
+        "type": 2
+      },
+      {
+        "bubbleId": "d2a641ad-0ee6-4a5e-bad0-dc7b00a79b77",
+        "type": 2
+      },
+      {
+        "bubbleId": "a919a570-245c-4570-9d00-b7dcd6eaf926",
+        "type": 2,
+        "serverBubbleId": "6e157378-ec7c-4377-bca1-d840107f26e4"
+      },
+      {
+        "bubbleId": "17b0e96d-e1dd-465c-8cdc-0873a1607db3",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -11076,7 +11110,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768475866325,
+    "lastUpdatedAt": 1768478490351,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -11148,26 +11182,25 @@
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "agent",
-    "forceMode": "edit",
+    "unifiedMode": "chat",
+    "forceMode": "chat",
     "usageData": {
       "composer-1": {
         "costInCents": 192,
         "amount": 8
       }
     },
-    "contextUsagePercent": 56.35499954223633,
+    "contextUsagePercent": 56.02199935913086,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
-      "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt",
-      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/full_conversations/FULL_conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.txt",
-      "file:///g%3A/frappe_docker-main/frappe_docker-main/check_and_fix_bom_eg_headband.txt",
-      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_bom_eg_headband_simple.txt",
-      "file:///g%3A/frappe_docker-main/frappe_docker-main/enable_developer_mode_and_fix_bom.txt",
-      "file:///g%3A/frappe_docker-main/frappe_docker-main/create_pcb_iqc_api_server_script.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/ANALYZE_EXISTING_SCRIPTS.md",
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/full_conversations/FULL_conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/UNDERSTAND_CURRENT_SETUP.md",
-      "file:///g%3A/frappe_docker-main/frappe_docker-main/CURRENT_SETUP_ANALYSIS.md"
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CURRENT_SETUP_ANALYSIS.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/read_selected_server_scripts.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/read_server_scripts_simple.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/READ_SERVER_SCRIPTS_INSTRUCTIONS.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/get_server_scripts.py"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -11201,10 +11234,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "ae66ff44-7c5c-43b4-83f6-8f0e9b579446",
-    "isAgentic": true,
+    "latestChatGenerationUUID": "e6b41974-a970-41c7-b5a3-5d45d8b6d0c8",
+    "isAgentic": false,
     "subtitle": "get_server_scripts.py, READ_SERVER_SCRIPTS_INSTRUCTIONS.md, read_server_scripts_simple.py, read_selected_server_scripts.py, CURRENT_SETUP_ANALYSIS.md",
     "filesChangedCount": 112
   },
-  "extracted_at": "2026-01-15T17:28:01.296292"
+  "extracted_at": "2026-01-15T17:33:01.388116"
 }
