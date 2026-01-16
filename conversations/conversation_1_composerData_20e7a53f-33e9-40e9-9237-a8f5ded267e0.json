@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"still stock balance is showing balance\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "still stock balance is showing balance",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "8b6665de-c7f5-476a-ad11-e68466d758b0",
@@ -5092,6 +5092,32 @@
       {
         "bubbleId": "6e9c945c-7c94-467f-b7b0-ffb2363f5e2f",
         "type": 2
+      },
+      {
+        "bubbleId": "2589f736-15df-4438-9c0b-65cc8f97bffc",
+        "type": 1
+      },
+      {
+        "bubbleId": "2b8a7572-862e-4004-acb4-c734692ee72d",
+        "type": 2,
+        "serverBubbleId": "824c346f-b70e-4b06-9227-638df265dc67"
+      },
+      {
+        "bubbleId": "6b3770e8-f265-4afc-8919-59ad4544df80",
+        "type": 2
+      },
+      {
+        "bubbleId": "1cd7812a-13bd-4638-a1d4-2e8dd468455f",
+        "type": 1
+      },
+      {
+        "bubbleId": "49cf61fa-35f5-4681-8002-35817586ec27",
+        "type": 2,
+        "serverBubbleId": "65171f44-472c-4356-b6bb-947a5688b3ed"
+      },
+      {
+        "bubbleId": "6cca9e2d-bfeb-4f3e-874a-aab0b0d6ae2c",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -5101,7 +5127,28 @@
       "quotes": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [],
+      "selectedImages": [
+        {
+          "uuid": "59048500-a623-4cdc-8e4f-5e8be77c3f5a",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-5d4d9e51-f60e-4953-80a2-569ce92cd23c.png",
+          "dimension": {
+            "width": 1295,
+            "height": 817
+          },
+          "loadedAt": 1768572093745,
+          "addedWithoutMention": true
+        },
+        {
+          "uuid": "979ab184-883c-49f4-a273-108174290dba",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-c96af029-fb08-4e05-9975-ce11ff61cf1d.png",
+          "dimension": {
+            "width": 1306,
+            "height": 951
+          },
+          "loadedAt": 1768572114353,
+          "addedWithoutMention": true
+        }
+      ],
       "folderSelections": [],
       "fileSelections": [],
       "selections": [],
@@ -11735,7 +11782,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768571624254,
+    "lastUpdatedAt": 1768572061855,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -11815,7 +11862,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 62.17649841308594,
+    "contextUsagePercent": 62.9474983215332,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_import.py",
@@ -11860,10 +11907,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "bc444663-6980-44d3-880b-d3b89135f791",
+    "latestChatGenerationUUID": "afc74984-46c8-455d-9fda-74edae0cbef7",
     "isAgentic": true,
     "subtitle": "PASTE_THIS_CODE.txt, RESET_QUANTITIES_CONSOLE_CODE.txt, reset_quantities_to_zero.py, set_static_ip.ps1, SET_STATIC_IP.bat",
     "filesChangedCount": 124
   },
-  "extracted_at": "2026-01-16T19:28:01.012885"
+  "extracted_at": "2026-01-16T19:33:00.844475"
 }
