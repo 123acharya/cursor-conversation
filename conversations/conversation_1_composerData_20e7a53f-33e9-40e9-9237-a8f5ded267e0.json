@@ -4858,10 +4858,48 @@
       {
         "bubbleId": "35b7befc-680f-49a7-bcf3-278c3d4e9ec0",
         "type": 2
+      },
+      {
+        "bubbleId": "6041ea4d-15ab-41cb-945e-c3310fde4ddc",
+        "type": 1
+      },
+      {
+        "bubbleId": "a10bd85d-506e-4cf2-b512-91dc05b47fa5",
+        "type": 2,
+        "serverBubbleId": "729cedbe-7dd3-48da-9e73-090a6af7ab30"
+      },
+      {
+        "bubbleId": "05797c4b-99c2-42fc-bbd4-0ada6489bede",
+        "type": 2
+      },
+      {
+        "bubbleId": "a4243468-ae9f-443d-9552-d8a01e24d5ca",
+        "type": 2
+      },
+      {
+        "bubbleId": "086f61c0-d041-40e4-8a24-b808ab9f8365",
+        "type": 2
+      },
+      {
+        "bubbleId": "ddd761b8-f66b-4e7f-9c9e-883329c245bc",
+        "type": 2,
+        "serverBubbleId": "9fbf26ec-7fb2-4d1c-af0d-866a9e739485"
+      },
+      {
+        "bubbleId": "5720d82c-1e4e-4e1d-b2b8-b083abad7df2",
+        "type": 2
+      },
+      {
+        "bubbleId": "a13527fb-a07e-42b4-ba0c-98e38a8e8b27",
+        "type": 2
+      },
+      {
+        "bubbleId": "83ceb564-192c-4298-92fa-21e2b1177ac1",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -4928,6 +4966,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "0898e91c-658a-4619-898a-a7e1590ecaee",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -11398,10 +11437,11 @@
     },
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768549856179,
+    "lastUpdatedAt": 1768564348949,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
+    "editingBubbleId": "6041ea4d-15ab-41cb-945e-c3310fde4ddc",
     "capabilities": [
       {
         "type": 30,
@@ -11478,7 +11518,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 50.45650100708008,
+    "contextUsagePercent": 52.545501708984375,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_import.py",
@@ -11520,10 +11560,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "0414ffdc-e36d-4914-a5d6-9b90ef59a7b5",
+    "latestChatGenerationUUID": "0898e91c-658a-4619-898a-a7e1590ecaee",
     "isAgentic": true,
     "subtitle": "set_static_ip.ps1, SET_STATIC_IP.bat, SET_STATIC_IP_GUIDE.md",
     "filesChangedCount": 121
   },
-  "extracted_at": "2026-01-16T17:18:00.595274"
+  "extracted_at": "2026-01-16T17:23:00.689637"
 }
