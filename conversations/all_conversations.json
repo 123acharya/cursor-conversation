@@ -4865,37 +4865,96 @@
           "type": 1
         },
         {
-          "bubbleId": "a10bd85d-506e-4cf2-b512-91dc05b47fa5",
+          "bubbleId": "bfa9bb36-a1e4-444a-a541-6ed09feaca79",
           "type": 2,
-          "serverBubbleId": "729cedbe-7dd3-48da-9e73-090a6af7ab30"
+          "serverBubbleId": "12c379e8-f7c6-47cb-8775-9429d8c3e108"
         },
         {
-          "bubbleId": "05797c4b-99c2-42fc-bbd4-0ada6489bede",
+          "bubbleId": "5d08ce05-33df-45ee-bd1a-41a5dff31973",
           "type": 2
         },
         {
-          "bubbleId": "a4243468-ae9f-443d-9552-d8a01e24d5ca",
+          "bubbleId": "560f6075-b912-42fb-8271-e7b4c5f31abc",
           "type": 2
         },
         {
-          "bubbleId": "086f61c0-d041-40e4-8a24-b808ab9f8365",
+          "bubbleId": "35163118-cc0a-4517-8168-56a0e24c858d",
           "type": 2
         },
         {
-          "bubbleId": "ddd761b8-f66b-4e7f-9c9e-883329c245bc",
+          "bubbleId": "6bcabe17-164c-45c4-a969-b742ea320446",
+          "type": 2
+        },
+        {
+          "bubbleId": "ea67dadb-9f1c-48b5-947a-1b81007e2468",
+          "type": 2
+        },
+        {
+          "bubbleId": "315492fd-abd3-4dda-961b-09f9ffada862",
           "type": 2,
-          "serverBubbleId": "9fbf26ec-7fb2-4d1c-af0d-866a9e739485"
+          "serverBubbleId": "91a653b4-db99-4a00-8a19-60847ad74d49"
         },
         {
-          "bubbleId": "5720d82c-1e4e-4e1d-b2b8-b083abad7df2",
+          "bubbleId": "e4f4e941-67af-4865-9b36-cd6a0d971f8d",
           "type": 2
         },
         {
-          "bubbleId": "a13527fb-a07e-42b4-ba0c-98e38a8e8b27",
+          "bubbleId": "bc590734-7815-40bd-b0dc-8400a5857a62",
           "type": 2
         },
         {
-          "bubbleId": "83ceb564-192c-4298-92fa-21e2b1177ac1",
+          "bubbleId": "624c9fc6-757a-441a-b254-b14cf298074e",
+          "type": 2
+        },
+        {
+          "bubbleId": "550f2f0d-5363-4b1b-a23d-36ae58325fd8",
+          "type": 2,
+          "serverBubbleId": "318eb95c-7d5a-4755-b5a2-78f08aa67085"
+        },
+        {
+          "bubbleId": "39d8de63-3b48-4f76-acfb-ca328149e3f1",
+          "type": 2
+        },
+        {
+          "bubbleId": "7b122116-08dd-448d-bbe0-ea6578e0079f",
+          "type": 2
+        },
+        {
+          "bubbleId": "f02240f4-731b-4944-b253-5a6038576d2f",
+          "type": 2,
+          "serverBubbleId": "ee6636ce-05e7-47b5-a2dd-740bd600f77a"
+        },
+        {
+          "bubbleId": "539ab9b6-f190-4bda-a0ec-7040a755fe0e",
+          "type": 2
+        },
+        {
+          "bubbleId": "b07a5431-1912-4ccc-a589-2d4ac0cfb308",
+          "type": 2
+        },
+        {
+          "bubbleId": "546e18d7-c1df-4c7f-baf0-44ebfa3ebe2e",
+          "type": 2
+        },
+        {
+          "bubbleId": "b0704cc0-0018-4b0d-b40c-0dbf384c3547",
+          "type": 2,
+          "serverBubbleId": "89859da3-e697-41f6-8118-b0df3d4676cc"
+        },
+        {
+          "bubbleId": "947cbdfb-f628-4470-a914-16478a97bafb",
+          "type": 2
+        },
+        {
+          "bubbleId": "9427fcb0-7421-478e-9f4b-55e5e0bf5a49",
+          "type": 2
+        },
+        {
+          "bubbleId": "3e24c130-6fba-415a-9fd7-f82f76964c94",
+          "type": 2
+        },
+        {
+          "bubbleId": "1460a7a8-e6d2-4ed5-95a1-387ce60d80ac",
           "type": 2
         }
       ],
@@ -4939,13 +4998,9 @@
           "selectedImages": {},
           "useWeb": [],
           "folderSelections": {},
-          "fileSelections": {
-            "file:///c%3A/Users/pc/Downloads/Stock%20Entry%20Purpose%20%2B%20Pcb%20Scan%20Script.txt": []
-          },
+          "fileSelections": {},
           "terminalFiles": {},
-          "selections": {
-            "{\"uri\":\"file:///g%3A/frappe_docker-main/frappe_docker-main/TEST_BEFORE_AFTER.md\",\"range\":{\"selectionStartLineNumber\":29,\"selectionStartColumn\":3,\"positionLineNumber\":36,\"positionColumn\":33},\"text\":\"```markdown\\nDI01 0004 (1)  ← PCBA component\\r\\n- IC01 0006 (1)  ← PCBA component\\r\\n- MD01 0001 (1)  ← PCBA component\\r\\n- PC01 0001 (1)  ← PCBA component\\r\\n- RE01 0023 (1)  ← PCBA component\\r\\n- CC01 0001 (8) ← PCBA component\\r\\n- CC01 0002 (2) ← PCBA component\\r\\n- CC01 0003 (4) ← PCBA component\\n```\"}": []
-          },
+          "selections": {},
           "terminalSelections": {},
           "selectedDocs": {},
           "externalLinks": {},
@@ -4967,7 +5022,7 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
-      "chatGenerationUUID": "0898e91c-658a-4619-898a-a7e1590ecaee",
+      "chatGenerationUUID": "68cf44b2-ab1b-42ea-b5d7-d3ecde90b908",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -11438,11 +11493,10 @@
       },
       "newlyCreatedFiles": [],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768564348949,
+      "lastUpdatedAt": 1768564435574,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
-      "editingBubbleId": "6041ea4d-15ab-41cb-945e-c3310fde4ddc",
       "capabilities": [
         {
           "type": 30,
@@ -11519,15 +11573,14 @@
           "amount": 8
         }
       },
-      "contextUsagePercent": 52.545501708984375,
+      "contextUsagePercent": 54.346500396728516,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_import.py",
         "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/full_conversations/FULL_conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.txt",
         "file:///c%3A/Users/pc/Desktop/set_static_ip.ps1",
         "file:///c%3A/Users/pc/Desktop/SET_STATIC_IP_GUIDE.md",
-        "file:///c%3A/Users/pc/Desktop/SET_STATIC_IP.bat",
-        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/1.txt"
+        "file:///c%3A/Users/pc/Desktop/SET_STATIC_IP.bat"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -11561,12 +11614,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "0898e91c-658a-4619-898a-a7e1590ecaee",
+      "latestChatGenerationUUID": "68cf44b2-ab1b-42ea-b5d7-d3ecde90b908",
       "isAgentic": true,
-      "subtitle": "set_static_ip.ps1, SET_STATIC_IP.bat, SET_STATIC_IP_GUIDE.md",
+      "subtitle": "reset_quantities_zero.py, set_static_ip.ps1, SET_STATIC_IP.bat, SET_STATIC_IP_GUIDE.md",
       "filesChangedCount": 121
     },
-    "extracted_at": "2026-01-16T17:23:00.689637"
+    "extracted_at": "2026-01-16T17:28:00.878618"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -15725,7 +15778,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-16T17:23:00.691236"
+    "extracted_at": "2026-01-16T17:28:00.884740"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -24237,7 +24290,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-16T17:23:00.697961"
+    "extracted_at": "2026-01-16T17:28:00.892739"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -24455,7 +24508,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-16T17:23:00.697961"
+    "extracted_at": "2026-01-16T17:28:00.892739"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -24632,7 +24685,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-16T17:23:00.697961"
+    "extracted_at": "2026-01-16T17:28:00.892739"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -33743,12 +33796,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-16T17:23:00.705365"
+    "extracted_at": "2026-01-16T17:28:00.900327"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-16T17:23:00.705365"
+    "extracted_at": "2026-01-16T17:28:00.900327"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -33927,7 +33980,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-16T17:23:00.705365"
+    "extracted_at": "2026-01-16T17:28:00.900327"
   },
   {
     "key": "composerData:40c3238e-9290-4c15-b4b4-14d3f7651247",
@@ -34101,7 +34154,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-16T17:23:00.706365"
+    "extracted_at": "2026-01-16T17:28:00.900327"
   },
   {
     "key": "composerData:842169da-0a70-49ac-a2d0-7cf9409a2f08",
@@ -34212,6 +34265,6 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-16T17:23:00.706365"
+    "extracted_at": "2026-01-16T17:28:00.900327"
   }
 ]
