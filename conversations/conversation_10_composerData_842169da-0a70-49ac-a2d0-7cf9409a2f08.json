@@ -1,9 +1,9 @@
 {
-  "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
+  "key": "composerData:842169da-0a70-49ac-a2d0-7cf9409a2f08",
   "data": {
     "_v": 11,
-    "composerId": "60bd3346-e308-45b5-b00f-f24b4281493d",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "composerId": "842169da-0a70-49ac-a2d0-7cf9409a2f08",
+    "richText": "",
     "hasLoaded": true,
     "text": "",
     "fullConversationHeadersOnly": [],
@@ -23,7 +23,6 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -35,9 +34,7 @@
         "selectedImages": {},
         "useWeb": [],
         "folderSelections": {},
-        "fileSelections": {
-          "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json": []
-        },
+        "fileSelections": {},
         "terminalFiles": {},
         "selections": {},
         "terminalSelections": {},
@@ -65,78 +62,15 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1768374789054,
+    "createdAt": 1768548420871,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
-    "capabilities": [
-      {
-        "type": 30,
-        "data": {}
-      },
-      {
-        "type": 34,
-        "data": {}
-      },
-      {
-        "type": 15,
-        "data": {
-          "bubbleDataMap": "{}"
-        }
-      },
-      {
-        "type": 22,
-        "data": {}
-      },
-      {
-        "type": 18,
-        "data": {}
-      },
-      {
-        "type": 19,
-        "data": {}
-      },
-      {
-        "type": 33,
-        "data": {}
-      },
-      {
-        "type": 32,
-        "data": {}
-      },
-      {
-        "type": 23,
-        "data": {}
-      },
-      {
-        "type": 16,
-        "data": {}
-      },
-      {
-        "type": 24,
-        "data": {}
-      },
-      {
-        "type": 25,
-        "data": {}
-      },
-      {
-        "type": 21,
-        "data": {}
-      },
-      {
-        "type": 31,
-        "data": {}
-      },
-      {
-        "type": 29,
-        "data": {}
-      }
-    ],
+    "capabilities": [],
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "agent",
-    "forceMode": "edit",
+    "unifiedMode": "chat",
+    "forceMode": "chat",
     "usageData": {},
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
@@ -166,14 +100,12 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "0qo2Y3xLNqyqGENFpmHc3RbgzhZTcAum0ZqdsCqc9a0=",
+    "speculativeSummarizationEncryptionKey": "iAeRaUZAWsjUnR0BdEvth6UmaBucb5NFd+cPZb+dS7U=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "isAgentic": true,
-    "subtitle": "New chat",
-    "filesChangedCount": 0
+    "isAgentic": false
   },
   "extracted_at": "2026-01-16T12:58:02.336861"
 }
