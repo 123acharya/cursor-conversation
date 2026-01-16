@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"still stock balance is showing balance\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "still stock balance is showing balance",
+    "text": "",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "8b6665de-c7f5-476a-ad11-e68466d758b0",
@@ -5118,6 +5118,62 @@
       {
         "bubbleId": "6cca9e2d-bfeb-4f3e-874a-aab0b0d6ae2c",
         "type": 2
+      },
+      {
+        "bubbleId": "cd464655-b46d-450b-9f6f-37ae6f842772",
+        "type": 1
+      },
+      {
+        "bubbleId": "2596d761-08fb-4945-9874-b1ce27a50851",
+        "type": 2,
+        "serverBubbleId": "53b540a1-bff4-48b8-8290-b3c470c75338"
+      },
+      {
+        "bubbleId": "5a4b1b67-6d71-43d3-9619-762f7ace03f0",
+        "type": 2
+      },
+      {
+        "bubbleId": "7c0060dd-82f9-4872-9c20-73b45d3ef5d6",
+        "type": 2
+      },
+      {
+        "bubbleId": "707097b0-655b-41ae-a8cd-3a4a080a3e83",
+        "type": 2
+      },
+      {
+        "bubbleId": "8ed3ded1-afca-40f7-a8bc-452e10f6a833",
+        "type": 2,
+        "serverBubbleId": "cb89cabf-7cc3-4b69-afad-0aac356891e9"
+      },
+      {
+        "bubbleId": "133a7d11-a6dd-4d0a-8f66-820776f5e962",
+        "type": 2
+      },
+      {
+        "bubbleId": "a86d11c2-d93e-4f43-83ed-c2adfe2566da",
+        "type": 1
+      },
+      {
+        "bubbleId": "732565c7-45bb-43dc-9a07-913b6ee74efd",
+        "type": 2,
+        "serverBubbleId": "009d45c5-2272-4f16-8ddd-51d2362d841a"
+      },
+      {
+        "bubbleId": "78781c29-1a40-4df0-b40c-428f66d3cc95",
+        "type": 2
+      },
+      {
+        "bubbleId": "affedf34-ab96-468d-a147-670a932f59d5",
+        "type": 1
+      },
+      {
+        "bubbleId": "4cb14a3f-faf6-4be8-ba9c-e237ee4744a7",
+        "type": 2,
+        "serverBubbleId": "fc7ad56c-9648-4cb1-86f0-d67754d85835"
+      },
+      {
+        "bubbleId": "b561ee92-7ce7-4078-8998-a798eb992483",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -5127,28 +5183,7 @@
       "quotes": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [
-        {
-          "uuid": "59048500-a623-4cdc-8e4f-5e8be77c3f5a",
-          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-5d4d9e51-f60e-4953-80a2-569ce92cd23c.png",
-          "dimension": {
-            "width": 1295,
-            "height": 817
-          },
-          "loadedAt": 1768572093745,
-          "addedWithoutMention": true
-        },
-        {
-          "uuid": "979ab184-883c-49f4-a273-108174290dba",
-          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-c96af029-fb08-4e05-9975-ce11ff61cf1d.png",
-          "dimension": {
-            "width": 1306,
-            "height": 951
-          },
-          "loadedAt": 1768572114353,
-          "addedWithoutMention": true
-        }
-      ],
+      "selectedImages": [],
       "folderSelections": [],
       "fileSelections": [],
       "selections": [],
@@ -10995,6 +11030,30 @@
           "lastDiffId": "98e63f1d-5667-476e-95f4-4b2b220e43a3",
           "lastAppliedAt": 1768571241384
         }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CLEAR_ALL_STOCK_DATA.txt": {
+        "1ed85be4-343b-4e21-9225-987a1ec60a2d": {
+          "_v": 3,
+          "bubbleId": "7c0060dd-82f9-4872-9c20-73b45d3ef5d6",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\CLEAR_ALL_STOCK_DATA.txt",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/CLEAR_ALL_STOCK_DATA.txt",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/CLEAR_ALL_STOCK_DATA.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "1ed85be4-343b-4e21-9225-987a1ec60a2d",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768572262565,
+          "composerChatGenerationUuid": "922ebd3a-37aa-4f2b-98a0-55e464f076ab",
+          "diffId": "29319a09-b0e3-44f4-9f1a-adf68cb76779",
+          "lastDiffId": "a728fd75-16c9-4416-96ef-6e02e1bcbb7d",
+          "lastAppliedAt": 1768572265449
+        }
       }
     },
     "originalFileStates": {
@@ -11747,6 +11806,12 @@
         "firstEditBubbleId": "ff1a04bd-cc3c-4627-a097-919dea20e68a",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CLEAR_ALL_STOCK_DATA.txt": {
+        "content": "",
+        "firstEditBubbleId": "7c0060dd-82f9-4872-9c20-73b45d3ef5d6",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
       }
     },
     "newlyCreatedFiles": [
@@ -11779,10 +11844,20 @@
           "path": "/G:/frappe_docker-main/frappe_docker-main/PASTE_THIS_CODE.txt",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\CLEAR_ALL_STOCK_DATA.txt",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/CLEAR_ALL_STOCK_DATA.txt",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/CLEAR_ALL_STOCK_DATA.txt",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768572061855,
+    "lastUpdatedAt": 1768572393618,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -11862,7 +11937,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 62.9474983215332,
+    "contextUsagePercent": 66.25149917602539,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_import.py",
@@ -11873,7 +11948,8 @@
       "file:///g%3A/frappe_docker-main/frappe_docker-main/reset_quantities_to_zero.py",
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/5.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/RESET_QUANTITIES_CONSOLE_CODE.txt",
-      "file:///g%3A/frappe_docker-main/frappe_docker-main/PASTE_THIS_CODE.txt"
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PASTE_THIS_CODE.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CLEAR_ALL_STOCK_DATA.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -11885,7 +11961,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 15880,
+    "totalLinesAdded": 15968,
     "totalLinesRemoved": 8,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -11907,10 +11983,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "afc74984-46c8-455d-9fda-74edae0cbef7",
+    "latestChatGenerationUUID": "84535429-d082-47fb-9c04-ac398de351b9",
     "isAgentic": true,
-    "subtitle": "PASTE_THIS_CODE.txt, RESET_QUANTITIES_CONSOLE_CODE.txt, reset_quantities_to_zero.py, set_static_ip.ps1, SET_STATIC_IP.bat",
-    "filesChangedCount": 124
+    "subtitle": "CLEAR_ALL_STOCK_DATA.txt, PASTE_THIS_CODE.txt, RESET_QUANTITIES_CONSOLE_CODE.txt, reset_quantities_to_zero.py, set_static_ip.ps1",
+    "filesChangedCount": 125
   },
-  "extracted_at": "2026-01-16T19:33:00.844475"
+  "extracted_at": "2026-01-16T19:38:00.861142"
 }
