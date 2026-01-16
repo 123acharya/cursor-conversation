@@ -4340,6 +4340,57 @@
       {
         "bubbleId": "9f9e28ea-31ac-4a17-a3fd-dd6bf1109b04",
         "type": 2
+      },
+      {
+        "bubbleId": "2628c987-9470-4c68-b183-639a0b3f2b5e",
+        "type": 1
+      },
+      {
+        "bubbleId": "19a2ac06-022a-49a2-b38a-a843ef72e7a7",
+        "type": 2,
+        "serverBubbleId": "40b5ed6d-766a-4dac-a1f5-b8c5dcb9556f"
+      },
+      {
+        "bubbleId": "0ffc0f9d-fc16-4eca-9cc5-d2dc4ae86a93",
+        "type": 2
+      },
+      {
+        "bubbleId": "646d07cd-d9f9-4eae-b2c1-042b5d1f04aa",
+        "type": 2
+      },
+      {
+        "bubbleId": "5d6958f0-78ee-4050-8bf9-0deb4c83f24f",
+        "type": 2,
+        "serverBubbleId": "22888e5d-0dcf-44b1-bf15-f343ce063ac9"
+      },
+      {
+        "bubbleId": "99eae7b8-4ca1-4cfe-9fed-d76e1cc8af17",
+        "type": 2
+      },
+      {
+        "bubbleId": "dc6651c1-4943-4624-a95f-c28fd52776db",
+        "type": 2
+      },
+      {
+        "bubbleId": "0317f35f-8939-46ce-941c-a1848113d99a",
+        "type": 2
+      },
+      {
+        "bubbleId": "aa7e91a6-4d93-46f4-964b-5cf54de280ea",
+        "type": 2
+      },
+      {
+        "bubbleId": "fc67bbe1-77c5-4d16-ad70-685a8660bf7a",
+        "type": 2
+      },
+      {
+        "bubbleId": "1dec1026-36b7-41c6-802e-9eb613ed6927",
+        "type": 2,
+        "serverBubbleId": "2b75f33a-66a6-4ca0-a81f-ff0c5073abdb"
+      },
+      {
+        "bubbleId": "ed39d48e-4fc3-4e97-ae0e-0d156eb453e0",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -9388,6 +9439,110 @@
           "diffId": "9e6668b0-302f-4298-8518-3efea8422c09",
           "lastDiffId": "9ae59ee0-a849-4ae9-9d45-08b043ae03ae",
           "lastAppliedAt": 1768548988819
+        },
+        "b55ebf63-717c-4e6b-a5e2-3020dcbe8332": {
+          "_v": 3,
+          "bubbleId": "dc6651c1-4943-4624-a95f-c28fd52776db",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\set_static_ip.ps1",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/set_static_ip.ps1",
+            "path": "/C:/Users/pc/Desktop/set_static_ip.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "b55ebf63-717c-4e6b-a5e2-3020dcbe8332",
+          "status": "completed",
+          "languageId": "powershell",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "6a805109-c16a-408b-b7ab-4b1cc77b103c",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768549221329,
+          "composerChatGenerationUuid": "fee9c711-97cf-4aeb-8135-98496a8353b6",
+          "diffId": "69cc1da6-ef61-4319-ba81-89be6f613fda",
+          "lastDiffId": "ec560802-c256-4d27-be15-064e3c18fe10",
+          "lastAppliedAt": 1768549222621
+        },
+        "486f6c88-0d03-4720-9f00-04116992d3e3": {
+          "_v": 3,
+          "bubbleId": "0317f35f-8939-46ce-941c-a1848113d99a",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\set_static_ip.ps1",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/set_static_ip.ps1",
+            "path": "/C:/Users/pc/Desktop/set_static_ip.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "486f6c88-0d03-4720-9f00-04116992d3e3",
+          "status": "completed",
+          "languageId": "powershell",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "b55ebf63-717c-4e6b-a5e2-3020dcbe8332",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768549223155,
+          "composerChatGenerationUuid": "fee9c711-97cf-4aeb-8135-98496a8353b6",
+          "diffId": "85c68b49-f926-4d6e-add9-9c8bfc3d7fb4",
+          "lastDiffId": "3c07e3e2-4f9a-4304-9fc7-0851b9ebb111",
+          "lastAppliedAt": 1768549224230
+        },
+        "d3dc4000-f6b0-4fe6-833d-0d1a218cd324": {
+          "_v": 3,
+          "bubbleId": "aa7e91a6-4d93-46f4-964b-5cf54de280ea",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\set_static_ip.ps1",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/set_static_ip.ps1",
+            "path": "/C:/Users/pc/Desktop/set_static_ip.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "d3dc4000-f6b0-4fe6-833d-0d1a218cd324",
+          "status": "completed",
+          "languageId": "powershell",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "486f6c88-0d03-4720-9f00-04116992d3e3",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768549224616,
+          "composerChatGenerationUuid": "fee9c711-97cf-4aeb-8135-98496a8353b6",
+          "diffId": "3ed865e7-881b-4406-b48b-1a6c346f9755",
+          "lastDiffId": "0b674dc3-1849-4cd0-b630-dd618a65c3dd",
+          "lastAppliedAt": 1768549225611
+        },
+        "5900af4f-a3cb-4229-bd53-2db6d612fae9": {
+          "_v": 3,
+          "bubbleId": "fc67bbe1-77c5-4d16-ad70-685a8660bf7a",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\set_static_ip.ps1",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/set_static_ip.ps1",
+            "path": "/C:/Users/pc/Desktop/set_static_ip.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "5900af4f-a3cb-4229-bd53-2db6d612fae9",
+          "status": "completed",
+          "languageId": "powershell",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "d3dc4000-f6b0-4fe6-833d-0d1a218cd324",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768549225974,
+          "composerChatGenerationUuid": "fee9c711-97cf-4aeb-8135-98496a8353b6",
+          "diffId": "48ee02ef-63a7-4ada-a68b-2cb05cdfd4f0",
+          "lastDiffId": "08f1a95f-a855-4eb2-9d68-2daa27c709db",
+          "lastAppliedAt": 1768549226976
         }
       },
       "file:///c%3A/Users/pc/Desktop/SET_STATIC_IP_GUIDE.md": {
@@ -11276,7 +11431,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768549002797,
+    "lastUpdatedAt": 1768549230330,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -11356,11 +11511,15 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 37.010501861572266,
+    "contextUsagePercent": 38.81100082397461,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_server_script_import.py",
-      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/full_conversations/FULL_conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.txt"
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/full_conversations/FULL_conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.txt",
+      "file:///c%3A/Users/pc/Desktop/set_static_ip.ps1",
+      "file:///c%3A/Users/pc/Desktop/SET_STATIC_IP_GUIDE.md",
+      "file:///c%3A/Users/pc/Desktop/SET_STATIC_IP.bat",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/1.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -11394,10 +11553,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "dcce359f-171e-4ff6-bba1-4e023d2af95e",
+    "latestChatGenerationUUID": "fee9c711-97cf-4aeb-8135-98496a8353b6",
     "isAgentic": true,
-    "subtitle": "SET_STATIC_IP.bat, SET_STATIC_IP_GUIDE.md, set_static_ip.ps1",
+    "subtitle": "set_static_ip.ps1, SET_STATIC_IP.bat, SET_STATIC_IP_GUIDE.md",
     "filesChangedCount": 121
   },
-  "extracted_at": "2026-01-16T13:08:00.279035"
+  "extracted_at": "2026-01-16T13:13:00.269697"
 }
