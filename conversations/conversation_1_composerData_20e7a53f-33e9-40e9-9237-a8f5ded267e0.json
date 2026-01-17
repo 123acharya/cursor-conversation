@@ -5181,6 +5181,74 @@
       {
         "bubbleId": "0019119d-dfa8-4d28-85ec-fe1a6f451fcf",
         "type": 2
+      },
+      {
+        "bubbleId": "ca767de3-61ae-4b11-9749-3c4285fd74c7",
+        "type": 1
+      },
+      {
+        "bubbleId": "b8c2e80e-becc-4574-9d63-60515b5fb6e5",
+        "type": 2,
+        "serverBubbleId": "9d32b7c7-5736-4ba9-8856-fe092d7e81ce"
+      },
+      {
+        "bubbleId": "125a74e1-4968-4441-ae56-f9bf21142890",
+        "type": 2
+      },
+      {
+        "bubbleId": "4df8be85-b49c-4ebb-b3ff-d4daa91c15a9",
+        "type": 2
+      },
+      {
+        "bubbleId": "617f5fb0-054a-425f-8194-87853c370502",
+        "type": 2
+      },
+      {
+        "bubbleId": "4d2c30f6-7c9c-4d93-b11f-23bb3eedb236",
+        "type": 2
+      },
+      {
+        "bubbleId": "10a39750-4703-40ea-89f8-95cc5547dc67",
+        "type": 2,
+        "serverBubbleId": "49b1f01b-107b-449f-a729-5d3efd4b4489"
+      },
+      {
+        "bubbleId": "2e219bc5-1e9e-4bd7-bd3a-57d3f0dc0b6f",
+        "type": 2
+      },
+      {
+        "bubbleId": "6570a5a5-0569-4d68-ab58-80a8d241a069",
+        "type": 2
+      },
+      {
+        "bubbleId": "29ed2eb4-5f74-4126-afd5-0af46d73428d",
+        "type": 2
+      },
+      {
+        "bubbleId": "613ae004-eee8-4ec5-b5bb-aa3088fe1d2e",
+        "type": 2,
+        "serverBubbleId": "473551aa-53ff-4223-9e46-3afe1d9c51fc"
+      },
+      {
+        "bubbleId": "c51ab7b7-9a06-4fc5-bdfb-5d9affbf27d9",
+        "type": 2
+      },
+      {
+        "bubbleId": "5a751395-802f-4020-af6d-20edf280a390",
+        "type": 2
+      },
+      {
+        "bubbleId": "06ce2340-5d2c-4070-94b7-8a7eba437811",
+        "type": 2
+      },
+      {
+        "bubbleId": "33e89b27-2265-4df3-9a8d-d7ea9402897b",
+        "type": 2,
+        "serverBubbleId": "865f6256-c992-4e2a-9cde-425c754c3659"
+      },
+      {
+        "bubbleId": "284770cf-283c-48e5-95e2-a79aa1994f2c",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -12418,6 +12486,126 @@
           "lastDiffId": "6ce9d76d-3648-40bc-b711-d2c1b07a2bd9",
           "lastAppliedAt": 1768647651897
         }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_STOCK_ENTRY_IMPORT_CSV.md": {
+        "88c7f028-a0b2-4d82-a117-4221bb6490f1": {
+          "_v": 3,
+          "bubbleId": "617f5fb0-054a-425f-8194-87853c370502",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\FIX_STOCK_ENTRY_IMPORT_CSV.md",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_STOCK_ENTRY_IMPORT_CSV.md",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/FIX_STOCK_ENTRY_IMPORT_CSV.md",
+            "scheme": "file"
+          },
+          "codeblockId": "88c7f028-a0b2-4d82-a117-4221bb6490f1",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768648601631,
+          "composerChatGenerationUuid": "b4b071dc-72b7-4901-aab6-86320d2e0692",
+          "diffId": "b7a60450-6381-41a7-8520-67dbc2e4bb92",
+          "lastDiffId": "80f81402-92ec-46af-a21c-1a8b06171a2b",
+          "lastAppliedAt": 1768648608265
+        }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/sample_opening_stock_fixed.csv": {
+        "e716443b-74da-48e9-a707-320a5197e609": {
+          "_v": 3,
+          "bubbleId": "4d2c30f6-7c9c-4d93-b11f-23bb3eedb236",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\sample_opening_stock_fixed.csv",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/sample_opening_stock_fixed.csv",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/sample_opening_stock_fixed.csv",
+            "scheme": "file"
+          },
+          "codeblockId": "e716443b-74da-48e9-a707-320a5197e609",
+          "status": "completed",
+          "languageId": "csv",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768648610153,
+          "composerChatGenerationUuid": "b4b071dc-72b7-4901-aab6-86320d2e0692",
+          "diffId": "8855c693-0151-4bca-8bf6-a837e1b0afb1",
+          "lastDiffId": "816dbfca-4c7e-4a76-9331-ec8e975ef27a",
+          "lastAppliedAt": 1768648611411
+        }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_csv_import.py": {
+        "ca3abe3b-857d-4d18-bcd3-52845eb2b925": {
+          "_v": 3,
+          "bubbleId": "6570a5a5-0569-4d68-ab58-80a8d241a069",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\fix_csv_import.py",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_csv_import.py",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/fix_csv_import.py",
+            "scheme": "file"
+          },
+          "codeblockId": "ca3abe3b-857d-4d18-bcd3-52845eb2b925",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768648616526,
+          "composerChatGenerationUuid": "b4b071dc-72b7-4901-aab6-86320d2e0692",
+          "diffId": "6d8847f9-95fd-4f0e-b029-b5ca2af5ff98",
+          "lastDiffId": "c2c9366e-111a-48c7-a9ab-e5ee9f9f3ce0",
+          "lastAppliedAt": 1768648619746
+        }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/OPENING_STOCK_IMPORT_TEMPLATE.csv": {
+        "03354603-1aac-474f-b8b9-9d2baa1963b6": {
+          "_v": 3,
+          "bubbleId": "5a751395-802f-4020-af6d-20edf280a390",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\OPENING_STOCK_IMPORT_TEMPLATE.csv",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/OPENING_STOCK_IMPORT_TEMPLATE.csv",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/OPENING_STOCK_IMPORT_TEMPLATE.csv",
+            "scheme": "file"
+          },
+          "codeblockId": "03354603-1aac-474f-b8b9-9d2baa1963b6",
+          "status": "completed",
+          "languageId": "csv",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768648625328,
+          "composerChatGenerationUuid": "b4b071dc-72b7-4901-aab6-86320d2e0692",
+          "diffId": "84b0f835-9d2c-4c69-8ca7-5cacff4eed7e",
+          "lastDiffId": "d3f359be-179d-4989-879d-fe9eecca5e17",
+          "lastAppliedAt": 1768648626594
+        }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/BULK_IMPORT_OPENING_STOCK_GUIDE.md": {
+        "c5f6d704-7304-4fce-bb85-e0d6e2040bf9": {
+          "_v": 3,
+          "bubbleId": "06ce2340-5d2c-4070-94b7-8a7eba437811",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\BULK_IMPORT_OPENING_STOCK_GUIDE.md",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/BULK_IMPORT_OPENING_STOCK_GUIDE.md",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/BULK_IMPORT_OPENING_STOCK_GUIDE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "c5f6d704-7304-4fce-bb85-e0d6e2040bf9",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768648630656,
+          "composerChatGenerationUuid": "b4b071dc-72b7-4901-aab6-86320d2e0692",
+          "diffId": "5291ce9e-2858-45e2-8351-945e1857ff44",
+          "lastDiffId": "dcd4cc3b-ddce-46d0-a17d-317c23550dcd",
+          "lastAppliedAt": 1768648634671
+        }
       }
     },
     "originalFileStates": {
@@ -13488,6 +13676,36 @@
         "firstEditBubbleId": "b8322fda-37d7-4236-9813-b8a33ede140d",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_STOCK_ENTRY_IMPORT_CSV.md": {
+        "content": "",
+        "firstEditBubbleId": "617f5fb0-054a-425f-8194-87853c370502",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/sample_opening_stock_fixed.csv": {
+        "content": "",
+        "firstEditBubbleId": "4d2c30f6-7c9c-4d93-b11f-23bb3eedb236",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_csv_import.py": {
+        "content": "",
+        "firstEditBubbleId": "6570a5a5-0569-4d68-ab58-80a8d241a069",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/OPENING_STOCK_IMPORT_TEMPLATE.csv": {
+        "content": "",
+        "firstEditBubbleId": "5a751395-802f-4020-af6d-20edf280a390",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/BULK_IMPORT_OPENING_STOCK_GUIDE.md": {
+        "content": "",
+        "firstEditBubbleId": "06ce2340-5d2c-4070-94b7-8a7eba437811",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
       }
     },
     "newlyCreatedFiles": [
@@ -14050,10 +14268,60 @@
           "path": "/G:/frappe_docker-main/frappe_docker-main/CREATE_OPENING_STOCK_FROM_IQC.py",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\FIX_STOCK_ENTRY_IMPORT_CSV.md",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_STOCK_ENTRY_IMPORT_CSV.md",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/FIX_STOCK_ENTRY_IMPORT_CSV.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\sample_opening_stock_fixed.csv",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/sample_opening_stock_fixed.csv",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/sample_opening_stock_fixed.csv",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\fix_csv_import.py",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_csv_import.py",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/fix_csv_import.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\OPENING_STOCK_IMPORT_TEMPLATE.csv",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/OPENING_STOCK_IMPORT_TEMPLATE.csv",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/OPENING_STOCK_IMPORT_TEMPLATE.csv",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\BULK_IMPORT_OPENING_STOCK_GUIDE.md",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/BULK_IMPORT_OPENING_STOCK_GUIDE.md",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/BULK_IMPORT_OPENING_STOCK_GUIDE.md",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768647658557,
+    "lastUpdatedAt": 1768648639862,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -14133,7 +14401,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 80.2859992980957,
+    "contextUsagePercent": 83.43499946594238,
     "allAttachedFileCodeChunksUris": [
       "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_PDF_FILE_CONTENT.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_MISSING_PDF_FILE.txt",
@@ -14172,7 +14440,12 @@
       "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_LAST_TWO_SCRIPTS.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/REMOVE_AUTO_SET_WAREHOUSE.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_FIELD_DISAPPEARING_ON_SAVE.py",
-      "file:///g%3A/frappe_docker-main/frappe_docker-main/AGGRESSIVE_FIX_MANDATORY_ERROR.py"
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/AGGRESSIVE_FIX_MANDATORY_ERROR.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/COPY_IQC_ACCEPT_AND_MODIFY.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/VERIFY_OPENING_STOCK_SETUP.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/OVERRIDE_MATERIAL_RECEIPT_VALIDATION.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_ERPNext_CORE_VALIDATION.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CREATE_OPENING_STOCK_FROM_IQC.py"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -14184,7 +14457,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 21189,
+    "totalLinesAdded": 21514,
     "totalLinesRemoved": 8,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -14206,10 +14479,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "d1ad374c-dbba-4801-9952-8b57fb1587cf",
+    "latestChatGenerationUUID": "b4b071dc-72b7-4901-aab6-86320d2e0692",
     "isAgentic": true,
-    "subtitle": "CREATE_OPENING_STOCK_FROM_IQC.py, CHECK_ERPNext_CORE_VALIDATION.py, OVERRIDE_MATERIAL_RECEIPT_VALIDATION.py, VERIFY_OPENING_STOCK_SETUP.py, COPY_IQC_ACCEPT_AND_MODIFY.py",
-    "filesChangedCount": 177
+    "subtitle": "BULK_IMPORT_OPENING_STOCK_GUIDE.md, OPENING_STOCK_IMPORT_TEMPLATE.csv, fix_csv_import.py, sample_opening_stock_fixed.csv, FIX_STOCK_ENTRY_IMPORT_CSV.md",
+    "filesChangedCount": 182
   },
-  "extracted_at": "2026-01-17T16:43:01.257223"
+  "extracted_at": "2026-01-17T16:48:01.201966"
 }
