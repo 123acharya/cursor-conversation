@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"SINCE TILL NOW WERE DOING STOCK ENTRY INTO GSHEET WE CURRENTLY HAVE THE STOCK INFORMATION NOW WHAT IS \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "SINCE TILL NOW WERE DOING STOCK ENTRY INTO GSHEET WE CURRENTLY HAVE THE STOCK INFORMATION NOW WHAT IS ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "bc718053-dabb-4e02-9691-e3ff55da4989",
@@ -11673,5 +11673,5 @@
     "subtitle": "UPLOAD_PDF_VIA_CONSOLE.txt, DELETE_BROKEN_FILE_AND_REUPLOAD.txt, FIX_MISSING_PDF_FILE.txt",
     "filesChangedCount": 140
   },
-  "extracted_at": "2026-01-17T15:18:01.298416"
+  "extracted_at": "2026-01-17T15:23:01.281545"
 }
