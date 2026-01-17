@@ -5347,10 +5347,31 @@
       {
         "bubbleId": "2300fab1-3ffa-474e-bbc2-f85441fd623d",
         "type": 2
+      },
+      {
+        "bubbleId": "1eada682-64cd-4b42-9b57-1f0c211d2eab",
+        "type": 1
+      },
+      {
+        "bubbleId": "73fc310b-205c-4e46-b339-2065d40063bc",
+        "type": 2,
+        "serverBubbleId": "50685b56-98e0-4c09-aa2d-e32c51479fe5"
+      },
+      {
+        "bubbleId": "5ea3e5b8-963d-4d85-aeb7-ad6a2c723365",
+        "type": 2
+      },
+      {
+        "bubbleId": "58c6012f-d23d-4251-bfda-235191056973",
+        "type": 2
+      },
+      {
+        "bubbleId": "85a5eb6c-8255-4fe4-9e47-1555f13858f8",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -5404,6 +5425,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "566ecdd6-674f-499a-89f6-7875f5cdfcda",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -14659,7 +14681,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768649945229,
+    "lastUpdatedAt": 1768650447855,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -14739,7 +14761,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 88.48849964141846,
+    "contextUsagePercent": 89.3459997177124,
     "allAttachedFileCodeChunksUris": [
       "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_PDF_FILE_CONTENT.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_MISSING_PDF_FILE.txt",
@@ -14792,7 +14814,9 @@
       "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_IMPORT_TYPE_ERROR.md",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/create_fixed_csv_with_source.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/CRITICAL_FIX_IMPORT_TYPE.md",
-      "file:///g%3A/frappe_docker-main/frappe_docker-main/FINAL_CSV_TEMPLATE.csv"
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FINAL_CSV_TEMPLATE.csv",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_SOURCE_WAREHOUSE_IMPORT.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CSV_COLUMN_MAPPING_GUIDE.md"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -14826,10 +14850,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "2cdc778a-4910-4a12-9218-25225a04efec",
+    "latestChatGenerationUUID": "566ecdd6-674f-499a-89f6-7875f5cdfcda",
     "isAgentic": true,
     "subtitle": "CSV_COLUMN_MAPPING_GUIDE.md, FIX_SOURCE_WAREHOUSE_IMPORT.py, FINAL_CSV_TEMPLATE.csv, CRITICAL_FIX_IMPORT_TYPE.md, create_fixed_csv_with_source.py",
     "filesChangedCount": 188
   },
-  "extracted_at": "2026-01-17T17:13:00.347639"
+  "extracted_at": "2026-01-17T17:18:00.374763"
 }
