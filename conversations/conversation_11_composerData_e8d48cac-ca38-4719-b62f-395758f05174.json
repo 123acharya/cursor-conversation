@@ -1,8 +1,8 @@
 {
-  "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
+  "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
   "data": {
     "_v": 11,
-    "composerId": "d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
+    "composerId": "e8d48cac-ca38-4719-b62f-395758f05174",
     "richText": "",
     "hasLoaded": true,
     "text": "",
@@ -23,7 +23,6 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -63,7 +62,7 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1768039456705,
+    "createdAt": 1768831863809,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
@@ -164,14 +163,12 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "Wt2tQoup53L1R4nDu4+M8enZqyOrbhZPp9ofevJUWsw=",
+    "speculativeSummarizationEncryptionKey": "B/QkTZsfwOLJ2cR4Hqp8F+eakZ9Nme4knfT4yzHGNZc=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "isAgentic": true,
-    "subtitle": "New chat",
-    "filesChangedCount": 0
+    "isAgentic": true
   },
-  "extracted_at": "2026-01-19T19:43:03.507460"
+  "extracted_at": "2026-01-19T19:43:03.517459"
 }

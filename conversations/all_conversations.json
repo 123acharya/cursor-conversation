@@ -9,1213 +9,6 @@
       "text": "",
       "fullConversationHeadersOnly": [
         {
-          "bubbleId": "bc718053-dabb-4e02-9691-e3ff55da4989",
-          "type": 1
-        },
-        {
-          "bubbleId": "0840d892-b2d8-40bb-87d2-caf0002749b9",
-          "type": 2,
-          "serverBubbleId": "e60aff6d-1ed4-4051-8e06-8f4586dd5716"
-        },
-        {
-          "bubbleId": "0079af86-749d-4a4d-863a-f997b0740d27",
-          "type": 2
-        },
-        {
-          "bubbleId": "59f9676f-2c2e-466a-a86b-9ddf5733a59a",
-          "type": 2
-        },
-        {
-          "bubbleId": "0ef24d9b-dafa-43be-8e26-cbdda4921e1f",
-          "type": 2
-        },
-        {
-          "bubbleId": "c2573ba0-a3fe-4bcd-b542-f6193052483f",
-          "type": 2
-        },
-        {
-          "bubbleId": "2848cc84-c991-40c5-98d7-e443f4e02a8b",
-          "type": 2,
-          "serverBubbleId": "a94582e2-9625-45a0-adbe-38ee395f5a6f"
-        },
-        {
-          "bubbleId": "4099e956-cd27-4504-80a9-d71101b2a909",
-          "type": 2
-        },
-        {
-          "bubbleId": "75cc07b3-a84c-4208-af48-da7f7a18522c",
-          "type": 1
-        },
-        {
-          "bubbleId": "28b18d2d-b1a4-42d5-848d-2d0102703164",
-          "type": 2,
-          "serverBubbleId": "1a68726c-b7e2-441b-b54a-d4f6cd9f7ff4"
-        },
-        {
-          "bubbleId": "9d23c819-c9ba-4a7b-8d0b-97bd24cf32ba",
-          "type": 2
-        },
-        {
-          "bubbleId": "611df4ef-771f-4ac4-a588-d6db8b26fc70",
-          "type": 2
-        },
-        {
-          "bubbleId": "df543ec9-6954-44a9-89b6-cba44e38ab44",
-          "type": 2
-        },
-        {
-          "bubbleId": "884390d5-47e4-46c5-b447-63f666505b79",
-          "type": 2
-        },
-        {
-          "bubbleId": "76af450d-fe85-46d5-b9db-122c8c92a21d",
-          "type": 2
-        },
-        {
-          "bubbleId": "931d2043-c0e0-48f7-a459-b3a900c8c689",
-          "type": 2,
-          "serverBubbleId": "ba5bb03f-87c1-46a3-8739-164ae8b0968e"
-        },
-        {
-          "bubbleId": "53ea4720-40d4-492e-9e7d-72c254fc9f9e",
-          "type": 2
-        },
-        {
-          "bubbleId": "7319f427-19a1-435c-8b3e-3e0a46cebfa7",
-          "type": 2
-        },
-        {
-          "bubbleId": "d5880221-eecb-411a-bf12-7c43ce3516dc",
-          "type": 2
-        },
-        {
-          "bubbleId": "d69790ca-6d7e-4e60-8c68-06f1b8392298",
-          "type": 2,
-          "serverBubbleId": "cc122cae-d922-417a-a07d-5b0f360d2b85"
-        },
-        {
-          "bubbleId": "6cb899be-5519-4219-b52d-0c710bc675bd",
-          "type": 2
-        },
-        {
-          "bubbleId": "1d9958f4-c58f-4f6c-8250-084ee0e0615d",
-          "type": 2
-        },
-        {
-          "bubbleId": "ca6e6e1a-e481-434f-b8e9-e88f91e37e7d",
-          "type": 2
-        },
-        {
-          "bubbleId": "54cb4bc2-38c8-4084-b7e1-ddb4d180c2f3",
-          "type": 2,
-          "serverBubbleId": "9244039c-81dc-44e4-bdfc-7bb93db24140"
-        },
-        {
-          "bubbleId": "926432c1-3b6b-48b8-a59c-c73f0a164e93",
-          "type": 2
-        },
-        {
-          "bubbleId": "88dbf148-2947-4f15-ad82-10f90b7a4460",
-          "type": 1
-        },
-        {
-          "bubbleId": "f02a3f39-bc25-4c3f-a73a-3a6dffa2e018",
-          "type": 2,
-          "serverBubbleId": "766a039a-5808-43e1-8459-6d88e8e0e260"
-        },
-        {
-          "bubbleId": "367000c1-af29-4584-8f90-4626462a0f08",
-          "type": 2
-        },
-        {
-          "bubbleId": "976895b8-8f51-4c6b-be94-fce4abddf050",
-          "type": 2
-        },
-        {
-          "bubbleId": "3d37105b-aa61-4db8-b88f-f7576e8e5309",
-          "type": 1
-        },
-        {
-          "bubbleId": "d33928a9-94f5-4c6f-8652-7d5ee2362c16",
-          "type": 2,
-          "serverBubbleId": "e58f351a-a8e9-4db6-8efb-94568d1014c2"
-        },
-        {
-          "bubbleId": "81de322d-0025-405e-8b5c-93615e86b63a",
-          "type": 2
-        },
-        {
-          "bubbleId": "3520bd93-e265-4da4-8123-6779197fc033",
-          "type": 2
-        },
-        {
-          "bubbleId": "61b7d0ad-f369-43f7-ba89-7c28bff2e262",
-          "type": 2
-        },
-        {
-          "bubbleId": "376a3569-0ef3-4ae6-8d79-f2d6d3d01564",
-          "type": 2
-        },
-        {
-          "bubbleId": "95c1dfca-f15b-4e25-81a3-d647d57894e7",
-          "type": 2,
-          "serverBubbleId": "4527480d-074d-4ce6-86c3-b77a85d6515c"
-        },
-        {
-          "bubbleId": "9109f71f-ff01-4a4a-a3dd-7ef1b9c1a923",
-          "type": 2
-        },
-        {
-          "bubbleId": "6d938893-a711-4e61-b34c-595116525e84",
-          "type": 2
-        },
-        {
-          "bubbleId": "0a3cfe3d-6d26-428f-a7f1-c26534a176b4",
-          "type": 2
-        },
-        {
-          "bubbleId": "83bb6e66-54a0-49d9-ad52-f00240222c36",
-          "type": 2
-        },
-        {
-          "bubbleId": "97847088-a0b3-42b5-aac3-172caba1e245",
-          "type": 2,
-          "serverBubbleId": "2628c69c-f14e-4448-a487-de2bdb409c25"
-        },
-        {
-          "bubbleId": "8271b2a9-7b10-4d48-adc3-904d9fe41205",
-          "type": 2
-        },
-        {
-          "bubbleId": "b5c6c4d7-ce05-4ec6-8685-0863f31e675d",
-          "type": 2
-        },
-        {
-          "bubbleId": "b0d0e272-cd71-440f-b67a-52a7521446da",
-          "type": 2,
-          "serverBubbleId": "3accb395-9363-4e05-b2af-1e2628c30301"
-        },
-        {
-          "bubbleId": "5df86539-b38f-4e6e-b61b-b914c3723ac9",
-          "type": 2
-        },
-        {
-          "bubbleId": "4b6d591f-5a08-4680-9cfc-a22d178cbd0b",
-          "type": 2
-        },
-        {
-          "bubbleId": "cb5624a5-7c37-4456-88eb-564375f0d3c1",
-          "type": 2,
-          "serverBubbleId": "5500d175-678c-4330-8159-c12750475932"
-        },
-        {
-          "bubbleId": "046355ec-7e47-4834-ae91-6a3e648c2286",
-          "type": 2
-        },
-        {
-          "bubbleId": "1e3d3d28-5607-4864-8507-5e46daf1a625",
-          "type": 2
-        },
-        {
-          "bubbleId": "99304283-3d16-4f84-9b2f-97a2c4e869ec",
-          "type": 2,
-          "serverBubbleId": "f225896a-32b0-42c0-8f11-2fa5d7f5f9f9"
-        },
-        {
-          "bubbleId": "2fe079a1-a751-4b3d-bd91-c0997a67585f",
-          "type": 2
-        },
-        {
-          "bubbleId": "c3e40a54-c6af-4ec7-a8c5-828ae3acaf29",
-          "type": 2
-        },
-        {
-          "bubbleId": "df6e56d3-a754-4061-9172-686be374fa5f",
-          "type": 2,
-          "serverBubbleId": "d84317d8-40fd-48e7-bb98-2f31392567e5"
-        },
-        {
-          "bubbleId": "2a7b5804-ea0e-41d0-bd68-bfeb12f689e3",
-          "type": 2
-        },
-        {
-          "bubbleId": "63e3efbd-ed24-4fec-a979-157be589e1f6",
-          "type": 1
-        },
-        {
-          "bubbleId": "56088627-e57e-4bc4-965e-cb54ae77c6c2",
-          "type": 2,
-          "serverBubbleId": "a4df1fe1-b7e5-48e8-9302-d746b0251d95"
-        },
-        {
-          "bubbleId": "40c8b40b-9e3b-432f-b925-2d3a3bfd59d5",
-          "type": 2
-        },
-        {
-          "bubbleId": "9ff93225-c4f8-42fd-9301-810da9c37615",
-          "type": 2
-        },
-        {
-          "bubbleId": "82cc3315-b2b6-49a9-9a56-1ea7bc92517a",
-          "type": 2
-        },
-        {
-          "bubbleId": "6c8d9af8-3729-45b2-bd18-9554d7ee082d",
-          "type": 2
-        },
-        {
-          "bubbleId": "f865a082-1094-4ea0-9991-45a01915c817",
-          "type": 2
-        },
-        {
-          "bubbleId": "c5d92605-f483-4def-83bb-3fdcb5278e33",
-          "type": 2,
-          "serverBubbleId": "4f71bb99-64ef-4588-a273-d89a40ad5057"
-        },
-        {
-          "bubbleId": "bf1e02e9-2b1b-4c12-8308-4f395039aef1",
-          "type": 2
-        },
-        {
-          "bubbleId": "7f95f797-3f90-4f3b-b1a0-8ae84edbb31d",
-          "type": 2
-        },
-        {
-          "bubbleId": "74f9c354-c268-41e1-8125-fa48e150674f",
-          "type": 2
-        },
-        {
-          "bubbleId": "89974c69-784f-42ee-a0a8-7d66b2efefbb",
-          "type": 2,
-          "serverBubbleId": "5fb6a0e6-fae1-4e88-84a7-d63f31f2deaa"
-        },
-        {
-          "bubbleId": "c345ea07-668a-4a41-9979-750b4c866c6f",
-          "type": 2
-        },
-        {
-          "bubbleId": "984751a0-69e2-4761-9b41-a1262bd88363",
-          "type": 1
-        },
-        {
-          "bubbleId": "49a7937e-8151-47b3-ad9d-0842c934230b",
-          "type": 2,
-          "serverBubbleId": "a1ab3ff3-238f-4a14-9c66-ef556852b9ef"
-        },
-        {
-          "bubbleId": "e32d5845-d54a-4f26-8a2a-f4517a6b6190",
-          "type": 2
-        },
-        {
-          "bubbleId": "e0b8ecb1-9070-4832-a92e-f948ea40c934",
-          "type": 2
-        },
-        {
-          "bubbleId": "99944434-3d43-4602-a4ae-ee1c6fdf953e",
-          "type": 2
-        },
-        {
-          "bubbleId": "bad15f6d-60ec-4e62-bcd0-d9c8275bbcce",
-          "type": 2,
-          "serverBubbleId": "993b1b13-8cff-49ef-a73e-64f0680a7b85"
-        },
-        {
-          "bubbleId": "b7c70d30-63d9-4669-a4b1-d8e50063400f",
-          "type": 2
-        },
-        {
-          "bubbleId": "44f6de14-71df-454b-bb25-e16c3e890045",
-          "type": 2
-        },
-        {
-          "bubbleId": "152949ce-5f2d-4c8d-b8d7-4cdcf3f09d42",
-          "type": 2,
-          "serverBubbleId": "d6775644-fc17-43e5-8729-ae9f16fe58f5"
-        },
-        {
-          "bubbleId": "5910c8a1-f37e-4c29-bce7-d2e65571aa0b",
-          "type": 2
-        },
-        {
-          "bubbleId": "621d01fd-78b9-4b8e-9d8f-2961c7745d63",
-          "type": 1
-        },
-        {
-          "bubbleId": "dcb11153-0942-402d-9ac7-e6f6ff1f47be",
-          "type": 2,
-          "serverBubbleId": "f9f6d424-9241-4393-8726-d0a45bdde9f7"
-        },
-        {
-          "bubbleId": "a815bca4-a612-4434-b896-a7d81b06282e",
-          "type": 2
-        },
-        {
-          "bubbleId": "38e9dcea-2165-44b2-8b85-967cd494efc0",
-          "type": 2
-        },
-        {
-          "bubbleId": "f5e6057e-b65b-4853-9a05-746e41ac142f",
-          "type": 2
-        },
-        {
-          "bubbleId": "60cea63d-d1db-4350-a986-7b942c80a96d",
-          "type": 2
-        },
-        {
-          "bubbleId": "a8675b96-cd7d-4e49-b562-b1f11c0d4379",
-          "type": 2
-        },
-        {
-          "bubbleId": "3e0570d8-b917-4bd0-8710-9f7ca2d61ed0",
-          "type": 2,
-          "serverBubbleId": "eaa2ce1b-0065-4448-9f27-e16c3cab7ad6"
-        },
-        {
-          "bubbleId": "f12e54a4-8d3d-48e1-8e5a-d053270112cc",
-          "type": 2
-        },
-        {
-          "bubbleId": "4608f344-a210-478a-8382-5b0fefe9343d",
-          "type": 2
-        },
-        {
-          "bubbleId": "3cb7d8ce-9009-40d5-9704-eaa419a07e96",
-          "type": 2
-        },
-        {
-          "bubbleId": "316b62be-4242-4bee-96eb-aac35d53c83a",
-          "type": 2,
-          "serverBubbleId": "7fdb784c-5635-49b3-bce3-837a54a78573"
-        },
-        {
-          "bubbleId": "d0034b42-5fda-449a-a446-dc2bc2d3aebe",
-          "type": 2
-        },
-        {
-          "bubbleId": "a362af4a-bfe6-492c-8317-6897b023e471",
-          "type": 2
-        },
-        {
-          "bubbleId": "3b0b738f-f95e-4550-86f1-80b7e2d4b7d4",
-          "type": 2
-        },
-        {
-          "bubbleId": "6c352578-0a82-4e8b-b112-d28fd3689eb1",
-          "type": 2,
-          "serverBubbleId": "9e1c4d34-9cdb-4be5-b58d-02692e462275"
-        },
-        {
-          "bubbleId": "d0fcd1fa-4e31-45e4-bfc5-2c7e93305f25",
-          "type": 2
-        },
-        {
-          "bubbleId": "836126be-1559-4275-9322-b1e472f0897a",
-          "type": 2
-        },
-        {
-          "bubbleId": "1298315c-f54b-4cec-9ce6-6fd2b8e291ce",
-          "type": 2
-        },
-        {
-          "bubbleId": "9b7fec70-aa4b-4a2d-8b8c-bf00307131a7",
-          "type": 2,
-          "serverBubbleId": "ea8e48c8-2f12-4461-b755-898ab7be2dce"
-        },
-        {
-          "bubbleId": "7f6957ad-4e92-4996-b72c-6edb0d4f656f",
-          "type": 2
-        },
-        {
-          "bubbleId": "badc10ab-8090-4684-9b09-9aaf7c30ed40",
-          "type": 2
-        },
-        {
-          "bubbleId": "2d51b71c-3c4c-4732-9ac9-aab8d0d5f108",
-          "type": 2
-        },
-        {
-          "bubbleId": "089809a7-d390-42ba-b55f-3c2290d78a0c",
-          "type": 2,
-          "serverBubbleId": "01a75801-665b-4df6-8117-a1cf4566c389"
-        },
-        {
-          "bubbleId": "8a5c4ee8-a27a-4646-ba86-e4cb2004253d",
-          "type": 2
-        },
-        {
-          "bubbleId": "d8ef5038-1f0e-470a-b730-d1efb498b29a",
-          "type": 2
-        },
-        {
-          "bubbleId": "86c04795-b6d5-4081-b14a-c0698c6b35f0",
-          "type": 2
-        },
-        {
-          "bubbleId": "0618012f-54e5-4fff-8e69-9f93bb343424",
-          "type": 2,
-          "serverBubbleId": "cab0c46f-42e6-4b79-8112-982ab3d20076"
-        },
-        {
-          "bubbleId": "8067bb0d-1664-4b0d-ba1c-b5573a3cb5a8",
-          "type": 2
-        },
-        {
-          "bubbleId": "f327ce27-3b4f-4174-a004-7f123acf8478",
-          "type": 2
-        },
-        {
-          "bubbleId": "c0f198fe-88a7-4fd0-b101-4d212174f711",
-          "type": 2
-        },
-        {
-          "bubbleId": "c10d4480-4326-46d8-b266-4b2c977edd53",
-          "type": 2,
-          "serverBubbleId": "64e186f2-dc8e-4f54-9995-954a6311325d"
-        },
-        {
-          "bubbleId": "d45b05cf-8a1c-4a94-b2ec-30d59b13d63d",
-          "type": 2
-        },
-        {
-          "bubbleId": "18cb4e1d-0466-4b0f-9231-deadaf61cf7c",
-          "type": 2
-        },
-        {
-          "bubbleId": "27b60937-cef6-4aa2-a69f-7e997a7d5dc1",
-          "type": 2
-        },
-        {
-          "bubbleId": "8961991b-8d44-424a-9038-d0524a8a33b7",
-          "type": 2,
-          "serverBubbleId": "adcd3817-e9ac-4d8d-9f3f-a0dd0e474105"
-        },
-        {
-          "bubbleId": "d0fd6d9b-6c35-4062-a870-f6bc573b4e0a",
-          "type": 2
-        },
-        {
-          "bubbleId": "dbed36ea-19e2-4c33-b25e-cd4f3bb12cdd",
-          "type": 1
-        },
-        {
-          "bubbleId": "fce5b590-12df-4cd7-9bb3-a45f5015e4af",
-          "type": 2,
-          "serverBubbleId": "e8efb5dc-250c-420b-8514-080c4c820e25"
-        },
-        {
-          "bubbleId": "aba6283e-62a1-4c45-85cd-a2d643d42faa",
-          "type": 2
-        },
-        {
-          "bubbleId": "37223926-c2ac-4b65-aa63-2ff35caf0533",
-          "type": 1
-        },
-        {
-          "bubbleId": "043f222b-ca2f-4e0f-8eea-6af116f76012",
-          "type": 2,
-          "serverBubbleId": "ab8c8056-a85c-4f3b-a236-1832a58fea3e"
-        },
-        {
-          "bubbleId": "1d7ce2d7-f7d9-4843-bb0e-f4624ba61c91",
-          "type": 2
-        },
-        {
-          "bubbleId": "ededccd8-e51c-4e29-86cd-49431724b8a0",
-          "type": 2
-        },
-        {
-          "bubbleId": "217a52fa-f5b2-4fcb-95d6-3adfc4d493eb",
-          "type": 2
-        },
-        {
-          "bubbleId": "a1ee83ed-1404-44f0-bf8d-e5fd71a58990",
-          "type": 2,
-          "serverBubbleId": "93421737-fc1e-4607-b5e5-356a0d1c2364"
-        },
-        {
-          "bubbleId": "24ef899a-8958-467e-8a21-7e02f6d94aa1",
-          "type": 2
-        },
-        {
-          "bubbleId": "56a15c08-b96f-4f47-9e34-7b41e954056d",
-          "type": 2
-        },
-        {
-          "bubbleId": "321bc900-fd45-4426-b6f0-23f05a6d899c",
-          "type": 2
-        },
-        {
-          "bubbleId": "8ac52bb8-a214-4161-8276-795899248fc1",
-          "type": 2,
-          "serverBubbleId": "677ffa0f-3d29-4fa3-8711-239e11e94ced"
-        },
-        {
-          "bubbleId": "b4964281-3d0e-401a-90fd-cd0c974ab1e2",
-          "type": 2
-        },
-        {
-          "bubbleId": "332a3714-0df4-4497-a113-eea942f63d2b",
-          "type": 2
-        },
-        {
-          "bubbleId": "216c4207-9af9-4244-a7b8-65502d62ce71",
-          "type": 2,
-          "serverBubbleId": "8f304d43-6c6e-4a41-8932-c74c265da059"
-        },
-        {
-          "bubbleId": "69462937-e87d-44d8-bf3f-ff904e98931a",
-          "type": 2
-        },
-        {
-          "bubbleId": "4d56415c-375e-490e-8ac1-d7d48987485e",
-          "type": 1
-        },
-        {
-          "bubbleId": "bb64ed22-116e-447d-9b89-24cdbde0acb9",
-          "type": 2,
-          "serverBubbleId": "8beac87a-4193-4cf2-8c37-2a8584aa4be6"
-        },
-        {
-          "bubbleId": "f3b3f5bd-0304-4547-aae8-deaf21efd785",
-          "type": 2
-        },
-        {
-          "bubbleId": "d4373b25-ab77-40ed-96ab-5ed50479969e",
-          "type": 2
-        },
-        {
-          "bubbleId": "6c2e9a27-3a14-405f-93a4-1f25ef7efeae",
-          "type": 2,
-          "serverBubbleId": "de0433e2-bd73-4327-8180-e5c2008c5c1a"
-        },
-        {
-          "bubbleId": "5b57b824-f98d-4ea0-a0cd-296e417acf30",
-          "type": 2
-        },
-        {
-          "bubbleId": "b78070fe-ffb1-4e94-be77-445c60bd1711",
-          "type": 1
-        },
-        {
-          "bubbleId": "29a57e64-0e37-4646-99ec-1c7fa2bbe46a",
-          "type": 2,
-          "serverBubbleId": "07adb841-08a3-41ce-a01e-a5768c3c1aa0"
-        },
-        {
-          "bubbleId": "369fef0c-767f-4dc3-b81f-58d712a53269",
-          "type": 2
-        },
-        {
-          "bubbleId": "c2cddfd3-cb84-4408-a477-3511b0aedf14",
-          "type": 1
-        },
-        {
-          "bubbleId": "7609f972-a1b0-4fe6-9911-a8ffb5947780",
-          "type": 2,
-          "serverBubbleId": "6346b8d9-2832-42b8-889e-2d1d5e1d4498"
-        },
-        {
-          "bubbleId": "a60465ea-3ea2-4ca9-9d6f-80ae1b99767c",
-          "type": 2
-        },
-        {
-          "bubbleId": "56e71a24-5c98-42b6-9875-3b82c6f4e644",
-          "type": 1
-        },
-        {
-          "bubbleId": "f1869c65-87b2-4971-b330-8d3f33a4dd9e",
-          "type": 2,
-          "serverBubbleId": "960ff408-e8fd-4d22-9141-7c99b6f5b575"
-        },
-        {
-          "bubbleId": "f872a22d-8246-4063-ba1a-b0f588b58aab",
-          "type": 2
-        },
-        {
-          "bubbleId": "36ac4c35-8c16-43ad-bb0a-d26af653058f",
-          "type": 2
-        },
-        {
-          "bubbleId": "0128a327-026b-41a0-8a49-1cf2780b3311",
-          "type": 2
-        },
-        {
-          "bubbleId": "7dc90bdc-15c5-47d4-aeba-336d10534259",
-          "type": 2,
-          "serverBubbleId": "5ee09faf-43c8-46ea-9b26-8ac220381a8a"
-        },
-        {
-          "bubbleId": "955c1788-216a-41e8-9abb-7e87448af7f6",
-          "type": 2
-        },
-        {
-          "bubbleId": "3b41f7cb-4e14-4cb4-a70b-6e532fa98262",
-          "type": 2
-        },
-        {
-          "bubbleId": "5d4ff9a9-c412-4e0f-963e-7d75387554f9",
-          "type": 2
-        },
-        {
-          "bubbleId": "327577fa-cdc9-4da3-98c6-15cc1bd6ab6d",
-          "type": 2,
-          "serverBubbleId": "52df6425-1dfe-44f9-a72e-13c00c7686f7"
-        },
-        {
-          "bubbleId": "da475b47-bfab-4e47-895a-dbc8d22846ec",
-          "type": 2
-        },
-        {
-          "bubbleId": "adcb0c55-e66a-4c22-bb69-2aa0baf3e22b",
-          "type": 2
-        },
-        {
-          "bubbleId": "df6fd774-00b4-426c-814e-08a1c336d97f",
-          "type": 2,
-          "serverBubbleId": "4357f32c-4af4-412e-a288-f827af49fe3a"
-        },
-        {
-          "bubbleId": "58332a84-ef68-4035-879b-3f203b579150",
-          "type": 2
-        },
-        {
-          "bubbleId": "ba5165e2-7951-476a-9b8a-c773cdb9c8bd",
-          "type": 1
-        },
-        {
-          "bubbleId": "8290b39e-c644-4538-89df-1331363befe8",
-          "type": 2,
-          "serverBubbleId": "902edda4-5ca0-443d-a976-56dc25dcae70"
-        },
-        {
-          "bubbleId": "28d59e5c-2c25-46d9-b463-9206b99e7f29",
-          "type": 2
-        },
-        {
-          "bubbleId": "7f80baec-6125-4381-8f10-a23a0f3cc195",
-          "type": 1
-        },
-        {
-          "bubbleId": "4c29c945-8463-43af-bf30-e9233f9873ae",
-          "type": 2,
-          "serverBubbleId": "47c075a5-edd6-4904-9845-82b04b320f25"
-        },
-        {
-          "bubbleId": "810514b7-34e7-42e5-a893-53c29cfe68c3",
-          "type": 2
-        },
-        {
-          "bubbleId": "cd2a7a41-a9e5-44db-8b25-6a66a7b12b0e",
-          "type": 2
-        },
-        {
-          "bubbleId": "3a1aaad5-7fbd-44fe-936c-9bfd04d0b532",
-          "type": 2
-        },
-        {
-          "bubbleId": "7d091012-91e0-42b0-a9c2-a95bbca40513",
-          "type": 2,
-          "serverBubbleId": "734af08b-05ae-4e29-88b1-87c9c6d2ad06"
-        },
-        {
-          "bubbleId": "c6072990-0380-419b-846a-9ae16039e730",
-          "type": 2
-        },
-        {
-          "bubbleId": "0d7ae4b9-8713-4540-872b-68eefdaa5fef",
-          "type": 2
-        },
-        {
-          "bubbleId": "d75d1fbc-6f18-4c43-a0ec-d1da2912dfa9",
-          "type": 2
-        },
-        {
-          "bubbleId": "f96c45f7-0369-410d-9a4e-1f01f91d3137",
-          "type": 2,
-          "serverBubbleId": "97ba4915-758e-4083-9e6d-5e4e1471bb6a"
-        },
-        {
-          "bubbleId": "16965fd5-3e41-411f-81cf-601d8bc3c02f",
-          "type": 2
-        },
-        {
-          "bubbleId": "59ced5f5-bc41-4291-86ab-cb910cf0672e",
-          "type": 1
-        },
-        {
-          "bubbleId": "db74fe1f-2cd6-4f9d-9c70-8dbe58d399fe",
-          "type": 2,
-          "serverBubbleId": "5d443af4-9f1a-4308-97c3-74129ec9c4fa"
-        },
-        {
-          "bubbleId": "7f7f553c-8378-498c-9f18-bd67ee38f530",
-          "type": 2
-        },
-        {
-          "bubbleId": "e01aecac-47b2-43f4-b816-f7e6b72c135d",
-          "type": 2
-        },
-        {
-          "bubbleId": "7edd08c5-eab1-45fc-b6e1-a7fbe9f375eb",
-          "type": 2,
-          "serverBubbleId": "4cafab82-6026-46be-8bdd-f074e02de9f6"
-        },
-        {
-          "bubbleId": "4632922d-336e-49a6-bab3-fc4f100381f6",
-          "type": 2
-        },
-        {
-          "bubbleId": "416ce84f-9534-43ab-83ae-2155882965a2",
-          "type": 2
-        },
-        {
-          "bubbleId": "dfd402f7-f334-42b0-aa9c-74299b0771e2",
-          "type": 2
-        },
-        {
-          "bubbleId": "ca9a6822-c4f7-41b5-be6a-31cee1f4a375",
-          "type": 2
-        },
-        {
-          "bubbleId": "813e0f2a-2ddd-4f28-992e-5a7152845fb3",
-          "type": 2
-        },
-        {
-          "bubbleId": "19c23c15-c7eb-470d-8c88-b9c7198a7acb",
-          "type": 2
-        },
-        {
-          "bubbleId": "f7885ba6-b9f2-4743-88fd-3662b67439f6",
-          "type": 2,
-          "serverBubbleId": "5a0ffeec-3676-4697-8e85-27c7d9c6f3bc"
-        },
-        {
-          "bubbleId": "e8630be0-8c2b-45e6-91b4-31bd735839cc",
-          "type": 2
-        },
-        {
-          "bubbleId": "2dcb407b-2017-44fb-b351-766be22597fa",
-          "type": 1
-        },
-        {
-          "bubbleId": "9a9175f3-65a9-45ea-bfce-95a6e856415b",
-          "type": 2,
-          "serverBubbleId": "be371ff3-9885-431c-bd50-438312b21951"
-        },
-        {
-          "bubbleId": "2bf21464-8572-439a-bed0-251ffade015b",
-          "type": 2
-        },
-        {
-          "bubbleId": "bc2f83e4-f46d-4c3e-af30-5c89fe132e5e",
-          "type": 2
-        },
-        {
-          "bubbleId": "ad6ae00f-cb2c-4924-b512-32cc4dc16939",
-          "type": 2,
-          "serverBubbleId": "65d67559-4f23-41fd-96da-0087beeea05d"
-        },
-        {
-          "bubbleId": "61ce3bad-49a9-4939-b89d-bdc7b54661cd",
-          "type": 2
-        },
-        {
-          "bubbleId": "b49c2279-c64e-4750-a30d-ad718958d98e",
-          "type": 1
-        },
-        {
-          "bubbleId": "d4ee93a0-049b-4a5e-af23-60c13ff6cb5a",
-          "type": 2,
-          "serverBubbleId": "1c504d2a-6463-45ec-9159-b281656c7a83"
-        },
-        {
-          "bubbleId": "2c42f413-9d17-4083-b598-988539589cb6",
-          "type": 2
-        },
-        {
-          "bubbleId": "92e462db-1171-43de-b4bf-5bc145a52173",
-          "type": 2
-        },
-        {
-          "bubbleId": "8a25d255-9b26-4c15-bfe5-9a7d867ebdcf",
-          "type": 2
-        },
-        {
-          "bubbleId": "6ffd43d3-86fd-46fb-b5b1-63f312ade669",
-          "type": 2
-        },
-        {
-          "bubbleId": "f9d65dd9-0b01-46cd-85ee-1df04796595e",
-          "type": 2
-        },
-        {
-          "bubbleId": "26639418-7715-4ce2-9d79-4fb887914865",
-          "type": 2
-        },
-        {
-          "bubbleId": "b4a7bf40-8cb2-486e-bd4f-d8eda27ad596",
-          "type": 2,
-          "serverBubbleId": "9f13314d-6708-4b5a-8f3c-5c26cb70f585"
-        },
-        {
-          "bubbleId": "e5bdee2a-1473-4671-94ed-60c77f5531ce",
-          "type": 2
-        },
-        {
-          "bubbleId": "17919508-a3d9-44e9-a9c3-88720e3f457e",
-          "type": 2
-        },
-        {
-          "bubbleId": "81722957-b37c-4786-bed3-76ea914df354",
-          "type": 2
-        },
-        {
-          "bubbleId": "5761a431-60b9-4f13-bb4b-76c2cd65a8a9",
-          "type": 2
-        },
-        {
-          "bubbleId": "514d0235-30e5-4e9e-bd3e-4852f61008c9",
-          "type": 2
-        },
-        {
-          "bubbleId": "5f998389-b18f-46ee-b26f-a8780b82b858",
-          "type": 2
-        },
-        {
-          "bubbleId": "41d4ac92-0f9a-4090-8ba2-bfefa4b8bc37",
-          "type": 2,
-          "serverBubbleId": "1a871b1e-418d-42ec-9001-63ff911e51cd"
-        },
-        {
-          "bubbleId": "133a7dc3-9858-4c09-a78a-13ed3f024109",
-          "type": 2
-        },
-        {
-          "bubbleId": "ef357d78-d21a-4765-a08d-c915d16a5e30",
-          "type": 1
-        },
-        {
-          "bubbleId": "698cbb2d-9a42-4997-af93-a523fae132f8",
-          "type": 2,
-          "serverBubbleId": "88a1e25a-f82e-46d0-8b91-e1f25497426f"
-        },
-        {
-          "bubbleId": "27916919-3d45-486f-b642-e43c332ae5b2",
-          "type": 2
-        },
-        {
-          "bubbleId": "ea1ebb2d-24cf-4784-a6ab-022e3db34d34",
-          "type": 2
-        },
-        {
-          "bubbleId": "010fa444-63eb-45ec-b34f-1f6b21e0ec3f",
-          "type": 2
-        },
-        {
-          "bubbleId": "466fcabf-7ac9-4b57-92c7-f65e51e0894f",
-          "type": 2,
-          "serverBubbleId": "0861c450-6692-4f89-b81e-dab9af02ba0b"
-        },
-        {
-          "bubbleId": "90738f8d-cfa0-46df-9e36-ea4f6188ccdd",
-          "type": 2
-        },
-        {
-          "bubbleId": "c0ad04b5-967b-452b-8bcc-2c3b82ccf7f9",
-          "type": 2
-        },
-        {
-          "bubbleId": "f31d3e7a-3bb8-42da-8347-1b1f5b759f52",
-          "type": 2
-        },
-        {
-          "bubbleId": "b7fb64ed-d195-4576-995d-6e0bf4ac9d96",
-          "type": 2,
-          "serverBubbleId": "892f1a1f-87b2-49b3-94ce-11cc24b39008"
-        },
-        {
-          "bubbleId": "366e47a7-5241-4c5e-b2d9-0bbddeaa64fb",
-          "type": 2
-        },
-        {
-          "bubbleId": "0ac05f89-34af-443d-a852-98ed6d73222a",
-          "type": 1
-        },
-        {
-          "bubbleId": "b4a2693d-3108-4d84-8e8b-125820e2479f",
-          "type": 2,
-          "serverBubbleId": "c4bbee9b-f139-49b9-a803-7f469cce935a"
-        },
-        {
-          "bubbleId": "3fcace41-95dd-422c-a185-6b531b767058",
-          "type": 2
-        },
-        {
-          "bubbleId": "82f5a9c2-918f-4027-b299-a95b9af1e2a6",
-          "type": 2
-        },
-        {
-          "bubbleId": "8776726b-4dd0-4fb8-98d3-b3b21f9a7e3f",
-          "type": 2
-        },
-        {
-          "bubbleId": "20ab2b9c-87a5-49b2-9ad5-a27f43cc8763",
-          "type": 2
-        },
-        {
-          "bubbleId": "003a0d39-fff7-4c9b-9cc9-e554563682a3",
-          "type": 2,
-          "serverBubbleId": "ca20407e-493a-4ce6-b275-662cd06ffe76"
-        },
-        {
-          "bubbleId": "71ee9372-4996-47af-adb3-48af69391228",
-          "type": 2
-        },
-        {
-          "bubbleId": "7d27edf6-3702-49c3-9545-97869fd98ad4",
-          "type": 2
-        },
-        {
-          "bubbleId": "b03962c1-f8df-4f56-ba26-47da2183cb1a",
-          "type": 2
-        },
-        {
-          "bubbleId": "ae34856d-0287-4399-8871-1c973e9d62e3",
-          "type": 2,
-          "serverBubbleId": "65e2d469-30ea-4ddc-b877-55da9d1db6e2"
-        },
-        {
-          "bubbleId": "e92d0cf1-fb83-4f06-9808-4e747c0d0f80",
-          "type": 2
-        },
-        {
-          "bubbleId": "d3e8a34c-f5b5-4ac9-bd53-9c5efd45404c",
-          "type": 2
-        },
-        {
-          "bubbleId": "6c49cfeb-dd97-46d5-b028-f6df1fe0a488",
-          "type": 2
-        },
-        {
-          "bubbleId": "392e46f2-7b29-4942-800e-374f17fdff4a",
-          "type": 2,
-          "serverBubbleId": "34188f6c-0e8a-4949-bcac-0b1d984cd836"
-        },
-        {
-          "bubbleId": "455e4712-291f-451d-ac6e-b8817162d374",
-          "type": 2
-        },
-        {
-          "bubbleId": "050599ee-7e03-42e0-828e-59c06c1891bc",
-          "type": 1
-        },
-        {
-          "bubbleId": "19b92c95-929a-46c3-bfc1-cc9a93c7611b",
-          "type": 2,
-          "serverBubbleId": "ab609f3a-d58c-4b0a-9db6-b1ee4759b747"
-        },
-        {
-          "bubbleId": "9cdb1e6d-2294-4f31-9cc7-e936714944be",
-          "type": 2
-        },
-        {
-          "bubbleId": "7b7aa500-cefd-492a-a8ac-f099e254296d",
-          "type": 2
-        },
-        {
-          "bubbleId": "499664ff-a3c4-452a-969b-c3ba8a9b7001",
-          "type": 2,
-          "serverBubbleId": "97688300-4132-44ed-8d2c-fc5831f44e00"
-        },
-        {
-          "bubbleId": "957237dd-55d8-4b0d-afa4-44b30dddb5e7",
-          "type": 2
-        },
-        {
-          "bubbleId": "20c75d75-da26-44c4-a81d-87c8308321a3",
-          "type": 2
-        },
-        {
-          "bubbleId": "60337de0-6121-43fe-ad6b-ca73f6244f8a",
-          "type": 2
-        },
-        {
-          "bubbleId": "53236cdd-1d57-4f70-b48a-7c348627c690",
-          "type": 2,
-          "serverBubbleId": "e0b37439-180f-4274-890d-299063267ce9"
-        },
-        {
-          "bubbleId": "4bce0b7c-cfea-4657-b27d-b48b1a95a605",
-          "type": 2
-        },
-        {
-          "bubbleId": "882af319-8fa6-4ca5-a63a-7ace940b21be",
-          "type": 2
-        },
-        {
-          "bubbleId": "2a7ac8b9-384e-4513-b885-e3df323b8686",
-          "type": 2
-        },
-        {
-          "bubbleId": "6a767591-2ebc-4d3e-9f9c-79842e1876a0",
-          "type": 2,
-          "serverBubbleId": "31b4c5a5-7a76-40ed-8c31-c2af3519ce1e"
-        },
-        {
-          "bubbleId": "7bfa44bf-e104-4644-879f-60511c797387",
-          "type": 2
-        },
-        {
-          "bubbleId": "c80da095-61ad-4987-97b4-b9a329698ed8",
-          "type": 1
-        },
-        {
-          "bubbleId": "1961756d-5d0a-4fb7-b235-f32f3b784856",
-          "type": 2,
-          "serverBubbleId": "b7035052-88cc-44ac-a48c-9d958519eea6"
-        },
-        {
-          "bubbleId": "993322c0-cc9f-450e-9a64-b8755a148c0f",
-          "type": 2
-        },
-        {
-          "bubbleId": "868a7215-1c9d-4349-83cc-14bac2c659dd",
-          "type": 2
-        },
-        {
-          "bubbleId": "06164f6f-8a4d-463e-a3ad-f5125861836e",
-          "type": 2,
-          "serverBubbleId": "0729ff65-1a7e-41c8-b55f-d41e5723d86b"
-        },
-        {
-          "bubbleId": "7adb4f62-52a2-4f9a-8442-624f2ff06a84",
-          "type": 2
-        },
-        {
-          "bubbleId": "6bbf6e7f-f585-4821-b8d8-32dc2774b4a1",
-          "type": 2
-        },
-        {
-          "bubbleId": "5e480811-d866-4253-99da-f93155ee8a33",
-          "type": 2
-        },
-        {
-          "bubbleId": "31bc9165-4977-41a1-a151-ca2a954b916e",
-          "type": 2,
-          "serverBubbleId": "4c13b7ea-a235-4e92-9bb7-3b1be5420f52"
-        },
-        {
-          "bubbleId": "0220a407-565d-4ed2-bb0e-f1a9f2bf3e81",
-          "type": 2
-        },
-        {
-          "bubbleId": "3df18b87-b0ec-4bb8-91ba-a70521532b3a",
-          "type": 2
-        },
-        {
-          "bubbleId": "6968ae6c-e3b5-4c06-9f8d-c94385e37828",
-          "type": 2
-        },
-        {
-          "bubbleId": "ff34c5d2-f5d9-4636-9a8a-f7341c318cc8",
-          "type": 2,
-          "serverBubbleId": "67632ef5-9814-4e48-aa78-ad498e98f8c4"
-        },
-        {
-          "bubbleId": "ff7f7698-6734-412d-8f1b-f7fcf3642703",
-          "type": 2
-        },
-        {
-          "bubbleId": "fd7e76cf-1d09-43a2-8734-bef76cb2d4d2",
-          "type": 1
-        },
-        {
-          "bubbleId": "0ddcf230-600a-45b4-a9eb-4e8bcd94a5c0",
-          "type": 2,
-          "serverBubbleId": "592e6151-16b5-4b48-8c6c-e8a8d6360c94"
-        },
-        {
-          "bubbleId": "4935282f-1757-4180-945a-4099da4d5b57",
-          "type": 2
-        },
-        {
-          "bubbleId": "bcdefa86-c9f7-4ef1-a84c-e8fbf8fc54ef",
-          "type": 2
-        },
-        {
-          "bubbleId": "7b7724b5-499d-4aef-a12b-6e24ce6bf356",
-          "type": 2
-        },
-        {
-          "bubbleId": "9c171031-e856-4631-904d-879da891efd4",
-          "type": 2,
-          "serverBubbleId": "c3b324e7-a6cc-4e53-928f-bb733139a707"
-        },
-        {
-          "bubbleId": "2d4fae39-310d-41c3-80b4-daf9517a8633",
-          "type": 2
-        },
-        {
-          "bubbleId": "6b7524f1-5a6c-4c62-94be-0a7abbeb83ab",
-          "type": 2
-        },
-        {
-          "bubbleId": "81a204ce-2617-4a8e-be7b-52f15d2629c5",
-          "type": 2
-        },
-        {
-          "bubbleId": "8af7e12f-08ae-4d45-8e2b-746924f98130",
-          "type": 2,
-          "serverBubbleId": "05e124b3-e986-4e02-b378-a5b08d876483"
-        },
-        {
-          "bubbleId": "373d89f5-91eb-40ed-acf6-8c42cdecab76",
-          "type": 2
-        },
-        {
-          "bubbleId": "b93d369a-c139-470a-b30f-c3862cf26d87",
-          "type": 2
-        },
-        {
-          "bubbleId": "287d9ae1-ae25-4bb1-8cb7-40b5946c1923",
-          "type": 2,
-          "serverBubbleId": "c3ca7467-7cb8-4c84-aea7-f9ef1b9071ca"
-        },
-        {
-          "bubbleId": "7965a660-191f-4533-9a58-23bc39f8e67f",
-          "type": 2
-        },
-        {
-          "bubbleId": "bf704623-1908-4ca0-bd70-e377b9cd8c06",
-          "type": 2
-        },
-        {
-          "bubbleId": "5391c270-4415-49c6-befa-6be90d3f0326",
-          "type": 2
-        },
-        {
-          "bubbleId": "ee8c9ee5-9702-493d-9834-58922bd48718",
-          "type": 2,
-          "serverBubbleId": "23514f25-017b-4ee7-b6e8-a8dd391a0df2"
-        },
-        {
-          "bubbleId": "f8a1d344-585f-438a-9ed2-4c2e916597d9",
-          "type": 2
-        },
-        {
-          "bubbleId": "bd3ae60c-3f51-4f19-b081-5c9d3167f969",
-          "type": 2
-        },
-        {
-          "bubbleId": "93bde632-a792-4807-bb84-6289d161e7ee",
-          "type": 2,
-          "serverBubbleId": "30a92ed0-3173-403d-8d90-65e2cf873c64"
-        },
-        {
-          "bubbleId": "7fdfba67-ffc9-4d71-ade7-38aae096f374",
-          "type": 2
-        },
-        {
           "bubbleId": "7f924ec5-ab97-4d29-b753-f745b027ef41",
           "type": 1
         },
@@ -15278,7 +14071,7 @@
       "subtitle": "ITEM_SUPPLIER_CSV_TEMPLATE.csv, ADD_SUPPLIER_FROM_CSV.py, BULK_ADD_SUPPLIERS_TO_ITEMS.py, ADD_SUPPLIER_TO_ITEMS_GUIDE.md, create_opening_stock_direct.py",
       "filesChangedCount": 196
     },
-    "extracted_at": "2026-01-19T19:38:01.421474"
+    "extracted_at": "2026-01-19T19:43:03.486678"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -19437,7 +18230,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-19T19:38:01.422475"
+    "extracted_at": "2026-01-19T19:43:03.498461"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -27949,7 +26742,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-19T19:38:01.430758"
+    "extracted_at": "2026-01-19T19:43:03.507460"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -28167,7 +26960,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-19T19:38:01.430758"
+    "extracted_at": "2026-01-19T19:43:03.507460"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -28344,7 +27137,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-19T19:38:01.430758"
+    "extracted_at": "2026-01-19T19:43:03.507460"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -37455,12 +36248,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-19T19:38:01.438474"
+    "extracted_at": "2026-01-19T19:43:03.516459"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-19T19:38:01.438474"
+    "extracted_at": "2026-01-19T19:43:03.516459"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -37639,7 +36432,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-19T19:38:01.438474"
+    "extracted_at": "2026-01-19T19:43:03.516459"
   },
   {
     "key": "composerData:40c3238e-9290-4c15-b4b4-14d3f7651247",
@@ -37813,7 +36606,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-19T19:38:01.438474"
+    "extracted_at": "2026-01-19T19:43:03.517459"
   },
   {
     "key": "composerData:842169da-0a70-49ac-a2d0-7cf9409a2f08",
@@ -37924,6 +36717,291 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-19T19:38:01.438474"
+    "extracted_at": "2026-01-19T19:43:03.517459"
+  },
+  {
+    "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
+    "data": {
+      "_v": 11,
+      "composerId": "e8d48cac-ca38-4719-b62f-395758f05174",
+      "richText": "",
+      "hasLoaded": true,
+      "text": "",
+      "fullConversationHeadersOnly": [],
+      "conversationMap": {},
+      "status": "none",
+      "context": {
+        "composers": [],
+        "quotes": [],
+        "selectedCommits": [],
+        "selectedPullRequests": [],
+        "selectedImages": [],
+        "folderSelections": [],
+        "fileSelections": [],
+        "selections": [],
+        "terminalSelections": [],
+        "selectedDocs": [],
+        "externalLinks": [],
+        "cursorRules": [],
+        "cursorCommands": [],
+        "gitPRDiffSelections": [],
+        "mentions": {
+          "composers": {},
+          "quotes": {},
+          "selectedCommits": {},
+          "selectedPullRequests": {},
+          "gitDiff": [],
+          "gitDiffFromBranchToMain": [],
+          "selectedImages": {},
+          "useWeb": [],
+          "folderSelections": {},
+          "fileSelections": {},
+          "terminalFiles": {},
+          "selections": {},
+          "terminalSelections": {},
+          "selectedDocs": {},
+          "externalLinks": {},
+          "useLinterErrors": [],
+          "useDiffReview": [],
+          "useGenerateRules": [],
+          "useContextPicking": [],
+          "useRememberThis": [],
+          "diffHistory": [],
+          "cursorRules": {},
+          "cursorCommands": {},
+          "autoContext": [],
+          "uiElementSelections": [],
+          "consoleLogs": [],
+          "ideEditorsState": [],
+          "gitPRDiffSelections": {}
+        }
+      },
+      "gitGraphFileSuggestions": [],
+      "generatingBubbleIds": [],
+      "isReadingLongFile": false,
+      "codeBlockData": {},
+      "originalFileStates": {},
+      "newlyCreatedFiles": [],
+      "newlyCreatedFolders": [],
+      "createdAt": 1768831863809,
+      "hasChangedContext": false,
+      "activeTabsShouldBeReactive": true,
+      "capabilities": [
+        {
+          "type": 30,
+          "data": {}
+        },
+        {
+          "type": 34,
+          "data": {}
+        },
+        {
+          "type": 15,
+          "data": {
+            "bubbleDataMap": "{}"
+          }
+        },
+        {
+          "type": 22,
+          "data": {}
+        },
+        {
+          "type": 18,
+          "data": {}
+        },
+        {
+          "type": 19,
+          "data": {}
+        },
+        {
+          "type": 33,
+          "data": {}
+        },
+        {
+          "type": 32,
+          "data": {}
+        },
+        {
+          "type": 23,
+          "data": {}
+        },
+        {
+          "type": 16,
+          "data": {}
+        },
+        {
+          "type": 24,
+          "data": {}
+        },
+        {
+          "type": 25,
+          "data": {}
+        },
+        {
+          "type": 21,
+          "data": {}
+        },
+        {
+          "type": 31,
+          "data": {}
+        },
+        {
+          "type": 29,
+          "data": {}
+        }
+      ],
+      "isFileListExpanded": false,
+      "browserChipManuallyDisabled": false,
+      "browserChipManuallyEnabled": false,
+      "unifiedMode": "agent",
+      "forceMode": "edit",
+      "usageData": {},
+      "allAttachedFileCodeChunksUris": [],
+      "modelConfig": {
+        "modelName": "composer-1",
+        "maxMode": false
+      },
+      "subComposerIds": [],
+      "capabilityContexts": [],
+      "todos": [],
+      "isQueueExpanded": true,
+      "hasUnreadMessages": false,
+      "gitHubPromptDismissed": false,
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 0,
+      "addedFiles": 0,
+      "removedFiles": 0,
+      "isArchived": false,
+      "isDraft": false,
+      "isCreatingWorktree": false,
+      "isApplyingWorktree": false,
+      "isUndoingWorktree": false,
+      "applied": false,
+      "pendingCreateWorktree": false,
+      "isBestOfNSubcomposer": false,
+      "isBestOfNParent": false,
+      "bestOfNJudgeWinner": false,
+      "isSpec": false,
+      "isSpecSubagentDone": false,
+      "stopHookLoopCount": 0,
+      "speculativeSummarizationEncryptionKey": "B/QkTZsfwOLJ2cR4Hqp8F+eakZ9Nme4knfT4yzHGNZc=",
+      "isNAL": false,
+      "planModeSuggestionUsed": false,
+      "debugModeSuggestionUsed": false,
+      "conversationState": "",
+      "isAgentic": true
+    },
+    "extracted_at": "2026-01-19T19:43:03.517459"
+  },
+  {
+    "key": "composerData:6afdc338-e6ca-4338-82e7-be278b231592",
+    "data": {
+      "_v": 11,
+      "composerId": "6afdc338-e6ca-4338-82e7-be278b231592",
+      "richText": "",
+      "hasLoaded": true,
+      "text": "",
+      "fullConversationHeadersOnly": [],
+      "conversationMap": {},
+      "status": "none",
+      "context": {
+        "composers": [],
+        "quotes": [],
+        "selectedCommits": [],
+        "selectedPullRequests": [],
+        "selectedImages": [],
+        "folderSelections": [],
+        "fileSelections": [],
+        "selections": [],
+        "terminalSelections": [],
+        "selectedDocs": [],
+        "externalLinks": [],
+        "cursorRules": [],
+        "cursorCommands": [],
+        "gitPRDiffSelections": [],
+        "mentions": {
+          "composers": {},
+          "quotes": {},
+          "selectedCommits": {},
+          "selectedPullRequests": {},
+          "gitDiff": [],
+          "gitDiffFromBranchToMain": [],
+          "selectedImages": {},
+          "useWeb": [],
+          "folderSelections": {},
+          "fileSelections": {},
+          "terminalFiles": {},
+          "selections": {},
+          "terminalSelections": {},
+          "selectedDocs": {},
+          "externalLinks": {},
+          "useLinterErrors": [],
+          "useDiffReview": [],
+          "useGenerateRules": [],
+          "useContextPicking": [],
+          "useRememberThis": [],
+          "diffHistory": [],
+          "cursorRules": {},
+          "cursorCommands": {},
+          "autoContext": [],
+          "uiElementSelections": [],
+          "consoleLogs": [],
+          "ideEditorsState": [],
+          "gitPRDiffSelections": {}
+        }
+      },
+      "gitGraphFileSuggestions": [],
+      "generatingBubbleIds": [],
+      "isReadingLongFile": false,
+      "codeBlockData": {},
+      "originalFileStates": {},
+      "newlyCreatedFiles": [],
+      "newlyCreatedFolders": [],
+      "createdAt": 1768831863809,
+      "hasChangedContext": false,
+      "activeTabsShouldBeReactive": true,
+      "capabilities": [],
+      "isFileListExpanded": false,
+      "browserChipManuallyDisabled": false,
+      "browserChipManuallyEnabled": false,
+      "unifiedMode": "chat",
+      "forceMode": "chat",
+      "usageData": {},
+      "allAttachedFileCodeChunksUris": [],
+      "modelConfig": {
+        "modelName": "composer-1",
+        "maxMode": false
+      },
+      "subComposerIds": [],
+      "capabilityContexts": [],
+      "todos": [],
+      "isQueueExpanded": true,
+      "hasUnreadMessages": false,
+      "gitHubPromptDismissed": false,
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 0,
+      "addedFiles": 0,
+      "removedFiles": 0,
+      "isArchived": false,
+      "isDraft": false,
+      "isCreatingWorktree": false,
+      "isApplyingWorktree": false,
+      "isUndoingWorktree": false,
+      "applied": false,
+      "pendingCreateWorktree": false,
+      "isBestOfNSubcomposer": false,
+      "isBestOfNParent": false,
+      "bestOfNJudgeWinner": false,
+      "isSpec": false,
+      "isSpecSubagentDone": false,
+      "stopHookLoopCount": 0,
+      "speculativeSummarizationEncryptionKey": "siI8Wk9PDiSU8dxbxa6ZUKk0GmlK9hphGRUpUOd1L0w=",
+      "isNAL": false,
+      "planModeSuggestionUsed": false,
+      "debugModeSuggestionUsed": false,
+      "conversationState": "",
+      "isAgentic": false
+    },
+    "extracted_at": "2026-01-19T19:43:03.517459"
   }
 ]
