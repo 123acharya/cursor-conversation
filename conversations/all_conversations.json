@@ -4,7 +4,7 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "",
       "hasLoaded": true,
       "text": "",
       "fullConversationHeadersOnly": [
@@ -4734,6 +4734,10 @@
         {
           "bubbleId": "f9274b2e-6354-47f6-ba88-f581c1608ecf",
           "type": 2
+        },
+        {
+          "bubbleId": "617949d7-a8d3-4332-a775-5f900f4f263d",
+          "type": 2
         }
       ],
       "conversationMap": {},
@@ -4787,7 +4791,6 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
-      "chatGenerationUUID": "bb284d27-08e3-49c2-abad-8402537bf822",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -12832,6 +12835,27 @@
             "lastDiffId": "377392eb-23ae-4cab-846c-886b9a312b45",
             "lastAppliedAt": 1768902376053
           }
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_RESULT_REDESIGN.md": {
+          "15838897-db48-4b7d-95bb-c652ec008f8b": {
+            "_v": 3,
+            "bubbleId": "d66f5bb5-f8f6-4ec1-93a4-002ee8f5c386",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\PCB_IQC_RESULT_REDESIGN.md",
+              "_sep": 1,
+              "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_RESULT_REDESIGN.md",
+              "path": "/G:/frappe_docker-main/frappe_docker-main/PCB_IQC_RESULT_REDESIGN.md",
+              "scheme": "file"
+            },
+            "codeblockId": "15838897-db48-4b7d-95bb-c652ec008f8b",
+            "status": "aborted",
+            "languageId": "markdown",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1768908790871,
+            "composerChatGenerationUuid": "bb284d27-08e3-49c2-abad-8402537bf822"
+          }
         }
       },
       "originalFileStates": {
@@ -14118,6 +14142,12 @@
           "firstEditBubbleId": "65fbe599-16d3-4582-9c4c-2e54fdae24dd",
           "isNewlyCreated": true,
           "newlyCreatedFolders": []
+        },
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_RESULT_REDESIGN.md": {
+          "content": "",
+          "firstEditBubbleId": "d66f5bb5-f8f6-4ec1-93a4-002ee8f5c386",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
         }
       },
       "newlyCreatedFiles": [
@@ -15189,7 +15219,7 @@
       "subtitle": "PCB_IQC_RESULT_REDESIGN.md, PCB_OPERATOR_WORKFLOW_GUIDE.md, FIX_ITEM_AND_CREATE_NEW_PRS.txt, CHECK_ALL_NON_STOCK_ITEMS.txt, CHECK_AND_FIX_ITEM_STOCK.txt",
       "filesChangedCount": 213
     },
-    "extracted_at": "2026-01-20T17:03:00.902577"
+    "extracted_at": "2026-01-20T17:08:00.864253"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -19348,7 +19378,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-20T17:03:00.903578"
+    "extracted_at": "2026-01-20T17:08:00.866254"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -27860,7 +27890,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-20T17:03:00.910090"
+    "extracted_at": "2026-01-20T17:08:00.872257"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -28078,7 +28108,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-20T17:03:00.910090"
+    "extracted_at": "2026-01-20T17:08:00.872257"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -28255,7 +28285,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-20T17:03:00.910090"
+    "extracted_at": "2026-01-20T17:08:00.872257"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -37366,12 +37396,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-20T17:03:00.918974"
+    "extracted_at": "2026-01-20T17:08:00.879785"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-20T17:03:00.918974"
+    "extracted_at": "2026-01-20T17:08:00.879785"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -37550,7 +37580,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-20T17:03:00.918974"
+    "extracted_at": "2026-01-20T17:08:00.879785"
   },
   {
     "key": "composerData:40c3238e-9290-4c15-b4b4-14d3f7651247",
@@ -37724,7 +37754,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-20T17:03:00.918974"
+    "extracted_at": "2026-01-20T17:08:00.879785"
   },
   {
     "key": "composerData:842169da-0a70-49ac-a2d0-7cf9409a2f08",
@@ -37835,7 +37865,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-20T17:03:00.918974"
+    "extracted_at": "2026-01-20T17:08:00.879785"
   },
   {
     "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
@@ -38009,7 +38039,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-20T17:03:00.918974"
+    "extracted_at": "2026-01-20T17:08:00.879785"
   },
   {
     "key": "composerData:6afdc338-e6ca-4338-82e7-be278b231592",
@@ -38120,6 +38150,6 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-20T17:03:00.919490"
+    "extracted_at": "2026-01-20T17:08:00.879785"
   }
 ]
