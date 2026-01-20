@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also now when we try to do stock entry for PCB IQC accept or PCB IQC reject for PCB we have check overall status is pass for \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"nioc\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "also now when we try to do stock entry for PCB IQC accept or PCB IQC reject for PCB we have check overall status is pass for ",
+    "text": "nioc",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "7f924ec5-ab97-4d29-b753-f745b027ef41",
@@ -4737,6 +4737,78 @@
       },
       {
         "bubbleId": "f801cf8f-1bd9-4c16-a449-749551b30c68",
+        "type": 2
+      },
+      {
+        "bubbleId": "7fb3493d-f839-4964-a969-fa31926af26f",
+        "type": 1
+      },
+      {
+        "bubbleId": "4b7a164d-9e19-4360-afb0-90aad17de4ef",
+        "type": 2,
+        "serverBubbleId": "336712e7-3b17-4ccb-8fee-8a08ab2e4a1b"
+      },
+      {
+        "bubbleId": "7206cc45-fda1-40ba-b691-bd12c2010036",
+        "type": 2
+      },
+      {
+        "bubbleId": "34fe04d9-da00-48e2-843f-b1db50454931",
+        "type": 2
+      },
+      {
+        "bubbleId": "bbcf8bd6-e24c-4d53-8242-3c7f41c0b4b5",
+        "type": 2
+      },
+      {
+        "bubbleId": "8d70a6b9-0e89-43df-8a4f-cb7b79b53f60",
+        "type": 2,
+        "serverBubbleId": "f75ea0e0-2b14-434d-a7d0-955bf58c3214"
+      },
+      {
+        "bubbleId": "6a60ed51-3c42-4623-9cbc-11a8ff622a27",
+        "type": 2
+      },
+      {
+        "bubbleId": "5489dd18-9a5c-40b7-b438-42e2fe52c795",
+        "type": 2
+      },
+      {
+        "bubbleId": "22ad527f-024d-4374-8ca3-a11a4548c1fd",
+        "type": 2
+      },
+      {
+        "bubbleId": "1796effa-f67a-47bf-8b06-f65d267245ea",
+        "type": 2
+      },
+      {
+        "bubbleId": "92a6a37c-aa3e-4f7c-b236-8ede3a3da83d",
+        "type": 2,
+        "serverBubbleId": "f577819b-7308-48f9-9b3a-5ace820c6650"
+      },
+      {
+        "bubbleId": "b44f6045-9a79-492f-97c0-a024502f51a3",
+        "type": 2
+      },
+      {
+        "bubbleId": "e16e53ab-a105-4364-9690-30b084bef9e7",
+        "type": 2
+      },
+      {
+        "bubbleId": "3aa1f90d-3c54-49de-89d5-e03ac8c38947",
+        "type": 2
+      },
+      {
+        "bubbleId": "f2e366c1-b0e1-4d6c-9b22-ded73e00da97",
+        "type": 2
+      },
+      {
+        "bubbleId": "3adc4921-d253-486e-9475-8f9fb288baf6",
+        "type": 2,
+        "serverBubbleId": "603a9dad-2ad5-44eb-b7e6-68de5da436f6"
+      },
+      {
+        "bubbleId": "daf78dda-2bd8-494b-bec3-a9b67396e4df",
         "type": 2
       }
     ],
@@ -12858,6 +12930,154 @@
           "diffId": "fadc612b-2f71-4ec0-9661-bc14afab8e71",
           "lastDiffId": "901f4f81-bd25-40af-828f-68e5bd11d408",
           "lastAppliedAt": 1768909288672
+        },
+        "c7666994-0efd-4870-9a48-4a4d97603851": {
+          "_v": 3,
+          "bubbleId": "e16e53ab-a105-4364-9690-30b084bef9e7",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\PCB_IQC_REDESIGN_PLAN.md",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_REDESIGN_PLAN.md",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/PCB_IQC_REDESIGN_PLAN.md",
+            "scheme": "file"
+          },
+          "codeblockId": "c7666994-0efd-4870-9a48-4a4d97603851",
+          "status": "completed",
+          "languageId": "markdown",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "c18a3b4b-b52c-4f6a-89fe-59606d92a7c1",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768911683790,
+          "composerChatGenerationUuid": "cec0ef76-a3a0-4aef-8458-9dc218b55ad3",
+          "diffId": "03553214-80b5-455a-b97c-1c92fba39bb6",
+          "lastDiffId": "791859c6-e8e6-409a-a5fb-68631d585dc4",
+          "lastAppliedAt": 1768911687327
+        },
+        "397cbbca-5785-4337-b966-47bada10e606": {
+          "_v": 3,
+          "bubbleId": "3aa1f90d-3c54-49de-89d5-e03ac8c38947",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\PCB_IQC_REDESIGN_PLAN.md",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_REDESIGN_PLAN.md",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/PCB_IQC_REDESIGN_PLAN.md",
+            "scheme": "file"
+          },
+          "codeblockId": "397cbbca-5785-4337-b966-47bada10e606",
+          "status": "completed",
+          "languageId": "markdown",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "c7666994-0efd-4870-9a48-4a4d97603851",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768911687727,
+          "composerChatGenerationUuid": "cec0ef76-a3a0-4aef-8458-9dc218b55ad3",
+          "diffId": "1465c28c-1f51-415a-8e94-3058e15cd7d2",
+          "lastDiffId": "ab075507-05fc-448c-8828-756e97d37720",
+          "lastAppliedAt": 1768911689511
+        }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_STOCK_ENTRY_VALIDATION.py": {
+        "e85f1a02-c1ca-41b7-ae82-e6a1b2f9f06e": {
+          "_v": 3,
+          "bubbleId": "5489dd18-9a5c-40b7-b438-42e2fe52c795",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\PCB_STOCK_ENTRY_VALIDATION.py",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_STOCK_ENTRY_VALIDATION.py",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/PCB_STOCK_ENTRY_VALIDATION.py",
+            "scheme": "file"
+          },
+          "codeblockId": "e85f1a02-c1ca-41b7-ae82-e6a1b2f9f06e",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768911639096,
+          "composerChatGenerationUuid": "cec0ef76-a3a0-4aef-8458-9dc218b55ad3",
+          "diffId": "2c1c6af2-b59c-4871-aa92-e1e74177d7a7",
+          "lastDiffId": "3de08a20-4760-46df-a581-eb725b59c56a",
+          "lastAppliedAt": 1768911651713
+        }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_AUTO_CALCULATE_STATUS.py": {
+        "dcc388c2-bf0c-4410-b147-efdb69595e5c": {
+          "_v": 3,
+          "bubbleId": "22ad527f-024d-4374-8ca3-a11a4548c1fd",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\PCB_IQC_AUTO_CALCULATE_STATUS.py",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_AUTO_CALCULATE_STATUS.py",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/PCB_IQC_AUTO_CALCULATE_STATUS.py",
+            "scheme": "file"
+          },
+          "codeblockId": "dcc388c2-bf0c-4410-b147-efdb69595e5c",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768911657680,
+          "composerChatGenerationUuid": "cec0ef76-a3a0-4aef-8458-9dc218b55ad3",
+          "diffId": "bd4c1e58-221f-4f78-8080-76b3b7e80776",
+          "lastDiffId": "87ac8812-8aa0-474b-a7b3-c285cd3ca0e7",
+          "lastAppliedAt": 1768911665815
+        }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/COMPLETE_PCB_IMPLEMENTATION_GUIDE.md": {
+        "640b9bc6-16ad-45c1-b246-6e3329d95f52": {
+          "_v": 3,
+          "bubbleId": "1796effa-f67a-47bf-8b06-f65d267245ea",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\COMPLETE_PCB_IMPLEMENTATION_GUIDE.md",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/COMPLETE_PCB_IMPLEMENTATION_GUIDE.md",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/COMPLETE_PCB_IMPLEMENTATION_GUIDE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "640b9bc6-16ad-45c1-b246-6e3329d95f52",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768911668370,
+          "composerChatGenerationUuid": "cec0ef76-a3a0-4aef-8458-9dc218b55ad3",
+          "diffId": "d64a6af2-1256-4443-ad8e-d2265ac053cd",
+          "lastDiffId": "36000dd7-b705-40fe-bfea-0571dcb241ee",
+          "lastAppliedAt": 1768911681967
+        }
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PCB_SCRIPTS.txt": {
+        "04beeb4d-1946-436f-8a54-35a2e2819a1e": {
+          "_v": 3,
+          "bubbleId": "f2e366c1-b0e1-4d6c-9b22-ded73e00da97",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\INSTALL_PCB_SCRIPTS.txt",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PCB_SCRIPTS.txt",
+            "path": "/G:/frappe_docker-main/frappe_docker-main/INSTALL_PCB_SCRIPTS.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "04beeb4d-1946-436f-8a54-35a2e2819a1e",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768911694947,
+          "composerChatGenerationUuid": "cec0ef76-a3a0-4aef-8458-9dc218b55ad3",
+          "diffId": "c67f24b2-a90f-448b-9b1f-811d9a290944",
+          "lastDiffId": "a9d9e062-36b4-4aac-a354-735741697b92",
+          "lastAppliedAt": 1768911700264
         }
       }
     },
@@ -14151,6 +14371,30 @@
         "firstEditBubbleId": "a45fa0aa-0387-4646-9ad1-7f787121e296",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_STOCK_ENTRY_VALIDATION.py": {
+        "content": "",
+        "firstEditBubbleId": "5489dd18-9a5c-40b7-b438-42e2fe52c795",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_AUTO_CALCULATE_STATUS.py": {
+        "content": "",
+        "firstEditBubbleId": "22ad527f-024d-4374-8ca3-a11a4548c1fd",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/COMPLETE_PCB_IMPLEMENTATION_GUIDE.md": {
+        "content": "",
+        "firstEditBubbleId": "1796effa-f67a-47bf-8b06-f65d267245ea",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PCB_SCRIPTS.txt": {
+        "content": "",
+        "firstEditBubbleId": "f2e366c1-b0e1-4d6c-9b22-ded73e00da97",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
       }
     },
     "newlyCreatedFiles": [
@@ -15083,10 +15327,50 @@
           "path": "/G:/frappe_docker-main/frappe_docker-main/PCB_IQC_REDESIGN_PLAN.md",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\PCB_STOCK_ENTRY_VALIDATION.py",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_STOCK_ENTRY_VALIDATION.py",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/PCB_STOCK_ENTRY_VALIDATION.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\PCB_IQC_AUTO_CALCULATE_STATUS.py",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_AUTO_CALCULATE_STATUS.py",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/PCB_IQC_AUTO_CALCULATE_STATUS.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\COMPLETE_PCB_IMPLEMENTATION_GUIDE.md",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/COMPLETE_PCB_IMPLEMENTATION_GUIDE.md",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/COMPLETE_PCB_IMPLEMENTATION_GUIDE.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "g:\\frappe_docker-main\\frappe_docker-main\\INSTALL_PCB_SCRIPTS.txt",
+          "_sep": 1,
+          "external": "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PCB_SCRIPTS.txt",
+          "path": "/G:/frappe_docker-main/frappe_docker-main/INSTALL_PCB_SCRIPTS.txt",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768909292569,
+    "lastUpdatedAt": 1768911704680,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -15166,7 +15450,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 52.94049835205078,
+    "contextUsagePercent": 60.625,
     "allAttachedFileCodeChunksUris": [
       "file:///g%3A/frappe_docker-main/frappe_docker-main/AGGRESSIVE_FIX_IMPORT_VALIDATION.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/VERIFY_CSV_COLUMNS.md",
@@ -15193,7 +15477,8 @@
       "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_AND_FIX_ITEM_STOCK.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_ALL_NON_STOCK_ITEMS.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_ITEM_AND_CREATE_NEW_PRS.txt",
-      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_OPERATOR_WORKFLOW_GUIDE.md"
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_OPERATOR_WORKFLOW_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_REDESIGN_PLAN.md"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -15205,7 +15490,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 24797,
+    "totalLinesAdded": 25772,
     "totalLinesRemoved": 8,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -15227,10 +15512,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "cf21ec87-75d4-4666-997e-b461ce5854a8",
+    "latestChatGenerationUUID": "cec0ef76-a3a0-4aef-8458-9dc218b55ad3",
     "isAgentic": true,
-    "subtitle": "PCB_IQC_REDESIGN_PLAN.md, PCB_OPERATOR_WORKFLOW_GUIDE.md, FIX_ITEM_AND_CREATE_NEW_PRS.txt, CHECK_ALL_NON_STOCK_ITEMS.txt, CHECK_AND_FIX_ITEM_STOCK.txt",
-    "filesChangedCount": 214
+    "subtitle": "INSTALL_PCB_SCRIPTS.txt, PCB_IQC_REDESIGN_PLAN.md, COMPLETE_PCB_IMPLEMENTATION_GUIDE.md, PCB_IQC_AUTO_CALCULATE_STATUS.py, PCB_STOCK_ENTRY_VALIDATION.py",
+    "filesChangedCount": 218
   },
-  "extracted_at": "2026-01-20T17:48:00.857907"
+  "extracted_at": "2026-01-20T17:53:00.875902"
 }
