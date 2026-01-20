@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"logic looks fine but in operators perspective its very hard for them to make them understand \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"So what i think is its better to make minor changes in the design which is usable and understanadable \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so in PCB IQC Results looks like this \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" i want to change its format such that the pcb Table will be like a excel table we caannot directly access the data that is there in  the pcb table \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"to see the data or to enter the data we have to maka entry table where we have same thing but its just about seaching the results nad updating the results \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"logic looks fine but in operators perspective its very hard for them to make them understand \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"So what i think is its better to make minor changes in the design which is usable and understanadable \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so in PCB IQC Results looks like this \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" i want to change its format such that the pcb Table will be like a excel table we caannot directly access the data that is there in  the pcb table \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"to see the data or to enter the data we have to maka entry table where we have same thing but its just about seaching the results nad updating the results \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"somthing like this \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"where in the top table we can only see and update the results everything happens automatic \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"date is entered automatically for every entry and every result date is saved in ledger \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pts1 is enter on 15-1-2026\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pts2 is enter on 18-1-2026\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pts3 is entered on 20-01-2026\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"basically it stores every update data and date in stock ledger or somewhere which is not working fine now\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"currently both PCB ledgere and\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "logic looks fine but in operators perspective its very hard for them to make them understand \n\nSo what i think is its better to make minor changes in the design which is usable and understanadable \nso in PCB IQC Results looks like this \n i want to change its format such that the pcb Table will be like a excel table we caannot directly access the data that is there in  the pcb table \n\nto see the data or to enter the data we have to maka entry table where we have same thing but its just about seaching the results nad updating the results \n",
+      "text": "logic looks fine but in operators perspective its very hard for them to make them understand \n\nSo what i think is its better to make minor changes in the design which is usable and understanadable \nso in PCB IQC Results looks like this \n i want to change its format such that the pcb Table will be like a excel table we caannot directly access the data that is there in  the pcb table \n\nto see the data or to enter the data we have to maka entry table where we have same thing but its just about seaching the results nad updating the results \nsomthing like this \nwhere in the top table we can only see and update the results everything happens automatic \ndate is entered automatically for every entry and every result date is saved in ledger \npts1 is enter on 15-1-2026\npts2 is enter on 18-1-2026\npts3 is entered on 20-01-2026\nbasically it stores every update data and date in stock ledger or somewhere which is not working fine now\n\ncurrently both PCB ledgere and",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "7f924ec5-ab97-4d29-b753-f745b027ef41",
@@ -4716,7 +4716,7 @@
         }
       ],
       "conversationMap": {},
-      "status": "completed",
+      "status": "aborted",
       "context": {
         "composers": [],
         "quotes": [],
@@ -4731,6 +4731,16 @@
               "height": 873
             },
             "loadedAt": 1768906063813,
+            "addedWithoutMention": true
+          },
+          {
+            "uuid": "0a8bb980-ce3a-44e7-8eeb-13c9be8db0b9",
+            "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-e4604cdb-33c7-4a8c-b6d8-0fac868bc5f1.png",
+            "dimension": {
+              "width": 1498,
+              "height": 824
+            },
+            "loadedAt": 1768907637062,
             "addedWithoutMention": true
           }
         ],
@@ -15032,7 +15042,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1768902379328,
+      "lastUpdatedAt": 1768907753546,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -15138,7 +15148,8 @@
         "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_ITEM_AND_REPOST.txt",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_AND_FIX_ITEM_STOCK.txt",
         "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_ALL_NON_STOCK_ITEMS.txt",
-        "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_ITEM_AND_CREATE_NEW_PRS.txt"
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_ITEM_AND_CREATE_NEW_PRS.txt",
+        "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_OPERATOR_WORKFLOW_GUIDE.md"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -15172,12 +15183,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "46e42173-d2a0-4a77-bf7a-027d2f7707a4",
+      "latestChatGenerationUUID": "9046073d-5cea-4be9-8345-56497470ed4f",
       "isAgentic": true,
       "subtitle": "PCB_OPERATOR_WORKFLOW_GUIDE.md, FIX_ITEM_AND_CREATE_NEW_PRS.txt, CHECK_ALL_NON_STOCK_ITEMS.txt, CHECK_AND_FIX_ITEM_STOCK.txt, FIX_ITEM_AND_REPOST.txt",
       "filesChangedCount": 213
     },
-    "extracted_at": "2026-01-20T16:43:01.048863"
+    "extracted_at": "2026-01-20T16:48:00.767217"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -19336,7 +19347,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-20T16:43:01.050548"
+    "extracted_at": "2026-01-20T16:48:00.768219"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -27848,7 +27859,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-20T16:43:01.056546"
+    "extracted_at": "2026-01-20T16:48:00.774218"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -28066,7 +28077,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-20T16:43:01.057546"
+    "extracted_at": "2026-01-20T16:48:00.775219"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -28243,7 +28254,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-20T16:43:01.057546"
+    "extracted_at": "2026-01-20T16:48:00.775219"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -37354,12 +37365,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-20T16:43:01.063546"
+    "extracted_at": "2026-01-20T16:48:00.782015"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-20T16:43:01.063546"
+    "extracted_at": "2026-01-20T16:48:00.782015"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -37538,7 +37549,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-20T16:43:01.064547"
+    "extracted_at": "2026-01-20T16:48:00.782015"
   },
   {
     "key": "composerData:40c3238e-9290-4c15-b4b4-14d3f7651247",
@@ -37712,7 +37723,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-20T16:43:01.064547"
+    "extracted_at": "2026-01-20T16:48:00.782015"
   },
   {
     "key": "composerData:842169da-0a70-49ac-a2d0-7cf9409a2f08",
@@ -37823,7 +37834,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-20T16:43:01.064547"
+    "extracted_at": "2026-01-20T16:48:00.782015"
   },
   {
     "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
@@ -37997,7 +38008,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-20T16:43:01.064547"
+    "extracted_at": "2026-01-20T16:48:00.782015"
   },
   {
     "key": "composerData:6afdc338-e6ca-4338-82e7-be278b231592",
@@ -38108,6 +38119,6 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-20T16:43:01.064547"
+    "extracted_at": "2026-01-20T16:48:00.782015"
   }
 ]
