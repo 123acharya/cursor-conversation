@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also now when we try to do stock entry  for PCB IQC accept or PCB IQC reject for PCB we\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also now when we try to do stock entry for PCB IQC accept or PCB IQC reject for PCB we have check overall status is pass for \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "also now when we try to do stock entry  for PCB IQC accept or PCB IQC reject for PCB we",
+    "text": "also now when we try to do stock entry for PCB IQC accept or PCB IQC reject for PCB we have check overall status is pass for ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "7f924ec5-ab97-4d29-b753-f745b027ef41",
@@ -15232,5 +15232,5 @@
     "subtitle": "PCB_IQC_REDESIGN_PLAN.md, PCB_OPERATOR_WORKFLOW_GUIDE.md, FIX_ITEM_AND_CREATE_NEW_PRS.txt, CHECK_ALL_NON_STOCK_ITEMS.txt, CHECK_AND_FIX_ITEM_STOCK.txt",
     "filesChangedCount": 214
   },
-  "extracted_at": "2026-01-20T17:43:00.890382"
+  "extracted_at": "2026-01-20T17:48:00.857907"
 }
