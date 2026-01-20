@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"logic looks fine but in operators perspective its very hard for them to make them understand \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"So what i think is its better to make minor changes in the design which is usable and understanadable \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so in PCB IQC Results \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"logic looks fine but in operators perspective its very hard for them to make them understand \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"So what i think is its better to make minor changes in the design which is usable and understanadable \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so in PCB IQC Results looks like this \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" i want to change its format such that the pcb Table will be like a excel table we caannot directly access the data that is there in  the pcb table \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"to see the data or to enter the data we have to maka entry table where we have same thing but its just about seaching the results nad updating the results \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "logic looks fine but in operators perspective its very hard for them to make them understand \n\nSo what i think is its better to make minor changes in the design which is usable and understanadable \nso in PCB IQC Results \n",
+    "text": "logic looks fine but in operators perspective its very hard for them to make them understand \n\nSo what i think is its better to make minor changes in the design which is usable and understanadable \nso in PCB IQC Results looks like this \n i want to change its format such that the pcb Table will be like a excel table we caannot directly access the data that is there in  the pcb table \n\nto see the data or to enter the data we have to maka entry table where we have same thing but its just about seaching the results nad updating the results \n",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "7f924ec5-ab97-4d29-b753-f745b027ef41",
@@ -4721,7 +4721,18 @@
       "quotes": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [],
+      "selectedImages": [
+        {
+          "uuid": "fa8dabe1-59f0-40b2-8fb4-823a612b5f67",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-1f9b4f13-f2d1-476c-bfbc-bcbc97d228dc.png",
+          "dimension": {
+            "width": 1286,
+            "height": 873
+          },
+          "loadedAt": 1768906063813,
+          "addedWithoutMention": true
+        }
+      ],
       "folderSelections": [],
       "fileSelections": [],
       "selections": [],
@@ -15165,5 +15176,5 @@
     "subtitle": "PCB_OPERATOR_WORKFLOW_GUIDE.md, FIX_ITEM_AND_CREATE_NEW_PRS.txt, CHECK_ALL_NON_STOCK_ITEMS.txt, CHECK_AND_FIX_ITEM_STOCK.txt, FIX_ITEM_AND_REPOST.txt",
     "filesChangedCount": 213
   },
-  "extracted_at": "2026-01-20T16:18:00.655821"
+  "extracted_at": "2026-01-20T16:23:01.055971"
 }
