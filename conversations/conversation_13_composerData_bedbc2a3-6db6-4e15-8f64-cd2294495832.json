@@ -209,6 +209,49 @@
       },
       {
         "bubbleId": "eb349f6b-916d-491c-b992-22b866895605",
+        "type": 2,
+        "serverBubbleId": "cbf96505-62af-4411-b6a5-13cc1628b596"
+      },
+      {
+        "bubbleId": "6fdd6140-6f66-4421-b3b2-bae5d45bdf05",
+        "type": 2
+      },
+      {
+        "bubbleId": "c5506e91-2c1d-4493-b02b-8471dd6ea469",
+        "type": 2
+      },
+      {
+        "bubbleId": "fb5cd695-4bc4-4eb3-b226-ac03ea9747d2",
+        "type": 2
+      },
+      {
+        "bubbleId": "4718ad02-f3e8-4202-8b8e-83a5e644a1b8",
+        "type": 2,
+        "serverBubbleId": "e9144c0d-cb93-4aec-9eed-8e1039e83c89"
+      },
+      {
+        "bubbleId": "ebb6a4d9-1710-4471-8a19-904165c4b599",
+        "type": 2
+      },
+      {
+        "bubbleId": "c3ce9b3b-85b3-45bc-a955-8725c463b4e2",
+        "type": 1
+      },
+      {
+        "bubbleId": "ec45b7a0-cdaf-4026-82a2-7cdd18234730",
+        "type": 2,
+        "serverBubbleId": "1072c32c-9b90-4668-8ab0-e9b903bc3e2c"
+      },
+      {
+        "bubbleId": "b6f53b36-e4cc-445b-81c6-3ca55c893ce0",
+        "type": 2
+      },
+      {
+        "bubbleId": "55f4884e-e4d1-47d4-ad34-780963e09539",
+        "type": 2
+      },
+      {
+        "bubbleId": "09e3bcc1-3331-4d2e-ab73-ea54ee7c606b",
         "type": 2
       }
     ],
@@ -263,7 +306,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "6294ad1c-f1cf-404f-ad3d-ae1c7d734672",
+    "chatGenerationUUID": "9df0cfc5-b0a3-4d0f-950f-dd5e7db7e43b",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk": {
@@ -432,7 +475,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768913556742,
+    "lastUpdatedAt": 1768913787842,
     "createdAt": 1768912966484,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -507,12 +550,13 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 15.362503051757812,
+    "contextUsagePercent": 15.920997619628906,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk",
       "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
       "file:///c%3A/Users/pc/Desktop/start_cursor_auto_accept.bat",
-      "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1"
+      "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/6.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -546,10 +590,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "6294ad1c-f1cf-404f-ad3d-ae1c7d734672",
+    "latestChatGenerationUUID": "9df0cfc5-b0a3-4d0f-950f-dd5e7db7e43b",
     "isAgentic": true,
     "subtitle": "install_autohotkey.ps1, start_cursor_auto_accept.bat, CURSOR_AUTO_ACCEPT_README.md, cursor_auto_accept.ahk",
     "filesChangedCount": 4
   },
-  "extracted_at": "2026-01-20T18:23:13.006075"
+  "extracted_at": "2026-01-20T18:28:01.272374"
 }
