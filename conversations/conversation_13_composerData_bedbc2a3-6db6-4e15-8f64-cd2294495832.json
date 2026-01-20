@@ -176,10 +176,44 @@
       {
         "bubbleId": "3f9a6cf8-4a58-4e8b-922f-7844cf9d3254",
         "type": 2
+      },
+      {
+        "bubbleId": "583d625d-a627-4bdd-a0bb-9dd7b1db576e",
+        "type": 1
+      },
+      {
+        "bubbleId": "fc9cc9a3-b468-4e71-abf2-62d738b53fca",
+        "type": 2,
+        "serverBubbleId": "793389aa-2b8d-48e3-8f5e-351245a11b89"
+      },
+      {
+        "bubbleId": "e60d55b9-bf19-4b36-a324-a740ae0a2d66",
+        "type": 2
+      },
+      {
+        "bubbleId": "f01ad2d3-f2ab-44ac-846c-91ef54edd897",
+        "type": 2
+      },
+      {
+        "bubbleId": "017c93ff-ce9b-491b-b8d9-b1a6eda66d69",
+        "type": 2,
+        "serverBubbleId": "6527551c-dfc2-4412-ac3a-073e9c90b852"
+      },
+      {
+        "bubbleId": "18cd501c-059c-4a7c-a8a5-70ed3a053919",
+        "type": 2
+      },
+      {
+        "bubbleId": "3c5f4838-5a29-4af3-bc75-17fb0fe2bd88",
+        "type": 2
+      },
+      {
+        "bubbleId": "eb349f6b-916d-491c-b992-22b866895605",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -229,6 +263,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "6294ad1c-f1cf-404f-ad3d-ae1c7d734672",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk": {
@@ -397,7 +432,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768913247503,
+    "lastUpdatedAt": 1768913556742,
     "createdAt": 1768912966484,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -472,8 +507,13 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 15.26300048828125,
-    "allAttachedFileCodeChunksUris": [],
+    "contextUsagePercent": 15.362503051757812,
+    "allAttachedFileCodeChunksUris": [
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk",
+      "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
+      "file:///c%3A/Users/pc/Desktop/start_cursor_auto_accept.bat",
+      "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1"
+    ],
     "modelConfig": {
       "modelName": "composer-1",
       "maxMode": false
@@ -506,10 +546,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "3841e8d5-084b-484e-9c3c-0bdb69097e57",
+    "latestChatGenerationUUID": "6294ad1c-f1cf-404f-ad3d-ae1c7d734672",
     "isAgentic": true,
     "subtitle": "install_autohotkey.ps1, start_cursor_auto_accept.bat, CURSOR_AUTO_ACCEPT_README.md, cursor_auto_accept.ahk",
     "filesChangedCount": 4
   },
-  "extracted_at": "2026-01-20T18:18:01.169013"
+  "extracted_at": "2026-01-20T18:23:13.006075"
 }
