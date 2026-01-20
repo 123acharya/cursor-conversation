@@ -449,6 +449,121 @@
       {
         "bubbleId": "0055e5be-67ab-48bf-b45a-3555b1d9a4b1",
         "type": 2
+      },
+      {
+        "bubbleId": "cf9c42d6-67ac-47b2-8cb0-36d722b8fd37",
+        "type": 1
+      },
+      {
+        "bubbleId": "04dec02c-fabb-4092-96bd-50557e4ba37f",
+        "type": 2,
+        "serverBubbleId": "57d76b76-81a1-4067-9a27-23916d81cea6"
+      },
+      {
+        "bubbleId": "ce246f10-768e-425a-9a89-03d9fced04cc",
+        "type": 2
+      },
+      {
+        "bubbleId": "1ce5d580-9a8e-477d-b9e5-013df0480fc9",
+        "type": 2
+      },
+      {
+        "bubbleId": "8fb2189d-c5bd-43b7-aeeb-ff5209736373",
+        "type": 2,
+        "serverBubbleId": "c6f39eb3-9faf-42c1-8a03-2603501823cb"
+      },
+      {
+        "bubbleId": "e402b229-32e2-44bc-8713-ddf1673002f6",
+        "type": 2
+      },
+      {
+        "bubbleId": "a9bfe7d5-896e-49ba-aaea-d2a100832370",
+        "type": 2
+      },
+      {
+        "bubbleId": "35472023-b2f2-4341-8309-ca3f913b081b",
+        "type": 2
+      },
+      {
+        "bubbleId": "7bf4a0e6-a11f-4ade-ae8b-6ee7f26c0c23",
+        "type": 2
+      },
+      {
+        "bubbleId": "98c771c2-d976-44a1-bea8-82ba17d9fa45",
+        "type": 2
+      },
+      {
+        "bubbleId": "6e5329c0-4d18-4267-8d1a-b10b6d5a5baa",
+        "type": 2,
+        "serverBubbleId": "3c887ca9-4aa5-4b77-8f17-665c83bea87b"
+      },
+      {
+        "bubbleId": "47000f2c-7770-4992-8907-746c5bf8173a",
+        "type": 2
+      },
+      {
+        "bubbleId": "f8f41307-e6ba-4817-b504-48f5215e56b9",
+        "type": 2
+      },
+      {
+        "bubbleId": "3ee14c83-dac2-422e-a308-6b108082707d",
+        "type": 2
+      },
+      {
+        "bubbleId": "ed5f16a6-fcb0-4fac-8a6b-2892ba37cc41",
+        "type": 2,
+        "serverBubbleId": "4fcdfd45-f12b-4958-8a73-d6f7b28ba369"
+      },
+      {
+        "bubbleId": "31bcd670-7251-49d5-adc2-890a74f3a031",
+        "type": 2
+      },
+      {
+        "bubbleId": "ca660d7a-9817-4200-91be-8de1c4558a61",
+        "type": 1
+      },
+      {
+        "bubbleId": "086e2ba3-e17e-4ee8-a8cb-89e8c7e08bc6",
+        "type": 2,
+        "serverBubbleId": "1525befc-5e27-432e-9875-99665905971d"
+      },
+      {
+        "bubbleId": "b8b7023f-c211-4742-bc6b-9aca3af2fda8",
+        "type": 2
+      },
+      {
+        "bubbleId": "60a0f286-9282-449e-93d4-beea0be263b2",
+        "type": 2
+      },
+      {
+        "bubbleId": "57e4f30b-fe29-42be-9089-2b4094aee396",
+        "type": 2
+      },
+      {
+        "bubbleId": "92c47c7e-ef42-4af6-8aaf-b6b8df1d9b93",
+        "type": 2,
+        "serverBubbleId": "e1d4edfb-56b8-452f-8407-37e9b6fbffe5"
+      },
+      {
+        "bubbleId": "b89fa5db-e25e-4359-9615-71a144b2f554",
+        "type": 2
+      },
+      {
+        "bubbleId": "15c3689c-dd93-4870-9d2a-02e3f047ae8a",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f0487e5-ae74-4943-9d8f-93b933fcd491",
+        "type": 2
+      },
+      {
+        "bubbleId": "0d369020-c5f5-4131-8bac-1468a9eacd44",
+        "type": 2,
+        "serverBubbleId": "57d89075-8cd2-4ea1-9ddd-d2fb0a5a8d1f"
+      },
+      {
+        "bubbleId": "41fa14c8-0b35-4e44-a2d5-fe38208ca9c7",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -768,6 +883,136 @@
           "diffId": "9024966b-f697-4fbf-9048-87cf70a194e4",
           "lastDiffId": "68bb8760-c31a-406a-ae6e-3b364e9cb461",
           "lastAppliedAt": 1768914612729
+        },
+        "334d3d3a-4126-4e6e-a808-41cc86c6afb0": {
+          "_v": 3,
+          "bubbleId": "a9bfe7d5-896e-49ba-aaea-d2a100832370",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "334d3d3a-4126-4e6e-a808-41cc86c6afb0",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "7bffe505-d442-4b40-b02c-fae181d1d5f4",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916490675,
+          "composerChatGenerationUuid": "4a7a29e0-9379-4719-938d-5f2e0b488788",
+          "diffId": "b78be0ce-07fb-4b0d-bad2-725a329412df",
+          "lastDiffId": "a422b919-f2fd-4dc2-b7da-1f30c86f16da",
+          "lastAppliedAt": 1768916491487
+        },
+        "90925e69-a13a-40b9-9348-d0f9e0a17a33": {
+          "_v": 3,
+          "bubbleId": "35472023-b2f2-4341-8309-ca3f913b081b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "90925e69-a13a-40b9-9348-d0f9e0a17a33",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "334d3d3a-4126-4e6e-a808-41cc86c6afb0",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916491995,
+          "composerChatGenerationUuid": "4a7a29e0-9379-4719-938d-5f2e0b488788",
+          "diffId": "7e0dbd9e-9c91-44ae-98f6-b91b341824fa",
+          "lastDiffId": "befbb69c-c0b8-4aa3-8c0e-d87354945e19",
+          "lastAppliedAt": 1768916492849
+        },
+        "d4547589-08a5-43d0-b239-812a7b881efa": {
+          "_v": 3,
+          "bubbleId": "7bf4a0e6-a11f-4ade-ae8b-6ee7f26c0c23",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "d4547589-08a5-43d0-b239-812a7b881efa",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "90925e69-a13a-40b9-9348-d0f9e0a17a33",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916493292,
+          "composerChatGenerationUuid": "4a7a29e0-9379-4719-938d-5f2e0b488788",
+          "diffId": "25f3b10e-d89b-4eb7-85ac-c8729454258c",
+          "lastDiffId": "18ab6d96-8935-4ac1-9a27-16ba576a236e",
+          "lastAppliedAt": 1768916494049
+        },
+        "a85bdd4a-e8f9-4190-80ca-e401522f450c": {
+          "_v": 3,
+          "bubbleId": "98c771c2-d976-44a1-bea8-82ba17d9fa45",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "a85bdd4a-e8f9-4190-80ca-e401522f450c",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "d4547589-08a5-43d0-b239-812a7b881efa",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916494546,
+          "composerChatGenerationUuid": "4a7a29e0-9379-4719-938d-5f2e0b488788",
+          "diffId": "54aaa9b0-7ca4-44c6-b7a6-3ad90f20be4e",
+          "lastDiffId": "54674143-f0d2-479d-88bb-3006e134b9ad",
+          "lastAppliedAt": 1768916495978
+        },
+        "9a965fe0-f9c9-4831-b6e6-a89513c0b4c5": {
+          "_v": 3,
+          "bubbleId": "57e4f30b-fe29-42be-9089-2b4094aee396",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "9a965fe0-f9c9-4831-b6e6-a89513c0b4c5",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "a85bdd4a-e8f9-4190-80ca-e401522f450c",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916535438,
+          "composerChatGenerationUuid": "6d84d42c-68bf-4be4-8750-d12ef787b318",
+          "diffId": "f485a201-593d-4472-a774-28a5d4cee52a",
+          "lastDiffId": "a4fc5b20-67cf-44dd-9da4-53ce5c3a68b1",
+          "lastAppliedAt": 1768916537508
         }
       },
       "file:///c%3A/Users/pc/Desktop/START_HERE.bat": {
@@ -976,7 +1221,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768914622663,
+    "lastUpdatedAt": 1768916543759,
     "createdAt": 1768912966484,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -1051,16 +1296,20 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 22.418502807617188,
+    "contextUsagePercent": 25.01349639892578,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk",
       "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
       "file:///c%3A/Users/pc/Desktop/start_cursor_auto_accept.bat",
       "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/6.txt",
       "file:///c%3A/Users/pc/Desktop/test_cursor_detection.ahk",
       "file:///c%3A/Users/pc/Desktop/test_and_start.bat",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/7.txt"
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2.ahk",
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_simple.ahk",
+      "file:///c%3A/Users/pc/Desktop/start_simple_script.bat",
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+      "file:///c%3A/Users/pc/Desktop/START_HERE.bat",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/5.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -1094,10 +1343,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "db81dc60-1961-49ec-9472-f510cc1ce990",
+    "latestChatGenerationUUID": "6d84d42c-68bf-4be4-8750-d12ef787b318",
     "isAgentic": true,
-    "subtitle": "START_HERE.bat, cursor_auto_accept_v2_fixed.ahk, start_simple_script.bat, cursor_auto_accept_simple.ahk, cursor_auto_accept_v2.ahk",
+    "subtitle": "cursor_auto_accept_v2_fixed.ahk, START_HERE.bat, start_simple_script.bat, cursor_auto_accept_simple.ahk, cursor_auto_accept_v2.ahk",
     "filesChangedCount": 11
   },
-  "extracted_at": "2026-01-20T19:08:02.939277"
+  "extracted_at": "2026-01-20T19:13:00.866219"
 }
