@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"logic looks fine but in operators perspective its very har for them to make them understand \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "logic looks fine but in operators perspective its very har for them to make them understand ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "7f924ec5-ab97-4d29-b753-f745b027ef41",
@@ -15165,5 +15165,5 @@
     "subtitle": "PCB_OPERATOR_WORKFLOW_GUIDE.md, FIX_ITEM_AND_CREATE_NEW_PRS.txt, CHECK_ALL_NON_STOCK_ITEMS.txt, CHECK_AND_FIX_ITEM_STOCK.txt, FIX_ITEM_AND_REPOST.txt",
     "filesChangedCount": 213
   },
-  "extracted_at": "2026-01-20T15:48:00.600873"
+  "extracted_at": "2026-01-20T15:53:00.583620"
 }
