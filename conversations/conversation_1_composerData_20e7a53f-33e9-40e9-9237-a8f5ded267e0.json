@@ -8,659 +8,6 @@
     "text": "",
     "fullConversationHeadersOnly": [
       {
-        "bubbleId": "c4aec5ad-a0c5-4cc7-81c9-610f4d623059",
-        "type": 1
-      },
-      {
-        "bubbleId": "2f31be7f-cfb0-4a7e-acf7-8d490f4c0cfb",
-        "type": 2,
-        "serverBubbleId": "9b35ce00-1e01-4560-b0f2-022eaacf7018"
-      },
-      {
-        "bubbleId": "17c2d733-da04-43e9-aaaf-c34a5533df48",
-        "type": 2
-      },
-      {
-        "bubbleId": "2e06e870-1622-41fe-95bb-eadb65dde773",
-        "type": 2
-      },
-      {
-        "bubbleId": "f03be589-b91b-4246-9468-21ca736fb4fa",
-        "type": 2
-      },
-      {
-        "bubbleId": "5fd81e26-b6fc-4e2d-9dc7-1648f70e6626",
-        "type": 2
-      },
-      {
-        "bubbleId": "694d6932-73a9-4bab-a4f5-bcf472498d5a",
-        "type": 2
-      },
-      {
-        "bubbleId": "53d626e5-1aa8-4177-8d86-d83aa7238d3c",
-        "type": 2
-      },
-      {
-        "bubbleId": "722a62b7-0924-42e6-bd59-8d7e67b96980",
-        "type": 2,
-        "serverBubbleId": "47860677-eff5-4c1f-b357-d4467e107a12"
-      },
-      {
-        "bubbleId": "6eff22c6-64dc-4e22-a867-e1e8bb552805",
-        "type": 2
-      },
-      {
-        "bubbleId": "fdccde53-3dfc-426f-8a25-2fe7bca628d8",
-        "type": 2
-      },
-      {
-        "bubbleId": "668f883e-836d-4f32-885c-f39d5dba71d5",
-        "type": 2,
-        "serverBubbleId": "06f87a88-a6a3-40a8-ae01-fa9c7c25a629"
-      },
-      {
-        "bubbleId": "a2724039-27c8-45ad-8ee3-23300c4ec046",
-        "type": 2
-      },
-      {
-        "bubbleId": "0500edf8-4c83-417b-8f3b-1363475357a5",
-        "type": 2
-      },
-      {
-        "bubbleId": "de7db42d-cfb4-45e2-9c42-de81e192361c",
-        "type": 2
-      },
-      {
-        "bubbleId": "14b80b9d-af00-4bc1-9ad1-b76dcf5288aa",
-        "type": 2
-      },
-      {
-        "bubbleId": "d1ac0fe9-ed4f-475b-8c3d-c5a9bc6356b5",
-        "type": 2,
-        "serverBubbleId": "5f2148f6-35b5-4b25-9314-b01721664a2f"
-      },
-      {
-        "bubbleId": "2c14700c-105e-4a92-9484-88902671507a",
-        "type": 2
-      },
-      {
-        "bubbleId": "d52eaa7b-4b1f-4b46-812b-ef49b453f4e4",
-        "type": 2
-      },
-      {
-        "bubbleId": "973ef059-e002-4fa2-a9c6-d7b72949cfeb",
-        "type": 2,
-        "serverBubbleId": "42e2ca2c-ad36-44ae-a4fc-f481d2645667"
-      },
-      {
-        "bubbleId": "e0c2b2ed-086d-4a62-adfa-89efca4ef63b",
-        "type": 2
-      },
-      {
-        "bubbleId": "e3ab8c7c-d143-4554-ac8d-c2480cfc11e4",
-        "type": 1
-      },
-      {
-        "bubbleId": "32de1461-1bc3-4394-8916-88030cb7f4bb",
-        "type": 2,
-        "serverBubbleId": "85ca190e-492e-4b02-adab-eec491c9831c"
-      },
-      {
-        "bubbleId": "eb9b7bdb-f14f-41f5-965d-399e83b140a4",
-        "type": 2
-      },
-      {
-        "bubbleId": "357570f4-62a0-4bf6-a1b7-99866338e71d",
-        "type": 2
-      },
-      {
-        "bubbleId": "f63a6dfa-6aac-4edd-b839-58f35de46d0e",
-        "type": 2
-      },
-      {
-        "bubbleId": "c8a76f0b-0e98-4126-94ef-57501aaba95b",
-        "type": 2
-      },
-      {
-        "bubbleId": "79d12d52-361c-4e25-b383-a40b376fe18d",
-        "type": 2
-      },
-      {
-        "bubbleId": "75c33727-9141-4be4-b077-e1251969f354",
-        "type": 2
-      },
-      {
-        "bubbleId": "0e44c0d9-fdab-45a4-a757-5f6d4c0d3016",
-        "type": 2
-      },
-      {
-        "bubbleId": "2f22c9c7-d5c5-451d-9363-5b06b8fd8a05",
-        "type": 2,
-        "serverBubbleId": "896a6753-9ed3-4db3-9288-fea973a12fcf"
-      },
-      {
-        "bubbleId": "1437db2c-6eee-4fa5-a113-8711f4c28d6a",
-        "type": 2
-      },
-      {
-        "bubbleId": "f9c65d6c-687c-4db5-aa74-861c3a03d29b",
-        "type": 2
-      },
-      {
-        "bubbleId": "3ebd148e-21bf-407e-be7d-ab644b46c58c",
-        "type": 2
-      },
-      {
-        "bubbleId": "9b245f51-83a7-42a3-9f83-d5989b06c91c",
-        "type": 2
-      },
-      {
-        "bubbleId": "4a71233d-9b3d-45e5-85ae-fa7cf8e6a711",
-        "type": 2,
-        "serverBubbleId": "52dde214-4f14-48fd-bad2-381507460aef"
-      },
-      {
-        "bubbleId": "53df8142-7d78-4d04-b0fa-0b9a55169a1d",
-        "type": 2
-      },
-      {
-        "bubbleId": "98fe43d3-0d5c-498e-be31-7e49a5b5e61c",
-        "type": 2
-      },
-      {
-        "bubbleId": "237abc42-0826-40c8-98ca-1b63710c9515",
-        "type": 2
-      },
-      {
-        "bubbleId": "e93e6c2d-a4c2-4da4-b298-efdc8ca94fbb",
-        "type": 2,
-        "serverBubbleId": "c1270efc-a2f3-4ff6-a8a4-d79ebb7fc527"
-      },
-      {
-        "bubbleId": "a423c7ed-ac3e-4948-91c2-75b6df54dba7",
-        "type": 2
-      },
-      {
-        "bubbleId": "03ba1040-fa73-4bc2-ae05-f5fb43215d9e",
-        "type": 2
-      },
-      {
-        "bubbleId": "eef8655c-9422-4389-b7ea-4720d2677ef2",
-        "type": 2,
-        "serverBubbleId": "7056dc95-a21f-4254-9fb9-1cfd44c4e45a"
-      },
-      {
-        "bubbleId": "1b500688-bf52-46a8-b264-84f849c89d4f",
-        "type": 2
-      },
-      {
-        "bubbleId": "46d5c074-3e34-42ca-b3dc-258ddb9b618f",
-        "type": 1
-      },
-      {
-        "bubbleId": "27cbf1d7-53dc-40bd-aa96-e4d2ef2d0c82",
-        "type": 2,
-        "serverBubbleId": "21a3ff8f-644a-4ca4-919e-31e3344b62fc"
-      },
-      {
-        "bubbleId": "0bb0d933-73c8-4d3c-8d8c-21658136aa9d",
-        "type": 2
-      },
-      {
-        "bubbleId": "1cb0bae1-c74e-48d8-a5a0-b3fede2e1d9d",
-        "type": 2
-      },
-      {
-        "bubbleId": "aa40b965-a1e5-4245-802a-c3981f1db4e3",
-        "type": 2
-      },
-      {
-        "bubbleId": "d2a641ad-0ee6-4a5e-bad0-dc7b00a79b77",
-        "type": 2
-      },
-      {
-        "bubbleId": "a919a570-245c-4570-9d00-b7dcd6eaf926",
-        "type": 2,
-        "serverBubbleId": "6e157378-ec7c-4377-bca1-d840107f26e4"
-      },
-      {
-        "bubbleId": "17b0e96d-e1dd-465c-8cdc-0873a1607db3",
-        "type": 2
-      },
-      {
-        "bubbleId": "c3aec42c-5de8-476d-99c8-f8f050c8b415",
-        "type": 1
-      },
-      {
-        "bubbleId": "b9d7e4e7-fe44-4248-92f1-f41c1300392e",
-        "type": 2,
-        "serverBubbleId": "d64c5eea-8e85-46d0-b449-e68c3e699785"
-      },
-      {
-        "bubbleId": "b9238aac-356c-442a-b952-422479c263e4",
-        "type": 2
-      },
-      {
-        "bubbleId": "7780152e-54da-45bc-9e18-ab05657cbfd9",
-        "type": 1
-      },
-      {
-        "bubbleId": "4d554f8c-b764-4db1-803c-134b5923acd4",
-        "type": 2,
-        "serverBubbleId": "8eb8f29d-edbb-4cdb-b20e-5a82ef565c2c"
-      },
-      {
-        "bubbleId": "eec0c375-3c8d-4ee4-9642-ce0285b9205f",
-        "type": 2
-      },
-      {
-        "bubbleId": "187af62b-2dd8-49e4-ac4f-7c4895ea9376",
-        "type": 1
-      },
-      {
-        "bubbleId": "d1d50640-41a5-4dd6-8391-e8b15cb97676",
-        "type": 2,
-        "serverBubbleId": "cea29d12-90d3-4765-b23e-3fd8763b1799"
-      },
-      {
-        "bubbleId": "364b1e98-3b25-42d7-9eb2-ab0719839fb0",
-        "type": 2
-      },
-      {
-        "bubbleId": "fbfe29e9-fff2-437b-9119-6404d8e693fe",
-        "type": 1
-      },
-      {
-        "bubbleId": "6b74a629-4d14-4e00-89c9-743886f223af",
-        "type": 2,
-        "serverBubbleId": "32710e01-32d0-4ed2-95cf-25bd37a69bb7"
-      },
-      {
-        "bubbleId": "32e9f12a-65d6-4ffc-b8c2-d9999169b510",
-        "type": 2
-      },
-      {
-        "bubbleId": "a33ec643-f87c-4048-bb23-c4c0f5a7add1",
-        "type": 1
-      },
-      {
-        "bubbleId": "cc6283a9-8f6f-4a06-946c-7770dca0db0a",
-        "type": 2,
-        "serverBubbleId": "58a500e0-299f-405e-8e5a-940a9a7bec8d"
-      },
-      {
-        "bubbleId": "ab595d40-9bf8-4342-af92-4847a15da2c8",
-        "type": 2
-      },
-      {
-        "bubbleId": "f54e2a60-76be-48a1-8744-33fd0b86d81c",
-        "type": 1
-      },
-      {
-        "bubbleId": "b75be3fe-7b5c-4eb4-83f8-01737baf2ed5",
-        "type": 2,
-        "serverBubbleId": "759755e8-56d6-4a68-8a2f-6d1e02ad52bf"
-      },
-      {
-        "bubbleId": "5590ff8b-d2b8-48b3-b22b-2aa18fd094e4",
-        "type": 2
-      },
-      {
-        "bubbleId": "52efff92-ac2c-4c6f-a66b-5fcc2196651c",
-        "type": 1
-      },
-      {
-        "bubbleId": "5dd4b689-cb24-42ef-8e3d-f953cbcddc14",
-        "type": 2,
-        "serverBubbleId": "00b1d646-4892-46fd-b465-13efe9f12a63"
-      },
-      {
-        "bubbleId": "36f99580-f0a5-4dbd-82e8-ffd80599f551",
-        "type": 2
-      },
-      {
-        "bubbleId": "55a851ec-6adb-41b9-8886-23db76cf5f80",
-        "type": 2
-      },
-      {
-        "bubbleId": "6e0ad5cf-2377-4854-bd50-c2a38b5842fb",
-        "type": 2
-      },
-      {
-        "bubbleId": "b640fae5-f424-4b51-bd87-313a5a272f48",
-        "type": 2,
-        "serverBubbleId": "2f41d7a0-28cb-4c4b-994e-2bdf71b16055"
-      },
-      {
-        "bubbleId": "c5cd260a-d6e2-4a3b-a5ef-186f59778e0e",
-        "type": 2
-      },
-      {
-        "bubbleId": "fe288f07-05b5-4c18-a5c4-5933de9cbdee",
-        "type": 2
-      },
-      {
-        "bubbleId": "e21af07f-ae5d-4b43-9396-554d958e1928",
-        "type": 2
-      },
-      {
-        "bubbleId": "fe05ec8e-7bc1-493a-b17a-9980602aad0b",
-        "type": 2,
-        "serverBubbleId": "72cd1821-15a6-44fd-8bea-8c2afcc4a102"
-      },
-      {
-        "bubbleId": "ebcd06fd-6858-4eab-86c2-9b7ec1d9dfb8",
-        "type": 2
-      },
-      {
-        "bubbleId": "452b2e47-f7f1-49db-9337-78e4f9dadfe2",
-        "type": 2
-      },
-      {
-        "bubbleId": "3af751ed-1725-40e0-a932-ffdb64082532",
-        "type": 2
-      },
-      {
-        "bubbleId": "2b39d973-15ca-4efa-baa7-e57d89a3fd62",
-        "type": 2,
-        "serverBubbleId": "506b2155-b875-4e21-b3d4-df7f91c2b841"
-      },
-      {
-        "bubbleId": "715cb5cf-8b51-4951-ad53-9f749dcba1f7",
-        "type": 2
-      },
-      {
-        "bubbleId": "48947cc3-c8bd-4c16-843b-e17a1aa6fa18",
-        "type": 1
-      },
-      {
-        "bubbleId": "2b46815d-6840-4755-b692-2bd32f4d2777",
-        "type": 2,
-        "serverBubbleId": "9e5d10c5-4e68-4641-9af6-6fa1734f0b1b"
-      },
-      {
-        "bubbleId": "f467555d-624d-44be-9ab3-c890013334ce",
-        "type": 2
-      },
-      {
-        "bubbleId": "e0772c20-ff8d-4751-a99f-dc299b06985a",
-        "type": 1
-      },
-      {
-        "bubbleId": "76b77ef2-771e-4e3b-8379-b3bb4c5e9f9b",
-        "type": 2,
-        "serverBubbleId": "c0e567e2-41cb-478c-bd03-769794c237d8"
-      },
-      {
-        "bubbleId": "17de6856-a015-4ff6-9a63-94b39f250e0a",
-        "type": 2
-      },
-      {
-        "bubbleId": "5dce02b2-b1e5-4681-93fb-af55f9ee691f",
-        "type": 1
-      },
-      {
-        "bubbleId": "da597ce0-7a88-417c-882d-4ead073e8894",
-        "type": 2,
-        "serverBubbleId": "9f9e8d67-3206-464e-bc78-8d3e784e8f9c"
-      },
-      {
-        "bubbleId": "64fcdfe8-9fe0-4b6d-b178-a97edff4c243",
-        "type": 2
-      },
-      {
-        "bubbleId": "efe73789-0b09-4355-a90a-1abe7f7829d5",
-        "type": 2
-      },
-      {
-        "bubbleId": "8ea5a505-f17d-4534-9c1e-1091c61ad7ea",
-        "type": 2
-      },
-      {
-        "bubbleId": "528f093d-8a4c-4c51-a0de-ecebc6a3ae31",
-        "type": 2,
-        "serverBubbleId": "1c20b222-d30b-4d1e-b616-1b325e867595"
-      },
-      {
-        "bubbleId": "0429c1d9-ded3-4daf-a88c-7e4e343ec412",
-        "type": 2
-      },
-      {
-        "bubbleId": "ae4cf60a-e140-45df-a068-64729535f440",
-        "type": 2
-      },
-      {
-        "bubbleId": "0cbf8ac5-19fb-441e-872d-d7ca0ae28e60",
-        "type": 2
-      },
-      {
-        "bubbleId": "d732effb-0002-410f-9e83-4d981b2d06c1",
-        "type": 2,
-        "serverBubbleId": "8991d3a7-91c6-4cfd-b6bc-501ee05cec6a"
-      },
-      {
-        "bubbleId": "1ba754c8-a7c4-4d9e-8118-f889394b2707",
-        "type": 2
-      },
-      {
-        "bubbleId": "0a634749-3e02-4a18-a950-7c8f4bdc23a8",
-        "type": 1
-      },
-      {
-        "bubbleId": "03e4004a-ccb9-435b-8826-f23ad9d307be",
-        "type": 2,
-        "serverBubbleId": "0f061497-65b6-40a8-a4be-4381a32b9351"
-      },
-      {
-        "bubbleId": "97d1e6f0-9ecb-4faf-8ceb-5cec695aa90f",
-        "type": 2
-      },
-      {
-        "bubbleId": "b2fd8d9f-838e-41a5-ab4b-8aae6632ae63",
-        "type": 2
-      },
-      {
-        "bubbleId": "7e702ab2-6422-4d3e-9eb4-e82282ab8836",
-        "type": 2
-      },
-      {
-        "bubbleId": "a979a1fe-0184-4f63-a586-c85916c7a410",
-        "type": 2,
-        "serverBubbleId": "189c8336-1106-442a-8f24-b9b7378ac09e"
-      },
-      {
-        "bubbleId": "b0000016-10b9-4cd5-a7ad-7c2ffe74c1aa",
-        "type": 2
-      },
-      {
-        "bubbleId": "1666db59-74de-451e-a889-08dec01b1a46",
-        "type": 1
-      },
-      {
-        "bubbleId": "53a27a42-6ef7-43a6-9307-49f9732014e9",
-        "type": 2,
-        "serverBubbleId": "cb108f70-cdaf-41a2-b595-9603a2ab64ec"
-      },
-      {
-        "bubbleId": "e2d548a6-da9f-4ae5-9469-155e6cc8e097",
-        "type": 2
-      },
-      {
-        "bubbleId": "062f6ee9-6cca-45b7-85f6-2e00fde68790",
-        "type": 1
-      },
-      {
-        "bubbleId": "2f3021b0-31d1-4b20-8fd6-9cb9123863d2",
-        "type": 2,
-        "serverBubbleId": "b76ef3ca-e3d3-4ef7-9541-f0c96ece4fb8"
-      },
-      {
-        "bubbleId": "8de362d9-4980-4116-93f1-6eb6f116340f",
-        "type": 2
-      },
-      {
-        "bubbleId": "aa0d57b4-bee0-4746-97b1-ddacda1606f5",
-        "type": 2
-      },
-      {
-        "bubbleId": "b3d1b016-b2ff-4bd6-a92e-663552a442b0",
-        "type": 2
-      },
-      {
-        "bubbleId": "73ffbea9-64aa-4689-95a0-10fc3d5a3a80",
-        "type": 2
-      },
-      {
-        "bubbleId": "a4dc5c4f-6551-4d69-8596-51b54af7e2e5",
-        "type": 2,
-        "serverBubbleId": "a704e010-339e-43b8-86b9-1e6d14e99b5e"
-      },
-      {
-        "bubbleId": "249bc9ce-b60f-4671-97c7-5b7f89ac4f85",
-        "type": 2
-      },
-      {
-        "bubbleId": "9679d21e-ffe9-4a14-99ac-94ed4167ad11",
-        "type": 2
-      },
-      {
-        "bubbleId": "76206886-34aa-49c3-8ed5-683662ceb1e1",
-        "type": 2
-      },
-      {
-        "bubbleId": "8f1067fe-7491-4633-a301-34b0c7c7fb88",
-        "type": 2,
-        "serverBubbleId": "e14f8cce-c100-41a2-b862-25f344bb5cf1"
-      },
-      {
-        "bubbleId": "5b683dd9-701e-4a48-87f1-95d006f9d7b4",
-        "type": 2
-      },
-      {
-        "bubbleId": "0fc2bf2c-1445-4478-b95e-dff3fed98671",
-        "type": 2
-      },
-      {
-        "bubbleId": "d675284a-991b-4941-ae8c-2fe40afa8d17",
-        "type": 2
-      },
-      {
-        "bubbleId": "5e5bcc6f-d63c-412b-9c18-8838f0aaff42",
-        "type": 2,
-        "serverBubbleId": "90cc75ac-2da3-4061-8ab5-446f691f7762"
-      },
-      {
-        "bubbleId": "ef5ea838-1be2-4f78-8776-1646c2d64cfb",
-        "type": 2
-      },
-      {
-        "bubbleId": "0e3f532c-a8a7-4529-b3c9-02df097afabc",
-        "type": 2
-      },
-      {
-        "bubbleId": "8e9318ae-eacf-46ce-8f04-afd6743d670d",
-        "type": 2
-      },
-      {
-        "bubbleId": "c4b06184-456b-4f36-8b29-73ba03bce6cc",
-        "type": 2,
-        "serverBubbleId": "583391d3-95ad-4e7e-8454-b6688bcc51cd"
-      },
-      {
-        "bubbleId": "ac55668f-d354-4e2d-a5f3-8a4dfd0d37d7",
-        "type": 2
-      },
-      {
-        "bubbleId": "de520cf0-b892-4ac9-b171-9a7a1740676e",
-        "type": 1
-      },
-      {
-        "bubbleId": "400fd9bb-f13e-4661-8db9-ca32d8898a97",
-        "type": 2,
-        "serverBubbleId": "e40167fe-4053-41ed-b49a-62e206b53356"
-      },
-      {
-        "bubbleId": "2e81e45e-0c96-43f7-96f7-418dfc6da059",
-        "type": 2
-      },
-      {
-        "bubbleId": "463a135c-913d-42e6-ae93-e06e112144a8",
-        "type": 2
-      },
-      {
-        "bubbleId": "29cc3670-6c8b-45f7-be79-19dac69b68dd",
-        "type": 2,
-        "serverBubbleId": "ff70a389-0ba8-48e8-af80-dee90f57a412"
-      },
-      {
-        "bubbleId": "758b1c0d-c123-46fa-b417-4b5ed616eed7",
-        "type": 2
-      },
-      {
-        "bubbleId": "1c40b77f-df87-479e-98c7-d33df70e01c6",
-        "type": 2
-      },
-      {
-        "bubbleId": "9a7de1db-4d40-4d93-ba13-eec0fa63bbc2",
-        "type": 2,
-        "serverBubbleId": "4460c0f3-d590-405e-a691-9ddb07a1a141"
-      },
-      {
-        "bubbleId": "a475553a-0f5d-4e92-be98-3e401bac2b4d",
-        "type": 2
-      },
-      {
-        "bubbleId": "21563513-f3b4-4750-9d86-777b82559605",
-        "type": 2
-      },
-      {
-        "bubbleId": "47f1ac5d-d299-4b1c-a0b9-9632034da106",
-        "type": 2
-      },
-      {
-        "bubbleId": "539d8fa2-4543-4334-84f0-d07e5a752f7e",
-        "type": 2
-      },
-      {
-        "bubbleId": "5ddbc5de-d6d8-4802-93d1-b23bd2a95ec7",
-        "type": 2,
-        "serverBubbleId": "0d74c744-a8a1-459b-993b-ab55511b0b83"
-      },
-      {
-        "bubbleId": "b2134c04-3edf-4c65-8e0c-55dd21e5c477",
-        "type": 2
-      },
-      {
-        "bubbleId": "9195f8ba-820e-43a0-a27d-047c89d24723",
-        "type": 2
-      },
-      {
-        "bubbleId": "98575432-de5c-4945-8aa3-580202af925a",
-        "type": 2
-      },
-      {
-        "bubbleId": "d9815766-b0c0-4e1e-a57e-1b52d8cb8cac",
-        "type": 2,
-        "serverBubbleId": "000c2cb9-2f04-4a4c-8e21-25e4f1fbe66e"
-      },
-      {
-        "bubbleId": "78a8fee4-18aa-47c5-ae46-39235b4ff9d6",
-        "type": 2
-      },
-      {
-        "bubbleId": "0cd0d425-6a24-4830-832e-e4fc2af05c95",
-        "type": 2
-      },
-      {
-        "bubbleId": "8d30f05b-9977-4c9d-9cca-aaed2ea812ab",
-        "type": 2,
-        "serverBubbleId": "69053fce-cbc2-4c4b-b8a3-b650dec8a84d"
-      },
-      {
-        "bubbleId": "9f9e28ea-31ac-4a17-a3fd-dd6bf1109b04",
-        "type": 2
-      },
-      {
         "bubbleId": "2628c987-9470-4c68-b183-639a0b3f2b5e",
         "type": 1
       },
@@ -4909,10 +4256,18 @@
       {
         "bubbleId": "a6a7ffeb-e9b5-4cee-986c-2aa2b02dcb7b",
         "type": 2
+      },
+      {
+        "bubbleId": "c63abc4f-4b07-44a1-a9e1-8b2763b6e967",
+        "type": 1
+      },
+      {
+        "bubbleId": "371a102b-2270-4c2b-84d1-0ae9e0565fae",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -4927,7 +4282,6 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -4958,10 +4312,12 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "d1955fa0-95a0-4672-bd73-3b177ce9811c",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -17698,7 +17054,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768920559336,
+    "lastUpdatedAt": 1768976545307,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -17780,8 +17136,133 @@
     },
     "contextUsagePercent": 65.37200164794922,
     "allAttachedFileCodeChunksUris": [
+      "file:///k%3A/FQC-Tracking-App/COMPLETE_DATA_FLOW_DOCUMENTATION.md",
+      "file:///c%3A/Users/pc/Desktop/set_static_ip.ps1",
+      "file:///c%3A/Users/pc/Desktop/SET_STATIC_IP_GUIDE.md",
+      "file:///c%3A/Users/pc/Desktop/SET_STATIC_IP.bat",
+      "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/full_conversations/FULL_conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/reset_quantities_to_zero.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/RESET_QUANTITIES_CONSOLE_CODE.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PASTE_THIS_CODE.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CLEAR_ALL_STOCK_DATA.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CANCEL_STOCK_ENTRIES.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/cancel_all_stock_entries.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/DELETE_ALL_TRANSACTIONS.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_PDF_TO_ITEM_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/TEST_FILE_MANAGER.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_CUSTOM_PDF_FIELD.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/ATTACH_FILE_TO_ITEM.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/LIST_AND_ATTACH_FILES.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_PDF_ATTACHMENT_ISSUES.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_FILE_PUBLIC_AND_FIX.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_PDF_FIELD_AND_TEST.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_PDF_FILE_CONTENT.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_MISSING_PDF_FILE.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/DELETE_BROKEN_FILE_AND_REUPLOAD.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/UPLOAD_PDF_VIA_CONSOLE.txt",
+      "file:///c%3A/Users/pc/Desktop/STOCK_MIGRATION_STRATEGY.md",
+      "file:///c%3A/Users/pc/Downloads/Stock%20Entry.csv",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/list_stock_entry_types.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_STOCK_ENTRY_TYPES.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CREATE_OPENING_STOCK_TYPE.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/BULK_IMPORT_STOCK_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/sample_opening_stock.csv",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CREATE_AND_VERIFY_OPENING_STOCK.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/OPENING_STOCK_CLIENT_SCRIPT.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/OPENING_STOCK_SERVER_SCRIPT.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CREATE_OPENING_STOCK_SCRIPTS.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/MAKE_SOURCE_WAREHOUSE_OPTIONAL.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_OPENING_STOCK_BEFORE_SAVE.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_MANDATORY_FIELD_DIRECTLY.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FORCE_FIX_MANDATORY_FIELD.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FINAL_FIX_BEFORE_VALIDATE.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/MANUAL_FIX_CUSTOMIZE_FORM.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/ALTERNATIVE_OPENING_STOCK_METHODS.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CREATE_STOCK_RECONCILIATION_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_STOCK_RECONCILIATION.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/QUICK_SOLUTION_OPENING_STOCK.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CREATE_DUMMY_WAREHOUSE.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FINAL_SOLUTION_DUMMY_WAREHOUSE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/SHOW_SOURCE_WAREHOUSE_FIELD.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_AND_FIX_FIELD_VISIBILITY.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/SHOW_BOTH_WAREHOUSE_FIELDS.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_FIELD_VISIBILITY_AFTER_SAVE.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/UPDATE_WAREHOUSE_NAME.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_REMAINING_SCRIPTS.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_LAST_TWO_SCRIPTS.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/REMOVE_AUTO_SET_WAREHOUSE.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_FIELD_DISAPPEARING_ON_SAVE.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/AGGRESSIVE_FIX_MANDATORY_ERROR.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/COPY_IQC_ACCEPT_AND_MODIFY.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/VERIFY_OPENING_STOCK_SETUP.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/OVERRIDE_MATERIAL_RECEIPT_VALIDATION.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_ERPNext_CORE_VALIDATION.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CREATE_OPENING_STOCK_FROM_IQC.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_STOCK_ENTRY_IMPORT_CSV.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/sample_opening_stock_fixed.csv",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/fix_csv_import.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/OPENING_STOCK_IMPORT_TEMPLATE.csv",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/BULK_IMPORT_OPENING_STOCK_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_IMPORT_TYPE_ERROR.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/create_fixed_csv_with_source.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CRITICAL_FIX_IMPORT_TYPE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FINAL_CSV_TEMPLATE.csv",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_SOURCE_WAREHOUSE_IMPORT.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CSV_COLUMN_MAPPING_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/AGGRESSIVE_FIX_IMPORT_VALIDATION.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/VERIFY_CSV_COLUMNS.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/DIRECT_STOCK_ENTRY_IMPORT.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/COMPLETE_IMPORT_SOLUTION.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/create_opening_stock_direct.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_SUPPLIER_TO_ITEMS_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/BULK_ADD_SUPPLIERS_TO_ITEMS.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/ADD_SUPPLIER_FROM_CSV.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_PURCHASE_RECEIPT_ISSUE.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/RUN_CHECK_PR.bat",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_PR_CONSOLE_CODE.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_PURCHASE_RECEIPT_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_PR_SINGLE_BLOCK.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/SUBMIT_PR_SINGLE_BLOCK.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_BOTH_PRS.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/check_and_fix_prs.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/SIMPLE_CHECK_PR.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_STOCK_LEDGER.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INVESTIGATE_MISSING_STOCK.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/REPOST_STOCK_ENTRIES.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_ITEM_AND_REPOST.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_AND_FIX_ITEM_STOCK.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/CHECK_ALL_NON_STOCK_ITEMS.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FIX_ITEM_AND_CREATE_NEW_PRS.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_OPERATOR_WORKFLOW_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_REDESIGN_PLAN.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_STOCK_ENTRY_VALIDATION.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_IQC_AUTO_CALCULATE_STATUS.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/COMPLETE_PCB_IMPLEMENTATION_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PCB_SCRIPTS.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_WAREHOUSE_COUNT_REPORT.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_STOCK_BALANCE_VALIDATION.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_DASHBOARD_REPORT.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/UPDATE_STOCK_ENTRY_VALIDATION.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/QUICK_PCB_COUNT_CHECK.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_COMPLETE_IMPLEMENTATION/01_CREATE_DOCTYPES.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_COMPLETE_IMPLEMENTATION/02_CLIENT_SCRIPTS.js",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_COMPLETE_IMPLEMENTATION/03_SERVER_SCRIPTS.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_COMPLETE_IMPLEMENTATION/04_INSTALL_ALL.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_COMPLETE_IMPLEMENTATION/README.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_COMPLETE_IMPLEMENTATION/INSTALL_MASTER.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PCB_COMPLETE_IMPLEMENTATION/QUICK_START.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PCB_DIRECT.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PCB_STEP_BY_STEP.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PCB_COMPLETE_DIRECT.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/RUN_INSTALLATION.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_STEP_BY_STEP.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_SIMPLE.py",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/FINAL_INSTALLATION_GUIDE.md",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/PASTE_THIS_COMPLETE_INSTALL.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_COMPLETE_PASTE.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/RUN_INSTALL.txt",
+      "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_RUN.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_FIXED.txt",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/2.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PART1_DOCTYPE.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PART2_ADD_TABLE_FIELD.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PART3_CLIENT_SCRIPT.py",
@@ -17789,7 +17270,6 @@
       "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PART4_SERVER_SCRIPT2.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PART4_SERVER_SCRIPT3.py",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PART4_SERVER_SCRIPT4.py",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/6.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PART1_SINGLE_BLOCK.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PART1_PASTE_THIS.txt",
       "file:///g%3A/frappe_docker-main/frappe_docker-main/INSTALL_PART2_PASTE_THIS.txt",
@@ -17832,10 +17312,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "9b130415-9f62-4ebd-8bdf-97ce9830dde4",
+    "latestChatGenerationUUID": "d1955fa0-95a0-4672-bd73-3b177ce9811c",
     "isAgentic": true,
-    "subtitle": "RELOAD_DOCTYPE.py, FIX_CHILD_TABLE_FIRST.py, PART2_MANUAL_UI_INSTRUCTIONS.md, INSTALL_PART2_SIMPLE.py, INSTALL_PART1_SIMPLE.py",
+    "subtitle": "RELOAD_DOCTYPE.py, FIX_CHILD_TABLE_FIRST.py",
     "filesChangedCount": 258
   },
-  "extracted_at": "2026-01-21T11:48:01.551529"
+  "extracted_at": "2026-01-21T11:53:00.665983"
 }
