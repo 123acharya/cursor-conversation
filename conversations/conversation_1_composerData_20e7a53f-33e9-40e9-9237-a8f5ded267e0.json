@@ -5301,10 +5301,19 @@
       {
         "bubbleId": "b249a43e-1644-4f60-a01d-060997ac8cc0",
         "type": 2
+      },
+      {
+        "bubbleId": "d62dd60c-1319-4852-b87b-2b2cba9566ee",
+        "type": 1
+      },
+      {
+        "bubbleId": "c099edc7-e00f-4bc0-91cc-dcc83e7b070c",
+        "type": 2,
+        "serverBubbleId": "df93f648-06d2-4f61-8aff-f365bbc8cc20"
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -5349,11 +5358,11 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      },
-      "ideEditorsState": true
+      }
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "85cf5f18-df4b-421e-9834-c57b0e951fe9",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -19484,7 +19493,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768997068273,
+    "lastUpdatedAt": 1769002336680,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -19564,7 +19573,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 72.90749931335449,
+    "contextUsagePercent": 73.22100067138672,
     "allAttachedFileCodeChunksUris": [
       "file:///g%3A/frappe_docker-main/frappe_docker-main/RELOAD_DOCTYPE.py",
       "file:///c%3A/Users/pc/Desktop/ADD_TABLE_FIELD_CONSOLE.py",
@@ -19629,10 +19638,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "0b2a8c44-2361-4b6c-b853-d245eaae781e",
+    "latestChatGenerationUUID": "85cf5f18-df4b-421e-9834-c57b0e951fe9",
     "isAgentic": true,
     "subtitle": "ADD_BUTTONS_TO_PAGE.py, FIX_JAVASCRIPT_ERRORS.py, VERIFY_AND_FIX_SUBMIT_BUTTON.py, FIX_SUBMIT_BUTTON_VISIBILITY.py, ADD_SUBMIT_BUTTON_AND_LOGIC.py",
     "filesChangedCount": 287
   },
-  "extracted_at": "2026-01-21T18:58:01.212073"
+  "extracted_at": "2026-01-21T19:03:01.266382"
 }
