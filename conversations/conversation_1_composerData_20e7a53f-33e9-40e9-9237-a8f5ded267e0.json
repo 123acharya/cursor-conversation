@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"now we need submit button for submitting PCB IQC data enter table data into pcb table if its new PCB information if the serial number already \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "now we need submit button for submitting PCB IQC data enter table data into pcb table if its new PCB information if the serial number already ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "2628c987-9470-4c68-b183-639a0b3f2b5e",
@@ -19112,5 +19112,5 @@
     "subtitle": "FIX_PTS_STATUS_DROPDOWN_AND_COLORS.py, FIX_PERMISSION_ERROR_COMPLETE.py, FIX_PCB_SCAN_PERMISSION_ERROR.py, MOVE_PCB_IQC_DATA_ENTER_TO_ROW4.py, FIX_THREE_ISSUES.py",
     "filesChangedCount": 282
   },
-  "extracted_at": "2026-01-21T16:13:00.891839"
+  "extracted_at": "2026-01-21T16:18:00.922472"
 }
