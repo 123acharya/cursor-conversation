@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"i t\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [81]: import frappe\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [82]:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [82]: existing = frappe.db.get_value('Client Script', {'dt': 'PCB IQC Result    ...: '}, 'name')\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [83]: if existing:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:         script = frappe.get_doc('Client Script', existing)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:               if (row[pts_type + '_status'] && row[pts_type + '_status'] !== 'Pending') {\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                   if (!row[pts_type + '_date']) {\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                           frappe.model.set_value(cdt, cdn, pts_type + '_date', frappe.datetime.now_datetime());\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                               }\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                               }\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                               let pts1 = row.pts1_status || 'Pending';\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                               let pts2 = row.pts2_status || 'Pending';\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                               let pts3 = row.pts3_status || 'Pending';\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                               let overall = 'Pending';\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                               if (pts1 === 'Fail' || pts2 === 'Fail' || pts3 === 'Fail') {\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                                   overall = 'Fail';\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                                   } else if (pts1 === 'Pass' && pts2 === 'Pass' && pts3 === 'Pass') {\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                                       overall = 'Pass';\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                                       }\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                                       frappe.model.set_value(cdt, cdn, 'overall_status', overall);\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                                       setTimeout(() => apply_status_colors(frm), 100);\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                                   }\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:                               \\\"\\\"\\\"\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [85]:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [85]:     script.script = form_buttons_script\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [86]:     script.save(ignore_permissions=True)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    Out[86]: <ClientScript: PCB IQC Result - Search and Update>\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [87]:     frappe.db.commit()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [88]:     print('✅ Updated! Buttons will appear below pcb_scan field')\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"✅ Updated! Buttons will appear below pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [89]:     frappe.clear_cache()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [90]:     frappe.clear_cache(doctype='PCB IQC Result')\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"else:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [91]: else:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ...:         print('❌ Client Script not found!')\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File <ipython-input-91-8bd09273426e>:1\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    else:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ^\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"SyntaxError: invalid syntax\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [92]:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "i t",
+      "text": "\nIn [81]: import frappe\n\nIn [82]:\n\nIn [82]: existing = frappe.db.get_value('Client Script', {'dt': 'PCB IQC Result    ...: '}, 'name')\n\nIn [83]: if existing:\n    ...:         script = frappe.get_doc('Client Script', existing)\n    ...:\n\n    ...:\n    ...:\n    ...:\n    ...:               if (row[pts_type + '_status'] && row[pts_type + '_status'] !== 'Pending') {\n    ...:\n    ...:\n    ...:\n    ...:                   if (!row[pts_type + '_date']) {\n    ...:\n    ...:\n    ...:\n    ...:                           frappe.model.set_value(cdt, cdn, pts_type + '_date', frappe.datetime.now_datetime());\n    ...:\n    ...:\n    ...:\n    ...:                               }\n    ...:\n    ...:\n    ...:\n    ...:                               }\n    ...:\n    ...:\n    ...:\n    ...:                               let pts1 = row.pts1_status || 'Pending';\n    ...:\n    ...:\n    ...:\n    ...:                               let pts2 = row.pts2_status || 'Pending';\n    ...:\n    ...:\n    ...:\n    ...:                               let pts3 = row.pts3_status || 'Pending';\n    ...:\n    ...:\n    ...:\n    ...:                               let overall = 'Pending';\n    ...:\n    ...:\n    ...:\n    ...:                               if (pts1 === 'Fail' || pts2 === 'Fail' || pts3 === 'Fail') {\n    ...:\n    ...:\n    ...:\n    ...:                                   overall = 'Fail';\n    ...:\n    ...:\n    ...:\n    ...:                                   } else if (pts1 === 'Pass' && pts2 === 'Pass' && pts3 === 'Pass') {\n    ...:\n    ...:\n    ...:\n    ...:                                       overall = 'Pass';\n    ...:\n    ...:\n    ...:\n    ...:                                       }\n    ...:\n    ...:\n    ...:\n    ...:                                       frappe.model.set_value(cdt, cdn, 'overall_status', overall);\n    ...:\n    ...:\n    ...:\n    ...:                                       setTimeout(() => apply_status_colors(frm), 100);\n    ...:\n    ...:\n    ...:\n    ...:                                   }\n    ...:\n    ...:\n    ...:\n    ...:                               \"\"\"\n\nIn [85]:\n\nIn [85]:     script.script = form_buttons_script\n\nIn [86]:     script.save(ignore_permissions=True)\n    Out[86]: <ClientScript: PCB IQC Result - Search and Update>\n\nIn [87]:     frappe.db.commit()\n\nIn [88]:     print('✅ Updated! Buttons will appear below pcb_scan field')\n✅ Updated! Buttons will appear below pcb_scan field\n\nIn [89]:     frappe.clear_cache()\n\nIn [90]:     frappe.clear_cache(doctype='PCB IQC Result')\nelse:\n\nIn [91]: else:\n    ...:         print('❌ Client Script not found!')\n  File <ipython-input-91-8bd09273426e>:1\n    else:\n    ^\nSyntaxError: invalid syntax\n\n\nIn [92]:\n\n",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "2628c987-9470-4c68-b183-639a0b3f2b5e",
@@ -5379,6 +5379,84 @@
         },
         {
           "bubbleId": "faaf7322-7698-4e53-9fa9-ffcddee92b57",
+          "type": 2
+        },
+        {
+          "bubbleId": "ace2e1a3-a7a8-4927-af6f-2366ace1bddd",
+          "type": 1
+        },
+        {
+          "bubbleId": "2687aa09-018c-43a9-85cd-59635d249283",
+          "type": 2,
+          "serverBubbleId": "8e6ea450-9724-49d4-b41d-aa1eba71f246"
+        },
+        {
+          "bubbleId": "6a25eaf9-093e-4cd2-bd15-0f5b17ff0bcd",
+          "type": 2
+        },
+        {
+          "bubbleId": "b89b69c2-331c-42ce-8d61-7dab346c4152",
+          "type": 2
+        },
+        {
+          "bubbleId": "97e91def-9464-4468-b3e9-56ffd3da27d8",
+          "type": 2,
+          "serverBubbleId": "06124255-6c6b-48cd-99a2-280f0a3890a2"
+        },
+        {
+          "bubbleId": "07082cd0-c08c-4a68-9af3-7e10303f11e5",
+          "type": 2
+        },
+        {
+          "bubbleId": "fa2d1aa8-5a2c-41b8-a6ef-18cad9b7ec1d",
+          "type": 1
+        },
+        {
+          "bubbleId": "43aee6fe-d87e-4785-abea-b53adba208bf",
+          "type": 2,
+          "serverBubbleId": "a0a84094-0928-4c07-9f28-11c47bfce9ef"
+        },
+        {
+          "bubbleId": "ba33156e-3cab-43ec-9395-9f6feb7951f7",
+          "type": 2
+        },
+        {
+          "bubbleId": "ca18cca0-38c0-48ab-8073-c304d7e3327d",
+          "type": 1
+        },
+        {
+          "bubbleId": "5d50908b-ee8e-4dfb-8d97-b948df17170f",
+          "type": 2,
+          "serverBubbleId": "3aebd323-0a35-456a-839e-8720a5fe001f"
+        },
+        {
+          "bubbleId": "16684763-bc06-4031-a703-e4a4bea81659",
+          "type": 2
+        },
+        {
+          "bubbleId": "9855762a-4f98-43e6-90b3-4be132e84be3",
+          "type": 2
+        },
+        {
+          "bubbleId": "c346c697-cba5-4761-a393-7c7bf89a025f",
+          "type": 2,
+          "serverBubbleId": "5d594372-c9bb-4adf-afa5-c29ed37d5a8f"
+        },
+        {
+          "bubbleId": "2ac33910-468e-48d7-b04e-0d996fc239d8",
+          "type": 2
+        },
+        {
+          "bubbleId": "df7b04d3-20bd-4e24-b007-223532e8f389",
+          "type": 2
+        },
+        {
+          "bubbleId": "bc802cb5-bb92-45cd-bc20-8cdb34540714",
+          "type": 2,
+          "serverBubbleId": "558f4516-ab78-4b63-97d8-7577833aca18"
+        },
+        {
+          "bubbleId": "b19abaa1-2fe0-4746-8cf8-d7c69292fc77",
           "type": 2
         }
       ],
@@ -16205,6 +16283,54 @@
             "lastDiffId": "c10f9465-c493-4ffb-abce-3ddc2f5bbcfa",
             "lastAppliedAt": 1769002506715
           }
+        },
+        "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_NEAR_PCB_SCAN.py": {
+          "8fba9dfe-e2f2-40c3-9e2b-1ad5e829c824": {
+            "_v": 3,
+            "bubbleId": "b89b69c2-331c-42ce-8d61-7dab346c4152",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\ADD_BUTTONS_NEAR_PCB_SCAN.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_NEAR_PCB_SCAN.py",
+              "path": "/c:/Users/pc/Desktop/ADD_BUTTONS_NEAR_PCB_SCAN.py",
+              "scheme": "file"
+            },
+            "codeblockId": "8fba9dfe-e2f2-40c3-9e2b-1ad5e829c824",
+            "status": "completed",
+            "languageId": "python",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769002709266,
+            "composerChatGenerationUuid": "2b45be23-cc83-4a7f-9587-5261baeb0ffd",
+            "diffId": "82e69222-3acb-4518-86d8-0cda9a76a4bd",
+            "lastDiffId": "c4b90c2a-a645-4a7c-ba8f-6dac32b2f44a",
+            "lastAppliedAt": 1769002722239
+          }
+        },
+        "file:///c%3A/Users/pc/Desktop/UPDATE_BUTTONS_INLINE.txt": {
+          "cb47e180-6641-4e21-8255-6d8265020400": {
+            "_v": 3,
+            "bubbleId": "9855762a-4f98-43e6-90b3-4be132e84be3",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\UPDATE_BUTTONS_INLINE.txt",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/UPDATE_BUTTONS_INLINE.txt",
+              "path": "/c:/Users/pc/Desktop/UPDATE_BUTTONS_INLINE.txt",
+              "scheme": "file"
+            },
+            "codeblockId": "cb47e180-6641-4e21-8255-6d8265020400",
+            "status": "completed",
+            "languageId": "plaintext",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769002795051,
+            "composerChatGenerationUuid": "0d17cd5b-26b1-45a3-88c8-11ffdf05164f",
+            "diffId": "154d96e1-d565-411b-84cd-dae0c55923c8",
+            "lastDiffId": "1c780596-9962-4ea0-a3c5-e06d55fac691",
+            "lastAppliedAt": 1769002806295
+          }
         }
       },
       "originalFileStates": {
@@ -17947,6 +18073,18 @@
           "firstEditBubbleId": "6b7a93d6-a748-4d5b-9317-457c8fb6f3c5",
           "isNewlyCreated": true,
           "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_NEAR_PCB_SCAN.py": {
+          "content": "",
+          "firstEditBubbleId": "b89b69c2-331c-42ce-8d61-7dab346c4152",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/UPDATE_BUTTONS_INLINE.txt": {
+          "content": "",
+          "firstEditBubbleId": "9855762a-4f98-43e6-90b3-4be132e84be3",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
         }
       },
       "newlyCreatedFiles": [
@@ -19639,10 +19777,30 @@
             "path": "/c:/Users/pc/Desktop/VERIFY_BUTTONS_WORKING.py",
             "scheme": "file"
           }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\ADD_BUTTONS_NEAR_PCB_SCAN.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_NEAR_PCB_SCAN.py",
+            "path": "/c:/Users/pc/Desktop/ADD_BUTTONS_NEAR_PCB_SCAN.py",
+            "scheme": "file"
+          }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\UPDATE_BUTTONS_INLINE.txt",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/UPDATE_BUTTONS_INLINE.txt",
+            "path": "/c:/Users/pc/Desktop/UPDATE_BUTTONS_INLINE.txt",
+            "scheme": "file"
+          }
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1769002607956,
+      "lastUpdatedAt": 1769002819300,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -19722,7 +19880,7 @@
           "amount": 8
         }
       },
-      "contextUsagePercent": 77.02249908447266,
+      "contextUsagePercent": 83.39049911499023,
       "allAttachedFileCodeChunksUris": [
         "file:///g%3A/frappe_docker-main/frappe_docker-main/RELOAD_DOCTYPE.py",
         "file:///c%3A/Users/pc/Desktop/ADD_TABLE_FIELD_CONSOLE.py",
@@ -19755,7 +19913,8 @@
         "file:///c%3A/Users/pc/Desktop/FIX_JAVASCRIPT_ERRORS.py",
         "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_TO_PAGE.py",
         "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_SIMPLE.py",
-        "file:///c%3A/Users/pc/Desktop/VERIFY_BUTTONS_WORKING.py"
+        "file:///c%3A/Users/pc/Desktop/VERIFY_BUTTONS_WORKING.py",
+        "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_NEAR_PCB_SCAN.py"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -19767,7 +19926,7 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 38588,
+      "totalLinesAdded": 39018,
       "totalLinesRemoved": 8,
       "addedFiles": 0,
       "removedFiles": 0,
@@ -19789,12 +19948,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "32466b4b-a653-48f0-946f-3285c1f95307",
+      "latestChatGenerationUUID": "0d17cd5b-26b1-45a3-88c8-11ffdf05164f",
       "isAgentic": true,
-      "subtitle": "VERIFY_BUTTONS_WORKING.py, ADD_BUTTONS_SIMPLE.py, ADD_BUTTONS_TO_PAGE.py, FIX_JAVASCRIPT_ERRORS.py, VERIFY_AND_FIX_SUBMIT_BUTTON.py",
-      "filesChangedCount": 289
+      "subtitle": "UPDATE_BUTTONS_INLINE.txt, ADD_BUTTONS_NEAR_PCB_SCAN.py, VERIFY_BUTTONS_WORKING.py, ADD_BUTTONS_SIMPLE.py, ADD_BUTTONS_TO_PAGE.py",
+      "filesChangedCount": 291
     },
-    "extracted_at": "2026-01-21T19:08:01.248792"
+    "extracted_at": "2026-01-21T19:13:01.244869"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -23953,7 +24112,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-21T19:08:01.248792"
+    "extracted_at": "2026-01-21T19:13:01.244869"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -32465,7 +32624,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-21T19:08:01.258332"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -32683,7 +32842,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-21T19:08:01.258332"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -32860,7 +33019,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-21T19:08:01.258332"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -41971,12 +42130,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-21T19:08:01.268522"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-21T19:08:01.268522"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -42155,7 +42314,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-21T19:08:01.268522"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:40c3238e-9290-4c15-b4b4-14d3f7651247",
@@ -42329,7 +42488,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-21T19:08:01.268522"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:842169da-0a70-49ac-a2d0-7cf9409a2f08",
@@ -42440,7 +42599,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-21T19:08:01.268522"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
@@ -42614,7 +42773,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-21T19:08:01.268522"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:6afdc338-e6ca-4338-82e7-be278b231592",
@@ -42725,7 +42884,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-21T19:08:01.268522"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:bedbc2a3-6db6-4e15-8f64-cd2294495832",
@@ -44288,7 +44447,7 @@
       "subtitle": "INSTALL_PART1_EXEC_FIXED.py, INSTALL_PART1_IPYTHON.py",
       "filesChangedCount": 14
     },
-    "extracted_at": "2026-01-21T19:08:01.268522"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:f69725e8-01bb-4d53-8f4e-287a321776e7",
@@ -44462,7 +44621,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-21T19:08:01.268522"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   },
   {
     "key": "composerData:f640be18-f22f-402f-b9af-3c832eed7b5c",
@@ -44573,6 +44732,6 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-21T19:08:01.268522"
+    "extracted_at": "2026-01-21T19:13:01.255288"
   }
 ]
