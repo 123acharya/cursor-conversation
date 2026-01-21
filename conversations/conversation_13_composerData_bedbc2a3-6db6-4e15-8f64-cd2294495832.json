@@ -672,7 +672,6 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -703,7 +702,8 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -1560,5 +1560,5 @@
     "subtitle": "INSTALL_PART1_EXEC_FIXED.py, INSTALL_PART1_IPYTHON.py",
     "filesChangedCount": 14
   },
-  "extracted_at": "2026-01-21T12:13:00.636082"
+  "extracted_at": "2026-01-21T12:18:00.607931"
 }
