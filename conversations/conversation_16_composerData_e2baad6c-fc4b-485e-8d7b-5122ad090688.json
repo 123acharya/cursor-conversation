@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"add stop button to stop typing \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also inc\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "add stop button to stop typing \nalso inc",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "ad0a9a0e-ebf7-4b42-a24d-0c006f5b195b",
@@ -195,5 +195,5 @@
     "subtitle": "",
     "filesChangedCount": 0
   },
-  "extracted_at": "2026-01-22T16:03:00.625617"
+  "extracted_at": "2026-01-22T16:08:00.618251"
 }

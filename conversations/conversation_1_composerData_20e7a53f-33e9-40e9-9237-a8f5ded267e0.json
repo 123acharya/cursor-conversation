@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [245]: doc = frappe.get_doc('DocType', 'PCB IQC Result')\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"b\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [246]: button_idx = next((i for i, f in enumerate(doc.fields) if f.fieldname == 'pcb_action_buttons'), None)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [247]: print(f'Current position: index {button_idx} (row {button_idx + 1 if button_idx else \\\"not found\\\"})')\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Current position: index 6 (row 7)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [248]: if button_idx is not None and button_idx != 4:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"     ...:         button_field = doc.fields.pop(button_idx)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"     ...:             fields_list = list(doc.fields)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File <ipython-input-248-3c13e4f06ad6>:3\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    fields_list = list(doc.fields)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ^\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"IndentationError: unexpected indent\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [249]:     fields_list.insert(4, button_field)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [250]:     doc.fields = fields_list\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [251]:     doc.flags.ignore_validate = True\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [252]:     doc.flags.ignore_permissions = True\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [253]:     doc.flags.ignore_version = True\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [254]:     doc.save(ignore_permissions=True)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    frappe.db.coOut[254]: <DocType: PCB IQC Result>\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [255]:     frappe.db.commit()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [256]:     print(f'✅ Moved from index {button_idx} to index 4 (row 5)')\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"✅ Moved from index 6 to index 4 (row 5)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [257]: else:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"     ...:         print(f'✅ Already at correct position or not found')\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File <ipython-input-257-0e05b7aff05b>:1\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    else:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    ^\",\"type\":\"text\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"SyntaxError: invalid syntax\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In [258]:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"when i try to do it manually AND try to save it i get this error can yo\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "In [245]: doc = frappe.get_doc('DocType', 'PCB IQC Result')\nb\nIn [246]: button_idx = next((i for i, f in enumerate(doc.fields) if f.fieldname == 'pcb_action_buttons'), None)\n\nIn [247]: print(f'Current position: index {button_idx} (row {button_idx + 1 if button_idx else \"not found\"})')\nCurrent position: index 6 (row 7)\n\nIn [248]: if button_idx is not None and button_idx != 4:\n     ...:         button_field = doc.fields.pop(button_idx)\n     ...:             fields_list = list(doc.fields)\n  File <ipython-input-248-3c13e4f06ad6>:3\n    fields_list = list(doc.fields)\n    ^\nIndentationError: unexpected indent\n\n\nIn [249]:     fields_list.insert(4, button_field)\n\nIn [250]:     doc.fields = fields_list\n\nIn [251]:     doc.flags.ignore_validate = True\n\nIn [252]:     doc.flags.ignore_permissions = True\n\nIn [253]:     doc.flags.ignore_version = True\n\nIn [254]:     doc.save(ignore_permissions=True)\n    frappe.db.coOut[254]: <DocType: PCB IQC Result>\n\nIn [255]:     frappe.db.commit()\n\nIn [256]:     print(f'✅ Moved from index {button_idx} to index 4 (row 5)')\n✅ Moved from index 6 to index 4 (row 5)\n\nIn [257]: else:\n     ...:         print(f'✅ Already at correct position or not found')\n  File <ipython-input-257-0e05b7aff05b>:1\n    else:\n    ^\nSyntaxError: invalid syntax\n\n\nIn [258]:\n\nwhen i try to do it manually AND try to save it i get this error can yo",
+    "text": "",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "c1e80224-deda-40be-90c5-667b5d6659a8",
@@ -4782,6 +4782,32 @@
       },
       {
         "bubbleId": "21593a95-4c99-43b8-bcd3-67a8cfad9641",
+        "type": 2
+      },
+      {
+        "bubbleId": "7ce57a3f-ad02-45ff-b402-642a0faf1bfa",
+        "type": 1
+      },
+      {
+        "bubbleId": "b95314b1-35f0-4b4e-be05-9b84d0cf359d",
+        "type": 2,
+        "serverBubbleId": "860aa702-fd68-4b41-840a-4a78aa190e0b"
+      },
+      {
+        "bubbleId": "8f41242a-2da5-4d06-80a2-bce0d6c94ba4",
+        "type": 2
+      },
+      {
+        "bubbleId": "3a57ca07-776f-4af8-b217-0dc52249ada4",
+        "type": 1
+      },
+      {
+        "bubbleId": "2400c508-9b83-4c7f-8106-68fd6ddf5f77",
+        "type": 2,
+        "serverBubbleId": "1c5b11d7-4365-4031-946e-6c91969d3767"
+      },
+      {
+        "bubbleId": "ca72c05c-6b4c-4243-ac31-4178beaa3159",
         "type": 2
       }
     ],
@@ -19682,7 +19708,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769077787156,
+    "lastUpdatedAt": 1769078119094,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -19762,7 +19788,7 @@
         "amount": 8
       }
     },
-    "contextUsagePercent": 61.948001861572266,
+    "contextUsagePercent": 63.28099822998047,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/FIX_PCB_SCAN_AND_SUBMIT_LOGIC.py",
       "file:///c%3A/Users/pc/Desktop/FIX_SUBMIT_AND_SEARCH.py",
@@ -19806,10 +19832,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "eee99f4f-425b-4d1d-b132-9a47b2a28fe0",
+    "latestChatGenerationUUID": "40b810ff-bea8-410a-9688-192ab5c3b5e1",
     "isAgentic": true,
     "subtitle": "FIX_DUPLICATE_BUTTONS_AND_MOVE.py, CHECK_AND_ADD_BUTTONS.py, ADD_BUTTONS_PART2_SIMPLE.py, ADD_BUTTONS_SIMPLE_PASTE.py, ADD_BUTTONS_PART2.py",
     "filesChangedCount": 301
   },
-  "extracted_at": "2026-01-22T16:03:00.616022"
+  "extracted_at": "2026-01-22T16:08:00.608215"
 }
