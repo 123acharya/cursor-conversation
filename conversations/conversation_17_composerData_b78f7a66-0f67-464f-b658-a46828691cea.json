@@ -851,6 +851,87 @@
       {
         "bubbleId": "b532e3c4-0e8b-4761-a88a-ee6c58de189a",
         "type": 2
+      },
+      {
+        "bubbleId": "a3aa8599-1cc4-4173-b38c-43130e651845",
+        "type": 2
+      },
+      {
+        "bubbleId": "0cd297c8-52d1-4476-adaa-f9c93a8814fe",
+        "type": 2,
+        "serverBubbleId": "2e1dea85-575d-40d6-8af0-34e235e893a4"
+      },
+      {
+        "bubbleId": "7273c389-a79d-470a-85aa-9b5745d07074",
+        "type": 2
+      },
+      {
+        "bubbleId": "d6b425bc-5476-4955-954e-95415e43a244",
+        "type": 1
+      },
+      {
+        "bubbleId": "880944c3-0caa-4b92-96b8-ac7ada7381b7",
+        "type": 2,
+        "serverBubbleId": "62b7016c-f38b-44b3-95e4-a7a86f9f3b3b"
+      },
+      {
+        "bubbleId": "fdaa2e7f-56c9-4261-83c3-94915437f80f",
+        "type": 2
+      },
+      {
+        "bubbleId": "b663f6db-8986-4bfe-bd8c-2901d31b7539",
+        "type": 2
+      },
+      {
+        "bubbleId": "b63cae8e-a112-4d84-83bb-1e074638a46d",
+        "type": 2,
+        "serverBubbleId": "73946c42-5bdc-400c-a81f-fbc1a9e63b2b"
+      },
+      {
+        "bubbleId": "75649238-7ddf-4895-b7b0-f2c935af3f27",
+        "type": 2
+      },
+      {
+        "bubbleId": "4d78663c-ced6-41d3-b099-3ef93ecb294f",
+        "type": 2
+      },
+      {
+        "bubbleId": "a3bfd1ee-80f2-4703-bad3-4bfd2b4b44da",
+        "type": 2,
+        "serverBubbleId": "ebbf4fc2-032e-43ce-b61f-6146a6a2e2b7"
+      },
+      {
+        "bubbleId": "fb19c265-1c56-483c-a21f-6b3b08ade130",
+        "type": 2
+      },
+      {
+        "bubbleId": "85ba3905-ce04-409b-835d-d8214ca5e48d",
+        "type": 2
+      },
+      {
+        "bubbleId": "016ba696-9f6a-4991-8ffc-658cfb855e9b",
+        "type": 2
+      },
+      {
+        "bubbleId": "98013358-6113-4482-8add-b3e05ca3ef8c",
+        "type": 2,
+        "serverBubbleId": "f820478f-2305-4c18-badf-f7b9a641399f"
+      },
+      {
+        "bubbleId": "784c4b69-c230-4b70-ab0c-f74fddfca7b3",
+        "type": 2
+      },
+      {
+        "bubbleId": "15c6accc-c863-4109-b4dd-db6b726aadc8",
+        "type": 2
+      },
+      {
+        "bubbleId": "ead652c3-36bc-4165-a5d2-965815f10887",
+        "type": 2
+      },
+      {
+        "bubbleId": "bebaa0e5-ef56-47be-a181-e6ac942082ee",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -904,7 +985,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "15a6074b-c1a0-4bd0-be9e-ae0fa9a63f6d",
+    "chatGenerationUUID": "fc233b89-c225-4967-a706-afc7e14d8066",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -1932,6 +2013,78 @@
           "lastDiffId": "72228eeb-53c8-4745-a6f5-64fee8d9d8ea",
           "lastAppliedAt": 1769091436420
         }
+      },
+      "file:///k%3A/VoiceTyper/GPU_SETUP_GUIDE.md": {
+        "ef6b6605-a587-4586-be68-03faeedb4d3c": {
+          "_v": 3,
+          "bubbleId": "ad73993c-39c8-4ec3-bae6-d48c32f41027",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\GPU_SETUP_GUIDE.md",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/GPU_SETUP_GUIDE.md",
+            "path": "/K:/VoiceTyper/GPU_SETUP_GUIDE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "ef6b6605-a587-4586-be68-03faeedb4d3c",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769091479715,
+          "composerChatGenerationUuid": "15a6074b-c1a0-4bd0-be9e-ae0fa9a63f6d",
+          "diffId": "34e0683b-500c-40e1-8f1a-eb6fc4e5f202",
+          "lastDiffId": "fcc181fd-1ae0-4a3c-b8da-d3d86c8b140c",
+          "lastAppliedAt": 1769091497797
+        }
+      },
+      "file:///k%3A/VoiceTyper/install_gpu_pytorch.bat": {
+        "e4500d5b-b9ac-4e27-892f-42ca0bbdf8d7": {
+          "_v": 3,
+          "bubbleId": "b532e3c4-0e8b-4761-a88a-ee6c58de189a",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\install_gpu_pytorch.bat",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/install_gpu_pytorch.bat",
+            "path": "/K:/VoiceTyper/install_gpu_pytorch.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "e4500d5b-b9ac-4e27-892f-42ca0bbdf8d7",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769091501488,
+          "composerChatGenerationUuid": "15a6074b-c1a0-4bd0-be9e-ae0fa9a63f6d",
+          "diffId": "fcb6c274-dd99-4fac-9e13-319d486740a1",
+          "lastDiffId": "5a173301-f8f6-44c3-a92b-eae01229e293",
+          "lastAppliedAt": 1769091506656
+        }
+      },
+      "file:///k%3A/VoiceTyper/run_v2_gpu.bat": {
+        "0f66b0fa-c0d8-4a02-9901-e2d3953f4633": {
+          "_v": 3,
+          "bubbleId": "a3aa8599-1cc4-4173-b38c-43130e651845",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\run_v2_gpu.bat",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/run_v2_gpu.bat",
+            "path": "/K:/VoiceTyper/run_v2_gpu.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "0f66b0fa-c0d8-4a02-9901-e2d3953f4633",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769091508619,
+          "composerChatGenerationUuid": "15a6074b-c1a0-4bd0-be9e-ae0fa9a63f6d",
+          "diffId": "39f94121-f53c-498b-bafc-30d40fad6b33",
+          "lastDiffId": "4129ef7e-2707-4890-bae3-b29f4a60bd61",
+          "lastAppliedAt": 1769091510722
+        }
       }
     },
     "originalFileStates": {
@@ -2034,6 +2187,24 @@
       "file:///k%3A/VoiceTyper/voice_typer_whisper_v2_gpu.py": {
         "content": "",
         "firstEditBubbleId": "cf018cd0-10eb-4d6e-8829-71bfe2bd71ee",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/GPU_SETUP_GUIDE.md": {
+        "content": "",
+        "firstEditBubbleId": "ad73993c-39c8-4ec3-bae6-d48c32f41027",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/install_gpu_pytorch.bat": {
+        "content": "",
+        "firstEditBubbleId": "b532e3c4-0e8b-4761-a88a-ee6c58de189a",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/run_v2_gpu.bat": {
+        "content": "",
+        "firstEditBubbleId": "a3aa8599-1cc4-4173-b38c-43130e651845",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -2208,10 +2379,40 @@
           "path": "/K:/VoiceTyper/voice_typer_whisper_v2_gpu.py",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\GPU_SETUP_GUIDE.md",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/GPU_SETUP_GUIDE.md",
+          "path": "/K:/VoiceTyper/GPU_SETUP_GUIDE.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\install_gpu_pytorch.bat",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/install_gpu_pytorch.bat",
+          "path": "/K:/VoiceTyper/install_gpu_pytorch.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\run_v2_gpu.bat",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/run_v2_gpu.bat",
+          "path": "/K:/VoiceTyper/run_v2_gpu.bat",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769090682187,
+    "lastUpdatedAt": 1769091584536,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -2291,7 +2492,7 @@
         "amount": 6
       }
     },
-    "contextUsagePercent": 39.49700164794922,
+    "contextUsagePercent": 45.70600128173828,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/voice_typer.py",
       "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
@@ -2307,7 +2508,11 @@
       "file:///k%3A/VoiceTyper/AUTO_TYPE_GUIDE.md",
       "file:///k%3A/VoiceTyper/KEYBOARD_SHORTCUTS.md",
       "file:///k%3A/VoiceTyper/WHISPER_MODELS_GUIDE.md",
-      "file:///k%3A/VoiceTyper/GOOGLE_DOCS_SPEED_GUIDE.md"
+      "file:///k%3A/VoiceTyper/GOOGLE_DOCS_SPEED_GUIDE.md",
+      "file:///k%3A/VoiceTyper/voice_typer_whisper_v2_gpu.py",
+      "file:///k%3A/VoiceTyper/GPU_SETUP_GUIDE.md",
+      "file:///k%3A/VoiceTyper/install_gpu_pytorch.bat",
+      "file:///k%3A/VoiceTyper/run_v2_gpu.bat"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -2344,7 +2549,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 2591,
+    "totalLinesAdded": 2822,
     "totalLinesRemoved": 32,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -2366,11 +2571,11 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "15a6074b-c1a0-4bd0-be9e-ae0fa9a63f6d",
+    "latestChatGenerationUUID": "fc233b89-c225-4967-a706-afc7e14d8066",
     "isAgentic": true,
-    "subtitle": "GPU_SETUP_GUIDE.md, voice_typer_whisper_v2_gpu.py, GOOGLE_DOCS_SPEED_GUIDE.md, voice_typer_whisper.py, WHISPER_MODELS_GUIDE.md",
-    "filesChangedCount": 17,
+    "subtitle": "run_v2_gpu.bat, install_gpu_pytorch.bat, GPU_SETUP_GUIDE.md, voice_typer_whisper_v2_gpu.py, GOOGLE_DOCS_SPEED_GUIDE.md",
+    "filesChangedCount": 20,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-22T19:48:00.812445"
+  "extracted_at": "2026-01-22T19:53:00.874649"
 }
