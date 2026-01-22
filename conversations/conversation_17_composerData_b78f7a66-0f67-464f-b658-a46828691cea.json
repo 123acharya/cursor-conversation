@@ -185,10 +185,112 @@
       {
         "bubbleId": "edb8f746-085c-465c-86a8-69242ae79b14",
         "type": 2
+      },
+      {
+        "bubbleId": "ede6f88e-d992-4c23-83b2-ccf69675d2ae",
+        "type": 1
+      },
+      {
+        "bubbleId": "5e48b809-bd59-435b-bddc-24c2e0a6f0af",
+        "type": 2,
+        "serverBubbleId": "e47f9cfd-3f01-4733-aed8-7a58271a89d4"
+      },
+      {
+        "bubbleId": "cb40fa25-696f-418d-baae-b96250da3c84",
+        "type": 2
+      },
+      {
+        "bubbleId": "d68d1ef3-b17e-4648-8a6f-15488f4ed2dc",
+        "type": 2
+      },
+      {
+        "bubbleId": "b0dbe57a-b3c4-4332-bf31-524084251843",
+        "type": 2
+      },
+      {
+        "bubbleId": "d064d6d4-be68-4a24-bb86-255decc79aaf",
+        "type": 2,
+        "serverBubbleId": "50068608-d3b3-4294-bff2-5f43ae2ea988"
+      },
+      {
+        "bubbleId": "1eb219b1-7f50-4975-b5e5-9dfae5dc6ee5",
+        "type": 2
+      },
+      {
+        "bubbleId": "097a76e9-0cfb-4c2a-88f2-b6117b9a8c45",
+        "type": 2
+      },
+      {
+        "bubbleId": "931dddb3-2c78-4e31-93c7-39ec432fdecc",
+        "type": 2,
+        "serverBubbleId": "c8530f8a-3470-4c32-8ecc-75c036ff71c1"
+      },
+      {
+        "bubbleId": "c677eca3-a19d-4012-a07f-9d56041f6478",
+        "type": 2
+      },
+      {
+        "bubbleId": "0aad42e8-b6a5-4592-ab8a-25acb05729bf",
+        "type": 2
+      },
+      {
+        "bubbleId": "f715c2e8-3634-4fa5-a52a-7be5e215f033",
+        "type": 2
+      },
+      {
+        "bubbleId": "f854abcb-1fa8-4b8e-8666-e1c85e9d5e9d",
+        "type": 2,
+        "serverBubbleId": "e3208e42-fc7d-41d4-a551-f8eab82ce1b5"
+      },
+      {
+        "bubbleId": "0425d447-6574-4da9-807a-bb0d6bbe8bfe",
+        "type": 2
+      },
+      {
+        "bubbleId": "18bae567-34c9-40c8-9a46-a26984cd6c69",
+        "type": 2
+      },
+      {
+        "bubbleId": "7ea8f233-c00b-43a4-8fde-0e2425880d02",
+        "type": 2,
+        "serverBubbleId": "338ec202-6102-4fc7-a904-e3d4922425f8"
+      },
+      {
+        "bubbleId": "7d62aa5e-9b7d-4207-9b6f-677647688678",
+        "type": 2
+      },
+      {
+        "bubbleId": "0d5af9f9-b3c6-4dd0-a18f-c531841c9dd6",
+        "type": 2
+      },
+      {
+        "bubbleId": "bd631555-fb4a-470f-9776-5e50af572d50",
+        "type": 2,
+        "serverBubbleId": "7db94b36-7b08-4f34-a8eb-f3910db08216"
+      },
+      {
+        "bubbleId": "775456c2-4ec3-452d-9275-dec8c4c66f73",
+        "type": 2
+      },
+      {
+        "bubbleId": "9bc33a75-0406-4010-b24a-69c2fdd28414",
+        "type": 2
+      },
+      {
+        "bubbleId": "173b8a36-ab25-49e9-8f8f-76755471bcbf",
+        "type": 2
+      },
+      {
+        "bubbleId": "7aece354-d3d5-4c79-b647-0f16077ec6d9",
+        "type": 2
+      },
+      {
+        "bubbleId": "c76a00ca-af62-41e8-aaff-7343adfd5b88",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -238,6 +340,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "24a285d5-6222-4e8d-8eab-c623650567c2",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -626,7 +729,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769088469328,
+    "lastUpdatedAt": 1769088875041,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -706,7 +809,7 @@
         "amount": 2
       }
     },
-    "contextUsagePercent": 14.502998352050781,
+    "contextUsagePercent": 15.206001281738281,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/voice_typer.py",
       "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
@@ -775,11 +878,11 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "e5b111f4-f29a-43cd-bd45-936e069a1170",
+    "latestChatGenerationUUID": "24a285d5-6222-4e8d-8eab-c623650567c2",
     "isAgentic": true,
     "subtitle": "QUICK_START_VOICE_TYPER.md, copy_to_k_drive.bat, run_voice_typer.bat, install_voice_typer.bat, README_VOICE_TYPER.md",
     "filesChangedCount": 9,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-22T19:03:00.697937"
+  "extracted_at": "2026-01-22T19:08:00.736089"
 }
