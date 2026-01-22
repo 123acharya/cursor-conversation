@@ -847,6 +847,10 @@
       {
         "bubbleId": "ad73993c-39c8-4ec3-bae6-d48c32f41027",
         "type": 2
+      },
+      {
+        "bubbleId": "b532e3c4-0e8b-4761-a88a-ee6c58de189a",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -1904,6 +1908,30 @@
           "lastDiffId": "e1ea5e19-869e-4a5b-ab61-2d64057ffb27",
           "lastAppliedAt": 1769090534916
         }
+      },
+      "file:///k%3A/VoiceTyper/voice_typer_whisper_v2_gpu.py": {
+        "adea6aeb-e33d-43b9-b581-29862db2f020": {
+          "_v": 3,
+          "bubbleId": "cf018cd0-10eb-4d6e-8829-71bfe2bd71ee",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\voice_typer_whisper_v2_gpu.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/voice_typer_whisper_v2_gpu.py",
+            "path": "/K:/VoiceTyper/voice_typer_whisper_v2_gpu.py",
+            "scheme": "file"
+          },
+          "codeblockId": "adea6aeb-e33d-43b9-b581-29862db2f020",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769091271060,
+          "composerChatGenerationUuid": "15a6074b-c1a0-4bd0-be9e-ae0fa9a63f6d",
+          "diffId": "2b163fb1-2cf7-4e1e-8acc-55438a4b5c9b",
+          "lastDiffId": "72228eeb-53c8-4745-a6f5-64fee8d9d8ea",
+          "lastAppliedAt": 1769091436420
+        }
       }
     },
     "originalFileStates": {
@@ -2000,6 +2028,12 @@
       "file:///k%3A/VoiceTyper/GOOGLE_DOCS_SPEED_GUIDE.md": {
         "content": "",
         "firstEditBubbleId": "ae98c21d-07fd-4974-91ad-75353032c62d",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/voice_typer_whisper_v2_gpu.py": {
+        "content": "",
+        "firstEditBubbleId": "cf018cd0-10eb-4d6e-8829-71bfe2bd71ee",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -2164,6 +2198,16 @@
           "path": "/K:/VoiceTyper/GOOGLE_DOCS_SPEED_GUIDE.md",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\voice_typer_whisper_v2_gpu.py",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/voice_typer_whisper_v2_gpu.py",
+          "path": "/K:/VoiceTyper/voice_typer_whisper_v2_gpu.py",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
@@ -2300,7 +2344,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 1924,
+    "totalLinesAdded": 2591,
     "totalLinesRemoved": 32,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -2324,9 +2368,9 @@
     "conversationState": "",
     "latestChatGenerationUUID": "15a6074b-c1a0-4bd0-be9e-ae0fa9a63f6d",
     "isAgentic": true,
-    "subtitle": "voice_typer_whisper_v2_gpu.py, GOOGLE_DOCS_SPEED_GUIDE.md, voice_typer_whisper.py, WHISPER_MODELS_GUIDE.md, KEYBOARD_SHORTCUTS.md",
-    "filesChangedCount": 16,
+    "subtitle": "GPU_SETUP_GUIDE.md, voice_typer_whisper_v2_gpu.py, GOOGLE_DOCS_SPEED_GUIDE.md, voice_typer_whisper.py, WHISPER_MODELS_GUIDE.md",
+    "filesChangedCount": 17,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-22T19:43:00.965795"
+  "extracted_at": "2026-01-22T19:48:00.812445"
 }
