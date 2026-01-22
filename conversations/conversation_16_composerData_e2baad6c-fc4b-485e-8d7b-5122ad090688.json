@@ -411,6 +411,7 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
+      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -443,8 +444,7 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      },
-      "ideEditorsState": true
+      }
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -991,5 +991,5 @@
     "subtitle": "sentence_typer.py",
     "filesChangedCount": 1
   },
-  "extracted_at": "2026-01-22T16:38:02.503736"
+  "extracted_at": "2026-01-22T16:43:10.877674"
 }
