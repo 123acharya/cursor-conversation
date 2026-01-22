@@ -4233,7 +4233,6 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -4264,7 +4263,8 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -19366,5 +19366,5 @@
     "subtitle": "ERPNext_System_Understanding.md, ERPNext_DocTypes_Detailed_Understanding.md, fix_pcb_lookup_complete.py, fix_pcb_lookup.bat, PCB_LOOKUP_FIX_EXPLAINED.md",
     "filesChangedCount": 304
   },
-  "extracted_at": "2026-01-22T17:08:00.647300"
+  "extracted_at": "2026-01-22T17:13:00.563817"
 }
