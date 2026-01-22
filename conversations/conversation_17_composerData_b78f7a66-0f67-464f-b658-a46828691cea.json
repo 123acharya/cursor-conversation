@@ -188,7 +188,7 @@
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -238,7 +238,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "e5b111f4-f29a-43cd-bd45-936e069a1170",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -627,7 +626,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769088457041,
+    "lastUpdatedAt": 1769088469328,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -703,11 +702,11 @@
     "forceMode": "edit",
     "usageData": {
       "composer-1": {
-        "costInCents": 11,
-        "amount": 1
+        "costInCents": 16,
+        "amount": 2
       }
     },
-    "contextUsagePercent": 14.279998779296875,
+    "contextUsagePercent": 14.502998352050781,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/voice_typer.py",
       "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
@@ -782,5 +781,5 @@
     "filesChangedCount": 9,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-22T18:58:01.258247"
+  "extracted_at": "2026-01-22T19:03:00.697937"
 }

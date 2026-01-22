@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"i restated server but still when i press submi\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "i restated server but still when i press submi",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "ca767de3-61ae-4b11-9749-3c4285fd74c7",
@@ -19721,5 +19721,5 @@
     "subtitle": "FIX_LEDGER_ERROR_COMPLETE.py, FIX_BUTTONS_AND_ENTER_KEY.py, CREATE_SERVER_METHOD.py, MOVE_BUTTONS_TO_ROW4_FINAL.py, BYPASS_CREATED_BY_VALIDATION.py",
     "filesChangedCount": 307
   },
-  "extracted_at": "2026-01-22T18:58:01.246196"
+  "extracted_at": "2026-01-22T19:03:00.682298"
 }
