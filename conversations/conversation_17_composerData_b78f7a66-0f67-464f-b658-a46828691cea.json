@@ -120,10 +120,75 @@
       {
         "bubbleId": "b56424eb-4a87-4281-93c8-ff94afe5c69b",
         "type": 2
+      },
+      {
+        "bubbleId": "23041cff-246e-4c9e-a87a-2e64f5531919",
+        "type": 1
+      },
+      {
+        "bubbleId": "09b06312-be5f-41d8-9536-8410c81d784a",
+        "type": 2,
+        "serverBubbleId": "f1cf32c4-fe33-4566-abed-e83c9112eab3"
+      },
+      {
+        "bubbleId": "4d0de917-1e8b-4b90-9e0a-1de90d2ea072",
+        "type": 2
+      },
+      {
+        "bubbleId": "669cb5e4-9c9a-4902-9b60-e72c39c2791b",
+        "type": 2
+      },
+      {
+        "bubbleId": "283168d2-8764-48b4-b0aa-a5f4db50d58c",
+        "type": 2,
+        "serverBubbleId": "e2022f7b-29e5-45f7-a752-4bf74d728e94"
+      },
+      {
+        "bubbleId": "0698d851-6fc6-428f-a078-03bc211e4e61",
+        "type": 2
+      },
+      {
+        "bubbleId": "b94a0b36-c274-422b-8fd4-2a1f362da892",
+        "type": 2
+      },
+      {
+        "bubbleId": "49595892-74e6-463e-84b7-7ad17d86957d",
+        "type": 2,
+        "serverBubbleId": "d9bb55a5-344e-40ce-b5dc-dedc5d0259b7"
+      },
+      {
+        "bubbleId": "9f3ef0ba-4a63-4665-a6bd-cf2dcc567ca7",
+        "type": 2
+      },
+      {
+        "bubbleId": "a58a9c29-9496-49b4-8c03-9b3d66728d81",
+        "type": 2
+      },
+      {
+        "bubbleId": "e2c94c32-df6e-40ab-bcf2-0778a990d432",
+        "type": 2,
+        "serverBubbleId": "15769e46-e484-40f3-82e6-4be4f159fbac"
+      },
+      {
+        "bubbleId": "71bbc952-ede4-4a52-9106-f0a3229748a6",
+        "type": 2
+      },
+      {
+        "bubbleId": "90128050-2530-4ff5-9761-bcdfdf4aa99d",
+        "type": 2
+      },
+      {
+        "bubbleId": "20405ced-dfb9-43ec-8e70-313389e96ac4",
+        "type": 2,
+        "serverBubbleId": "01310e87-7b30-46fe-9f74-8b1f4f07e172"
+      },
+      {
+        "bubbleId": "edb8f746-085c-465c-86a8-69242ae79b14",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -173,6 +238,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "e5b111f4-f29a-43cd-bd45-936e069a1170",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -561,7 +627,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769087837052,
+    "lastUpdatedAt": 1769088457041,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -641,8 +707,18 @@
         "amount": 1
       }
     },
-    "contextUsagePercent": 14.0155029296875,
-    "allAttachedFileCodeChunksUris": [],
+    "contextUsagePercent": 14.279998779296875,
+    "allAttachedFileCodeChunksUris": [
+      "file:///c%3A/Users/pc/Desktop/voice_typer.py",
+      "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
+      "file:///c%3A/Users/pc/Desktop/voice_typer_whisper.py",
+      "file:///c%3A/Users/pc/Desktop/requirements_voice_typer_whisper.txt",
+      "file:///c%3A/Users/pc/Desktop/README_VOICE_TYPER.md",
+      "file:///c%3A/Users/pc/Desktop/install_voice_typer.bat",
+      "file:///c%3A/Users/pc/Desktop/run_voice_typer.bat",
+      "file:///c%3A/Users/pc/Desktop/copy_to_k_drive.bat",
+      "file:///c%3A/Users/pc/Desktop/QUICK_START_VOICE_TYPER.md"
+    ],
     "modelConfig": {
       "modelName": "composer-1",
       "maxMode": false
@@ -700,11 +776,11 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "7ac684b4-e5a9-4a82-b072-99ad2fb12b70",
+    "latestChatGenerationUUID": "e5b111f4-f29a-43cd-bd45-936e069a1170",
     "isAgentic": true,
     "subtitle": "QUICK_START_VOICE_TYPER.md, copy_to_k_drive.bat, run_voice_typer.bat, install_voice_typer.bat, README_VOICE_TYPER.md",
     "filesChangedCount": 9,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-22T18:53:00.702936"
+  "extracted_at": "2026-01-22T18:58:01.258247"
 }
