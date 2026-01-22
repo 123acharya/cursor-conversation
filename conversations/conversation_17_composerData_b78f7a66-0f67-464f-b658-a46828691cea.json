@@ -1,11 +1,11 @@
 {
-  "key": "composerData:f69725e8-01bb-4d53-8f4e-287a321776e7",
+  "key": "composerData:b78f7a66-0f67-464f-b658-a46828691cea",
   "data": {
     "_v": 11,
-    "composerId": "f69725e8-01bb-4d53-8f4e-287a321776e7",
-    "richText": "",
+    "composerId": "b78f7a66-0f67-464f-b658-a46828691cea",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"RIGHT NOW ITS IN CORRECT POSITION BUT THE BUTTONS DOESNT WORK WHEN WE PRESS \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"SO AFTET entertinth the serial numbr when we press enter the entered serial number should \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "RIGHT NOW ITS IN CORRECT POSITION BUT THE BUTTONS DOESNT WORK WHEN WE PRESS \n\nSO AFTET entertinth the serial numbr when we press enter the entered serial number should ",
     "fullConversationHeadersOnly": [],
     "conversationMap": {},
     "status": "none",
@@ -14,7 +14,18 @@
       "quotes": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [],
+      "selectedImages": [
+        {
+          "uuid": "d724f008-e1fc-468d-99ef-96868e4fc727",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-0a43fdef-04f6-4685-86cf-154cca002387.png",
+          "dimension": {
+            "width": 846,
+            "height": 821
+          },
+          "loadedAt": 1769087101532,
+          "addedWithoutMention": true
+        }
+      ],
       "folderSelections": [],
       "fileSelections": [],
       "selections": [],
@@ -53,7 +64,8 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -62,7 +74,7 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1768916267154,
+    "createdAt": 1769087511260,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
@@ -151,7 +163,7 @@
     "addedFiles": 0,
     "removedFiles": 0,
     "isArchived": false,
-    "isDraft": false,
+    "isDraft": true,
     "isCreatingWorktree": false,
     "isApplyingWorktree": false,
     "isUndoingWorktree": false,
@@ -163,12 +175,13 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "RJwMDBiCR2eM/bmJS0cJZ5VhULvrZg02jCMpat9qcOg=",
+    "speculativeSummarizationEncryptionKey": "iXNe8ra+TD0C2yUSAPYxPknIfBUSGbY+X8kC56GS/ig=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "isAgentic": true
+    "isAgentic": true,
+    "subtitle": "RIGHT NOW ITS IN CORRECT POSITION BUT THE BUTTONS DOESNT WORK WHEN WE PRESS "
   },
-  "extracted_at": "2026-01-22T18:43:00.686905"
+  "extracted_at": "2026-01-22T18:43:00.687539"
 }
