@@ -1,14 +1,28 @@
 {
-  "key": "composerData:40c3238e-9290-4c15-b4b4-14d3f7651247",
+  "key": "composerData:e2baad6c-fc4b-485e-8d7b-5122ad090688",
   "data": {
     "_v": 11,
-    "composerId": "40c3238e-9290-4c15-b4b4-14d3f7651247",
-    "richText": "",
+    "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
     "text": "",
-    "fullConversationHeadersOnly": [],
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "ad0a9a0e-ebf7-4b42-a24d-0c006f5b195b",
+        "type": 1
+      },
+      {
+        "bubbleId": "086559ae-a040-4363-ad69-34124ad917b9",
+        "type": 2,
+        "serverBubbleId": "b2223b50-baa4-4027-a175-cd79334eb398"
+      },
+      {
+        "bubbleId": "e1c61f90-ffaf-4081-9669-a98049a12f08",
+        "type": 2
+      }
+    ],
     "conversationMap": {},
-    "status": "none",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -34,7 +48,9 @@
         "selectedImages": {},
         "useWeb": [],
         "folderSelections": {},
-        "fileSelections": {},
+        "fileSelections": {
+          "file:///c%3A/Users/pc/Desktop/sentence_typer.py": []
+        },
         "terminalFiles": {},
         "selections": {},
         "terminalSelections": {},
@@ -53,7 +69,8 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -62,8 +79,9 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1768548420871,
-    "hasChangedContext": false,
+    "lastUpdatedAt": 1769075643780,
+    "createdAt": 1769075624280,
+    "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
       {
@@ -129,13 +147,17 @@
         "data": {}
       }
     ],
+    "name": "Sentence typer script modifications",
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "allAttachedFileCodeChunksUris": [],
+    "contextUsagePercent": 7.3105010986328125,
+    "allAttachedFileCodeChunksUris": [
+      "file:///c%3A/Users/pc/Desktop/sentence_typer.py"
+    ],
     "modelConfig": {
       "modelName": "composer-1",
       "maxMode": false
@@ -163,12 +185,15 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "7aUnv+J4Q3kwalIuSygALyK7DO09xe00EugxwTgpZKA=",
+    "speculativeSummarizationEncryptionKey": "q8SoXzKVLWqHcfQxNgI3QKCb/XGb42UASkbBy5hgCDU=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "isAgentic": true
+    "latestChatGenerationUUID": "a11a0acb-ceeb-4d0d-81e0-d89a3465c611",
+    "isAgentic": true,
+    "subtitle": "",
+    "filesChangedCount": 0
   },
   "extracted_at": "2026-01-22T15:28:00.532495"
 }
