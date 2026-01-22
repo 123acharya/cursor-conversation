@@ -683,6 +683,36 @@
       {
         "bubbleId": "87d91ebb-fd00-4bb8-a7d4-2b80dcff46d5",
         "type": 2
+      },
+      {
+        "bubbleId": "775f6619-2bac-4656-b41b-88a8fe959315",
+        "type": 1
+      },
+      {
+        "bubbleId": "876a58dc-3e05-4940-8f1b-3d0ed6642fd3",
+        "type": 2,
+        "serverBubbleId": "229767b1-6188-49da-8c6d-af736a82f602"
+      },
+      {
+        "bubbleId": "6620e887-d67f-4b58-a875-4ab8ff2f0a7f",
+        "type": 2
+      },
+      {
+        "bubbleId": "b010502a-f399-4e66-8860-60746d3f1d36",
+        "type": 2
+      },
+      {
+        "bubbleId": "fde72b43-4e4e-4a8e-a276-b093f679ce07",
+        "type": 2
+      },
+      {
+        "bubbleId": "a09cc94a-a38f-49d7-bc4c-229104b82117",
+        "type": 2,
+        "serverBubbleId": "8455ffb3-7fb8-453d-adaa-cf925738fb1f"
+      },
+      {
+        "bubbleId": "c510c960-9b3f-41b9-9f92-50343e39d04b",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -1535,6 +1565,30 @@
           "lastDiffId": "1e7593b8-19ac-4a28-9d65-63493feacdf6",
           "lastAppliedAt": 1769089801131
         }
+      },
+      "file:///k%3A/VoiceTyper/WHISPER_MODELS_GUIDE.md": {
+        "ea5063b6-48cb-4c49-9bf8-86fb7a0f673d": {
+          "_v": 3,
+          "bubbleId": "b010502a-f399-4e66-8860-60746d3f1d36",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\WHISPER_MODELS_GUIDE.md",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/WHISPER_MODELS_GUIDE.md",
+            "path": "/K:/VoiceTyper/WHISPER_MODELS_GUIDE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "ea5063b6-48cb-4c49-9bf8-86fb7a0f673d",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769090108825,
+          "composerChatGenerationUuid": "c5fc9e52-2b1a-4033-a3c4-83005d0b1a0a",
+          "diffId": "351f64af-aa7e-43b1-9dc2-d5f99e6ab571",
+          "lastDiffId": "98de8944-be6f-45e7-81d3-ebd14bf50490",
+          "lastAppliedAt": 1769090232094
+        }
       }
     },
     "originalFileStates": {
@@ -1619,6 +1673,12 @@
       "file:///k%3A/VoiceTyper/KEYBOARD_SHORTCUTS.md": {
         "content": "",
         "firstEditBubbleId": "9c8bf35b-7650-403f-ac20-7bf3c2254d0f",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/WHISPER_MODELS_GUIDE.md": {
+        "content": "",
+        "firstEditBubbleId": "b010502a-f399-4e66-8860-60746d3f1d36",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -1763,10 +1823,20 @@
           "path": "/K:/VoiceTyper/KEYBOARD_SHORTCUTS.md",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\WHISPER_MODELS_GUIDE.md",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/WHISPER_MODELS_GUIDE.md",
+          "path": "/K:/VoiceTyper/WHISPER_MODELS_GUIDE.md",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769089813956,
+    "lastUpdatedAt": 1769090247500,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -1842,11 +1912,11 @@
     "forceMode": "edit",
     "usageData": {
       "composer-1": {
-        "costInCents": 50,
-        "amount": 4
+        "costInCents": 54,
+        "amount": 5
       }
     },
-    "contextUsagePercent": 32.95899963378906,
+    "contextUsagePercent": 34.227996826171875,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/voice_typer.py",
       "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
@@ -1859,7 +1929,8 @@
       "file:///c%3A/Users/pc/Desktop/QUICK_START_VOICE_TYPER.md",
       "file:///k%3A/VoiceTyper/launch_voice_typer.bat",
       "file:///k%3A/VoiceTyper/voice_typer_whisper.py",
-      "file:///k%3A/VoiceTyper/AUTO_TYPE_GUIDE.md"
+      "file:///k%3A/VoiceTyper/AUTO_TYPE_GUIDE.md",
+      "file:///k%3A/VoiceTyper/KEYBOARD_SHORTCUTS.md"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -1896,7 +1967,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 1556,
+    "totalLinesAdded": 1725,
     "totalLinesRemoved": 26,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -1918,11 +1989,11 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "2ce62fde-64d0-4dbf-90db-340ebf71d557",
+    "latestChatGenerationUUID": "c5fc9e52-2b1a-4033-a3c4-83005d0b1a0a",
     "isAgentic": true,
-    "subtitle": "voice_typer_whisper.py, KEYBOARD_SHORTCUTS.md, requirements_voice_typer_whisper.txt, AUTO_TYPE_GUIDE.md, launch_voice_typer.bat",
-    "filesChangedCount": 14,
+    "subtitle": "WHISPER_MODELS_GUIDE.md, voice_typer_whisper.py, KEYBOARD_SHORTCUTS.md, requirements_voice_typer_whisper.txt, AUTO_TYPE_GUIDE.md",
+    "filesChangedCount": 15,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-22T19:23:00.942413"
+  "extracted_at": "2026-01-22T19:28:01.239936"
 }
