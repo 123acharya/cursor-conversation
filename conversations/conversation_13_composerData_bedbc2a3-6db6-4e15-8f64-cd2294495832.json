@@ -672,6 +672,7 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
+      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -1559,5 +1560,5 @@
     "subtitle": "INSTALL_PART1_EXEC_FIXED.py, INSTALL_PART1_IPYTHON.py",
     "filesChangedCount": 14
   },
-  "extracted_at": "2026-01-22T11:33:02.398041"
+  "extracted_at": "2026-01-22T11:38:01.307481"
 }
