@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:157 Clearing existing child rows before save...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:176 Document is new, saving first...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:178 Document saved successfully, reloading form...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"socketio_client.js:140 throttled\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"socketio_client.js:140 throttled\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:182 Form reloaded, now adding PCB\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:246 pcb table is empty\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:236 Checking 1 rows in pcb table\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:241 Found PCB! {name: 'uin61obk43', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:19.766090', modified_by: 'acharyacgpt@gmail.com', …}\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:241 Found PCB! {name: 'uin61obk43', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:19.766090', modified_by: 'acharyacgpt@gmail.com', …}\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"request.js:270  POST http://localhost:8080/api/method/frappe.desk.form.save.savedocs 417 (EXPECTATION FAILED)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"send @ jquery.js:10109\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"ajax @ jquery.js:9690\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.request.call @ request.js:270\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.call @ request.js:105\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"p @ save.js:198\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"o @ save.js:21\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.ui.form.save @ save.js:225\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:808\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Promise.then\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ dom.js:262\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.run_serially @ dom.js:260\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"validate_and_save @ form.js:799\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:738\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"save @ form.js:735\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"submit_pcb_data @ pcb_iqc_result__custom_js:408\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"eval @ pcb_iqc_result__custom_js:103\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"dispatch @ jquery.js:5430\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"et.handle @ jquery.js:5234Understand this error\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"request.js:459 Traceback (most recent call last):\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/app.py\\\", line 103, in application\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    response = frappe.api.handle()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/api.py\\\", line 55, in handle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return frappe.handler.handle()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 50, in handle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    data = execute_cmd(cmd)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 85, in execute_cmd\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return frappe.call(method, **frappe.form_dict)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 1628, in call\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return fn(*args, **newargs)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/desk/form/save.py\\\", line 31, in savedocs\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    doc.save()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 324, in save\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return self._save(*args, **kwargs)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 353, in _save\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    self.check_if_latest()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 798, in check_if_latest\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    frappe.msgprint(\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 513, in msgprint\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    _raise_exception()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 456, in _raise_exception\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    raise raise_exception(msg)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.exceptions.TimestampMismatchError: Error: Document has been modified after you have opened it (2026-01-23 12:50:39.267937, 2026-01-23 12:50:59.329109). Please refresh to get the latest document.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ request.js:459\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.request.cleanup @ request.js:457\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ request.js:316\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"V @ jquery.js:3500\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"fireWith @ jquery.js:3630\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"S0 @ jquery.js:9798\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ jquery.js:10057\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"XMLHttpRequest.send\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"send @ jquery.js:10109\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"ajax @ jquery.js:9690\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.request.call @ request.js:270\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.call @ request.js:105\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"p @ save.js:198\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"o @ save.js:21\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.ui.form.save @ save.js:225\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:808\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Promise.then\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ dom.js:262\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.run_serially @ dom.js:260\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"validate_and_save @ form.js:799\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:738\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"save @ form.js:735\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"submit_pcb_data @ pcb_iqc_result__custom_js:408\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"eval @ pcb_iqc_result__custom_js:103\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"dispatch @ jquery.js:5430\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"et.handle @ jquery.js:5234Understand this error\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"uijv3cmddu:1 Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Element with focus: <button.btn btn-modal-close btn-link>\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Ancestor with aria-hidden: <div.modal fade> <div class=​\\\"modal fade\\\" style=​\\\"overflow:​ auto;​ z-index:​ 2000;​ padding-right:​ 12px;​ display:​ block;​\\\" tabindex=​\\\"-1\\\" aria-hidden=​\\\"true\\\">​…​</div>​Understand this warning\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:241 Found PCB! {name: 'uj05ij1dcc', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:39.267937', modified_by: 'acharyacgpt@gmail.com', …}\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:241 Found PCB! {name: 'uj05ij1dcc', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:39.267937', modified_by: 'acharyacgpt@gmail.com', …}\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"request.js:270  POST http://localhost:8080/api/method/frappe.desk.form.save.savedocs 417 (EXPECTATION FAILED)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"send @ jquery.js:10109\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"ajax @ jquery.js:9690\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.request.call @ request.js:270\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.call @ request.js:105\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"p @ save.js:198\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"o @ save.js:21\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.ui.form.save @ save.js:225\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:808\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Promise.then\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ dom.js:262\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.run_serially @ dom.js:260\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"validate_and_save @ form.js:799\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:738\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"save @ form.js:735\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"submit_pcb_data @ pcb_iqc_result__custom_js:408\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"eval @ pcb_iqc_result__custom_js:103\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"dispatch @ jquery.js:5430\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"et.handle @ jquery.js:5234Understand this error\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"request.js:459 Traceback (most recent call last):\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/app.py\\\", line 103, in application\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    response = frappe.api.handle()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/api.py\\\", line 55, in handle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return frappe.handler.handle()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 50, in handle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    data = execute_cmd(cmd)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 85, in execute_cmd\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return frappe.call(method, **frappe.form_dict)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 1628, in call\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return fn(*args, **newargs)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/desk/form/save.py\\\", line 31, in savedocs\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    doc.save()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 324, in save\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return self._save(*args, **kwargs)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 353, in _save\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    self.check_if_latest()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 798, in check_if_latest\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    frappe.msgprint(\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 513, in msgprint\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    _raise_exception()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 456, in _raise_exception\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    raise raise_exception(msg)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.exceptions.TimestampMismatchError: Error: Document has been modified after you have opened it (2026-01-23 12:54:06.551397, 2026-01-23 12:54:27.400673). Please refresh to get the latest document\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"i think its better u record every action in console \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"basically i initially \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\npcb_iqc_result__custom_js:157 Clearing existing child rows before save...\npcb_iqc_result__custom_js:176 Document is new, saving first...\npcb_iqc_result__custom_js:178 Document saved successfully, reloading form...\nsocketio_client.js:140 throttled\nsocketio_client.js:140 throttled\npcb_iqc_result__custom_js:182 Form reloaded, now adding PCB\npcb_iqc_result__custom_js:246 pcb table is empty\npcb_iqc_result__custom_js:102 Submit button clicked\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\npcb_iqc_result__custom_js:236 Checking 1 rows in pcb table\npcb_iqc_result__custom_js:102 Submit button clicked\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\npcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\npcb_iqc_result__custom_js:241 Found PCB! {name: 'uin61obk43', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:19.766090', modified_by: 'acharyacgpt@gmail.com', …}\npcb_iqc_result__custom_js:102 Submit button clicked\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\npcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\npcb_iqc_result__custom_js:241 Found PCB! {name: 'uin61obk43', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:19.766090', modified_by: 'acharyacgpt@gmail.com', …}\npcb_iqc_result__custom_js:102 Submit button clicked\nrequest.js:270  POST http://localhost:8080/api/method/frappe.desk.form.save.savedocs 417 (EXPECTATION FAILED)\nsend @ jquery.js:10109\najax @ jquery.js:9690\nfrappe.request.call @ request.js:270\nfrappe.call @ request.js:105\np @ save.js:198\no @ save.js:21\nfrappe.ui.form.save @ save.js:225\n(anonymous) @ form.js:808\nPromise.then\n(anonymous) @ dom.js:262\nfrappe.run_serially @ dom.js:260\nvalidate_and_save @ form.js:799\n(anonymous) @ form.js:738\nsave @ form.js:735\nsubmit_pcb_data @ pcb_iqc_result__custom_js:408\neval @ pcb_iqc_result__custom_js:103\ndispatch @ jquery.js:5430\net.handle @ jquery.js:5234Understand this error\nrequest.js:459 Traceback (most recent call last):\n  File \"apps/frappe/frappe/app.py\", line 103, in application\n    response = frappe.api.handle()\n  File \"apps/frappe/frappe/api.py\", line 55, in handle\n    return frappe.handler.handle()\n  File \"apps/frappe/frappe/handler.py\", line 50, in handle\n    data = execute_cmd(cmd)\n  File \"apps/frappe/frappe/handler.py\", line 85, in execute_cmd\n    return frappe.call(method, **frappe.form_dict)\n  File \"apps/frappe/frappe/__init__.py\", line 1628, in call\n    return fn(*args, **newargs)\n  File \"apps/frappe/frappe/desk/form/save.py\", line 31, in savedocs\n    doc.save()\n  File \"apps/frappe/frappe/model/document.py\", line 324, in save\n    return self._save(*args, **kwargs)\n  File \"apps/frappe/frappe/model/document.py\", line 353, in _save\n    self.check_if_latest()\n  File \"apps/frappe/frappe/model/document.py\", line 798, in check_if_latest\n    frappe.msgprint(\n  File \"apps/frappe/frappe/__init__.py\", line 513, in msgprint\n    _raise_exception()\n  File \"apps/frappe/frappe/__init__.py\", line 456, in _raise_exception\n    raise raise_exception(msg)\nfrappe.exceptions.TimestampMismatchError: Error: Document has been modified after you have opened it (2026-01-23 12:50:39.267937, 2026-01-23 12:50:59.329109). Please refresh to get the latest document.\n\n(anonymous) @ request.js:459\nfrappe.request.cleanup @ request.js:457\n(anonymous) @ request.js:316\nV @ jquery.js:3500\nfireWith @ jquery.js:3630\nS0 @ jquery.js:9798\n(anonymous) @ jquery.js:10057\nXMLHttpRequest.send\nsend @ jquery.js:10109\najax @ jquery.js:9690\nfrappe.request.call @ request.js:270\nfrappe.call @ request.js:105\np @ save.js:198\no @ save.js:21\nfrappe.ui.form.save @ save.js:225\n(anonymous) @ form.js:808\nPromise.then\n(anonymous) @ dom.js:262\nfrappe.run_serially @ dom.js:260\nvalidate_and_save @ form.js:799\n(anonymous) @ form.js:738\nsave @ form.js:735\nsubmit_pcb_data @ pcb_iqc_result__custom_js:408\neval @ pcb_iqc_result__custom_js:103\ndispatch @ jquery.js:5430\net.handle @ jquery.js:5234Understand this error\nuijv3cmddu:1 Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.\nElement with focus: <button.btn btn-modal-close btn-link>\nAncestor with aria-hidden: <div.modal fade> <div class=​\"modal fade\" style=​\"overflow:​ auto;​ z-index:​ 2000;​ padding-right:​ 12px;​ display:​ block;​\" tabindex=​\"-1\" aria-hidden=​\"true\">​…​</div>​Understand this warning\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\npcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\npcb_iqc_result__custom_js:241 Found PCB! {name: 'uj05ij1dcc', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:39.267937', modified_by: 'acharyacgpt@gmail.com', …}\npcb_iqc_result__custom_js:102 Submit button clicked\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\npcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\npcb_iqc_result__custom_js:241 Found PCB! {name: 'uj05ij1dcc', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:39.267937', modified_by: 'acharyacgpt@gmail.com', …}\npcb_iqc_result__custom_js:102 Submit button clicked\nrequest.js:270  POST http://localhost:8080/api/method/frappe.desk.form.save.savedocs 417 (EXPECTATION FAILED)\nsend @ jquery.js:10109\najax @ jquery.js:9690\nfrappe.request.call @ request.js:270\nfrappe.call @ request.js:105\np @ save.js:198\no @ save.js:21\nfrappe.ui.form.save @ save.js:225\n(anonymous) @ form.js:808\nPromise.then\n(anonymous) @ dom.js:262\nfrappe.run_serially @ dom.js:260\nvalidate_and_save @ form.js:799\n(anonymous) @ form.js:738\nsave @ form.js:735\nsubmit_pcb_data @ pcb_iqc_result__custom_js:408\neval @ pcb_iqc_result__custom_js:103\ndispatch @ jquery.js:5430\net.handle @ jquery.js:5234Understand this error\nrequest.js:459 Traceback (most recent call last):\n  File \"apps/frappe/frappe/app.py\", line 103, in application\n    response = frappe.api.handle()\n  File \"apps/frappe/frappe/api.py\", line 55, in handle\n    return frappe.handler.handle()\n  File \"apps/frappe/frappe/handler.py\", line 50, in handle\n    data = execute_cmd(cmd)\n  File \"apps/frappe/frappe/handler.py\", line 85, in execute_cmd\n    return frappe.call(method, **frappe.form_dict)\n  File \"apps/frappe/frappe/__init__.py\", line 1628, in call\n    return fn(*args, **newargs)\n  File \"apps/frappe/frappe/desk/form/save.py\", line 31, in savedocs\n    doc.save()\n  File \"apps/frappe/frappe/model/document.py\", line 324, in save\n    return self._save(*args, **kwargs)\n  File \"apps/frappe/frappe/model/document.py\", line 353, in _save\n    self.check_if_latest()\n  File \"apps/frappe/frappe/model/document.py\", line 798, in check_if_latest\n    frappe.msgprint(\n  File \"apps/frappe/frappe/__init__.py\", line 513, in msgprint\n    _raise_exception()\n  File \"apps/frappe/frappe/__init__.py\", line 456, in _raise_exception\n    raise raise_exception(msg)\nfrappe.exceptions.TimestampMismatchError: Error: Document has been modified after you have opened it (2026-01-23 12:54:06.551397, 2026-01-23 12:54:27.400673). Please refresh to get the latest document\n\ni think its better u record every action in console \n\nbasically i initially ",
+      "text": "",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "c58882f5-de9a-4957-87eb-4ed0c6f2e5d7",
@@ -5153,10 +5153,123 @@
         {
           "bubbleId": "4d295e26-077f-46ae-a3cd-13cd71c95801",
           "type": 2
+        },
+        {
+          "bubbleId": "09715a84-f070-4e25-bb55-14138f82e3e0",
+          "type": 1
+        },
+        {
+          "bubbleId": "87a8443c-047d-4eaa-9f77-16c0c873cd08",
+          "type": 2,
+          "serverBubbleId": "0340c09d-31f0-46da-b90a-c65f834fa042"
+        },
+        {
+          "bubbleId": "39995020-0234-47ae-8b60-0cf8fad7b9ab",
+          "type": 2
+        },
+        {
+          "bubbleId": "a4c9ba11-2229-4131-b3ba-ac66dc0e9422",
+          "type": 2
+        },
+        {
+          "bubbleId": "bfdbd1b4-d119-49ed-bdb2-b9057ade6fa2",
+          "type": 2,
+          "serverBubbleId": "6b2d4dae-c361-4a2e-8f69-c277a4f032e4"
+        },
+        {
+          "bubbleId": "95a31681-8a4a-47c1-a3ac-5db41401a12c",
+          "type": 2
+        },
+        {
+          "bubbleId": "6b8af9a1-5146-4e98-ac06-54316491bd10",
+          "type": 2
+        },
+        {
+          "bubbleId": "c0829175-acd9-445e-895b-ec571c6b91b3",
+          "type": 2,
+          "serverBubbleId": "3446a683-ef47-43c0-b8db-6248cac1794f"
+        },
+        {
+          "bubbleId": "52aebf1b-d68f-4a64-985e-2e263bd425dd",
+          "type": 2
+        },
+        {
+          "bubbleId": "384ae119-0dcd-4e53-af91-711078469698",
+          "type": 2
+        },
+        {
+          "bubbleId": "ffda5636-e021-4996-b411-0ca8954a577a",
+          "type": 2,
+          "serverBubbleId": "0d23bb73-3459-4e8c-9bba-f321e7096d71"
+        },
+        {
+          "bubbleId": "fee76ca2-ab18-4837-9945-e2354eb891ec",
+          "type": 2
+        },
+        {
+          "bubbleId": "9dd94a4a-298b-4cc8-90a2-a97f52b7b1b5",
+          "type": 2
+        },
+        {
+          "bubbleId": "c76b2b56-1aa1-46ba-8623-3a78da10ac46",
+          "type": 2,
+          "serverBubbleId": "1081057c-6239-4ee6-9a40-d14540f792ee"
+        },
+        {
+          "bubbleId": "147432b3-868a-4659-9ce6-53c6e2463b6e",
+          "type": 2
+        },
+        {
+          "bubbleId": "2b28af0f-d17c-48df-9c77-c855760c8ef2",
+          "type": 2
+        },
+        {
+          "bubbleId": "942607ac-591f-4c96-ad09-5f459307cea9",
+          "type": 2,
+          "serverBubbleId": "18248269-91fd-4020-967c-4ed41f0eb1c6"
+        },
+        {
+          "bubbleId": "f9dfa695-122f-43dd-a976-29b1578d5784",
+          "type": 2
+        },
+        {
+          "bubbleId": "814bf5c9-484d-4342-94f9-c0e5734a7dc6",
+          "type": 2
+        },
+        {
+          "bubbleId": "ad654d5b-225f-4d86-b60c-ef5836b179bd",
+          "type": 2,
+          "serverBubbleId": "4cf39c24-c6bb-43cd-82cf-044fd9bd821f"
+        },
+        {
+          "bubbleId": "18c289d4-084c-4b39-88a5-2e49166fe4a0",
+          "type": 2
+        },
+        {
+          "bubbleId": "9bfaec87-2080-407d-ab26-b248dc5fbcd2",
+          "type": 2
+        },
+        {
+          "bubbleId": "bb83cacf-5f22-4765-8557-7cf00b4108f7",
+          "type": 2,
+          "serverBubbleId": "dd65eae6-8ccb-4fb0-ac69-a77526c695cd"
+        },
+        {
+          "bubbleId": "1e334fc5-eb1d-4c32-9f7f-2a16accbe838",
+          "type": 2
+        },
+        {
+          "bubbleId": "9b4974e0-b1e1-43a8-9a89-c110fe1f3147",
+          "type": 2
+        },
+        {
+          "bubbleId": "3f7b71c9-3b3a-42e7-877f-1fb9fa7a83ef",
+          "type": 2,
+          "serverBubbleId": "a4028018-4b0e-4009-8a44-085fdd480563"
         }
       ],
       "conversationMap": {},
-      "status": "completed",
+      "status": "aborted",
       "context": {
         "composers": [],
         "quotes": [],
@@ -5206,6 +5319,7 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
+      "chatGenerationUUID": "13407cec-0a02-425f-99df-0b08c40889cc",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -17738,6 +17852,162 @@
             "diffId": "bc3478e2-95b6-4be2-b481-e586b20a12f0",
             "lastDiffId": "864b5afb-b61c-4a0e-8621-8b89cc724471",
             "lastAppliedAt": 1769152753243
+          },
+          "b47f663e-e029-42ab-b0c7-9173fc368a47": {
+            "_v": 3,
+            "bubbleId": "6b8af9a1-5146-4e98-ac06-54316491bd10",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "scheme": "file"
+            },
+            "codeblockId": "b47f663e-e029-42ab-b0c7-9173fc368a47",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "b2c92944-2355-4a8b-b59d-0c3af4cf4a24",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153782850,
+            "composerChatGenerationUuid": "13407cec-0a02-425f-99df-0b08c40889cc",
+            "diffId": "6d8649f2-bf8e-4d99-a19a-a31470b1ece1",
+            "lastDiffId": "bee2413d-a0b4-486f-8ec1-7affdb8b0c46",
+            "lastAppliedAt": 1769153804401
+          },
+          "283864bb-29f7-423b-bf46-547006cfa3ac": {
+            "_v": 3,
+            "bubbleId": "384ae119-0dcd-4e53-af91-711078469698",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "scheme": "file"
+            },
+            "codeblockId": "283864bb-29f7-423b-bf46-547006cfa3ac",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "b47f663e-e029-42ab-b0c7-9173fc368a47",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153807193,
+            "composerChatGenerationUuid": "13407cec-0a02-425f-99df-0b08c40889cc",
+            "diffId": "8834314a-a102-4d0d-8e60-0a1e292e8e25",
+            "lastDiffId": "e6c55099-bb8e-4152-8ee1-b86b7641a001",
+            "lastAppliedAt": 1769153811150
+          },
+          "43697e8a-8cd6-4f8e-9c8d-88cb108e4043": {
+            "_v": 3,
+            "bubbleId": "9dd94a4a-298b-4cc8-90a2-a97f52b7b1b5",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "scheme": "file"
+            },
+            "codeblockId": "43697e8a-8cd6-4f8e-9c8d-88cb108e4043",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "283864bb-29f7-423b-bf46-547006cfa3ac",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153815004,
+            "composerChatGenerationUuid": "13407cec-0a02-425f-99df-0b08c40889cc",
+            "diffId": "c59673ce-f48b-4d2e-905f-fe5bcff3e723",
+            "lastDiffId": "23e73d59-8190-44a1-bf8d-a4ef64dcadcd",
+            "lastAppliedAt": 1769153818941
+          },
+          "30d28585-d62d-4f7e-a0be-0f41d975d41f": {
+            "_v": 3,
+            "bubbleId": "2b28af0f-d17c-48df-9c77-c855760c8ef2",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "scheme": "file"
+            },
+            "codeblockId": "30d28585-d62d-4f7e-a0be-0f41d975d41f",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "43697e8a-8cd6-4f8e-9c8d-88cb108e4043",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153823902,
+            "composerChatGenerationUuid": "13407cec-0a02-425f-99df-0b08c40889cc",
+            "diffId": "6afc481f-793e-4116-a463-54fa915187e7",
+            "lastDiffId": "eb035baf-a62c-420b-ad1e-e973f356ffca",
+            "lastAppliedAt": 1769153829105
+          },
+          "110c1153-d214-44c0-843d-eff0c4b70f3f": {
+            "_v": 3,
+            "bubbleId": "814bf5c9-484d-4342-94f9-c0e5734a7dc6",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "scheme": "file"
+            },
+            "codeblockId": "110c1153-d214-44c0-843d-eff0c4b70f3f",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "30d28585-d62d-4f7e-a0be-0f41d975d41f",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153831639,
+            "composerChatGenerationUuid": "13407cec-0a02-425f-99df-0b08c40889cc",
+            "diffId": "56d89b12-ce10-402d-af42-a12a21221a71",
+            "lastDiffId": "626beec6-3789-4093-a05f-020f98a769c0",
+            "lastAppliedAt": 1769153839619
+          },
+          "65d7a819-7709-4f9c-9585-fef67893e02f": {
+            "_v": 3,
+            "bubbleId": "9bfaec87-2080-407d-ab26-b248dc5fbcd2",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+              "scheme": "file"
+            },
+            "codeblockId": "65d7a819-7709-4f9c-9585-fef67893e02f",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "110c1153-d214-44c0-843d-eff0c4b70f3f",
+              "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153842406,
+            "composerChatGenerationUuid": "13407cec-0a02-425f-99df-0b08c40889cc",
+            "diffId": "1ad1066d-1c7a-4247-ba55-7b86a950503e",
+            "lastDiffId": "9fb2f120-7eb4-4d25-b8a1-461e45d2225f",
+            "lastAppliedAt": 1769153846451
           }
         },
         "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md": {
@@ -21894,7 +22164,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1769152761149,
+      "lastUpdatedAt": 1769153751528,
       "createdAt": 1767854180908,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -21974,7 +22244,7 @@
           "amount": 35
         }
       },
-      "contextUsagePercent": 80.6245002746582,
+      "contextUsagePercent": 90.68400001525879,
       "allAttachedFileCodeChunksUris": [
         "file:///c%3A/Users/pc/Desktop/CREATE_CHILD_TABLE_TABLES.py",
         "file:///c%3A/Users/pc/Desktop/FIX_CHILD_TABLES_COMPLETE.py",
@@ -21990,7 +22260,8 @@
         "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
         "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/9.txt",
         "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/10.txt",
-        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/11.txt"
+        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/11.txt",
+        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/13.txt"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -22002,7 +22273,7 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 45925,
+      "totalLinesAdded": 46016,
       "totalLinesRemoved": 25,
       "addedFiles": 0,
       "removedFiles": 0,
@@ -22024,12 +22295,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "9b6431e5-8ed8-4fe5-8674-5b8dca5b21a3",
+      "latestChatGenerationUUID": "13407cec-0a02-425f-99df-0b08c40889cc",
       "isAgentic": true,
       "subtitle": "FIX_ENTER_KEY_SEARCH.py, PCB_IQC_RESULT_WORKFLOW.md, FIX_PARENT_ERROR_COMPLETE.py, README.md, ORGANIZE_PCB_IQC_FILES.ps1",
       "filesChangedCount": 333
     },
-    "extracted_at": "2026-01-23T13:03:00.798222"
+    "extracted_at": "2026-01-23T13:08:00.820024"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -26188,7 +26459,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-23T13:03:00.799222"
+    "extracted_at": "2026-01-23T13:08:00.820933"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -34700,7 +34971,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-23T13:03:00.805223"
+    "extracted_at": "2026-01-23T13:08:00.827150"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -34918,7 +35189,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-23T13:03:00.805223"
+    "extracted_at": "2026-01-23T13:08:00.827150"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -35095,7 +35366,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-23T13:03:00.805223"
+    "extracted_at": "2026-01-23T13:08:00.827150"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -44206,12 +44477,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-23T13:03:00.811561"
+    "extracted_at": "2026-01-23T13:08:00.834295"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-23T13:03:00.811561"
+    "extracted_at": "2026-01-23T13:08:00.834295"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -44390,7 +44661,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-23T13:03:00.811561"
+    "extracted_at": "2026-01-23T13:08:00.834295"
   },
   {
     "key": "composerData:40c3238e-9290-4c15-b4b4-14d3f7651247",
@@ -44564,7 +44835,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-23T13:03:00.811561"
+    "extracted_at": "2026-01-23T13:08:00.834295"
   },
   {
     "key": "composerData:842169da-0a70-49ac-a2d0-7cf9409a2f08",
@@ -44675,7 +44946,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-23T13:03:00.811561"
+    "extracted_at": "2026-01-23T13:08:00.834295"
   },
   {
     "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
@@ -44849,7 +45120,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-23T13:03:00.811561"
+    "extracted_at": "2026-01-23T13:08:00.834295"
   },
   {
     "key": "composerData:6afdc338-e6ca-4338-82e7-be278b231592",
@@ -44960,7 +45231,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-23T13:03:00.811561"
+    "extracted_at": "2026-01-23T13:08:00.834295"
   },
   {
     "key": "composerData:bedbc2a3-6db6-4e15-8f64-cd2294495832",
@@ -46720,7 +46991,7 @@
       "subtitle": "QUICK_START.txt, README.md, INSTALL_PART1_EXEC_FIXED.py, INSTALL_PART1_IPYTHON.py",
       "filesChangedCount": 16
     },
-    "extracted_at": "2026-01-23T13:03:00.812577"
+    "extracted_at": "2026-01-23T13:08:00.834811"
   },
   {
     "key": "composerData:f69725e8-01bb-4d53-8f4e-287a321776e7",
@@ -46894,7 +47165,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-23T13:03:00.812577"
+    "extracted_at": "2026-01-23T13:08:00.834811"
   },
   {
     "key": "composerData:f640be18-f22f-402f-b9af-3c832eed7b5c",
@@ -47005,7 +47276,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-23T13:03:00.812577"
+    "extracted_at": "2026-01-23T13:08:00.834811"
   },
   {
     "key": "composerData:e2baad6c-fc4b-485e-8d7b-5122ad090688",
@@ -48000,7 +48271,7 @@
       "subtitle": "sentence_typer.py",
       "filesChangedCount": 1
     },
-    "extracted_at": "2026-01-23T13:03:00.812577"
+    "extracted_at": "2026-01-23T13:08:00.834811"
   },
   {
     "key": "composerData:b78f7a66-0f67-464f-b658-a46828691cea",
@@ -49988,6 +50259,96 @@
         },
         {
           "bubbleId": "ad3c937e-6a16-4c48-a999-23838f970ee8",
+          "type": 2
+        },
+        {
+          "bubbleId": "d7ca1c5f-a256-42c9-b77d-276a11582c0a",
+          "type": 1
+        },
+        {
+          "bubbleId": "f5e61aba-f288-401f-a1f9-8bd02c54a4f5",
+          "type": 2,
+          "serverBubbleId": "4f18af57-56ba-4fce-958c-819da4058ba3"
+        },
+        {
+          "bubbleId": "be9ac3c1-7631-4ca0-af17-166a4e68eeed",
+          "type": 2
+        },
+        {
+          "bubbleId": "690cbbcb-a22e-4e94-a192-4c9edc7090db",
+          "type": 2
+        },
+        {
+          "bubbleId": "d57585f0-0de3-45e3-83d4-ded0be5f302a",
+          "type": 2
+        },
+        {
+          "bubbleId": "875387ab-c11e-49b4-bbdd-8e74c1642eed",
+          "type": 2
+        },
+        {
+          "bubbleId": "b1ff364d-93e1-4b4c-b0c0-0e50b12c4bdd",
+          "type": 2,
+          "serverBubbleId": "a5dfea1a-e27b-4de7-bb2e-ccac4b200e60"
+        },
+        {
+          "bubbleId": "0b83f5f7-f44c-4575-ba7b-06605b959f6e",
+          "type": 2
+        },
+        {
+          "bubbleId": "48496cdf-2b3b-4345-91e1-a4772a662eaa",
+          "type": 2
+        },
+        {
+          "bubbleId": "d588f6f5-9f8a-4ad7-ba87-7d7b31aaa3f7",
+          "type": 2
+        },
+        {
+          "bubbleId": "40a71878-9234-4696-911c-5694c4c8a0e0",
+          "type": 2,
+          "serverBubbleId": "fa124576-dead-4c41-9098-a4adef4a2bd3"
+        },
+        {
+          "bubbleId": "95be5708-77b1-467c-9b06-accd7f87fa36",
+          "type": 2
+        },
+        {
+          "bubbleId": "6bb728e6-a6a7-4d6b-af05-b5361397a001",
+          "type": 2
+        },
+        {
+          "bubbleId": "730d96d5-2c25-49c0-92f9-d5285841a4d3",
+          "type": 2,
+          "serverBubbleId": "641d1602-796e-4238-8a2b-c565f01515c5"
+        },
+        {
+          "bubbleId": "2fff26a6-66a9-4bbc-a47c-d01a11a85674",
+          "type": 2
+        },
+        {
+          "bubbleId": "29b2d11b-f6a9-4078-88ca-222133077602",
+          "type": 2
+        },
+        {
+          "bubbleId": "ad7ff920-129a-4866-b89b-5fa0e4c4db82",
+          "type": 2,
+          "serverBubbleId": "4cc53852-9d34-4396-8c25-201c920cfda2"
+        },
+        {
+          "bubbleId": "1e91fd79-a8a5-4bf3-88fb-dbeb78f0f1c0",
+          "type": 2
+        },
+        {
+          "bubbleId": "dd88c0cb-2b16-498a-84fe-c44f63de7234",
+          "type": 2
+        },
+        {
+          "bubbleId": "a83e6183-ce4c-4b70-8786-e8b2c3b0ecdf",
+          "type": 2,
+          "serverBubbleId": "d9bcc0e7-4976-4dbf-a59a-f7a4b46de91a"
+        },
+        {
+          "bubbleId": "5ce5fdde-8b78-4f44-be0d-4b6cdf08315f",
           "type": 2
         }
       ],
@@ -52962,6 +53323,78 @@
             "lastDiffId": "3c956a3c-7e94-4d17-aca7-3fc89319dad9",
             "lastAppliedAt": 1769153526881
           }
+        },
+        "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH.py": {
+          "5195c9b3-6673-4db0-a97c-6599d634f7c6": {
+            "_v": 3,
+            "bubbleId": "6bb728e6-a6a7-4d6b-af05-b5361397a001",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_TIMESTAMP_MISMATCH.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH.py",
+              "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH.py",
+              "scheme": "file"
+            },
+            "codeblockId": "5195c9b3-6673-4db0-a97c-6599d634f7c6",
+            "status": "completed",
+            "languageId": "python",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153681404,
+            "composerChatGenerationUuid": "da7f22d9-b7f6-405f-86de-b5a9fbf1347d",
+            "diffId": "e6044808-634d-4ebd-8eb1-80a44b1dc4fa",
+            "lastDiffId": "a0f58d28-4d94-4870-8883-2b22ca3b509d",
+            "lastAppliedAt": 1769153702960
+          }
+        },
+        "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH_SIMPLE.py": {
+          "ba5858c4-86cb-445b-aaba-ff7138367a0d": {
+            "_v": 3,
+            "bubbleId": "29b2d11b-f6a9-4078-88ca-222133077602",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_TIMESTAMP_MISMATCH_SIMPLE.py",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH_SIMPLE.py",
+              "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH_SIMPLE.py",
+              "scheme": "file"
+            },
+            "codeblockId": "ba5858c4-86cb-445b-aaba-ff7138367a0d",
+            "status": "completed",
+            "languageId": "python",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153706805,
+            "composerChatGenerationUuid": "da7f22d9-b7f6-405f-86de-b5a9fbf1347d",
+            "diffId": "2088f9f6-5c91-4f0c-b28a-04b849a75d7e",
+            "lastDiffId": "c5b46a45-95c3-4796-af87-0e1fd5765697",
+            "lastAppliedAt": 1769153719888
+          }
+        },
+        "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/TIMESTAMP_MISMATCH_FIX.md": {
+          "fe407bd0-4782-4fb7-af40-9ab68ef85623": {
+            "_v": 3,
+            "bubbleId": "dd88c0cb-2b16-498a-84fe-c44f63de7234",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\TIMESTAMP_MISMATCH_FIX.md",
+              "_sep": 1,
+              "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/TIMESTAMP_MISMATCH_FIX.md",
+              "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/TIMESTAMP_MISMATCH_FIX.md",
+              "scheme": "file"
+            },
+            "codeblockId": "fe407bd0-4782-4fb7-af40-9ab68ef85623",
+            "status": "completed",
+            "languageId": "markdown",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153722944,
+            "composerChatGenerationUuid": "da7f22d9-b7f6-405f-86de-b5a9fbf1347d",
+            "diffId": "c91a0031-2d10-49a0-8137-1c5e6ddf8c5c",
+            "lastDiffId": "9127bcc3-cce0-424c-b0b6-cda4c366d7de",
+            "lastAppliedAt": 1769153733047
+          }
         }
       },
       "originalFileStates": {
@@ -53208,6 +53641,24 @@
         "file:///k%3A/VoiceTyper/AUDIO_DIAGNOSTICS_GUIDE.md": {
           "content": "",
           "firstEditBubbleId": "1427785a-fc6b-42c8-8afd-13466414746e",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH.py": {
+          "content": "",
+          "firstEditBubbleId": "6bb728e6-a6a7-4d6b-af05-b5361397a001",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH_SIMPLE.py": {
+          "content": "",
+          "firstEditBubbleId": "29b2d11b-f6a9-4078-88ca-222133077602",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/TIMESTAMP_MISMATCH_FIX.md": {
+          "content": "",
+          "firstEditBubbleId": "dd88c0cb-2b16-498a-84fe-c44f63de7234",
           "isNewlyCreated": true,
           "newlyCreatedFolders": []
         }
@@ -53592,10 +54043,40 @@
             "path": "/K:/VoiceTyper/AUDIO_DIAGNOSTICS_GUIDE.md",
             "scheme": "file"
           }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_TIMESTAMP_MISMATCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH.py",
+            "scheme": "file"
+          }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_TIMESTAMP_MISMATCH_SIMPLE.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH_SIMPLE.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_TIMESTAMP_MISMATCH_SIMPLE.py",
+            "scheme": "file"
+          }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\TIMESTAMP_MISMATCH_FIX.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/TIMESTAMP_MISMATCH_FIX.md",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/TIMESTAMP_MISMATCH_FIX.md",
+            "scheme": "file"
+          }
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1769153530739,
+      "lastUpdatedAt": 1769153737136,
       "createdAt": 1769087511260,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -53671,18 +54152,20 @@
       "forceMode": "edit",
       "usageData": {
         "composer-1": {
-          "costInCents": 191,
-          "amount": 12
+          "costInCents": 208,
+          "amount": 13
         }
       },
-      "contextUsagePercent": 28.035499572753906,
+      "contextUsagePercent": 45.28049850463867,
       "allAttachedFileCodeChunksUris": [
         "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
         "file:///k%3A/VoiceTyper/PREMIUM_UI_DESIGN.md",
         "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
         "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/11.txt",
         "file:///k%3A/VoiceTyper/PREMIUM_UI_UPDATE.md",
-        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/12.txt"
+        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/12.txt",
+        "file:///k%3A/VoiceTyper/AUDIO_DIAGNOSTICS_GUIDE.md",
+        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/13.txt"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -53719,7 +54202,7 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 4739,
+      "totalLinesAdded": 5467,
       "totalLinesRemoved": 245,
       "addedFiles": 0,
       "removedFiles": 0,
@@ -53741,12 +54224,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "096e025c-726f-4d00-ae07-a4feebc430da",
+      "latestChatGenerationUUID": "da7f22d9-b7f6-405f-86de-b5a9fbf1347d",
       "isAgentic": true,
-      "subtitle": "AUDIO_DIAGNOSTICS_GUIDE.md, voice_typer_whisper.py, PREMIUM_UI_UPDATE.md, PREMIUM_UI_DESIGN.md, SUCCESS_REPORT.md",
-      "filesChangedCount": 40,
+      "subtitle": "TIMESTAMP_MISMATCH_FIX.md, FIX_TIMESTAMP_MISMATCH_SIMPLE.py, FIX_TIMESTAMP_MISMATCH.py, AUDIO_DIAGNOSTICS_GUIDE.md, voice_typer_whisper.py",
+      "filesChangedCount": 43,
       "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
     },
-    "extracted_at": "2026-01-23T13:03:00.812577"
+    "extracted_at": "2026-01-23T13:08:00.836393"
   }
 ]
