@@ -2085,10 +2085,70 @@
       {
         "bubbleId": "596c869a-1b3f-4b4c-8365-c44bd0cc57c5",
         "type": 2
+      },
+      {
+        "bubbleId": "e283d62f-96c5-4027-9fb6-d44d955553f6",
+        "type": 2,
+        "serverBubbleId": "fdde6e44-3c62-4184-9fd0-2851344086b5"
+      },
+      {
+        "bubbleId": "59144587-cd29-4514-bc29-fd2a32b9a650",
+        "type": 2
+      },
+      {
+        "bubbleId": "33fb4805-29c3-435c-b7e0-331ed593751c",
+        "type": 1
+      },
+      {
+        "bubbleId": "02a9d57d-9923-4d22-81b9-68889fba308f",
+        "type": 2,
+        "serverBubbleId": "5619f089-03bc-48e5-b2ad-a2adc04dc608"
+      },
+      {
+        "bubbleId": "1246589b-c098-4624-8ce7-d00bfa5a6c43",
+        "type": 2
+      },
+      {
+        "bubbleId": "5a735281-2d22-4d80-a208-548f1fd80923",
+        "type": 2
+      },
+      {
+        "bubbleId": "c9f055ad-5bf3-4bd7-9911-db9dcd8ead0a",
+        "type": 2
+      },
+      {
+        "bubbleId": "90eb3f85-32c3-40c4-9504-63d2a5b12ae9",
+        "type": 2
+      },
+      {
+        "bubbleId": "61054209-729d-4f54-9cae-c94948162b50",
+        "type": 2,
+        "serverBubbleId": "16fe8495-e35a-42a0-9224-c26261ff0beb"
+      },
+      {
+        "bubbleId": "95df3b42-31aa-439c-9434-9f4596885710",
+        "type": 2
+      },
+      {
+        "bubbleId": "952060a9-d08a-46a1-af14-cf86b1e40ba7",
+        "type": 2
+      },
+      {
+        "bubbleId": "648784fe-906c-4200-99af-6bda3dd8ed6d",
+        "type": 2
+      },
+      {
+        "bubbleId": "db174768-5fe7-4dec-aab1-c922bbbab58f",
+        "type": 2,
+        "serverBubbleId": "99bdff9e-08d4-4e54-be47-e2a366f61415"
+      },
+      {
+        "bubbleId": "99e3646c-f237-4ae3-b11e-2cee5b2fce5e",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -2138,7 +2198,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "1750f4aa-8952-4b59-8aa0-a3bcaa66fd5b",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -5018,6 +5077,32 @@
           "diffId": "8481c00f-39f4-4430-bbb1-43004d287719",
           "lastDiffId": "02e061a4-ecc8-4b6f-9fae-40411e79a7d0",
           "lastAppliedAt": 1769162189616
+        },
+        "07563dca-523a-473c-935f-f74fb04fcf35": {
+          "_v": 3,
+          "bubbleId": "c9f055ad-5bf3-4bd7-9911-db9dcd8ead0a",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "07563dca-523a-473c-935f-f74fb04fcf35",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "a327f3d6-6874-4456-8a52-c06aae1de802",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769162457676,
+          "composerChatGenerationUuid": "90d8c60c-30e5-400b-8b41-c6ffe195c271",
+          "diffId": "96c17cbc-749c-43a0-af18-f367377818c0",
+          "lastDiffId": "74369142-68d2-41c6-836a-d76b939b6b5d",
+          "lastAppliedAt": 1769162462431
         }
       },
       "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py": {
@@ -5262,6 +5347,30 @@
           "diffId": "3096c8c1-4239-435f-be66-05ef83de056e",
           "lastDiffId": "3c956a3c-7e94-4d17-aca7-3fc89319dad9",
           "lastAppliedAt": 1769153526881
+        }
+      },
+      "file:///k%3A/VoiceTyper/VOICE_RECOGNITION_FIX.md": {
+        "b7ba8223-f385-4cd3-9d7a-f03a47c3eccd": {
+          "_v": 3,
+          "bubbleId": "51f868ad-a57c-4303-b6bd-82f11e74ba1a",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\VOICE_RECOGNITION_FIX.md",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/VOICE_RECOGNITION_FIX.md",
+            "path": "/K:/VoiceTyper/VOICE_RECOGNITION_FIX.md",
+            "scheme": "file"
+          },
+          "codeblockId": "b7ba8223-f385-4cd3-9d7a-f03a47c3eccd",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769162361817,
+          "composerChatGenerationUuid": "1750f4aa-8952-4b59-8aa0-a3bcaa66fd5b",
+          "diffId": "1ea3a5d1-f8d9-4361-a766-3c3028677373",
+          "lastDiffId": "09fc38dd-fb9c-4989-b916-4bf87a8a6a21",
+          "lastAppliedAt": 1769162368487
         }
       }
     },
@@ -5516,6 +5625,12 @@
         "content": "# PCB IQC Result - Complete Workflow Documentation\n\n## Overview\nThe PCB IQC (Incoming Quality Control) Result system is designed to track and manage PCB quality testing results. It allows users to scan PCB serial numbers, enter test results, and maintain a batch view of all PCBs.\n\n## Document Structure\n\n### Main Document: PCB IQC Result\n- **Purpose**: Master document that tracks IQC results for a batch of PCBs\n- **Key Fields**:\n  - **PCB**: The PCB Item Code (e.g., \"PA01 0001\")\n  - **pcb_scan**: Input field for scanning PCB serial numbers\n\n### Two Child Tables\n\n#### 1. PCB IQC Data Enter (Top Table)\n- **Purpose**: Single-row input interface for entering/updating PCB test results\n- **Behavior**: \n  - Limited to **1 row only**\n  - Used for data entry and editing\n  - Acts as a \"working area\" for current PCB being processed\n- **Key Fields**:\n  - PCB Serial No (required)\n  - Overall Status (Pass/Fail/Pending)\n  - PTS1 Status, PTS2 Status, PTS3 Status (Pass/Fail/Pending)\n  - PTS1 Date, PTS2 Date, PTS3 Date\n  - Dominant Channel\n  - Max Value\n  - Remarks\n\n#### 2. pcb Table (Bottom Table - PCB IQC Line)\n- **Purpose**: Batch view showing all PCBs in the current document\n- **Behavior**:\n  - Can have **multiple rows** (infinite)\n  - Read-only view (for display purposes)\n  - Shows all PCBs that have been scanned/entered\n- **Key Fields**: Same as PCB IQC Data Enter\n\n## Complete Workflow\n\n### Step 1: Create New Document\n1. User creates a new \"PCB IQC Result\" document\n2. User selects the **PCB Item** (e.g., \"PA01 0001\")\n3. User **SAVES the document first** (this is critical!)\n\n### Step 2: Scan PCB Serial Number\n1. User enters PCB serial number in **pcb_scan** field (e.g., \"SLB250202000534\")\n2. User presses **Enter** key OR clicks **\"Search PCB\"** button\n3. System searches for this serial number in the **pcb table** (bottom table)\n\n### Step 3: Search Results\n\n#### Scenario A: PCB Found in pcb Table\n- System loads existing data from pcb table into **PCB IQC Data Enter** table (top table)\n- User can see all previous test results\n- User can update/modify the results\n\n#### Scenario B: PCB NOT Found in pcb Table\n- System adds the serial number to **PCB IQC Data Enter** table (top table)\n- System **automatically adds** a new row to **pcb table** (bottom table) with:\n  - Serial number\n  - Default status: \"Pending\" for all PTS tests\n  - Current date for IQC date\n- User can now enter test results\n\n### Step 4: Enter/Update Test Results\n1. User enters test results in **PCB IQC Data Enter** table (top table):\n   - Changes PTS1 Status, PTS2 Status, PTS3 Status to \"Pass\" or \"Fail\"\n   - Dates are automatically set when status changes from \"Pending\"\n   - Overall Status is automatically calculated:\n     - **Fail** if any PTS test is \"Fail\"\n     - **Pass** if all PTS tests are \"Pass\"\n     - **Pending** otherwise\n   - User can enter Dominant Channel, Max Value, Remarks\n\n### Step 5: Submit PCB Data\n1. User clicks **\"Submit PCB Data\"** button\n2. System finds the matching row in **pcb table** (bottom table) by serial number\n3. System **updates** the row in **pcb table** with data from **PCB IQC Data Enter** table\n4. System clears **PCB IQC Data Enter** table (ready for next PCB)\n5. System **auto-saves** the document\n6. Success message is shown\n\n### Step 6: Repeat for Next PCB\n1. User scans next PCB serial number\n2. Process repeats from Step 2\n\n## Button Functions\n\n### 1. Submit PCB Data\n- **When to use**: After entering/updating test results in PCB IQC Data Enter table\n- **What it does**:\n  - Updates existing row in pcb table with data from PCB IQC Data Enter\n  - Clears PCB IQC Data Enter table\n  - Auto-saves document\n- **Requirements**: \n  - Document must be saved (not new)\n  - PCB must exist in pcb table (must be scanned first)\n\n### 2. Search PCB\n- **When to use**: To manually search for a PCB serial number\n- **What it does**:\n  - Opens a dialog box\n  - User enters serial number\n  - Triggers the same search logic as Enter key\n\n### 3. Filter Batch\n- **When to use**: To filter the pcb table by batch prefix\n- **What it does**: (To be implemented)\n  - Filters pcb table to show only PCBs matching batch prefix\n  - Example: Filter by \"SLB250202\" shows all PCBs starting with that prefix\n\n## Enter Key Behavior\n\n### When Enter is pressed in pcb_scan field:\n1. **If document is NEW**:\n   - Clears any existing child rows\n   - Saves the document first\n   - Reloads the form\n   - Then adds PCB to tables\n\n2. **If document is SAVED**:\n   - Immediately searches and adds PCB to tables\n\n## Status Color Coding\n\n- **Pass**: Green background (#d4edda), dark green text (#155724), bold\n- **Fail**: Red background (#f8d7da), dark red text (#721c24), bold\n- **Pending**: Yellow background (#fff3cd), dark yellow text (#856404), normal weight\n\n## Important Rules\n\n1. **Document must be saved before scanning**: This prevents parent reference errors\n2. **PCB IQC Data Enter is single-row only**: Only one PCB can be edited at a time\n3. **pcb table is batch view**: Shows all PCBs in the document\n4. **Auto-save after submit**: Document is automatically saved after successful submit\n5. **Auto-date tracking**: Dates are automatically set when status changes from \"Pending\"\n6. **Auto-status calculation**: Overall Status is calculated based on PTS1, PTS2, PTS3 statuses\n\n## Data Flow\n\n```\nUser scans serial → Search in pcb table\n                    ↓\n              Found? ──No──→ Add to PCB IQC Data Enter + Add to pcb table\n                    │\n                   Yes\n                    ↓\n         Load data into PCB IQC Data Enter\n                    ↓\n         User updates test results\n                    ↓\n         User clicks \"Submit PCB Data\"\n                    ↓\n         Update row in pcb table\n                    ↓\n         Clear PCB IQC Data Enter\n                    ↓\n         Auto-save document\n```\n\n## Error Handling\n\n### Common Errors and Solutions\n\n1. **\"Could not find Row #1: Parent: new-pcb-iqc-result-xxx\"**\n   - **Cause**: Trying to add child rows before document is saved\n   - **Solution**: Document must be saved first before scanning\n\n2. **\"Please enter PCB data in PCB IQC Data Enter table\"**\n   - **Cause**: Submit button clicked but table is empty\n   - **Solution**: Scan a PCB serial number first\n\n3. **\"PCB not found in pcb table\"**\n   - **Cause**: Trying to submit data for PCB that hasn't been scanned\n   - **Solution**: Scan the PCB serial number first\n\n## Best Practices\n\n1. **Always save document first** before scanning any PCB serial numbers\n2. **One PCB at a time**: Use PCB IQC Data Enter for one PCB, submit, then move to next\n3. **Use Enter key**: Faster workflow - just scan and press Enter\n4. **Check pcb table**: Use bottom table to see all PCBs in the batch\n5. **Submit after changes**: Always click \"Submit PCB Data\" after entering/updating results\n\n## Technical Notes\n\n- **Child Tables**: Both tables are child tables linked to PCB IQC Result document\n- **Parent Fields**: Automatically set when document is saved\n- **Client Script**: Handles all UI interactions and data flow\n- **Server Script**: Handles validation and data persistence\n- **Auto-calculation**: Overall Status and dates are calculated automatically\n\n---\n\n**Last Updated**: January 2026\n**Version**: 1.0\n",
         "firstEditBubbleId": "d7ca1c5f-a256-42c9-b77d-276a11582c0a",
         "isNewlyCreated": false,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/VOICE_RECOGNITION_FIX.md": {
+        "content": "",
+        "firstEditBubbleId": "51f868ad-a57c-4303-b6bd-82f11e74ba1a",
+        "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
     },
@@ -5929,10 +6044,20 @@
           "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/TIMESTAMP_MISMATCH_FIX.md",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\VOICE_RECOGNITION_FIX.md",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/VOICE_RECOGNITION_FIX.md",
+          "path": "/K:/VoiceTyper/VOICE_RECOGNITION_FIX.md",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769162152490,
+    "lastUpdatedAt": 1769162473916,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -6008,11 +6133,11 @@
     "forceMode": "edit",
     "usageData": {
       "composer-1": {
-        "costInCents": 208,
-        "amount": 13
+        "costInCents": 237,
+        "amount": 15
       }
     },
-    "contextUsagePercent": 32.2864990234375,
+    "contextUsagePercent": 34.74749755859375,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
       "file:///k%3A/VoiceTyper/PREMIUM_UI_DESIGN.md",
@@ -6021,7 +6146,9 @@
       "file:///k%3A/VoiceTyper/PREMIUM_UI_UPDATE.md",
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/12.txt",
       "file:///k%3A/VoiceTyper/AUDIO_DIAGNOSTICS_GUIDE.md",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/13.txt"
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/13.txt",
+      "file:///k%3A/VoiceTyper/VOICE_RECOGNITION_FIX.md",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/14.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -6033,8 +6160,8 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 4809,
-    "totalLinesRemoved": 246,
+    "totalLinesAdded": 5124,
+    "totalLinesRemoved": 263,
     "addedFiles": 0,
     "removedFiles": 0,
     "isArchived": false,
@@ -6055,10 +6182,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "1750f4aa-8952-4b59-8aa0-a3bcaa66fd5b",
+    "latestChatGenerationUUID": "90d8c60c-30e5-400b-8b41-c6ffe195c271",
     "isAgentic": true,
-    "subtitle": "voice_typer_whisper.py, AUDIO_DIAGNOSTICS_GUIDE.md, PREMIUM_UI_UPDATE.md, PREMIUM_UI_DESIGN.md, SUCCESS_REPORT.md",
-    "filesChangedCount": 40
+    "subtitle": "voice_typer_whisper.py, VOICE_RECOGNITION_FIX.md, AUDIO_DIAGNOSTICS_GUIDE.md, PREMIUM_UI_UPDATE.md, PREMIUM_UI_DESIGN.md",
+    "filesChangedCount": 41
   },
-  "extracted_at": "2026-01-23T15:28:01.119947"
+  "extracted_at": "2026-01-23T15:33:01.139079"
 }
