@@ -1252,10 +1252,152 @@
       {
         "bubbleId": "2776dc3f-1a9f-4e13-b90a-ce1b6c5b0025",
         "type": 2
+      },
+      {
+        "bubbleId": "3a13b3e4-3a69-440e-af27-75b45f624652",
+        "type": 2
+      },
+      {
+        "bubbleId": "4dba60a7-2de2-48c3-801b-b5c49656c271",
+        "type": 2
+      },
+      {
+        "bubbleId": "12a78328-ae8e-4a96-9f86-82f4c48027dd",
+        "type": 2
+      },
+      {
+        "bubbleId": "36b27211-064b-4dd7-9a77-0545c0f5e173",
+        "type": 2,
+        "serverBubbleId": "25f0763c-37eb-4b63-949e-324575be12d1"
+      },
+      {
+        "bubbleId": "38ad9d21-2cb8-4c4f-b853-048194a1849e",
+        "type": 2
+      },
+      {
+        "bubbleId": "a30ad20f-21a6-4cb9-8e81-44d687f13dce",
+        "type": 1
+      },
+      {
+        "bubbleId": "d223c404-82ba-41e3-92d2-59992806aa44",
+        "type": 2,
+        "serverBubbleId": "ca62862a-e9d3-4218-a926-dd9baa75ce81"
+      },
+      {
+        "bubbleId": "c234b63c-713d-4583-b0ef-8fa7b67928fd",
+        "type": 2
+      },
+      {
+        "bubbleId": "90561a80-8c79-497d-8210-93d07675d88f",
+        "type": 2
+      },
+      {
+        "bubbleId": "0ab16612-5fdd-44c3-957b-a5a3c2258ea1",
+        "type": 2
+      },
+      {
+        "bubbleId": "772f46e5-b7f9-426e-89b4-c255b88778dc",
+        "type": 2
+      },
+      {
+        "bubbleId": "0454d422-737d-455b-a821-3edb87dfaf5e",
+        "type": 2,
+        "serverBubbleId": "e72fc5c9-5323-4f1c-9d1c-efc9bdb24e7e"
+      },
+      {
+        "bubbleId": "3e650959-4d19-402c-bcb8-2c3d2dc2701d",
+        "type": 2
+      },
+      {
+        "bubbleId": "d00d357e-4072-462d-bfb5-9c2695eefdec",
+        "type": 2
+      },
+      {
+        "bubbleId": "83f15b0d-cb6d-46c3-aafa-793af3fe93a4",
+        "type": 2
+      },
+      {
+        "bubbleId": "22d35ee2-9a8e-4f10-9895-96a95c32e681",
+        "type": 2
+      },
+      {
+        "bubbleId": "8e0c7801-4be2-4675-bf55-0344a34b4625",
+        "type": 2
+      },
+      {
+        "bubbleId": "4530273a-3865-4824-8b04-314379ddc01b",
+        "type": 2
+      },
+      {
+        "bubbleId": "c81e27b3-f173-45ea-ad54-d58d6a3f6957",
+        "type": 2,
+        "serverBubbleId": "8f01e10e-2e44-4f25-9a7d-7bc8ba075c68"
+      },
+      {
+        "bubbleId": "5193885d-ea67-4157-9d65-37a6341c2dc7",
+        "type": 2
+      },
+      {
+        "bubbleId": "c7d7241c-7338-4e77-a391-9233ee20dd1f",
+        "type": 2
+      },
+      {
+        "bubbleId": "9e105bca-3e8c-4b58-b7e4-6deec195433f",
+        "type": 2
+      },
+      {
+        "bubbleId": "62f28cdf-e884-40f4-a358-3134be05c414",
+        "type": 2
+      },
+      {
+        "bubbleId": "9b1f032e-aaa9-4d67-8a96-305f89cb89ce",
+        "type": 2
+      },
+      {
+        "bubbleId": "d134fd75-8c90-41c9-a36d-beb8b8f66cd9",
+        "type": 2
+      },
+      {
+        "bubbleId": "787d7b94-be3f-4fb0-87b9-a7a11548150c",
+        "type": 2
+      },
+      {
+        "bubbleId": "35adc069-8dca-4e17-b535-8150089e49ad",
+        "type": 2,
+        "serverBubbleId": "712ad841-7e90-40ed-82f2-c8726556fa67"
+      },
+      {
+        "bubbleId": "8ca434d1-3195-4e3a-9f32-866002216247",
+        "type": 2
+      },
+      {
+        "bubbleId": "f8a9f4f2-3c5d-49db-8d32-e0b622b5c3f0",
+        "type": 2
+      },
+      {
+        "bubbleId": "02c23bf6-558b-42f1-90de-6c873237ad81",
+        "type": 2
+      },
+      {
+        "bubbleId": "3bc3d35d-1092-45d8-a7a8-cbc4f62e282f",
+        "type": 2
+      },
+      {
+        "bubbleId": "725f7253-33a2-4ed1-9b7b-cd504b9c95f4",
+        "type": 2
+      },
+      {
+        "bubbleId": "c1c2ea0b-7a4e-4816-957f-56e9ba801d2d",
+        "type": 2,
+        "serverBubbleId": "ad1b9feb-1628-4a29-9646-9229f07e0ee3"
+      },
+      {
+        "bubbleId": "b9d8a9b0-4fab-498b-bee4-db76433c09d3",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -1305,7 +1447,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "4ae13978-eefc-4b6a-9b5e-f8af5681e941",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -2645,6 +2786,273 @@
           "lastDiffId": "fdf177f7-0105-4a76-8a92-11239858ae73",
           "lastAppliedAt": 1769149224626
         }
+      },
+      "file:///k%3A/VoiceTyper/scripts/run_v1.bat": {
+        "992758bd-3dd1-4d0d-b8e6-5ff684619f7b": {
+          "_v": 3,
+          "bubbleId": "3a13b3e4-3a69-440e-af27-75b45f624652",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\scripts\\run_v1.bat",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/scripts/run_v1.bat",
+            "path": "/K:/VoiceTyper/scripts/run_v1.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "992758bd-3dd1-4d0d-b8e6-5ff684619f7b",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150630707,
+          "composerChatGenerationUuid": "4ae13978-eefc-4b6a-9b5e-f8af5681e941",
+          "diffId": "e167f20f-299e-4e2f-b255-0832ca8bf618",
+          "lastDiffId": "cc035a40-74f2-4f16-8ad5-4e34828180e3",
+          "lastAppliedAt": 1769150632028
+        }
+      },
+      "file:///k%3A/VoiceTyper/FINAL_STATUS.md": {
+        "15e90059-b651-47b3-b271-4a578c4c7fa7": {
+          "_v": 3,
+          "bubbleId": "4dba60a7-2de2-48c3-801b-b5c49656c271",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\FINAL_STATUS.md",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/FINAL_STATUS.md",
+            "path": "/K:/VoiceTyper/FINAL_STATUS.md",
+            "scheme": "file"
+          },
+          "codeblockId": "15e90059-b651-47b3-b271-4a578c4c7fa7",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150636097,
+          "composerChatGenerationUuid": "4ae13978-eefc-4b6a-9b5e-f8af5681e941",
+          "diffId": "c31ac578-cc61-411f-81b2-b79296415d0a",
+          "lastDiffId": "f2b31b5a-ee46-4af7-aea2-76d08b44a8ff",
+          "lastAppliedAt": 1769150638514
+        }
+      },
+      "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py": {
+        "9c2bb601-e33c-48ab-932f-1aff717490fb": {
+          "_v": 3,
+          "bubbleId": "d00d357e-4072-462d-bfb5-9c2695eefdec",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "9c2bb601-e33c-48ab-932f-1aff717490fb",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150788511,
+          "composerChatGenerationUuid": "545aa707-aa1d-44e3-9294-9abb960f8705",
+          "diffId": "427d0505-383a-4220-a175-b26b1762ebea",
+          "lastDiffId": "3896b9cc-86ed-4774-b834-8215507b4a37",
+          "lastAppliedAt": 1769150790019
+        },
+        "9d384b62-03a2-4e55-b015-26c33e36032d": {
+          "_v": 3,
+          "bubbleId": "83f15b0d-cb6d-46c3-aafa-793af3fe93a4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "9d384b62-03a2-4e55-b015-26c33e36032d",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "9c2bb601-e33c-48ab-932f-1aff717490fb",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150790376,
+          "composerChatGenerationUuid": "545aa707-aa1d-44e3-9294-9abb960f8705",
+          "diffId": "869b3bc1-15eb-49af-bea2-25726b92bcfc",
+          "lastDiffId": "a12fce3c-a811-47dc-9af4-3d9d5e4c0d05",
+          "lastAppliedAt": 1769150791328
+        },
+        "83c26484-38af-4858-a8af-b0a4d34d199f": {
+          "_v": 3,
+          "bubbleId": "62f28cdf-e884-40f4-a358-3134be05c414",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "83c26484-38af-4858-a8af-b0a4d34d199f",
+          "status": "aborted",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150807625,
+          "composerChatGenerationUuid": "545aa707-aa1d-44e3-9294-9abb960f8705"
+        },
+        "19235c6f-0b01-4fbd-ac4d-29f3b4b9f78b": {
+          "_v": 3,
+          "bubbleId": "02c23bf6-558b-42f1-90de-6c873237ad81",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "19235c6f-0b01-4fbd-ac4d-29f3b4b9f78b",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "9d384b62-03a2-4e55-b015-26c33e36032d",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150818160,
+          "composerChatGenerationUuid": "545aa707-aa1d-44e3-9294-9abb960f8705",
+          "diffId": "abfefeb4-91aa-46af-a7a2-242ef7cb2a24",
+          "lastDiffId": "06191d13-83f3-45dc-a511-dcd610c34640",
+          "lastAppliedAt": 1769150819064
+        }
+      },
+      "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py": {
+        "63c4d4c3-b288-47a5-8a00-109da34f3f78": {
+          "_v": 3,
+          "bubbleId": "22d35ee2-9a8e-4f10-9895-96a95c32e681",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper_v2_gpu.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper_v2_gpu.py",
+            "scheme": "file"
+          },
+          "codeblockId": "63c4d4c3-b288-47a5-8a00-109da34f3f78",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150794854,
+          "composerChatGenerationUuid": "545aa707-aa1d-44e3-9294-9abb960f8705",
+          "diffId": "c22aa2b5-b81a-4b99-bb66-afa00053dcf5",
+          "lastDiffId": "14f825e5-c367-408c-bf02-cc5c036a610e",
+          "lastAppliedAt": 1769150795983
+        },
+        "59461f71-c335-4726-8ec8-861138acf9cc": {
+          "_v": 3,
+          "bubbleId": "8e0c7801-4be2-4675-bf55-0344a34b4625",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper_v2_gpu.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper_v2_gpu.py",
+            "scheme": "file"
+          },
+          "codeblockId": "59461f71-c335-4726-8ec8-861138acf9cc",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "63c4d4c3-b288-47a5-8a00-109da34f3f78",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150796700,
+          "composerChatGenerationUuid": "545aa707-aa1d-44e3-9294-9abb960f8705",
+          "diffId": "0bfcdb10-2f32-44b8-87ce-0c919200c132",
+          "lastDiffId": "4e07b807-baf4-4321-a047-2254ae1f3251",
+          "lastAppliedAt": 1769150797812
+        },
+        "19893ff3-df5a-42f5-91fe-2bc5699becb1": {
+          "_v": 3,
+          "bubbleId": "d134fd75-8c90-41c9-a36d-beb8b8f66cd9",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper_v2_gpu.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper_v2_gpu.py",
+            "scheme": "file"
+          },
+          "codeblockId": "19893ff3-df5a-42f5-91fe-2bc5699becb1",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "59461f71-c335-4726-8ec8-861138acf9cc",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150808438,
+          "composerChatGenerationUuid": "545aa707-aa1d-44e3-9294-9abb960f8705",
+          "diffId": "9b3e5e67-be2d-4400-be1d-a2859dcab7be",
+          "lastDiffId": "4d3f32da-53d6-4958-89d5-4b8d80922689",
+          "lastAppliedAt": 1769150809873
+        }
+      },
+      "file:///k%3A/VoiceTyper/scripts/install_gpu_english.bat": {
+        "d17589be-13b8-4a8d-a39f-bd5859049d19": {
+          "_v": 3,
+          "bubbleId": "787d7b94-be3f-4fb0-87b9-a7a11548150c",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\scripts\\install_gpu_english.bat",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/scripts/install_gpu_english.bat",
+            "path": "/K:/VoiceTyper/scripts/install_gpu_english.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "d17589be-13b8-4a8d-a39f-bd5859049d19",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150813650,
+          "composerChatGenerationUuid": "545aa707-aa1d-44e3-9294-9abb960f8705",
+          "diffId": "ea77c5a2-2778-46d2-89d3-f0dc1402b632",
+          "lastDiffId": "79d51855-3c2b-4bc6-bed4-fcad65a9506d",
+          "lastAppliedAt": 1769150815459
+        }
+      },
+      "file:///k%3A/VoiceTyper/ENGLISH_GPU_UPDATE.md": {
+        "a84eebac-f118-4892-b7cd-ec0bbf3edbf8": {
+          "_v": 3,
+          "bubbleId": "725f7253-33a2-4ed1-9b7b-cd504b9c95f4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\ENGLISH_GPU_UPDATE.md",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/ENGLISH_GPU_UPDATE.md",
+            "path": "/K:/VoiceTyper/ENGLISH_GPU_UPDATE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "a84eebac-f118-4892-b7cd-ec0bbf3edbf8",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769150822198,
+          "composerChatGenerationUuid": "545aa707-aa1d-44e3-9294-9abb960f8705",
+          "diffId": "ab910a8f-5755-4457-81a9-17a910ccdbc2",
+          "lastDiffId": "cc4664e7-1749-4e4e-b8d5-c7b29c9e179e",
+          "lastAppliedAt": 1769150823730
+        }
       }
     },
     "originalFileStates": {
@@ -2825,6 +3233,42 @@
       "file:///k%3A/VoiceTyper/COMPLETION_REPORT.md": {
         "content": "",
         "firstEditBubbleId": "a3c02457-089e-4bda-918c-6ec7f8886d08",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/scripts/run_v1.bat": {
+        "content": "",
+        "firstEditBubbleId": "3a13b3e4-3a69-440e-af27-75b45f624652",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/FINAL_STATUS.md": {
+        "content": "",
+        "firstEditBubbleId": "4dba60a7-2de2-48c3-801b-b5c49656c271",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py": {
+        "content": "\"\"\"\nVoice Typer - Advanced Speech-to-Text Application\nUses OpenAI Whisper for high-quality offline voice recognition\n\"\"\"\n\nimport tkinter as tk\nfrom tkinter import ttk, scrolledtext, messagebox, filedialog\nimport threading\nimport queue\nimport os\nfrom datetime import datetime\nimport pyperclip\nimport numpy as np\nimport sounddevice as sd\nimport whisper\nimport tempfile\nimport wave\nimport pyautogui\nimport time\n\nclass VoiceTyper:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"Voice Typer - Whisper Speech Recognition\")\n        self.root.geometry(\"900x750\")\n        self.root.configure(bg='#2b2b2b')\n        \n        # Initialize Whisper model\n        self.model = None\n        self.model_name = \"tiny\"  # Default to tiny for Google Docs-like speed (change to base/small for better accuracy)\n        \n        # State variables\n        self.is_listening = False\n        self.recording = False\n        self.audio_data = []\n        self.sample_rate = 16000\n        self.auto_type_enabled = False\n        self.chunk_duration = 1.5  # Process audio every 1.5 seconds for Google Docs-like speed\n        self.audio_queue = queue.Queue()\n        self.transcription_buffer = []\n        self.last_transcription_time = 0\n        self.use_gpu = self.check_gpu_available()\n        self.fast_mode = True  # Enable fast mode optimizations\n        \n        # Create UI\n        self.create_ui()\n        \n        # Bind keyboard shortcuts\n        self.setup_keyboard_shortcuts()\n        \n        # Load model in background\n        self.load_model()\n        \n    def load_model(self):\n        \"\"\"Load Whisper model in background\"\"\"\n        self.status_label.config(text=\"Loading Whisper model...\", fg='#FF9800')\n        threading.Thread(target=self._load_model_thread, daemon=True).start()\n        \n    def check_gpu_available(self):\n        \"\"\"Check if GPU is available for faster processing\"\"\"\n        try:\n            import torch\n            if torch.cuda.is_available():\n                return True\n        except:\n            pass\n        return False\n        \n    def _load_model_thread(self):\n        \"\"\"Load model in separate thread with optimizations\"\"\"\n        try:\n            device = \"cuda\" if self.use_gpu else \"cpu\"\n            self.model = whisper.load_model(self.model_name, device=device)\n            \n            # Optimize model for faster inference\n            if self.fast_mode:\n                # Use half precision for faster processing (if GPU available)\n                if self.use_gpu:\n                    try:\n                        self.model = self.model.half()  # Use FP16 for 2x speed boost\n                    except:\n                        pass  # Fallback to FP32 if FP16 not supported\n            \n            gpu_status = \" (GPU accelerated)\" if self.use_gpu else \" (CPU)\"\n            self.root.after(0, lambda: self.status_label.config(\n                text=f\"Model loaded! Ready to listen{gpu_status}\", fg='#4CAF50'\n            ))\n        except Exception as e:\n            self.root.after(0, lambda: self.show_error(f\"Failed to load model: {str(e)}\"))\n        \n    def create_ui(self):\n        \"\"\"Create the user interface\"\"\"\n        # Main container\n        main_frame = tk.Frame(self.root, bg='#2b2b2b', padx=20, pady=20)\n        main_frame.pack(fill=tk.BOTH, expand=True)\n        \n        # Title\n        title_label = tk.Label(\n            main_frame,\n            text=\"🎤 Voice Typer - Whisper Edition\",\n            font=('Segoe UI', 24, 'bold'),\n            bg='#2b2b2b',\n            fg='#ffffff'\n        )\n        title_label.pack(pady=(0, 10))\n        \n        # Status frame\n        status_frame = tk.Frame(main_frame, bg='#2b2b2b')\n        status_frame.pack(fill=tk.X, pady=10)\n        \n        self.status_label = tk.Label(\n            status_frame,\n            text=\"Loading Whisper model...\",\n            font=('Segoe UI', 12),\n            bg='#2b2b2b',\n            fg='#FF9800'\n        )\n        self.status_label.pack(side=tk.LEFT)\n        \n        self.mic_status_label = tk.Label(\n            status_frame,\n            text=\"●\",\n            font=('Segoe UI', 16),\n            bg='#2b2b2b',\n            fg='#666666'\n        )\n        self.mic_status_label.pack(side=tk.RIGHT)\n        \n        # Model selection frame\n        model_frame = tk.Frame(main_frame, bg='#2b2b2b')\n        model_frame.pack(fill=tk.X, pady=5)\n        \n        model_label = tk.Label(\n            model_frame,\n            text=\"Model Size:\",\n            font=('Segoe UI', 10),\n            bg='#2b2b2b',\n            fg='#ffffff'\n        )\n        model_label.pack(side=tk.LEFT, padx=5)\n        \n        self.model_var = tk.StringVar(value=\"tiny\")  # Default to tiny for Google Docs-like speed\n        model_combo = ttk.Combobox(\n            model_frame,\n            textvariable=self.model_var,\n            values=[\"tiny\", \"base\", \"small\", \"medium\", \"large\"],\n            state=\"readonly\",\n            width=10,\n            font=('Segoe UI', 10)\n        )\n        model_combo.pack(side=tk.LEFT, padx=5)\n        model_combo.bind(\"<<ComboboxSelected>>\", self.on_model_change)\n        \n        # Speed mode indicator\n        speed_label = tk.Label(\n            model_frame,\n            text=\"⚡ Fast Mode\" if self.fast_mode else \"\",\n            font=('Segoe UI', 9, 'bold'),\n            bg='#2b2b2b',\n            fg='#4CAF50'\n        )\n        speed_label.pack(side=tk.LEFT, padx=10)\n        \n        if self.use_gpu:\n            gpu_label = tk.Label(\n                model_frame,\n                text=\"🎮 GPU\",\n                font=('Segoe UI', 9, 'bold'),\n                bg='#2b2b2b',\n                fg='#2196F3'\n            )\n            gpu_label.pack(side=tk.LEFT, padx=5)\n        \n        reload_button = tk.Button(\n            model_frame,\n            text=\"🔄 Reload Model\",\n            font=('Segoe UI', 9),\n            bg='#666666',\n            fg='white',\n            activebackground='#555555',\n            relief=tk.FLAT,\n            padx=10,\n            pady=5,\n            cursor='hand2',\n            command=self.reload_model\n        )\n        reload_button.pack(side=tk.LEFT, padx=10)\n        \n        # Auto-type toggle frame\n        auto_type_frame = tk.Frame(main_frame, bg='#2b2b2b')\n        auto_type_frame.pack(fill=tk.X, pady=5)\n        \n        self.auto_type_var = tk.BooleanVar(value=False)\n        auto_type_check = tk.Checkbutton(\n            auto_type_frame,\n            text=\"⌨️ Auto-Type: Type text wherever cursor is (Click where you want to type, then speak)\",\n            variable=self.auto_type_var,\n            font=('Segoe UI', 10),\n            bg='#2b2b2b',\n            fg='#ffffff',\n            selectcolor='#1e1e1e',\n            activebackground='#2b2b2b',\n            activeforeground='#4CAF50',\n            command=self.toggle_auto_type\n        )\n        auto_type_check.pack(side=tk.LEFT)\n        \n        # Control buttons frame\n        button_frame = tk.Frame(main_frame, bg='#2b2b2b')\n        button_frame.pack(fill=tk.X, pady=10)\n        \n        # Start/Stop button\n        self.listen_button = tk.Button(\n            button_frame,\n            text=\"🎤 Start Recording (F7)\",\n            font=('Segoe UI', 14, 'bold'),\n            bg='#4CAF50',\n            fg='white',\n            activebackground='#45a049',\n            activeforeground='white',\n            relief=tk.FLAT,\n            padx=20,\n            pady=10,\n            cursor='hand2',\n            command=self.toggle_recording\n        )\n        self.listen_button.pack(side=tk.LEFT, padx=5)\n        \n        # Clear button\n        clear_button = tk.Button(\n            button_frame,\n            text=\"🗑️ Clear\",\n            font=('Segoe UI', 12),\n            bg='#f44336',\n            fg='white',\n            activebackground='#da190b',\n            activeforeground='white',\n            relief=tk.FLAT,\n            padx=15,\n            pady=10,\n            cursor='hand2',\n            command=self.clear_text\n        )\n        clear_button.pack(side=tk.LEFT, padx=5)\n        \n        # Copy button\n        copy_button = tk.Button(\n            button_frame,\n            text=\"📋 Copy\",\n            font=('Segoe UI', 12),\n            bg='#2196F3',\n            fg='white',\n            activebackground='#0b7dda',\n            activeforeground='white',\n            relief=tk.FLAT,\n            padx=15,\n            pady=10,\n            cursor='hand2',\n            command=self.copy_text\n        )\n        copy_button.pack(side=tk.LEFT, padx=5)\n        \n        # Save button\n        save_button = tk.Button(\n            button_frame,\n            text=\"💾 Save\",\n            font=('Segoe UI', 12),\n            bg='#FF9800',\n            fg='white',\n            activebackground='#e68900',\n            activeforeground='white',\n            relief=tk.FLAT,\n            padx=15,\n            pady=10,\n            cursor='hand2',\n            command=self.save_text\n        )\n        save_button.pack(side=tk.LEFT, padx=5)\n        \n        # Text area frame\n        text_frame = tk.Frame(main_frame, bg='#2b2b2b')\n        text_frame.pack(fill=tk.BOTH, expand=True, pady=10)\n        \n        # Text area label\n        text_label = tk.Label(\n            text_frame,\n            text=\"Transcribed Text:\",\n            font=('Segoe UI', 11, 'bold'),\n            bg='#2b2b2b',\n            fg='#ffffff',\n            anchor='w'\n        )\n        text_label.pack(fill=tk.X, pady=(0, 5))\n        \n        # Text area with scrollbar\n        self.text_area = scrolledtext.ScrolledText(\n            text_frame,\n            font=('Segoe UI', 12),\n            bg='#1e1e1e',\n            fg='#ffffff',\n            insertbackground='#ffffff',\n            wrap=tk.WORD,\n            relief=tk.FLAT,\n            padx=15,\n            pady=15,\n            selectbackground='#4CAF50'\n        )\n        self.text_area.pack(fill=tk.BOTH, expand=True)\n        \n        # Keyboard shortcut info\n        shortcut_label = tk.Label(\n            main_frame,\n            text=\"⌨️ Keyboard Shortcut: Press F7 to Start/Stop Recording\",\n            font=('Segoe UI', 10, 'bold'),\n            bg='#2b2b2b',\n            fg='#4CAF50'\n        )\n        shortcut_label.pack(pady=5)\n        \n        # Info label\n        speed_info = \"⚡ Optimized for Google Docs-like speed! \" if self.fast_mode else \"\"\n        gpu_info = \"GPU accelerated! \" if self.use_gpu else \"\"\n        info_label = tk.Label(\n            main_frame,\n            text=f\"💡 {speed_info}{gpu_info}Press F7 or click 'Start Recording' to begin. Text transcribes in real-time!\\n\"\n                 \"Enable 'Auto-Type' to automatically type transcribed text wherever your cursor is!\\n\"\n                 \"Using 'tiny' model by default for fastest response. Change model for better accuracy.\",\n            font=('Segoe UI', 9),\n            bg='#2b2b2b',\n            fg='#888888',\n            wraplength=800,\n            justify=tk.LEFT\n        )\n        info_label.pack(pady=10)\n        \n    def on_model_change(self, event=None):\n        \"\"\"Handle model selection change\"\"\"\n        if self.is_listening:\n            messagebox.showwarning(\"Warning\", \"Please stop recording before changing model!\")\n            return\n        self.model_name = self.model_var.get()\n        self.reload_model()\n        \n    def reload_model(self):\n        \"\"\"Reload the Whisper model\"\"\"\n        if self.is_listening:\n            messagebox.showwarning(\"Warning\", \"Please stop recording before reloading model!\")\n            return\n        self.model = None\n        self.load_model()\n        \n    def setup_keyboard_shortcuts(self):\n        \"\"\"Setup global keyboard shortcuts\"\"\"\n        # Bind F7 key to toggle recording\n        self.root.bind('<F7>', lambda e: self.toggle_recording())\n        # Also bind when window doesn't have focus (requires pynput for global hotkeys)\n        try:\n            from pynput import keyboard\n            self.global_listener = None\n            self.setup_global_hotkey()\n        except ImportError:\n            # pynput not available, use local bindings only\n            pass\n            \n    def setup_global_hotkey(self):\n        \"\"\"Setup global hotkey listener (works even when window is not focused)\"\"\"\n        try:\n            from pynput import keyboard\n            \n            def on_press(key):\n                try:\n                    if key == keyboard.Key.f7:\n                        self.root.after(0, self.toggle_recording)\n                except AttributeError:\n                    pass\n            \n            self.global_listener = keyboard.Listener(on_press=on_press)\n            self.global_listener.start()\n        except Exception as e:\n            # If global hotkey fails, local binding still works\n            pass\n        \n    def toggle_auto_type(self):\n        \"\"\"Toggle auto-type feature\"\"\"\n        self.auto_type_enabled = self.auto_type_var.get()\n        if self.auto_type_enabled:\n            self.status_label.config(text=\"Auto-Type ENABLED - Click where you want to type, then speak!\", fg='#4CAF50')\n        else:\n            self.status_label.config(text=\"Auto-Type disabled\", fg='#888888')\n        \n    def toggle_recording(self):\n        \"\"\"Start or stop recording\"\"\"\n        if not self.is_listening:\n            self.start_recording()\n        else:\n            self.stop_recording()\n            \n    def start_recording(self):\n        \"\"\"Start recording audio with real-time transcription\"\"\"\n        if not self.model:\n            messagebox.showwarning(\"Warning\", \"Model is still loading. Please wait...\")\n            return\n            \n        self.is_listening = True\n        self.recording = True\n        self.audio_data = []\n        self.transcription_buffer = []\n        self.last_transcription_time = time.time()\n        \n        self.listen_button.config(\n            text=\"⏹️ Stop Recording (F7)\",\n            bg='#f44336',\n            activebackground='#da190b'\n        )\n        self.status_label.config(text=\"Recording... Transcribing in real-time!\", fg='#f44336')\n        self.mic_status_label.config(fg='#f44336')\n        \n        # Start recording in a separate thread\n        self.record_thread = threading.Thread(target=self.record_audio_realtime, daemon=True)\n        self.record_thread.start()\n        \n        # Start real-time transcription processor\n        self.transcription_thread = threading.Thread(target=self.process_realtime_transcription, daemon=True)\n        self.transcription_thread.start()\n        \n    def stop_recording(self):\n        \"\"\"Stop recording\"\"\"\n        self.recording = False\n        self.is_listening = False\n        \n        self.listen_button.config(\n            text=\"🎤 Start Recording (F7)\",\n            bg='#4CAF50',\n            activebackground='#45a049'\n        )\n        self.status_label.config(text=\"Stopped. Final transcription...\", fg='#FF9800')\n        self.mic_status_label.config(fg='#666666')\n        \n        # Process any remaining audio\n        if self.audio_data:\n            threading.Thread(target=self.transcribe_final_audio, daemon=True).start()\n        \n    def record_audio_realtime(self):\n        \"\"\"Record audio continuously and queue chunks for real-time transcription\"\"\"\n        try:\n            chunk_samples = self.sample_rate * self.chunk_duration  # Samples per chunk\n            current_chunk = []\n            chunk_sample_count = 0\n            \n            def audio_callback(indata, frames, time, status):\n                if self.recording:\n                    current_chunk.append(indata.copy())\n                    nonlocal chunk_sample_count\n                    chunk_sample_count += frames\n                    \n                    # When chunk is ready, queue it for transcription\n                    if chunk_sample_count >= chunk_samples:\n                        chunk_audio = np.concatenate(current_chunk, axis=0)\n                        if len(chunk_audio) > 0:\n                            self.audio_queue.put(chunk_audio.copy())\n                        current_chunk.clear()\n                        chunk_sample_count = 0\n                    \n            with sd.InputStream(\n                samplerate=self.sample_rate,\n                channels=1,\n                dtype='float32',\n                callback=audio_callback,\n                blocksize=self.sample_rate // 10  # Process in small blocks\n            ):\n                while self.recording:\n                    sd.sleep(100)\n                    \n            # Process any remaining audio when stopping\n            if current_chunk:\n                chunk_audio = np.concatenate(current_chunk, axis=0)\n                if len(chunk_audio) > 0:\n                    self.audio_queue.put(chunk_audio.copy())\n                    \n        except Exception as e:\n            self.root.after(0, lambda: self.show_error(f\"Recording error: {str(e)}\"))\n            self.is_listening = False\n            \n    def process_realtime_transcription(self):\n        \"\"\"Process audio chunks in real-time and transcribe continuously\"\"\"\n        while self.is_listening or not self.audio_queue.empty():\n            try:\n                # Get audio chunk from queue (with timeout)\n                try:\n                    audio_chunk = self.audio_queue.get(timeout=0.5)\n                except queue.Empty:\n                    continue\n                \n                if audio_chunk is None or len(audio_chunk) == 0:\n                    continue\n                \n                # Normalize audio\n                audio_array = audio_chunk.flatten()\n                if len(audio_array) == 0:\n                    continue\n                    \n                max_val = np.max(np.abs(audio_array))\n                if max_val > 0:\n                    audio_array = audio_array / max_val\n                \n                # Transcribe chunk with optimizations for speed\n                try:\n                    # Use faster settings for Google Docs-like responsiveness\n                    result = self.model.transcribe(\n                        audio_array,\n                        language=None,\n                        task=\"transcribe\",\n                        fp16=self.use_gpu and self.fast_mode,  # Use FP16 on GPU for 2x speed\n                        beam_size=1 if self.fast_mode else 5,  # Smaller beam = faster\n                        best_of=1 if self.fast_mode else 5,  # Single pass = faster\n                        temperature=0.0,  # Deterministic, faster\n                        compression_ratio_threshold=2.4,  # Skip if likely not speech\n                        logprob_threshold=-1.0,  # Skip low confidence\n                        no_speech_threshold=0.6,  # Skip silence faster\n                        condition_on_previous_text=False if self.fast_mode else True  # Faster without context\n                    )\n                    \n                    text = result[\"text\"].strip()\n                    \n                    if text:\n                        # Append to buffer and display in real-time\n                        text_to_append = text  # Capture in local variable\n                        self.root.after(0, lambda: self.append_text_realtime(text_to_append))\n                        \n                except Exception as e:\n                    # Continue processing even if one chunk fails\n                    pass\n                    \n            except Exception as e:\n                # Continue processing\n                pass\n                \n    def transcribe_final_audio(self):\n        \"\"\"Transcribe any remaining audio after stopping\"\"\"\n        try:\n            if not self.audio_data:\n                return\n                \n            # Convert audio data to numpy array\n            audio_array = np.concatenate(self.audio_data, axis=0)\n            audio_array = audio_array.flatten()\n            \n            if len(audio_array) == 0:\n                return\n            \n            # Normalize audio\n            max_val = np.max(np.abs(audio_array))\n            if max_val > 0:\n                audio_array = audio_array / max_val\n            \n            # Transcribe using Whisper\n            result = self.model.transcribe(\n                audio_array,\n                language=None,\n                task=\"transcribe\"\n            )\n            \n            text = result[\"text\"].strip()\n            \n            # Update UI in main thread\n            if text:\n                self.root.after(0, lambda: self.append_text(text))\n                self.root.after(0, lambda: self.status_label.config(\n                    text=\"Final transcription complete!\", fg='#4CAF50'\n                ))\n            else:\n                self.root.after(0, lambda: self.status_label.config(\n                    text=\"No speech detected\", fg='#888888'\n                ))\n                \n        except Exception as e:\n            self.root.after(0, lambda: self.show_error(f\"Transcription error: {str(e)}\"))\n            \n    def append_text_realtime(self, text):\n        \"\"\"Append transcribed text in real-time (buffered)\"\"\"\n        if text.strip():\n            self.transcription_buffer.append(text)\n            # Display accumulated text\n            full_text = \" \".join(self.transcription_buffer)\n            self.root.after(0, lambda: self.update_text_display(full_text))\n            \n            # Auto-type if enabled (type incrementally)\n            if self.auto_type_enabled:\n                self.root.after(0, lambda t=text: self.type_text(t))\n                \n    def update_text_display(self, text):\n        \"\"\"Update the text area with new text\"\"\"\n        self.text_area.delete(\"1.0\", tk.END)\n        self.text_area.insert(\"1.0\", text)\n        self.text_area.see(tk.END)\n        self.status_label.config(text=f\"Transcribing... ({len(self.transcription_buffer)} chunks)\", fg='#4CAF50')\n            \n    def append_text(self, text):\n        \"\"\"Append transcribed text to the text area and optionally type it\"\"\"\n        if text.strip():\n            # Add to text area\n            current_text = self.text_area.get(\"1.0\", tk.END)\n            if current_text.strip():\n                self.text_area.insert(tk.END, \" \" + text)\n            else:\n                self.text_area.insert(tk.END, text)\n            self.text_area.see(tk.END)\n            \n            # Auto-type if enabled\n            if self.auto_type_enabled:\n                self.type_text(text)\n                \n    def type_text(self, text):\n        \"\"\"Type text using keyboard automation\"\"\"\n        try:\n            # Small delay to ensure focus is on the target application\n            time.sleep(0.3)\n            # Type the text\n            pyautogui.write(text, interval=0.01)  # interval makes typing more natural\n            self.root.after(0, lambda: self.status_label.config(\n                text=f\"Typed: {text[:30]}...\", fg='#4CAF50'\n            ))\n        except Exception as e:\n            self.root.after(0, lambda: self.show_error(f\"Auto-type error: {str(e)}\"))\n            \n    def clear_text(self):\n        \"\"\"Clear the text area and buffer\"\"\"\n        self.text_area.delete(\"1.0\", tk.END)\n        self.transcription_buffer = []\n        self.status_label.config(text=\"Text cleared\", fg='#888888')\n        \n    def copy_text(self):\n        \"\"\"Copy text to clipboard\"\"\"\n        text = self.text_area.get(\"1.0\", tk.END).strip()\n        if text:\n            pyperclip.copy(text)\n            self.status_label.config(text=\"Text copied to clipboard!\", fg='#4CAF50')\n            messagebox.showinfo(\"Success\", \"Text copied to clipboard!\")\n        else:\n            messagebox.showwarning(\"Warning\", \"No text to copy!\")\n            \n    def save_text(self):\n        \"\"\"Save text to file\"\"\"\n        text = self.text_area.get(\"1.0\", tk.END).strip()\n        if not text:\n            messagebox.showwarning(\"Warning\", \"No text to save!\")\n            return\n            \n        filename = filedialog.asksaveasfilename(\n            defaultextension=\".txt\",\n            filetypes=[(\"Text files\", \"*.txt\"), (\"All files\", \"*.*\")],\n            initialfile=f\"voice_typer_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt\"\n        )\n        \n        if filename:\n            try:\n                with open(filename, 'w', encoding='utf-8') as f:\n                    f.write(text)\n                self.status_label.config(text=f\"Saved to {os.path.basename(filename)}\", fg='#4CAF50')\n                messagebox.showinfo(\"Success\", f\"Text saved to {filename}\")\n            except Exception as e:\n                messagebox.showerror(\"Error\", f\"Failed to save file: {str(e)}\")\n                \n    def show_error(self, message):\n        \"\"\"Show error message\"\"\"\n        self.status_label.config(text=f\"Error: {message}\", fg='#f44336')\n        messagebox.showerror(\"Error\", message)\n\ndef main():\n    \"\"\"Main function\"\"\"\n    root = tk.Tk()\n    app = VoiceTyper(root)\n    \n    def on_closing():\n        \"\"\"Cleanup on window close\"\"\"\n        app.is_listening = False\n        app.recording = False\n        if hasattr(app, 'global_listener') and app.global_listener:\n            app.global_listener.stop()\n        root.destroy()\n    \n    root.protocol(\"WM_DELETE_WINDOW\", on_closing)\n    root.mainloop()\n\nif __name__ == \"__main__\":\n    main()\n",
+        "firstEditBubbleId": "d00d357e-4072-462d-bfb5-9c2695eefdec",
+        "isNewlyCreated": false,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py": {
+        "content": "\"\"\"\r\nVoice Typer V2 - GPU Optimized Edition\r\nUses OpenAI Whisper with GPU acceleration for maximum speed\r\nOptimized for Google Docs-like responsiveness\r\n\"\"\"\r\n\r\nimport tkinter as tk\r\nfrom tkinter import ttk, scrolledtext, messagebox, filedialog\r\nimport threading\r\nimport queue\r\nimport os\r\nfrom datetime import datetime\r\nimport pyperclip\r\nimport numpy as np\r\nimport sounddevice as sd\r\nimport whisper\r\nimport pyautogui\r\nimport time\r\n\r\nclass VoiceTyperV2GPU:\r\n    def __init__(self, root):\r\n        self.root = root\r\n        self.root.title(\"Voice Typer V2 - GPU Optimized ⚡\")\r\n        self.root.geometry(\"900x800\")\r\n        self.root.configure(bg='#2b2b2b')\r\n        \r\n        # GPU Configuration\r\n        self.device = self.detect_and_setup_gpu()\r\n        self.model_name = \"tiny\"  # Optimized for speed with GPU\r\n        self.model = None\r\n        \r\n        # State variables\r\n        self.is_listening = False\r\n        self.recording = False\r\n        self.audio_data = []\r\n        self.sample_rate = 16000\r\n        self.auto_type_enabled = False\r\n        self.chunk_duration = 1.0  # 1 second chunks for ultra-fast response\r\n        self.audio_queue = queue.Queue()\r\n        self.transcription_buffer = []\r\n        self.processing_queue = queue.Queue()\r\n        \r\n        # Create UI\r\n        self.create_ui()\r\n        \r\n        # Bind keyboard shortcuts\r\n        self.setup_keyboard_shortcuts()\r\n        \r\n        # Load model in background\r\n        self.load_model()\r\n        \r\n    def detect_and_setup_gpu(self):\r\n        \"\"\"Detect GPU and configure for optimal performance\"\"\"\r\n        try:\r\n            import torch\r\n            \r\n            if torch.cuda.is_available():\r\n                gpu_name = torch.cuda.get_device_name(0)\r\n                gpu_memory = torch.cuda.get_device_properties(0).total_memory / 1024**3\r\n                print(f\"✅ GPU Detected: {gpu_name}\")\r\n                print(f\"✅ GPU Memory: {gpu_memory:.2f} GB\")\r\n                print(f\"✅ CUDA Version: {torch.version.cuda}\")\r\n                return \"cuda\"\r\n            else:\r\n                print(\"⚠️ CUDA not available. Checking for CPU fallback...\")\r\n                # Check if we can install CUDA-enabled PyTorch\r\n                try:\r\n                    import subprocess\r\n                    result = subprocess.run(['nvidia-smi'], capture_output=True, text=True)\r\n                    if result.returncode == 0:\r\n                        print(\"⚠️ NVIDIA GPU found but PyTorch not built with CUDA support!\")\r\n                        print(\"💡 Install CUDA-enabled PyTorch: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118\")\r\n                        return \"cpu\"  # Fallback\r\n                except:\r\n                    pass\r\n                return \"cpu\"\r\n        except ImportError:\r\n            print(\"⚠️ PyTorch not found\")\r\n            return \"cpu\"\r\n    \r\n    def load_model(self):\r\n        \"\"\"Load Whisper model optimized for GPU\"\"\"\r\n        device_name = \"GPU\" if self.device == \"cuda\" else \"CPU\"\r\n        self.status_label.config(text=f\"Loading model on {device_name}...\", fg='#FF9800')\r\n        threading.Thread(target=self._load_model_thread, daemon=True).start()\r\n        \r\n    def _load_model_thread(self):\r\n        \"\"\"Load model with GPU optimizations\"\"\"\r\n        try:\r\n            import torch\r\n            \r\n            # Load model on specified device\r\n            self.model = whisper.load_model(self.model_name, device=self.device)\r\n            \r\n            # GPU Optimizations\r\n            if self.device == \"cuda\":\r\n                # Move model to GPU\r\n                self.model = self.model.to(self.device)\r\n                \r\n                # Use half precision (FP16) for 2x speed boost\r\n                try:\r\n                    self.model = self.model.half()\r\n                    print(\"✅ Using FP16 precision for 2x speed boost\")\r\n                except Exception as e:\r\n                    print(f\"⚠️ FP16 not available, using FP32: {e}\")\r\n                \r\n                # Enable cuDNN optimizations\r\n                torch.backends.cudnn.benchmark = True\r\n                torch.backends.cudnn.enabled = True\r\n                \r\n                # Clear GPU cache\r\n                torch.cuda.empty_cache()\r\n                \r\n                print(f\"✅ Model loaded on GPU: {torch.cuda.get_device_name(0)}\")\r\n                print(f\"✅ GPU Memory Used: {torch.cuda.memory_allocated(0) / 1024**3:.2f} GB\")\r\n            else:\r\n                print(\"⚠️ Using CPU (slower)\")\r\n            \r\n            device_status = f\"GPU: {torch.cuda.get_device_name(0)}\" if self.device == \"cuda\" else \"CPU\"\r\n            self.root.after(0, lambda: self.status_label.config(\r\n                text=f\"✅ Model loaded on {device_status} - Ready!\", fg='#4CAF50'\r\n            ))\r\n            \r\n        except Exception as e:\r\n            error_msg = f\"Failed to load model: {str(e)}\"\r\n            print(f\"❌ {error_msg}\")\r\n            self.root.after(0, lambda: self.show_error(error_msg))\r\n    \r\n    def create_ui(self):\r\n        \"\"\"Create the user interface\"\"\"\r\n        # Main container\r\n        main_frame = tk.Frame(self.root, bg='#2b2b2b', padx=20, pady=20)\r\n        main_frame.pack(fill=tk.BOTH, expand=True)\r\n        \r\n        # Title\r\n        title_label = tk.Label(\r\n            main_frame,\r\n            text=\"🎤 Voice Typer V2 - GPU Optimized ⚡\",\r\n            font=('Segoe UI', 24, 'bold'),\r\n            bg='#2b2b2b',\r\n            fg='#ffffff'\r\n        )\r\n        title_label.pack(pady=(0, 10))\r\n        \r\n        # GPU Status frame\r\n        gpu_frame = tk.Frame(main_frame, bg='#1e1e1e', relief=tk.RAISED, bd=1)\r\n        gpu_frame.pack(fill=tk.X, pady=5)\r\n        \r\n        try:\r\n            import torch\r\n            if self.device == \"cuda\":\r\n                gpu_name = torch.cuda.get_device_name(0)\r\n                gpu_memory = torch.cuda.get_device_properties(0).total_memory / 1024**3\r\n                gpu_label = tk.Label(\r\n                    gpu_frame,\r\n                    text=f\"🎮 GPU: {gpu_name} | Memory: {gpu_memory:.1f} GB | CUDA: {torch.version.cuda}\",\r\n                    font=('Segoe UI', 10, 'bold'),\r\n                    bg='#1e1e1e',\r\n                    fg='#4CAF50'\r\n                )\r\n            else:\r\n                gpu_label = tk.Label(\r\n                    gpu_frame,\r\n                    text=\"⚠️ CPU Mode - Install CUDA-enabled PyTorch for GPU acceleration\",\r\n                    font=('Segoe UI', 10),\r\n                    bg='#1e1e1e',\r\n                    fg='#FF9800'\r\n                )\r\n        except:\r\n            gpu_label = tk.Label(\r\n                gpu_frame,\r\n                text=\"⚠️ GPU detection failed\",\r\n                font=('Segoe UI', 10),\r\n                bg='#1e1e1e',\r\n                fg='#f44336'\r\n            )\r\n        gpu_label.pack(pady=5)\r\n        \r\n        # Status frame\r\n        status_frame = tk.Frame(main_frame, bg='#2b2b2b')\r\n        status_frame.pack(fill=tk.X, pady=10)\r\n        \r\n        self.status_label = tk.Label(\r\n            status_frame,\r\n            text=\"Initializing...\",\r\n            font=('Segoe UI', 12),\r\n            bg='#2b2b2b',\r\n            fg='#FF9800'\r\n        )\r\n        self.status_label.pack(side=tk.LEFT)\r\n        \r\n        self.mic_status_label = tk.Label(\r\n            status_frame,\r\n            text=\"●\",\r\n            font=('Segoe UI', 16),\r\n            bg='#2b2b2b',\r\n            fg='#666666'\r\n        )\r\n        self.mic_status_label.pack(side=tk.RIGHT)\r\n        \r\n        # Model info frame\r\n        model_info_frame = tk.Frame(main_frame, bg='#2b2b2b')\r\n        model_info_frame.pack(fill=tk.X, pady=5)\r\n        \r\n        model_info_label = tk.Label(\r\n            model_info_frame,\r\n            text=\"⚡ Model: tiny (GPU optimized) | Chunk: 1.0s | Fast Mode: ON\",\r\n            font=('Segoe UI', 9, 'bold'),\r\n            bg='#2b2b2b',\r\n            fg='#4CAF50'\r\n        )\r\n        model_info_label.pack()\r\n        \r\n        # Auto-type toggle frame\r\n        auto_type_frame = tk.Frame(main_frame, bg='#2b2b2b')\r\n        auto_type_frame.pack(fill=tk.X, pady=5)\r\n        \r\n        self.auto_type_var = tk.BooleanVar(value=False)\r\n        auto_type_check = tk.Checkbutton(\r\n            auto_type_frame,\r\n            text=\"⌨️ Auto-Type: Type text wherever cursor is (Click where you want to type, then speak)\",\r\n            variable=self.auto_type_var,\r\n            font=('Segoe UI', 10),\r\n            bg='#2b2b2b',\r\n            fg='#ffffff',\r\n            selectcolor='#1e1e1e',\r\n            activebackground='#2b2b2b',\r\n            activeforeground='#4CAF50',\r\n            command=self.toggle_auto_type\r\n        )\r\n        auto_type_check.pack(side=tk.LEFT)\r\n        \r\n        # Control buttons frame\r\n        button_frame = tk.Frame(main_frame, bg='#2b2b2b')\r\n        button_frame.pack(fill=tk.X, pady=10)\r\n        \r\n        # Start/Stop button\r\n        self.listen_button = tk.Button(\r\n            button_frame,\r\n            text=\"🎤 Start Recording (F7)\",\r\n            font=('Segoe UI', 14, 'bold'),\r\n            bg='#4CAF50',\r\n            fg='white',\r\n            activebackground='#45a049',\r\n            activeforeground='white',\r\n            relief=tk.FLAT,\r\n            padx=20,\r\n            pady=10,\r\n            cursor='hand2',\r\n            command=self.toggle_recording\r\n        )\r\n        self.listen_button.pack(side=tk.LEFT, padx=5)\r\n        \r\n        # Clear button\r\n        clear_button = tk.Button(\r\n            button_frame,\r\n            text=\"🗑️ Clear\",\r\n            font=('Segoe UI', 12),\r\n            bg='#f44336',\r\n            fg='white',\r\n            activebackground='#da190b',\r\n            activeforeground='white',\r\n            relief=tk.FLAT,\r\n            padx=15,\r\n            pady=10,\r\n            cursor='hand2',\r\n            command=self.clear_text\r\n        )\r\n        clear_button.pack(side=tk.LEFT, padx=5)\r\n        \r\n        # Copy button\r\n        copy_button = tk.Button(\r\n            button_frame,\r\n            text=\"📋 Copy\",\r\n            font=('Segoe UI', 12),\r\n            bg='#2196F3',\r\n            fg='white',\r\n            activebackground='#0b7dda',\r\n            activeforeground='white',\r\n            relief=tk.FLAT,\r\n            padx=15,\r\n            pady=10,\r\n            cursor='hand2',\r\n            command=self.copy_text\r\n        )\r\n        copy_button.pack(side=tk.LEFT, padx=5)\r\n        \r\n        # Save button\r\n        save_button = tk.Button(\r\n            button_frame,\r\n            text=\"💾 Save\",\r\n            font=('Segoe UI', 12),\r\n            bg='#FF9800',\r\n            fg='white',\r\n            activebackground='#e68900',\r\n            activeforeground='white',\r\n            relief=tk.FLAT,\r\n            padx=15,\r\n            pady=10,\r\n            cursor='hand2',\r\n            command=self.save_text\r\n        )\r\n        save_button.pack(side=tk.LEFT, padx=5)\r\n        \r\n        # Text area frame\r\n        text_frame = tk.Frame(main_frame, bg='#2b2b2b')\r\n        text_frame.pack(fill=tk.BOTH, expand=True, pady=10)\r\n        \r\n        # Text area label\r\n        text_label = tk.Label(\r\n            text_frame,\r\n            text=\"Transcribed Text (Real-time):\",\r\n            font=('Segoe UI', 11, 'bold'),\r\n            bg='#2b2b2b',\r\n            fg='#ffffff',\r\n            anchor='w'\r\n        )\r\n        text_label.pack(fill=tk.X, pady=(0, 5))\r\n        \r\n        # Text area with scrollbar\r\n        self.text_area = scrolledtext.ScrolledText(\r\n            text_frame,\r\n            font=('Segoe UI', 12),\r\n            bg='#1e1e1e',\r\n            fg='#ffffff',\r\n            insertbackground='#ffffff',\r\n            wrap=tk.WORD,\r\n            relief=tk.FLAT,\r\n            padx=15,\r\n            pady=15,\r\n            selectbackground='#4CAF50'\r\n        )\r\n        self.text_area.pack(fill=tk.BOTH, expand=True)\r\n        \r\n        # Keyboard shortcut info\r\n        shortcut_label = tk.Label(\r\n            main_frame,\r\n            text=\"⌨️ Press F7 to Start/Stop Recording | ⚡ GPU Optimized for Maximum Speed\",\r\n            font=('Segoe UI', 10, 'bold'),\r\n            bg='#2b2b2b',\r\n            fg='#4CAF50'\r\n        )\r\n        shortcut_label.pack(pady=5)\r\n        \r\n        # Info label\r\n        info_label = tk.Label(\r\n            main_frame,\r\n            text=\"💡 V2 Features: GPU acceleration | 1-second chunks | Ultra-fast transcription\\n\"\r\n                 \"Enable 'Auto-Type' to automatically type transcribed text wherever your cursor is!\",\r\n            font=('Segoe UI', 9),\r\n            bg='#2b2b2b',\r\n            fg='#888888',\r\n            wraplength=800,\r\n            justify=tk.LEFT\r\n        )\r\n        info_label.pack(pady=10)\r\n        \r\n    def setup_keyboard_shortcuts(self):\r\n        \"\"\"Setup global keyboard shortcuts\"\"\"\r\n        self.root.bind('<F7>', lambda e: self.toggle_recording())\r\n        try:\r\n            from pynput import keyboard\r\n            def on_press(key):\r\n                try:\r\n                    if key == keyboard.Key.f7:\r\n                        self.root.after(0, self.toggle_recording)\r\n                except AttributeError:\r\n                    pass\r\n            self.global_listener = keyboard.Listener(on_press=on_press)\r\n            self.global_listener.start()\r\n        except ImportError:\r\n            self.global_listener = None\r\n        \r\n    def toggle_auto_type(self):\r\n        \"\"\"Toggle auto-type feature\"\"\"\r\n        self.auto_type_enabled = self.auto_type_var.get()\r\n        if self.auto_type_enabled:\r\n            self.status_label.config(text=\"Auto-Type ENABLED - Click where you want to type, then speak!\", fg='#4CAF50')\r\n        else:\r\n            self.status_label.config(text=\"Auto-Type disabled\", fg='#888888')\r\n        \r\n    def toggle_recording(self):\r\n        \"\"\"Start or stop recording\"\"\"\r\n        if not self.is_listening:\r\n            self.start_recording()\r\n        else:\r\n            self.stop_recording()\r\n            \r\n    def start_recording(self):\r\n        \"\"\"Start recording with GPU-optimized real-time transcription\"\"\"\r\n        if not self.model:\r\n            messagebox.showwarning(\"Warning\", \"Model is still loading. Please wait...\")\r\n            return\r\n            \r\n        self.is_listening = True\r\n        self.recording = True\r\n        self.audio_data = []\r\n        self.transcription_buffer = []\r\n        \r\n        self.listen_button.config(\r\n            text=\"⏹️ Stop Recording (F7)\",\r\n            bg='#f44336',\r\n            activebackground='#da190b'\r\n        )\r\n        self.status_label.config(text=\"🎤 Recording... Transcribing in real-time!\", fg='#f44336')\r\n        self.mic_status_label.config(fg='#f44336')\r\n        \r\n        # Start recording thread\r\n        self.record_thread = threading.Thread(target=self.record_audio_realtime, daemon=True)\r\n        self.record_thread.start()\r\n        \r\n        # Start GPU-accelerated transcription processor\r\n        self.transcription_thread = threading.Thread(target=self.process_realtime_transcription_gpu, daemon=True)\r\n        self.transcription_thread.start()\r\n        \r\n    def stop_recording(self):\r\n        \"\"\"Stop recording\"\"\"\r\n        self.recording = False\r\n        self.is_listening = False\r\n        \r\n        self.listen_button.config(\r\n            text=\"🎤 Start Recording (F7)\",\r\n            bg='#4CAF50',\r\n            activebackground='#45a049'\r\n        )\r\n        self.status_label.config(text=\"Stopped. Processing final audio...\", fg='#FF9800')\r\n        self.mic_status_label.config(fg='#666666')\r\n        \r\n        # Process any remaining audio\r\n        if self.audio_data:\r\n            threading.Thread(target=self.transcribe_final_audio, daemon=True).start()\r\n        \r\n    def record_audio_realtime(self):\r\n        \"\"\"Record audio continuously with 1-second chunks\"\"\"\r\n        try:\r\n            chunk_samples = int(self.sample_rate * self.chunk_duration)\r\n            current_chunk = []\r\n            chunk_sample_count = 0\r\n            \r\n            def audio_callback(indata, frames, time, status):\r\n                if self.recording:\r\n                    current_chunk.append(indata.copy())\r\n                    nonlocal chunk_sample_count\r\n                    chunk_sample_count += frames\r\n                    \r\n                    if chunk_sample_count >= chunk_samples:\r\n                        chunk_audio = np.concatenate(current_chunk, axis=0)\r\n                        if len(chunk_audio) > 0:\r\n                            self.audio_queue.put(chunk_audio.copy())\r\n                        current_chunk.clear()\r\n                        chunk_sample_count = 0\r\n                    \r\n            with sd.InputStream(\r\n                samplerate=self.sample_rate,\r\n                channels=1,\r\n                dtype='float32',\r\n                callback=audio_callback,\r\n                blocksize=self.sample_rate // 20\r\n            ):\r\n                while self.recording:\r\n                    sd.sleep(50)\r\n                    \r\n            if current_chunk:\r\n                chunk_audio = np.concatenate(current_chunk, axis=0)\r\n                if len(chunk_audio) > 0:\r\n                    self.audio_queue.put(chunk_audio.copy())\r\n                    \r\n        except Exception as e:\r\n            self.root.after(0, lambda: self.show_error(f\"Recording error: {str(e)}\"))\r\n            self.is_listening = False\r\n            \r\n    def process_realtime_transcription_gpu(self):\r\n        \"\"\"GPU-accelerated real-time transcription processing\"\"\"\r\n        import torch\r\n        \r\n        while self.is_listening or not self.audio_queue.empty():\r\n            try:\r\n                try:\r\n                    audio_chunk = self.audio_queue.get(timeout=0.3)\r\n                except queue.Empty:\r\n                    continue\r\n                \r\n                if audio_chunk is None or len(audio_chunk) == 0:\r\n                    continue\r\n                \r\n                # Normalize audio\r\n                audio_array = audio_chunk.flatten()\r\n                if len(audio_array) == 0:\r\n                    continue\r\n                    \r\n                max_val = np.max(np.abs(audio_array))\r\n                if max_val > 0:\r\n                    audio_array = audio_array / max_val\r\n                \r\n                # GPU-optimized transcription\r\n                try:\r\n                    with torch.no_grad():  # Disable gradient computation for speed\r\n                        result = self.model.transcribe(\r\n                            audio_array,\r\n                            language=None,\r\n                            task=\"transcribe\",\r\n                            fp16=(self.device == \"cuda\"),  # Use FP16 on GPU\r\n                            beam_size=1,  # Fast decoding\r\n                            best_of=1,  # Single pass\r\n                            temperature=0.0,  # Deterministic\r\n                            compression_ratio_threshold=2.4,\r\n                            logprob_threshold=-1.0,\r\n                            no_speech_threshold=0.6,\r\n                            condition_on_previous_text=False  # Faster without context\r\n                        )\r\n                    \r\n                    text = result[\"text\"].strip()\r\n                    \r\n                    if text:\r\n                        self.root.after(0, lambda t=text: self.append_text_realtime(t))\r\n                        \r\n                except Exception as e:\r\n                    print(f\"Transcription error: {e}\")\r\n                    pass\r\n                    \r\n            except Exception as e:\r\n                pass\r\n                \r\n    def append_text_realtime(self, text):\r\n        \"\"\"Append transcribed text in real-time\"\"\"\r\n        if text.strip():\r\n            self.transcription_buffer.append(text)\r\n            full_text = \" \".join(self.transcription_buffer)\r\n            self.root.after(0, lambda: self.update_text_display(full_text))\r\n            \r\n            if self.auto_type_enabled:\r\n                self.root.after(0, lambda t=text: self.type_text(t))\r\n                \r\n    def update_text_display(self, text):\r\n        \"\"\"Update the text area with new text\"\"\"\r\n        self.text_area.delete(\"1.0\", tk.END)\r\n        self.text_area.insert(\"1.0\", text)\r\n        self.text_area.see(tk.END)\r\n        chunks = len(self.transcription_buffer)\r\n        self.status_label.config(text=f\"⚡ Transcribing... ({chunks} chunks)\", fg='#4CAF50')\r\n            \r\n    def type_text(self, text):\r\n        \"\"\"Type text using keyboard automation\"\"\"\r\n        try:\r\n            time.sleep(0.2)\r\n            pyautogui.write(text, interval=0.005)  # Very fast typing\r\n            self.root.after(0, lambda: self.status_label.config(\r\n                text=f\"⚡ Typed: {text[:30]}...\", fg='#4CAF50'\r\n            ))\r\n        except Exception as e:\r\n            self.root.after(0, lambda: self.show_error(f\"Auto-type error: {str(e)}\"))\r\n            \r\n    def transcribe_final_audio(self):\r\n        \"\"\"Transcribe any remaining audio after stopping\"\"\"\r\n        try:\r\n            if not self.audio_data:\r\n                return\r\n                \r\n            audio_array = np.concatenate(self.audio_data, axis=0)\r\n            audio_array = audio_array.flatten()\r\n            \r\n            if len(audio_array) == 0:\r\n                return\r\n            \r\n            max_val = np.max(np.abs(audio_array))\r\n            if max_val > 0:\r\n                audio_array = audio_array / max_val\r\n            \r\n            import torch\r\n            with torch.no_grad():\r\n                result = self.model.transcribe(\r\n                    audio_array,\r\n                    language=None,\r\n                    task=\"transcribe\",\r\n                    fp16=(self.device == \"cuda\")\r\n                )\r\n            \r\n            text = result[\"text\"].strip()\r\n            \r\n            if text:\r\n                self.root.after(0, lambda: self.append_text(text))\r\n                self.root.after(0, lambda: self.status_label.config(\r\n                    text=\"✅ Final transcription complete!\", fg='#4CAF50'\r\n                ))\r\n            else:\r\n                self.root.after(0, lambda: self.status_label.config(\r\n                    text=\"No speech detected\", fg='#888888'\r\n                ))\r\n                \r\n        except Exception as e:\r\n            self.root.after(0, lambda: self.show_error(f\"Transcription error: {str(e)}\"))\r\n            \r\n    def append_text(self, text):\r\n        \"\"\"Append transcribed text\"\"\"\r\n        if text.strip():\r\n            current_text = self.text_area.get(\"1.0\", tk.END)\r\n            if current_text.strip():\r\n                self.text_area.insert(tk.END, \" \" + text)\r\n            else:\r\n                self.text_area.insert(tk.END, text)\r\n            self.text_area.see(tk.END)\r\n            \r\n            if self.auto_type_enabled:\r\n                self.type_text(text)\r\n                \r\n    def clear_text(self):\r\n        \"\"\"Clear the text area and buffer\"\"\"\r\n        self.text_area.delete(\"1.0\", tk.END)\r\n        self.transcription_buffer = []\r\n        self.status_label.config(text=\"Text cleared\", fg='#888888')\r\n        \r\n    def copy_text(self):\r\n        \"\"\"Copy text to clipboard\"\"\"\r\n        text = self.text_area.get(\"1.0\", tk.END).strip()\r\n        if text:\r\n            pyperclip.copy(text)\r\n            self.status_label.config(text=\"Text copied to clipboard!\", fg='#4CAF50')\r\n            messagebox.showinfo(\"Success\", \"Text copied to clipboard!\")\r\n        else:\r\n            messagebox.showwarning(\"Warning\", \"No text to copy!\")\r\n            \r\n    def save_text(self):\r\n        \"\"\"Save text to file\"\"\"\r\n        text = self.text_area.get(\"1.0\", tk.END).strip()\r\n        if not text:\r\n            messagebox.showwarning(\"Warning\", \"No text to save!\")\r\n            return\r\n            \r\n        filename = filedialog.asksaveasfilename(\r\n            defaultextension=\".txt\",\r\n            filetypes=[(\"Text files\", \"*.txt\"), (\"All files\", \"*.*\")],\r\n            initialfile=f\"voice_typer_v2_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt\"\r\n        )\r\n        \r\n        if filename:\r\n            try:\r\n                with open(filename, 'w', encoding='utf-8') as f:\r\n                    f.write(text)\r\n                self.status_label.config(text=f\"Saved to {os.path.basename(filename)}\", fg='#4CAF50')\r\n                messagebox.showinfo(\"Success\", f\"Text saved to {filename}\")\r\n            except Exception as e:\r\n                messagebox.showerror(\"Error\", f\"Failed to save file: {str(e)}\")\r\n                \r\n    def show_error(self, message):\r\n        \"\"\"Show error message\"\"\"\r\n        self.status_label.config(text=f\"Error: {message}\", fg='#f44336')\r\n        messagebox.showerror(\"Error\", message)\r\n\r\ndef main():\r\n    \"\"\"Main function\"\"\"\r\n    root = tk.Tk()\r\n    app = VoiceTyperV2GPU(root)\r\n    \r\n    def on_closing():\r\n        \"\"\"Cleanup on window close\"\"\"\r\n        app.is_listening = False\r\n        app.recording = False\r\n        if hasattr(app, 'global_listener') and app.global_listener:\r\n            app.global_listener.stop()\r\n        root.destroy()\r\n    \r\n    root.protocol(\"WM_DELETE_WINDOW\", on_closing)\r\n    root.mainloop()\r\n\r\nif __name__ == \"__main__\":\r\n    main()\r\n",
+        "firstEditBubbleId": "22d35ee2-9a8e-4f10-9895-96a95c32e681",
+        "isNewlyCreated": false,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/scripts/install_gpu_english.bat": {
+        "content": "",
+        "firstEditBubbleId": "787d7b94-be3f-4fb0-87b9-a7a11548150c",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/ENGLISH_GPU_UPDATE.md": {
+        "content": "",
+        "firstEditBubbleId": "725f7253-33a2-4ed1-9b7b-cd504b9c95f4",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -3119,10 +3563,50 @@
           "path": "/K:/VoiceTyper/COMPLETION_REPORT.md",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\scripts\\run_v1.bat",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/scripts/run_v1.bat",
+          "path": "/K:/VoiceTyper/scripts/run_v1.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\FINAL_STATUS.md",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/FINAL_STATUS.md",
+          "path": "/K:/VoiceTyper/FINAL_STATUS.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\scripts\\install_gpu_english.bat",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/scripts/install_gpu_english.bat",
+          "path": "/K:/VoiceTyper/scripts/install_gpu_english.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\ENGLISH_GPU_UPDATE.md",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/ENGLISH_GPU_UPDATE.md",
+          "path": "/K:/VoiceTyper/ENGLISH_GPU_UPDATE.md",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769150543517,
+    "lastUpdatedAt": 1769150829184,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -3198,11 +3682,11 @@
     "forceMode": "edit",
     "usageData": {
       "composer-1": {
-        "costInCents": 80,
-        "amount": 7
+        "costInCents": 112,
+        "amount": 9
       }
     },
-    "contextUsagePercent": 77.4729995727539,
+    "contextUsagePercent": 81.73349952697754,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/voice_typer.py",
       "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
@@ -3234,7 +3718,10 @@
       "file:///k%3A/VoiceTyper/README.md",
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/7.txt",
       "file:///k%3A/VoiceTyper/PROJECT_STATUS.md",
-      "file:///k%3A/VoiceTyper/COMPLETION_REPORT.md"
+      "file:///k%3A/VoiceTyper/COMPLETION_REPORT.md",
+      "file:///k%3A/VoiceTyper/scripts/run_v1.bat",
+      "file:///k%3A/VoiceTyper/FINAL_STATUS.md",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -3271,8 +3758,8 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 3600,
-    "totalLinesRemoved": 32,
+    "totalLinesAdded": 3853,
+    "totalLinesRemoved": 38,
     "addedFiles": 0,
     "removedFiles": 0,
     "isArchived": false,
@@ -3293,11 +3780,11 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "4ae13978-eefc-4b6a-9b5e-f8af5681e941",
+    "latestChatGenerationUUID": "545aa707-aa1d-44e3-9294-9abb960f8705",
     "isAgentic": true,
-    "subtitle": "COMPLETION_REPORT.md, PROJECT_STATUS.md, README.md, run_v2_gpu_venv.bat, install_gpu_k_drive.bat",
-    "filesChangedCount": 29,
+    "subtitle": "ENGLISH_GPU_UPDATE.md, voice_typer_whisper.py, install_gpu_english.bat, voice_typer_whisper_v2_gpu.py, FINAL_STATUS.md",
+    "filesChangedCount": 35,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-23T12:13:01.174599"
+  "extracted_at": "2026-01-23T12:18:00.746839"
 }
