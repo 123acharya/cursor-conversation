@@ -1231,10 +1231,31 @@
       {
         "bubbleId": "d70c246d-24e2-4330-9711-a538abe4aaec",
         "type": 2
+      },
+      {
+        "bubbleId": "14349b79-a802-451d-a78d-e4653ed09a48",
+        "type": 1
+      },
+      {
+        "bubbleId": "a6722a62-fd32-4e34-bb88-3572da267571",
+        "type": 2,
+        "serverBubbleId": "96058237-6600-4a40-98ed-d5782efb335f"
+      },
+      {
+        "bubbleId": "c387ac3e-1b06-4c9e-9400-afce2aabc169",
+        "type": 2
+      },
+      {
+        "bubbleId": "5dc3f583-f125-464a-8601-5d2002e59750",
+        "type": 2
+      },
+      {
+        "bubbleId": "2776dc3f-1a9f-4e13-b90a-ce1b6c5b0025",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -1284,6 +1305,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "4ae13978-eefc-4b6a-9b5e-f8af5681e941",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -3100,7 +3122,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769149229807,
+    "lastUpdatedAt": 1769150543517,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -3180,7 +3202,7 @@
         "amount": 7
       }
     },
-    "contextUsagePercent": 76.29500007629395,
+    "contextUsagePercent": 77.4729995727539,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/voice_typer.py",
       "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
@@ -3210,7 +3232,9 @@
       "file:///k%3A/VoiceTyper/scripts/install_gpu_k_drive.bat",
       "file:///k%3A/VoiceTyper/scripts/run_v2_gpu_venv.bat",
       "file:///k%3A/VoiceTyper/README.md",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/7.txt"
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/7.txt",
+      "file:///k%3A/VoiceTyper/PROJECT_STATUS.md",
+      "file:///k%3A/VoiceTyper/COMPLETION_REPORT.md"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -3269,11 +3293,11 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "7be19eaa-4ae5-4b57-b0a4-3d2c6d4923f4",
+    "latestChatGenerationUUID": "4ae13978-eefc-4b6a-9b5e-f8af5681e941",
     "isAgentic": true,
     "subtitle": "COMPLETION_REPORT.md, PROJECT_STATUS.md, README.md, run_v2_gpu_venv.bat, install_gpu_k_drive.bat",
     "filesChangedCount": 29,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-23T12:08:00.717028"
+  "extracted_at": "2026-01-23T12:13:01.174599"
 }
