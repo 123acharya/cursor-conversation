@@ -654,6 +654,119 @@
       {
         "bubbleId": "077da62b-609d-4c2e-b296-13162b009772",
         "type": 2
+      },
+      {
+        "bubbleId": "6fa97185-a7d8-4db7-a20c-d4fc4ad32f5d",
+        "type": 1
+      },
+      {
+        "bubbleId": "1ac13e77-68fe-4f1a-b020-29aa6f5e0c34",
+        "type": 2,
+        "serverBubbleId": "38c96750-e193-4dd6-bcef-3ac76b1f18c7"
+      },
+      {
+        "bubbleId": "d68de1d8-1778-429a-bd84-e4e559b310a7",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f21d82e-48f2-4d47-87e3-0f642fcef694",
+        "type": 2
+      },
+      {
+        "bubbleId": "51c6f5f7-ab5a-4a8e-bf8a-e8ed8173a062",
+        "type": 2
+      },
+      {
+        "bubbleId": "29334f31-fed6-4a27-b35f-6f1a7011af80",
+        "type": 2
+      },
+      {
+        "bubbleId": "60e912c4-6547-404e-aea5-8d280fd34e67",
+        "type": 2
+      },
+      {
+        "bubbleId": "dc46fa2c-f7a4-4fcb-a73e-5921cba655b1",
+        "type": 2
+      },
+      {
+        "bubbleId": "06cffdd5-5e02-4e1a-871f-06c45fbf92cc",
+        "type": 2
+      },
+      {
+        "bubbleId": "020dd976-eaec-4cb4-a045-47a3e2c179a5",
+        "type": 2
+      },
+      {
+        "bubbleId": "60375409-b40d-40b4-bbb3-6df4a4e28ea4",
+        "type": 2
+      },
+      {
+        "bubbleId": "2d9ac79f-5f27-4827-9c66-317a6ded4038",
+        "type": 2,
+        "serverBubbleId": "5958fac4-f35f-42b6-a968-4861adfd649d"
+      },
+      {
+        "bubbleId": "1c8ad879-fa33-4ce8-a62f-f1a5f8675a8c",
+        "type": 2
+      },
+      {
+        "bubbleId": "07c959c2-9f77-4e9c-b444-2209e0a510eb",
+        "type": 2
+      },
+      {
+        "bubbleId": "f825edf2-fee8-4fae-b084-dcbad3331786",
+        "type": 2
+      },
+      {
+        "bubbleId": "4c4b3d33-a8b5-4b34-8fcb-1083bca9267b",
+        "type": 2
+      },
+      {
+        "bubbleId": "a6e97dd2-b6f7-4611-9183-b9263182ba24",
+        "type": 2,
+        "serverBubbleId": "610d31d6-841e-44ca-8a77-250fdfd47bde"
+      },
+      {
+        "bubbleId": "995692c3-45ae-4694-92ae-88a6937f9ccd",
+        "type": 2
+      },
+      {
+        "bubbleId": "96cbe428-6ea7-4974-910e-1c7d763af945",
+        "type": 2
+      },
+      {
+        "bubbleId": "bc777dd5-e981-45eb-889f-d8d5c29e1ab7",
+        "type": 2
+      },
+      {
+        "bubbleId": "7eb6e736-86e8-431d-a976-39a30ecf7f70",
+        "type": 2
+      },
+      {
+        "bubbleId": "6526a9c1-3d9c-404b-95b3-4b9c27e4fd45",
+        "type": 2,
+        "serverBubbleId": "1e2514f9-b900-4fc2-bbaf-7d103e835631"
+      },
+      {
+        "bubbleId": "943863d6-9432-49ba-b7d1-15be9db2b815",
+        "type": 2
+      },
+      {
+        "bubbleId": "51f535ed-2dc9-43c0-9256-00fbdd1e66d4",
+        "type": 2
+      },
+      {
+        "bubbleId": "331a4d51-5f75-49d8-b847-f0e22a8421e5",
+        "type": 2
+      },
+      {
+        "bubbleId": "625e95ae-52d0-45a0-99e8-685cfd2f1f32",
+        "type": 2,
+        "serverBubbleId": "64775ee8-9ed1-4927-bb97-c52606a86c9a"
+      },
+      {
+        "bubbleId": "d8b8c539-28d9-49de-b6bd-78350162547d",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -1200,6 +1313,54 @@
           "lastDiffId": "a77db0d1-b6fa-4f7d-8a26-14c300723a76",
           "lastAppliedAt": 1768917054784
         }
+      },
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/README.md": {
+        "33cdeb66-141a-4c72-9627-1d417356b5cb": {
+          "_v": 3,
+          "bubbleId": "bc777dd5-e981-45eb-889f-d8d5c29e1ab7",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\Cursor_AutoAccept\\README.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/README.md",
+            "path": "/c:/Users/pc/Desktop/Cursor_AutoAccept/README.md",
+            "scheme": "file"
+          },
+          "codeblockId": "33cdeb66-141a-4c72-9627-1d417356b5cb",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769147816245,
+          "composerChatGenerationUuid": "476b1e87-af65-451e-9505-a196122e3d08",
+          "diffId": "dda0e2fe-9ad3-4017-9ba5-d07e8dd0ac98",
+          "lastDiffId": "888dda1b-39d9-4871-83d5-19b8712e0f95",
+          "lastAppliedAt": 1769147819351
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt": {
+        "e083a903-d9b1-498f-a2aa-520ab0cb7c73": {
+          "_v": 3,
+          "bubbleId": "51f535ed-2dc9-43c0-9256-00fbdd1e66d4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\Cursor_AutoAccept\\QUICK_START.txt",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
+            "path": "/c:/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "e083a903-d9b1-498f-a2aa-520ab0cb7c73",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769147821129,
+          "composerChatGenerationUuid": "476b1e87-af65-451e-9505-a196122e3d08",
+          "diffId": "97e347ba-00bb-4113-aa8f-9f82e7cbb212",
+          "lastDiffId": "c4633c37-81b9-45f5-bf8d-9119b85f03f2",
+          "lastAppliedAt": 1769147822802
+        }
       }
     },
     "originalFileStates": {
@@ -1284,6 +1445,18 @@
       "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_EXEC_FIXED.py": {
         "content": "",
         "firstEditBubbleId": "f6dc2943-629f-4bff-86cf-24f499e0fc18",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/README.md": {
+        "content": "",
+        "firstEditBubbleId": "bc777dd5-e981-45eb-889f-d8d5c29e1ab7",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt": {
+        "content": "",
+        "firstEditBubbleId": "51f535ed-2dc9-43c0-9256-00fbdd1e66d4",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -1428,10 +1601,30 @@
           "path": "/c:/Users/pc/Desktop/INSTALL_PART1_EXEC_FIXED.py",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\Cursor_AutoAccept\\README.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/README.md",
+          "path": "/c:/Users/pc/Desktop/Cursor_AutoAccept/README.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\Cursor_AutoAccept\\QUICK_START.txt",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
+          "path": "/c:/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1768917059097,
+    "lastUpdatedAt": 1769147825604,
     "createdAt": 1768912966484,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -1505,14 +1698,18 @@
     "browserChipManuallyEnabled": false,
     "unifiedMode": "agent",
     "forceMode": "edit",
-    "usageData": {},
-    "contextUsagePercent": 32.00550079345703,
+    "usageData": {
+      "composer-1": {
+        "costInCents": 13,
+        "amount": 1
+      }
+    },
+    "contextUsagePercent": 33.68450164794922,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk",
       "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
       "file:///c%3A/Users/pc/Desktop/start_cursor_auto_accept.bat",
       "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/6.txt",
       "file:///c%3A/Users/pc/Desktop/test_cursor_detection.ahk",
       "file:///c%3A/Users/pc/Desktop/test_and_start.bat",
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2.ahk",
@@ -1520,7 +1717,6 @@
       "file:///c%3A/Users/pc/Desktop/start_simple_script.bat",
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
       "file:///c%3A/Users/pc/Desktop/START_HERE.bat",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/5.txt",
       "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_DOCTYPE_FIXED.py"
     ],
     "modelConfig": {
@@ -1533,7 +1729,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 1126,
+    "totalLinesAdded": 1243,
     "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -1555,10 +1751,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "37006cc5-5db3-47cc-8ae6-1137100d7cc4",
+    "latestChatGenerationUUID": "476b1e87-af65-451e-9505-a196122e3d08",
     "isAgentic": true,
-    "subtitle": "INSTALL_PART1_EXEC_FIXED.py, INSTALL_PART1_IPYTHON.py",
-    "filesChangedCount": 14
+    "subtitle": "QUICK_START.txt, README.md, INSTALL_PART1_EXEC_FIXED.py, INSTALL_PART1_IPYTHON.py",
+    "filesChangedCount": 16
   },
-  "extracted_at": "2026-01-23T11:23:00.706165"
+  "extracted_at": "2026-01-23T11:28:00.659638"
 }

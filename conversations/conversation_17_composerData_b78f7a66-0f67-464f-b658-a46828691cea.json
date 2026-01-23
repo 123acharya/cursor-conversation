@@ -1021,6 +1021,56 @@
       {
         "bubbleId": "7f2e9451-42c1-42e7-9ba7-4fedcbfdda69",
         "type": 2
+      },
+      {
+        "bubbleId": "4d299301-8efe-4d90-8386-f2b1eecd6d3b",
+        "type": 1
+      },
+      {
+        "bubbleId": "31cd2692-f1cb-41e1-8af2-3c0d0ffdfe92",
+        "type": 2,
+        "serverBubbleId": "cbaf4df6-ef0c-47a0-aae0-d0b6567ebae6"
+      },
+      {
+        "bubbleId": "34415e45-5e7b-4b33-bd7b-80b435575a4d",
+        "type": 2
+      },
+      {
+        "bubbleId": "0f0b87cd-22af-48de-8981-2e2d3b41eca8",
+        "type": 2
+      },
+      {
+        "bubbleId": "7c91b3a7-4024-4663-81ec-560cc4b5acc0",
+        "type": 2
+      },
+      {
+        "bubbleId": "5399824a-3948-4afa-8c4a-d4b85dad5a39",
+        "type": 2,
+        "serverBubbleId": "26cf61f3-bbf0-4da2-96ea-213b2719578f"
+      },
+      {
+        "bubbleId": "ca605092-fce2-49ec-b13f-ad973b8961ef",
+        "type": 2
+      },
+      {
+        "bubbleId": "17929dd8-da51-475a-ab1e-ca24673b642b",
+        "type": 2
+      },
+      {
+        "bubbleId": "f73f8766-2577-4f97-8ce1-f3bdb7154456",
+        "type": 2
+      },
+      {
+        "bubbleId": "645d92ff-bc13-4e32-956a-410c3195ab76",
+        "type": 2
+      },
+      {
+        "bubbleId": "dbe2b0f5-ecf9-4905-94fb-12c9360b08cd",
+        "type": 2
+      },
+      {
+        "bubbleId": "c3324f53-fb4d-4fdd-818c-f62805abccd1",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -1074,7 +1124,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "fc233b89-c225-4967-a706-afc7e14d8066",
+    "chatGenerationUUID": "76f8c3bf-a439-4d14-8c92-105c5b8169bf",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -2621,7 +2671,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769091584536,
+    "lastUpdatedAt": 1769147838028,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -2701,7 +2751,7 @@
         "amount": 6
       }
     },
-    "contextUsagePercent": 50.30400085449219,
+    "contextUsagePercent": 51.5260009765625,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/voice_typer.py",
       "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
@@ -2721,7 +2771,10 @@
       "file:///k%3A/VoiceTyper/voice_typer_whisper_v2_gpu.py",
       "file:///k%3A/VoiceTyper/GPU_SETUP_GUIDE.md",
       "file:///k%3A/VoiceTyper/install_gpu_pytorch.bat",
-      "file:///k%3A/VoiceTyper/run_v2_gpu.bat"
+      "file:///k%3A/VoiceTyper/run_v2_gpu.bat",
+      "file:///k%3A/VoiceTyper/install_gpu_pytorch_fixed.bat",
+      "file:///k%3A/VoiceTyper/GPU_INSTALL_STATUS.md",
+      "file:///k%3A/VoiceTyper/run_v2_gpu_venv.bat"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -2780,11 +2833,11 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "fc233b89-c225-4967-a706-afc7e14d8066",
+    "latestChatGenerationUUID": "76f8c3bf-a439-4d14-8c92-105c5b8169bf",
     "isAgentic": true,
-    "subtitle": "run_v2_gpu_venv.bat, GPU_INSTALL_STATUS.md, install_gpu_pytorch_fixed.bat",
+    "subtitle": "PROJECT_STRUCTURE.md, run_v2_gpu_venv.bat, GPU_INSTALL_STATUS.md, install_gpu_pytorch_fixed.bat",
     "filesChangedCount": 23,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-23T11:23:00.706165"
+  "extracted_at": "2026-01-23T11:28:00.659638"
 }
