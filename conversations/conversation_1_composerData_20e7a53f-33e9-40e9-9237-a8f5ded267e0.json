@@ -5048,6 +5048,110 @@
       {
         "bubbleId": "16f06606-bc08-4f35-85d5-cae1abc3343e",
         "type": 2
+      },
+      {
+        "bubbleId": "22b578ad-aaab-400a-8d73-ba5d70747714",
+        "type": 1
+      },
+      {
+        "bubbleId": "aedc3cec-b5c8-43a5-9f84-dc0510f5c2f7",
+        "type": 2,
+        "serverBubbleId": "db76f0b4-93a3-46cc-81c4-7abb37de3c82"
+      },
+      {
+        "bubbleId": "7abed5db-9f38-4c83-b2ca-08164a1e4c11",
+        "type": 2
+      },
+      {
+        "bubbleId": "ad3c832e-83c2-4d5e-937a-6aaac80e3572",
+        "type": 2
+      },
+      {
+        "bubbleId": "5b89abd3-384e-4de3-81ea-c705e9410277",
+        "type": 2,
+        "serverBubbleId": "239b0a99-96a9-4146-9c6f-1546b0136016"
+      },
+      {
+        "bubbleId": "01bacbaa-ff94-47fb-82ed-d2694d952378",
+        "type": 2
+      },
+      {
+        "bubbleId": "ae26bfa2-72c9-4d2a-9379-0a4568023461",
+        "type": 2
+      },
+      {
+        "bubbleId": "55c65097-77f0-4f0b-a501-b3339b08c57d",
+        "type": 2,
+        "serverBubbleId": "0e09f999-53f4-43cb-a1fc-9f27f537500f"
+      },
+      {
+        "bubbleId": "632d8b8b-0dfe-41c0-a27c-c0bea2f3c28b",
+        "type": 2
+      },
+      {
+        "bubbleId": "f6f046f4-b7fd-4f40-8ce1-eed8e56ff0f5",
+        "type": 2
+      },
+      {
+        "bubbleId": "f82b1b83-afa4-4062-b910-629ef346bd2d",
+        "type": 2,
+        "serverBubbleId": "c5b9edf1-f6ce-4479-95bd-fdd4ad031756"
+      },
+      {
+        "bubbleId": "74ac7a6c-19c9-434b-ac2a-e221f70fbac8",
+        "type": 2
+      },
+      {
+        "bubbleId": "82c0fd2b-41af-44b3-96b4-43ee15a73416",
+        "type": 2
+      },
+      {
+        "bubbleId": "10b3f94b-4215-461d-aa59-7cc28d431178",
+        "type": 2,
+        "serverBubbleId": "f3744e37-91bd-462d-8b58-03c4ef83bc5e"
+      },
+      {
+        "bubbleId": "ad86b039-2aec-4849-bc8c-21d4679511ff",
+        "type": 2
+      },
+      {
+        "bubbleId": "cb751dbe-4ba3-4e49-ba59-1440c4c5eba1",
+        "type": 2
+      },
+      {
+        "bubbleId": "6bbed965-5d1f-4555-b873-a36faa1ec7eb",
+        "type": 2,
+        "serverBubbleId": "43e48efb-5506-43b3-b9b5-efd1782f1327"
+      },
+      {
+        "bubbleId": "1b8a8d29-fdba-489f-9a4a-00728d1cc0c7",
+        "type": 2
+      },
+      {
+        "bubbleId": "e03a443d-1007-4853-9b32-6965b468e063",
+        "type": 2
+      },
+      {
+        "bubbleId": "04ce3233-fea7-4ca8-a17f-06388d3a975a",
+        "type": 2,
+        "serverBubbleId": "06b5d0d9-dab2-46c2-8057-1a9e02f17110"
+      },
+      {
+        "bubbleId": "1c8637e3-19ab-465b-8a41-ec95aad40a18",
+        "type": 2
+      },
+      {
+        "bubbleId": "f3c99d1d-5e3b-420d-b176-13c594becbb7",
+        "type": 2
+      },
+      {
+        "bubbleId": "a0699bd7-9c9f-450d-97fe-38c21dc4b673",
+        "type": 2,
+        "serverBubbleId": "2c222db2-6826-4347-9249-d65f670a0b3b"
+      },
+      {
+        "bubbleId": "4d295e26-077f-46ae-a3cd-13cd71c95801",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -17529,6 +17633,110 @@
           "diffId": "88297ec1-b2de-429b-9748-1195902d4640",
           "lastDiffId": "4d8e851b-fa61-412f-b9d8-db1ee7e9abf0",
           "lastAppliedAt": 1769152596059
+        },
+        "220f06d5-1315-4a86-9b7f-08da9a6716a1": {
+          "_v": 3,
+          "bubbleId": "f6f046f4-b7fd-4f40-8ce1-eed8e56ff0f5",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "220f06d5-1315-4a86-9b7f-08da9a6716a1",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "cf407ee0-fd18-420b-aa78-a622db7b75e8",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152727923,
+          "composerChatGenerationUuid": "9b6431e5-8ed8-4fe5-8674-5b8dca5b21a3",
+          "diffId": "cbb5858f-4846-41e2-8e1b-a452266bfb9d",
+          "lastDiffId": "bdfc03a9-6384-4b93-8cb5-8ba936d25239",
+          "lastAppliedAt": 1769152731556
+        },
+        "3962f34d-c060-43b6-a0f0-fd21a4c810ad": {
+          "_v": 3,
+          "bubbleId": "82c0fd2b-41af-44b3-96b4-43ee15a73416",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "3962f34d-c060-43b6-a0f0-fd21a4c810ad",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "220f06d5-1315-4a86-9b7f-08da9a6716a1",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152734215,
+          "composerChatGenerationUuid": "9b6431e5-8ed8-4fe5-8674-5b8dca5b21a3",
+          "diffId": "c39fa207-4002-4cff-8493-45fc6117ca8b",
+          "lastDiffId": "3546e697-f2d4-48a5-b3fd-d63b554e2113",
+          "lastAppliedAt": 1769152738567
+        },
+        "d96bf81e-87aa-4493-bbcd-46cba81cfb62": {
+          "_v": 3,
+          "bubbleId": "cb751dbe-4ba3-4e49-ba59-1440c4c5eba1",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "d96bf81e-87aa-4493-bbcd-46cba81cfb62",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "3962f34d-c060-43b6-a0f0-fd21a4c810ad",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152741216,
+          "composerChatGenerationUuid": "9b6431e5-8ed8-4fe5-8674-5b8dca5b21a3",
+          "diffId": "8fb5a7d4-4dde-47e4-8689-98b0401ee4fa",
+          "lastDiffId": "b560bed4-490a-4798-9008-ae260b367cfd",
+          "lastAppliedAt": 1769152746093
+        },
+        "b2c92944-2355-4a8b-b59d-0c3af4cf4a24": {
+          "_v": 3,
+          "bubbleId": "e03a443d-1007-4853-9b32-6965b468e063",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "b2c92944-2355-4a8b-b59d-0c3af4cf4a24",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "d96bf81e-87aa-4493-bbcd-46cba81cfb62",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152748871,
+          "composerChatGenerationUuid": "9b6431e5-8ed8-4fe5-8674-5b8dca5b21a3",
+          "diffId": "bc3478e2-95b6-4be2-b481-e586b20a12f0",
+          "lastDiffId": "864b5afb-b61c-4a0e-8621-8b89cc724471",
+          "lastAppliedAt": 1769152753243
         }
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md": {
@@ -21685,7 +21893,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769152612018,
+    "lastUpdatedAt": 1769152761149,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -21761,11 +21969,11 @@
     "forceMode": "edit",
     "usageData": {
       "composer-1": {
-        "costInCents": 695,
-        "amount": 34
+        "costInCents": 730,
+        "amount": 35
       }
     },
-    "contextUsagePercent": 77.92700004577637,
+    "contextUsagePercent": 80.6245002746582,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/CREATE_CHILD_TABLE_TABLES.py",
       "file:///c%3A/Users/pc/Desktop/FIX_CHILD_TABLES_COMPLETE.py",
@@ -21780,7 +21988,8 @@
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/7.txt",
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/9.txt",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/10.txt"
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/10.txt",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/11.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -21792,7 +22001,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 45926,
+    "totalLinesAdded": 45925,
     "totalLinesRemoved": 25,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -21814,10 +22023,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "1ea38fa6-b00d-402c-9144-3eab82f8b9f3",
+    "latestChatGenerationUUID": "9b6431e5-8ed8-4fe5-8674-5b8dca5b21a3",
     "isAgentic": true,
     "subtitle": "FIX_ENTER_KEY_SEARCH.py, PCB_IQC_RESULT_WORKFLOW.md, FIX_PARENT_ERROR_COMPLETE.py, README.md, ORGANIZE_PCB_IQC_FILES.ps1",
     "filesChangedCount": 333
   },
-  "extracted_at": "2026-01-23T12:48:00.775305"
+  "extracted_at": "2026-01-23T12:53:00.800348"
 }
