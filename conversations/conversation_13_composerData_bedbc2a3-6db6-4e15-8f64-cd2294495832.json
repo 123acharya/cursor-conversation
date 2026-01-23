@@ -1203,6 +1203,19 @@
       {
         "bubbleId": "48b1c1b6-6da7-4bd5-8d3e-f4c3da86513b",
         "type": 2
+      },
+      {
+        "bubbleId": "95a90228-18ad-466a-acc7-307db44a2b5f",
+        "type": 1
+      },
+      {
+        "bubbleId": "bd764bbd-51e1-496d-999c-6684aa7d10dd",
+        "type": 2,
+        "serverBubbleId": "a8f9b87c-f5b2-4ce0-963f-58c3302f938b"
+      },
+      {
+        "bubbleId": "9d59586c-9f8e-4670-ab58-9eca17935cc1",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -2380,7 +2393,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769178142061,
+    "lastUpdatedAt": 1769178904462,
     "createdAt": 1768912966484,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -2460,7 +2473,9 @@
         "amount": 1
       }
     },
-    "contextUsagePercent": 71.25300025939941,
+    "contextUsagePercent": 50.431251525878906,
+    "contextTokensUsed": 137173,
+    "contextTokenLimit": 272000,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk",
       "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
@@ -2486,10 +2501,11 @@
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/VERIFY_AND_COMPLETE.py",
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/QUICK_VERIFY.py",
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_DOMINANT_CHANNEL_VALIDATION.py",
-      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDITING_ON_SUBMITTED.py"
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDITING_ON_SUBMITTED.py",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FORCE_ENABLE_UPDATE_BUTTON.py"
     ],
     "modelConfig": {
-      "modelName": "composer-1",
+      "modelName": "gpt-5.2",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -2520,10 +2536,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "a601081a-a9a8-4faa-b750-b3bf93bf79a8",
+    "latestChatGenerationUUID": "1e5333c5-0fe1-4495-9326-f99a4202da05",
     "isAgentic": true,
     "subtitle": "FORCE_ENABLE_UPDATE_BUTTON.py, ENABLE_EDITING_ON_SUBMITTED.py, FIX_DOMINANT_CHANNEL_VALIDATION.py, QUICK_VERIFY.py, VERIFY_AND_COMPLETE.py",
     "filesChangedCount": 24
   },
-  "extracted_at": "2026-01-23T20:03:00.609100"
+  "extracted_at": "2026-01-23T20:08:00.927785"
 }
