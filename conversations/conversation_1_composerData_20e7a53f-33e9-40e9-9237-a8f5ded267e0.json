@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"right now none of the setp 2 step3 step 4 are working \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Enter key (keydown) pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:66 Enter key (keydown) pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:155 Clearing existing child rows before save...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"model.js:614 Uncaught TypeError: Cannot convert undefined or null to object\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at Object.clear_table (model.js:614:31)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at frappe.ui.form.Form.clear_table (form.js:1583:16)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at search_pcb_in_table (pcb_iqc_result__custom_js:157:13)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at HTMLInputElement.eval (pcb_iqc_result__custom_js:67:21)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:66 Enter key (keydown) pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:155 Clearing existing child rows before save...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"model.js:614 Uncaught TypeError: Cannot convert undefined or null to object\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at Object.clear_table (model.js:614:31)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at frappe.ui.form.Form.clear_table (form.js:1583:16)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at search_pcb_in_table (pcb_iqc_result__custom_js:157:13)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at HTMLInputElement.eval (pcb_iqc_result__custom_js:67:21)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"datetime.js:21 Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Arguments: \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"[0] _isAMomentObject: true, _isUTC: true, _useUTC: true, _l: undefined, _i: undefined, _f: undefined, _strict: undefined, _locale: [object Object]\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Error\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at Object.convert_to_user_tz (datetime.js:21:6)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at zo (pretty_date.js:5:26)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:66 Enter key (keydown) pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:155 Clearing existing child rows before save...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"model.js:614 Uncaught TypeError: Cannot convert undefined or null to object\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at Object.clear_table (model.js:614:31)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at frappe.ui.form.Form.clear_table (form.js:1583:16)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at search_pcb_in_table (pcb_iqc_result__custom_js:157:13)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    at HTMLInputElement.eval (pcb_iqc_result__custom_js:67:21)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"u are building one thing and when u are editing for onther application u\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "right now none of the setp 2 step3 step 4 are working \nEnter key (keydown) pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:66 Enter key (keydown) pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\npcb_iqc_result__custom_js:155 Clearing existing child rows before save...\nmodel.js:614 Uncaught TypeError: Cannot convert undefined or null to object\n    at Object.clear_table (model.js:614:31)\n    at frappe.ui.form.Form.clear_table (form.js:1583:16)\n    at search_pcb_in_table (pcb_iqc_result__custom_js:157:13)\n    at HTMLInputElement.eval (pcb_iqc_result__custom_js:67:21)\npcb_iqc_result__custom_js:66 Enter key (keydown) pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\npcb_iqc_result__custom_js:155 Clearing existing child rows before save...\nmodel.js:614 Uncaught TypeError: Cannot convert undefined or null to object\n    at Object.clear_table (model.js:614:31)\n    at frappe.ui.form.Form.clear_table (form.js:1583:16)\n    at search_pcb_in_table (pcb_iqc_result__custom_js:157:13)\n    at HTMLInputElement.eval (pcb_iqc_result__custom_js:67:21)\ndatetime.js:21 Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.\nArguments: \n[0] _isAMomentObject: true, _isUTC: true, _useUTC: true, _l: undefined, _i: undefined, _f: undefined, _strict: undefined, _locale: [object Object]\nError\n    at Object.convert_to_user_tz (datetime.js:21:6)\n    at zo (pretty_date.js:5:26)\npcb_iqc_result__custom_js:66 Enter key (keydown) pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\npcb_iqc_result__custom_js:155 Clearing existing child rows before save...\nmodel.js:614 Uncaught TypeError: Cannot convert undefined or null to object\n    at Object.clear_table (model.js:614:31)\n    at frappe.ui.form.Form.clear_table (form.js:1583:16)\n    at search_pcb_in_table (pcb_iqc_result__custom_js:157:13)\n    at HTMLInputElement.eval (pcb_iqc_result__custom_js:67:21)\n\nu are building one thing and when u are editing for onther application u",
+    "text": "",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "c58882f5-de9a-4957-87eb-4ed0c6f2e5d7",
@@ -4852,6 +4852,201 @@
       },
       {
         "bubbleId": "192f87a6-5769-411b-810b-7612e5bd2a3d",
+        "type": 2
+      },
+      {
+        "bubbleId": "c5374b46-9e56-4140-af5c-585d27bc64d6",
+        "type": 1
+      },
+      {
+        "bubbleId": "59468e42-cd1b-4215-a13f-0334f97f7ba1",
+        "type": 2,
+        "serverBubbleId": "6b00f1cc-f3cd-4ef3-9a35-ab8963486b3b"
+      },
+      {
+        "bubbleId": "187d64c0-4ea1-4fad-aaa1-0ad57ea33e93",
+        "type": 2
+      },
+      {
+        "bubbleId": "fbf8e33a-5aef-40d8-9895-6a7b3e07cda4",
+        "type": 2
+      },
+      {
+        "bubbleId": "70e16cb4-2787-48e4-b1ee-7741fe42c580",
+        "type": 2,
+        "serverBubbleId": "7fb5b8cd-4d41-4ad7-8b58-995e9e1dd330"
+      },
+      {
+        "bubbleId": "f549b3da-89b9-448b-96c0-03011bcf2919",
+        "type": 2
+      },
+      {
+        "bubbleId": "98f16080-28c9-4cd9-96d3-5cac41a46489",
+        "type": 2
+      },
+      {
+        "bubbleId": "81ce57bb-67a6-44fa-b26a-b6b9838cbbd6",
+        "type": 2,
+        "serverBubbleId": "b21988a2-56e1-4cf1-9cbd-c4f433522b6a"
+      },
+      {
+        "bubbleId": "02aaaeb4-6a4a-4109-aa8c-f3d077d3b464",
+        "type": 2
+      },
+      {
+        "bubbleId": "e37c3d9e-1741-4dad-a9ec-e915e465816c",
+        "type": 2
+      },
+      {
+        "bubbleId": "be32c926-430f-4abc-a163-210a84f805c5",
+        "type": 2,
+        "serverBubbleId": "ab3300c7-d197-4646-b37f-aa24ad8ffcd5"
+      },
+      {
+        "bubbleId": "9a29ce9b-1c03-46f9-bd71-ef9f59ec6905",
+        "type": 2
+      },
+      {
+        "bubbleId": "371ecabb-a888-4529-b270-dac3a98b6e87",
+        "type": 2
+      },
+      {
+        "bubbleId": "d0357754-1f95-4db6-b42c-aed6f9fa1322",
+        "type": 2,
+        "serverBubbleId": "a8261730-9b47-4bf3-a807-8beb83480f1b"
+      },
+      {
+        "bubbleId": "8067067a-ce6d-4a41-b1a3-d2457da605da",
+        "type": 2
+      },
+      {
+        "bubbleId": "af2d28a2-438f-4b36-88d9-532b1f18676f",
+        "type": 1
+      },
+      {
+        "bubbleId": "40edea83-4bb3-48ce-a65f-7b2c5fa52b02",
+        "type": 2,
+        "serverBubbleId": "f4bb8b32-842b-4bea-bb6e-175140db9dc6"
+      },
+      {
+        "bubbleId": "b2c2e2e3-39a0-452d-b604-2bbd9f7f0585",
+        "type": 2
+      },
+      {
+        "bubbleId": "712d3891-6807-4fb1-b89e-dbc515f5795f",
+        "type": 2
+      },
+      {
+        "bubbleId": "9e2cbde9-f5ba-42be-b4cd-91de7ea12080",
+        "type": 2,
+        "serverBubbleId": "e0bb48f9-e8ed-4371-81a0-40fc19428c31"
+      },
+      {
+        "bubbleId": "ad92a0e1-96c1-4e08-8f22-ce17287ff8a9",
+        "type": 2
+      },
+      {
+        "bubbleId": "15f77490-5906-48e6-b997-561352a45df1",
+        "type": 2
+      },
+      {
+        "bubbleId": "6cca76a3-070c-4481-96a8-194e68278af2",
+        "type": 2,
+        "serverBubbleId": "7c580771-8ac9-4c89-9aec-ca9dc9943650"
+      },
+      {
+        "bubbleId": "07a1f913-6c52-4e9c-8a29-2b3d3abe0f44",
+        "type": 2
+      },
+      {
+        "bubbleId": "03d612d0-c85e-4063-9a2c-2430c41640f7",
+        "type": 2
+      },
+      {
+        "bubbleId": "1435e2f1-e78a-42f2-88b1-4f78e92022dd",
+        "type": 2,
+        "serverBubbleId": "36252077-9ec9-4897-892d-2462636bed80"
+      },
+      {
+        "bubbleId": "828aca40-df59-4a4d-956b-4ea90f9eecb8",
+        "type": 2
+      },
+      {
+        "bubbleId": "aa61bf1c-3426-4426-b142-caad4af39ff5",
+        "type": 2
+      },
+      {
+        "bubbleId": "c35dd9f9-7e4d-4ebb-b408-6b44255bfbb4",
+        "type": 2,
+        "serverBubbleId": "8ccb902b-2d0d-4304-b456-95a86eadf17a"
+      },
+      {
+        "bubbleId": "ff95d853-7691-4623-9d7c-dbb5b05029eb",
+        "type": 2
+      },
+      {
+        "bubbleId": "b352349d-8879-4aa6-8fe5-53085d358504",
+        "type": 2
+      },
+      {
+        "bubbleId": "92801c70-776a-44a2-b2f9-7a9b93aaaeb8",
+        "type": 2,
+        "serverBubbleId": "fec439d8-f27d-4af9-b063-1e617068cb59"
+      },
+      {
+        "bubbleId": "d2f3a2ec-4fcf-4b49-ae34-14905e24f520",
+        "type": 2
+      },
+      {
+        "bubbleId": "fb60b175-3aa0-44cf-80ea-0b816a9031fb",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f62f0a8-b701-4ec9-aa8a-ca38a0783ad3",
+        "type": 2,
+        "serverBubbleId": "938ee7f6-1b2d-4215-882a-ab4b4ab84e0d"
+      },
+      {
+        "bubbleId": "792757ae-56f7-4cc7-b5ce-ab09186396a3",
+        "type": 2
+      },
+      {
+        "bubbleId": "77dab6f4-6ab9-40ad-a9aa-72a40869b079",
+        "type": 2
+      },
+      {
+        "bubbleId": "76921065-a44c-4b8c-9dfb-23be2b1af16a",
+        "type": 2,
+        "serverBubbleId": "8243d540-05d8-44ab-ba71-ad4f078ccb21"
+      },
+      {
+        "bubbleId": "7797dc5a-b50d-47ab-81f7-e90f220fade5",
+        "type": 2
+      },
+      {
+        "bubbleId": "f313a1f4-8c8c-4ec6-a060-146843960685",
+        "type": 2
+      },
+      {
+        "bubbleId": "2f2b2059-4f86-4fee-8173-77aad2a1eb6d",
+        "type": 2,
+        "serverBubbleId": "0471f713-8839-438b-8b09-7d9c5730e2d3"
+      },
+      {
+        "bubbleId": "e2ad6708-d17e-4ab5-9bcc-bd08bb24c560",
+        "type": 2
+      },
+      {
+        "bubbleId": "e03deabe-9894-4fb5-a45e-f076afc70089",
+        "type": 2
+      },
+      {
+        "bubbleId": "6699cc1d-cff7-439d-a7a5-1aeb5a413873",
+        "type": 2,
+        "serverBubbleId": "bf900358-6803-4a84-a30b-5738cbca9026"
+      },
+      {
+        "bubbleId": "16f06606-bc08-4f35-85d5-cae1abc3343e",
         "type": 2
       }
     ],
@@ -17178,6 +17373,162 @@
           "diffId": "724aee84-dee4-4624-a1d4-254c2ec791ab",
           "lastDiffId": "dce5bb69-6203-43c9-838d-f0f220de8367",
           "lastAppliedAt": 1769149344059
+        },
+        "74c05cf0-be0b-46b1-8f6e-1d8afc516900": {
+          "_v": 3,
+          "bubbleId": "98f16080-28c9-4cd9-96d3-5cac41a46489",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "74c05cf0-be0b-46b1-8f6e-1d8afc516900",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "1524a74a-65db-448d-a062-f0808e649b67",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152406464,
+          "composerChatGenerationUuid": "b3882b6c-344f-4b2f-9058-f52e5a0f9dab",
+          "diffId": "ea589461-6b9b-4e60-b39f-c38e2dad50a9",
+          "lastDiffId": "5d9ab93b-6dff-415a-bc8c-ee092725a01e",
+          "lastAppliedAt": 1769152413170
+        },
+        "a4480e6f-1a97-45d7-ab0b-e4fb89ed1f7f": {
+          "_v": 3,
+          "bubbleId": "e37c3d9e-1741-4dad-a9ec-e915e465816c",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "a4480e6f-1a97-45d7-ab0b-e4fb89ed1f7f",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "74c05cf0-be0b-46b1-8f6e-1d8afc516900",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152415373,
+          "composerChatGenerationUuid": "b3882b6c-344f-4b2f-9058-f52e5a0f9dab",
+          "diffId": "14f0122e-7f90-4f99-857e-218990c706a6",
+          "lastDiffId": "c29ca4df-d8d3-44bb-90d3-7741715cdcba",
+          "lastAppliedAt": 1769152420194
+        },
+        "121325fa-32b3-49fc-aa4a-c49d9722c284": {
+          "_v": 3,
+          "bubbleId": "b352349d-8879-4aa6-8fe5-53085d358504",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "121325fa-32b3-49fc-aa4a-c49d9722c284",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "a4480e6f-1a97-45d7-ab0b-e4fb89ed1f7f",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152569837,
+          "composerChatGenerationUuid": "1ea38fa6-b00d-402c-9144-3eab82f8b9f3",
+          "diffId": "5ff723e3-87b7-41a0-b9c7-4c068a89f328",
+          "lastDiffId": "d707cc5c-3439-4f33-b6a6-34e73c0a1b9f",
+          "lastAppliedAt": 1769152574752
+        },
+        "e600b223-ae6d-477a-a009-2626fda6aae2": {
+          "_v": 3,
+          "bubbleId": "fb60b175-3aa0-44cf-80ea-0b816a9031fb",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "e600b223-ae6d-477a-a009-2626fda6aae2",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "121325fa-32b3-49fc-aa4a-c49d9722c284",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152579266,
+          "composerChatGenerationUuid": "1ea38fa6-b00d-402c-9144-3eab82f8b9f3",
+          "diffId": "a8112d6d-dbd7-44a8-8831-bf95d75ae7d0",
+          "lastDiffId": "0c197bdc-4e6a-48c6-a641-d5775956a816",
+          "lastAppliedAt": 1769152582888
+        },
+        "a829ce27-4110-4e35-80db-d8addab3d414": {
+          "_v": 3,
+          "bubbleId": "77dab6f4-6ab9-40ad-a9aa-72a40869b079",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "a829ce27-4110-4e35-80db-d8addab3d414",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "e600b223-ae6d-477a-a009-2626fda6aae2",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152585710,
+          "composerChatGenerationUuid": "1ea38fa6-b00d-402c-9144-3eab82f8b9f3",
+          "diffId": "48f8458a-1698-4438-a6a7-4062caa46d4c",
+          "lastDiffId": "6f8c583d-be54-41bb-88ea-4eff05041ac2",
+          "lastAppliedAt": 1769152589705
+        },
+        "cf407ee0-fd18-420b-aa78-a622db7b75e8": {
+          "_v": 3,
+          "bubbleId": "f313a1f4-8c8c-4ec6-a060-146843960685",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "cf407ee0-fd18-420b-aa78-a622db7b75e8",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "a829ce27-4110-4e35-80db-d8addab3d414",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152591514,
+          "composerChatGenerationUuid": "1ea38fa6-b00d-402c-9144-3eab82f8b9f3",
+          "diffId": "88297ec1-b2de-429b-9748-1195902d4640",
+          "lastDiffId": "4d8e851b-fa61-412f-b9d8-db1ee7e9abf0",
+          "lastAppliedAt": 1769152596059
         }
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md": {
@@ -21334,7 +21685,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769150669306,
+    "lastUpdatedAt": 1769152612018,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -21410,11 +21761,11 @@
     "forceMode": "edit",
     "usageData": {
       "composer-1": {
-        "costInCents": 621,
-        "amount": 32
+        "costInCents": 695,
+        "amount": 34
       }
     },
-    "contextUsagePercent": 70.80150032043457,
+    "contextUsagePercent": 77.92700004577637,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/CREATE_CHILD_TABLE_TABLES.py",
       "file:///c%3A/Users/pc/Desktop/FIX_CHILD_TABLES_COMPLETE.py",
@@ -21426,7 +21777,10 @@
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PARENT_ERROR_COMPLETE.py",
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/2.txt",
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/7.txt"
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/7.txt",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/9.txt",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/10.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -21438,7 +21792,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 45870,
+    "totalLinesAdded": 45926,
     "totalLinesRemoved": 25,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -21460,10 +21814,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "542388c0-2f69-4d9c-b5b9-f933f4995c9c",
+    "latestChatGenerationUUID": "1ea38fa6-b00d-402c-9144-3eab82f8b9f3",
     "isAgentic": true,
-    "subtitle": "PCB_IQC_RESULT_WORKFLOW.md, FIX_ENTER_KEY_SEARCH.py, FIX_PARENT_ERROR_COMPLETE.py, README.md, ORGANIZE_PCB_IQC_FILES.ps1",
+    "subtitle": "FIX_ENTER_KEY_SEARCH.py, PCB_IQC_RESULT_WORKFLOW.md, FIX_PARENT_ERROR_COMPLETE.py, README.md, ORGANIZE_PCB_IQC_FILES.ps1",
     "filesChangedCount": 333
   },
-  "extracted_at": "2026-01-23T12:43:00.798327"
+  "extracted_at": "2026-01-23T12:48:00.775305"
 }

@@ -1394,10 +1394,156 @@
       {
         "bubbleId": "b9d8a9b0-4fab-498b-bee4-db76433c09d3",
         "type": 2
+      },
+      {
+        "bubbleId": "60eb8592-17c9-436d-a26b-ca3c46c33af8",
+        "type": 1
+      },
+      {
+        "bubbleId": "d80e2dbd-40ff-4c4a-8206-b16923870af8",
+        "type": 2,
+        "serverBubbleId": "d4abc2db-ef6e-4568-9e34-e0b34aa9e017"
+      },
+      {
+        "bubbleId": "63958f0b-4915-4dae-873b-26420c508421",
+        "type": 2
+      },
+      {
+        "bubbleId": "8018cffd-5f84-4696-825b-4bb93faf46b8",
+        "type": 2
+      },
+      {
+        "bubbleId": "6ca4e8dc-d19a-491e-a03c-c22d92c60842",
+        "type": 2
+      },
+      {
+        "bubbleId": "a3882bcb-ab05-4797-aae2-c81459dcedc7",
+        "type": 2
+      },
+      {
+        "bubbleId": "adb61128-786b-4164-884e-9bdba7264f9a",
+        "type": 2
+      },
+      {
+        "bubbleId": "4d8f41ec-2780-4f69-9153-f7779fea3bc6",
+        "type": 2
+      },
+      {
+        "bubbleId": "d5689c5f-928a-490c-a3cd-6ce446ba5957",
+        "type": 2,
+        "serverBubbleId": "723b5090-3bb5-43f8-9fd4-4fa639283f97"
+      },
+      {
+        "bubbleId": "d90eb612-4d78-475a-9c8b-3893834e7714",
+        "type": 2
+      },
+      {
+        "bubbleId": "e631144b-910e-4dc9-bd91-402bdd6608ea",
+        "type": 2
+      },
+      {
+        "bubbleId": "b1ea9fe7-42c4-465f-8985-55ccaf488795",
+        "type": 2
+      },
+      {
+        "bubbleId": "80f2fc52-7299-45f2-b316-cbda737abfb0",
+        "type": 2
+      },
+      {
+        "bubbleId": "bd00f47a-2eaf-48ba-8543-b77be358b9f6",
+        "type": 2,
+        "serverBubbleId": "8bc04a36-6359-4886-a757-fe86c42346e4"
+      },
+      {
+        "bubbleId": "d5c9b15c-3c4e-4cd2-b628-e9deb8b93f28",
+        "type": 2
+      },
+      {
+        "bubbleId": "1fe215df-38d9-450c-99c6-6e0e537aaac1",
+        "type": 1
+      },
+      {
+        "bubbleId": "b1d95c2d-fc6d-41b1-9b8c-186925e12177",
+        "type": 2,
+        "serverBubbleId": "d784041a-adcf-4b39-a2d4-1bc4f18ba16d"
+      },
+      {
+        "bubbleId": "7bf3f042-5554-4c45-bb6b-f6c4b4f72c84",
+        "type": 2
+      },
+      {
+        "bubbleId": "e6598a52-4721-441c-8a9e-629eb3df2ca3",
+        "type": 2
+      },
+      {
+        "bubbleId": "0460b216-cb38-4050-9adb-14ce8a31be25",
+        "type": 2
+      },
+      {
+        "bubbleId": "fa099118-b076-4e9d-a90a-103d9ed8f342",
+        "type": 2,
+        "serverBubbleId": "923f7a56-73c3-4d75-b17d-fc039ca1840e"
+      },
+      {
+        "bubbleId": "5f77122d-281a-4933-a04a-7cf2684b991e",
+        "type": 2
+      },
+      {
+        "bubbleId": "ec48c2eb-55c8-4914-a47b-50e2c0b035c7",
+        "type": 2
+      },
+      {
+        "bubbleId": "d09f98f3-baaf-46a4-87d3-101681308607",
+        "type": 2
+      },
+      {
+        "bubbleId": "e9eb4a43-4d9b-411b-9956-7b1ff504b3a2",
+        "type": 2
+      },
+      {
+        "bubbleId": "6b99e6b1-ed99-4da6-b066-aae19772cde9",
+        "type": 2
+      },
+      {
+        "bubbleId": "751a97d6-d37a-44fd-832a-5d34467fe60d",
+        "type": 2
+      },
+      {
+        "bubbleId": "cf18dbf5-1bd3-4549-9048-973c44c3405d",
+        "type": 2
+      },
+      {
+        "bubbleId": "3e6db05c-a6db-4889-8f37-cf651af0449e",
+        "type": 2
+      },
+      {
+        "bubbleId": "6ca49b95-5464-43de-85c4-76cde4e07df6",
+        "type": 2
+      },
+      {
+        "bubbleId": "f7c5bcea-0d26-4f12-9819-4f15391dde86",
+        "type": 2
+      },
+      {
+        "bubbleId": "fbbd8d67-4e8d-4254-8406-1ec26dada312",
+        "type": 2
+      },
+      {
+        "bubbleId": "c84ee9c9-937f-4d06-bfae-88a75d2f2fcb",
+        "type": 2
+      },
+      {
+        "bubbleId": "619a2923-0822-4af2-a35e-911c1f2c415d",
+        "type": 2
+      },
+      {
+        "bubbleId": "399e3cb4-d350-4f9d-abde-43faa576a4cb",
+        "type": 2,
+        "serverBubbleId": "ff57ee2c-ce26-4ac2-b490-c19ebbab9166"
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -1447,6 +1593,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "150d3b2b-419b-4932-b48b-679b567814fa",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -2928,6 +3075,259 @@
           "diffId": "abfefeb4-91aa-46af-a7a2-242ef7cb2a24",
           "lastDiffId": "06191d13-83f3-45dc-a511-dcd610c34640",
           "lastAppliedAt": 1769150819064
+        },
+        "50f77e63-8b6f-484a-9341-89f99093b3c2": {
+          "_v": 3,
+          "bubbleId": "ec48c2eb-55c8-4914-a47b-50e2c0b035c7",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "50f77e63-8b6f-484a-9341-89f99093b3c2",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "19235c6f-0b01-4fbd-ac4d-29f3b4b9f78b",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152617599,
+          "composerChatGenerationUuid": "150d3b2b-419b-4932-b48b-679b567814fa",
+          "diffId": "c622ea46-dd61-4a1b-8739-7b470b4d740c",
+          "lastDiffId": "345f5d8d-cde6-4363-a691-2eb40ef3ccf6",
+          "lastAppliedAt": 1769152619338
+        },
+        "582cf0c1-c885-43ce-8368-aa8cb50bd064": {
+          "_v": 3,
+          "bubbleId": "d09f98f3-baaf-46a4-87d3-101681308607",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "582cf0c1-c885-43ce-8368-aa8cb50bd064",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "50f77e63-8b6f-484a-9341-89f99093b3c2",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152619666,
+          "composerChatGenerationUuid": "150d3b2b-419b-4932-b48b-679b567814fa",
+          "diffId": "f6fc87ed-b105-4eac-9dda-709ca0e7b648",
+          "lastDiffId": "c334cc68-633b-4d34-98f7-2f2d78987e8e",
+          "lastAppliedAt": 1769152623093
+        },
+        "e968f943-dbb6-4724-b1a9-cd1f31cdee8f": {
+          "_v": 3,
+          "bubbleId": "e9eb4a43-4d9b-411b-9956-7b1ff504b3a2",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "e968f943-dbb6-4724-b1a9-cd1f31cdee8f",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "582cf0c1-c885-43ce-8368-aa8cb50bd064",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152623434,
+          "composerChatGenerationUuid": "150d3b2b-419b-4932-b48b-679b567814fa",
+          "diffId": "d1451d27-28b1-466d-9494-57236904165c",
+          "lastDiffId": "e2ae557e-3eb8-4a15-ac04-339dfa16a0d4",
+          "lastAppliedAt": 1769152627839
+        },
+        "8e506345-67c7-40e3-b462-ef87904dee17": {
+          "_v": 3,
+          "bubbleId": "6b99e6b1-ed99-4da6-b066-aae19772cde9",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "8e506345-67c7-40e3-b462-ef87904dee17",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "e968f943-dbb6-4724-b1a9-cd1f31cdee8f",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152628173,
+          "composerChatGenerationUuid": "150d3b2b-419b-4932-b48b-679b567814fa",
+          "diffId": "03c15536-767f-430d-aa3a-7365a725d1a2",
+          "lastDiffId": "4760c709-75ac-4539-9b55-42ba41c61bb2",
+          "lastAppliedAt": 1769152633486
+        },
+        "da5971b8-71c7-416f-92e4-d83ff243c86a": {
+          "_v": 3,
+          "bubbleId": "751a97d6-d37a-44fd-832a-5d34467fe60d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "da5971b8-71c7-416f-92e4-d83ff243c86a",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "8e506345-67c7-40e3-b462-ef87904dee17",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152633817,
+          "composerChatGenerationUuid": "150d3b2b-419b-4932-b48b-679b567814fa",
+          "diffId": "ab8e07f4-e7ab-4327-b90b-c720a19d9375",
+          "lastDiffId": "dec87f8d-e85a-45cd-9d17-f95f7821357b",
+          "lastAppliedAt": 1769152639063
+        },
+        "09230037-09de-40e2-9228-f1d737f2c0b5": {
+          "_v": 3,
+          "bubbleId": "cf18dbf5-1bd3-4549-9048-973c44c3405d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "09230037-09de-40e2-9228-f1d737f2c0b5",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "da5971b8-71c7-416f-92e4-d83ff243c86a",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152639393,
+          "composerChatGenerationUuid": "150d3b2b-419b-4932-b48b-679b567814fa",
+          "diffId": "fdad5f16-89c0-40c7-af54-bca529aabd45",
+          "lastDiffId": "e9d3c1cb-59d3-4487-af55-19089f5fa0f9",
+          "lastAppliedAt": 1769152640566
+        },
+        "76894f95-8fad-4bbf-ae02-e06602ca342d": {
+          "_v": 3,
+          "bubbleId": "3e6db05c-a6db-4889-8f37-cf651af0449e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "76894f95-8fad-4bbf-ae02-e06602ca342d",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "09230037-09de-40e2-9228-f1d737f2c0b5",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152640892,
+          "composerChatGenerationUuid": "150d3b2b-419b-4932-b48b-679b567814fa",
+          "diffId": "fc8d4ded-f96b-493a-bf8b-0fc6fe79827d",
+          "lastDiffId": "5d03b348-616d-4da1-b4eb-79b9bfc69197",
+          "lastAppliedAt": 1769152642074
+        },
+        "361d5244-81d1-45e1-92e1-d363e7e05e2c": {
+          "_v": 3,
+          "bubbleId": "6ca49b95-5464-43de-85c4-76cde4e07df6",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "361d5244-81d1-45e1-92e1-d363e7e05e2c",
+          "status": "aborted",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152642411,
+          "composerChatGenerationUuid": "150d3b2b-419b-4932-b48b-679b567814fa"
+        },
+        "1399fc0d-db91-4ed8-a688-b140dfe2ddcd": {
+          "_v": 3,
+          "bubbleId": "f7c5bcea-0d26-4f12-9819-4f15391dde86",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "1399fc0d-db91-4ed8-a688-b140dfe2ddcd",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "76894f95-8fad-4bbf-ae02-e06602ca342d",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152643316,
+          "composerChatGenerationUuid": "150d3b2b-419b-4932-b48b-679b567814fa",
+          "diffId": "5e3dc3d5-20fc-4521-90d6-fb1afd88b5c5",
+          "lastDiffId": "3e882572-d87c-40f5-8613-7607472276ef",
+          "lastAppliedAt": 1769152644528
+        },
+        "690c6a22-6f0f-4552-8743-25e589a2ef9f": {
+          "_v": 3,
+          "bubbleId": "fbbd8d67-4e8d-4254-8406-1ec26dada312",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "690c6a22-6f0f-4552-8743-25e589a2ef9f",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "1399fc0d-db91-4ed8-a688-b140dfe2ddcd",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152644880,
+          "composerChatGenerationUuid": "150d3b2b-419b-4932-b48b-679b567814fa",
+          "diffId": "8d5ab0f8-02ac-4da5-956b-341dcdb18ec0",
+          "lastDiffId": "5da611e0-b6ee-4a3f-bfa0-7e8f0d6a3d4a",
+          "lastAppliedAt": 1769152646195
         }
       },
       "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py": {
@@ -3052,6 +3452,54 @@
           "diffId": "ab910a8f-5755-4457-81a9-17a910ccdbc2",
           "lastDiffId": "cc4664e7-1749-4e4e-b8d5-c7b29c9e179e",
           "lastAppliedAt": 1769150823730
+        }
+      },
+      "file:///k%3A/VoiceTyper/scripts/run_english_gpu.bat": {
+        "06ff0b56-1d4d-42c3-b97a-ac285fc6b50e": {
+          "_v": 3,
+          "bubbleId": "adb61128-786b-4164-884e-9bdba7264f9a",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\scripts\\run_english_gpu.bat",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/scripts/run_english_gpu.bat",
+            "path": "/K:/VoiceTyper/scripts/run_english_gpu.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "06ff0b56-1d4d-42c3-b97a-ac285fc6b50e",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152455254,
+          "composerChatGenerationUuid": "aa38d635-1296-470f-8b1a-2ee78c6c4bf7",
+          "diffId": "bd81b135-d6cf-4988-888a-a892e680a0bb",
+          "lastDiffId": "817a3845-3100-45f8-b517-ae9023c4eb95",
+          "lastAppliedAt": 1769152456846
+        }
+      },
+      "file:///k%3A/VoiceTyper/SUCCESS_REPORT.md": {
+        "e4fbaa32-d374-4b56-baca-eb478a7c3465": {
+          "_v": 3,
+          "bubbleId": "80f2fc52-7299-45f2-b316-cbda737abfb0",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\SUCCESS_REPORT.md",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/SUCCESS_REPORT.md",
+            "path": "/K:/VoiceTyper/SUCCESS_REPORT.md",
+            "scheme": "file"
+          },
+          "codeblockId": "e4fbaa32-d374-4b56-baca-eb478a7c3465",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769152471735,
+          "composerChatGenerationUuid": "aa38d635-1296-470f-8b1a-2ee78c6c4bf7",
+          "diffId": "5142f0a2-0e87-4f93-99fb-40a188913904",
+          "lastDiffId": "02c02633-3864-4d74-a3f5-a48d5a9ea35b",
+          "lastAppliedAt": 1769152473754
         }
       }
     },
@@ -3269,6 +3717,18 @@
       "file:///k%3A/VoiceTyper/ENGLISH_GPU_UPDATE.md": {
         "content": "",
         "firstEditBubbleId": "725f7253-33a2-4ed1-9b7b-cd504b9c95f4",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/scripts/run_english_gpu.bat": {
+        "content": "",
+        "firstEditBubbleId": "adb61128-786b-4164-884e-9bdba7264f9a",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/SUCCESS_REPORT.md": {
+        "content": "",
+        "firstEditBubbleId": "80f2fc52-7299-45f2-b316-cbda737abfb0",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -3603,10 +4063,30 @@
           "path": "/K:/VoiceTyper/ENGLISH_GPU_UPDATE.md",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\scripts\\run_english_gpu.bat",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/scripts/run_english_gpu.bat",
+          "path": "/K:/VoiceTyper/scripts/run_english_gpu.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\SUCCESS_REPORT.md",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/SUCCESS_REPORT.md",
+          "path": "/K:/VoiceTyper/SUCCESS_REPORT.md",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769150829184,
+    "lastUpdatedAt": 1769152608301,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -3682,11 +4162,11 @@
     "forceMode": "edit",
     "usageData": {
       "composer-1": {
-        "costInCents": 112,
-        "amount": 9
+        "costInCents": 137,
+        "amount": 10
       }
     },
-    "contextUsagePercent": 81.73349952697754,
+    "contextUsagePercent": 91.89750003814697,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/voice_typer.py",
       "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
@@ -3721,7 +4201,15 @@
       "file:///k%3A/VoiceTyper/COMPLETION_REPORT.md",
       "file:///k%3A/VoiceTyper/scripts/run_v1.bat",
       "file:///k%3A/VoiceTyper/FINAL_STATUS.md",
-      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md"
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
+      "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+      "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py",
+      "file:///k%3A/VoiceTyper/scripts/install_gpu_english.bat",
+      "file:///k%3A/VoiceTyper/ENGLISH_GPU_UPDATE.md",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/9.txt",
+      "file:///k%3A/VoiceTyper/scripts/run_english_gpu.bat",
+      "file:///k%3A/VoiceTyper/SUCCESS_REPORT.md",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/10.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -3758,7 +4246,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 3853,
+    "totalLinesAdded": 3959,
     "totalLinesRemoved": 38,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -3780,11 +4268,11 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "545aa707-aa1d-44e3-9294-9abb960f8705",
+    "latestChatGenerationUUID": "150d3b2b-419b-4932-b48b-679b567814fa",
     "isAgentic": true,
-    "subtitle": "ENGLISH_GPU_UPDATE.md, voice_typer_whisper.py, install_gpu_english.bat, voice_typer_whisper_v2_gpu.py, FINAL_STATUS.md",
-    "filesChangedCount": 35,
+    "subtitle": "voice_typer_whisper.py, SUCCESS_REPORT.md, run_english_gpu.bat, ENGLISH_GPU_UPDATE.md, install_gpu_english.bat",
+    "filesChangedCount": 37,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-23T12:43:00.813964"
+  "extracted_at": "2026-01-23T12:48:00.790975"
 }
