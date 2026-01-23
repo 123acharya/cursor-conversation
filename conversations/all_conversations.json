@@ -4,9 +4,9 @@
     "data": {
       "_v": 11,
       "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-      "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:157 Clearing existing child rows before save...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:176 Document is new, saving first...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:178 Document saved successfully, reloading form...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"socketio_client.js:140 throttled\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"socketio_client.js:140 throttled\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:182 Form reloaded, now adding PCB\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:246 pcb table is empty\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:236 Checking 1 rows in pcb table\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:241 Found PCB! {name: 'uin61obk43', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:19.766090', modified_by: 'acharyacgpt@gmail.com', …}\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:241 Found PCB! {name: 'uin61obk43', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:19.766090', modified_by: 'acharyacgpt@gmail.com', …}\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"request.js:270  POST http://localhost:8080/api/method/frappe.desk.form.save.savedocs 417 (EXPECTATION FAILED)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"send @ jquery.js:10109\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"ajax @ jquery.js:9690\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.request.call @ request.js:270\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.call @ request.js:105\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"p @ save.js:198\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"o @ save.js:21\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.ui.form.save @ save.js:225\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:808\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Promise.then\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ dom.js:262\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.run_serially @ dom.js:260\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"validate_and_save @ form.js:799\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:738\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"save @ form.js:735\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"submit_pcb_data @ pcb_iqc_result__custom_js:408\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"eval @ pcb_iqc_result__custom_js:103\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"dispatch @ jquery.js:5430\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"et.handle @ jquery.js:5234Understand this error\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"request.js:459 Traceback (most recent call last):\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/app.py\\\", line 103, in application\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    response = frappe.api.handle()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/api.py\\\", line 55, in handle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return frappe.handler.handle()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 50, in handle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    data = execute_cmd(cmd)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 85, in execute_cmd\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return frappe.call(method, **frappe.form_dict)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 1628, in call\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return fn(*args, **newargs)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/desk/form/save.py\\\", line 31, in savedocs\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    doc.save()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 324, in save\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return self._save(*args, **kwargs)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 353, in _save\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    self.check_if_latest()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 798, in check_if_latest\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    frappe.msgprint(\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 513, in msgprint\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    _raise_exception()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 456, in _raise_exception\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    raise raise_exception(msg)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.exceptions.TimestampMismatchError: Error: Document has been modified after you have opened it (2026-01-23 12:50:39.267937, 2026-01-23 12:50:59.329109). Please refresh to get the latest document.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ request.js:459\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.request.cleanup @ request.js:457\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ request.js:316\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"V @ jquery.js:3500\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"fireWith @ jquery.js:3630\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"S0 @ jquery.js:9798\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ jquery.js:10057\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"XMLHttpRequest.send\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"send @ jquery.js:10109\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"ajax @ jquery.js:9690\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.request.call @ request.js:270\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.call @ request.js:105\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"p @ save.js:198\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"o @ save.js:21\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.ui.form.save @ save.js:225\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:808\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Promise.then\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ dom.js:262\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.run_serially @ dom.js:260\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"validate_and_save @ form.js:799\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:738\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"save @ form.js:735\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"submit_pcb_data @ pcb_iqc_result__custom_js:408\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"eval @ pcb_iqc_result__custom_js:103\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"dispatch @ jquery.js:5430\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"et.handle @ jquery.js:5234Understand this error\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"uijv3cmddu:1 Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Element with focus: <button.btn btn-modal-close btn-link>\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Ancestor with aria-hidden: <div.modal fade> <div class=​\\\"modal fade\\\" style=​\\\"overflow:​ auto;​ z-index:​ 2000;​ padding-right:​ 12px;​ display:​ block;​\\\" tabindex=​\\\"-1\\\" aria-hidden=​\\\"true\\\">​…​</div>​Understand this warning\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:241 Found PCB! {name: 'uj05ij1dcc', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:39.267937', modified_by: 'acharyacgpt@gmail.com', …}\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:134 No serial number in pcb_scan field\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:241 Found PCB! {name: 'uj05ij1dcc', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:39.267937', modified_by: 'acharyacgpt@gmail.com', …}\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pcb_iqc_result__custom_js:102 Submit button clicked\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"request.js:270  POST http://localhost:8080/api/method/frappe.desk.form.save.savedocs 417 (EXPECTATION FAILED)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"send @ jquery.js:10109\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"ajax @ jquery.js:9690\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.request.call @ request.js:270\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.call @ request.js:105\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"p @ save.js:198\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"o @ save.js:21\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.ui.form.save @ save.js:225\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:808\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Promise.then\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ dom.js:262\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.run_serially @ dom.js:260\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"validate_and_save @ form.js:799\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"(anonymous) @ form.js:738\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"save @ form.js:735\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"submit_pcb_data @ pcb_iqc_result__custom_js:408\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"eval @ pcb_iqc_result__custom_js:103\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"dispatch @ jquery.js:5430\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"et.handle @ jquery.js:5234Understand this error\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"request.js:459 Traceback (most recent call last):\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/app.py\\\", line 103, in application\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    response = frappe.api.handle()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/api.py\\\", line 55, in handle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return frappe.handler.handle()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 50, in handle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    data = execute_cmd(cmd)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/handler.py\\\", line 85, in execute_cmd\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return frappe.call(method, **frappe.form_dict)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 1628, in call\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return fn(*args, **newargs)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/desk/form/save.py\\\", line 31, in savedocs\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    doc.save()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 324, in save\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    return self._save(*args, **kwargs)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 353, in _save\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    self.check_if_latest()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/model/document.py\\\", line 798, in check_if_latest\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    frappe.msgprint(\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 513, in msgprint\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    _raise_exception()\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"  File \\\"apps/frappe/frappe/__init__.py\\\", line 456, in _raise_exception\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    raise raise_exception(msg)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"frappe.exceptions.TimestampMismatchError: Error: Document has been modified after you have opened it (2026-01-23 12:54:06.551397, 2026-01-23 12:54:27.400673). Please refresh to get the latest document\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"i think its better u record every action in console \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"basically\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "hasLoaded": true,
-      "text": "",
+      "text": "Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\npcb_iqc_result__custom_js:157 Clearing existing child rows before save...\npcb_iqc_result__custom_js:176 Document is new, saving first...\npcb_iqc_result__custom_js:178 Document saved successfully, reloading form...\nsocketio_client.js:140 throttled\nsocketio_client.js:140 throttled\npcb_iqc_result__custom_js:182 Form reloaded, now adding PCB\npcb_iqc_result__custom_js:246 pcb table is empty\npcb_iqc_result__custom_js:102 Submit button clicked\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\npcb_iqc_result__custom_js:236 Checking 1 rows in pcb table\npcb_iqc_result__custom_js:102 Submit button clicked\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\npcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\npcb_iqc_result__custom_js:241 Found PCB! {name: 'uin61obk43', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:19.766090', modified_by: 'acharyacgpt@gmail.com', …}\npcb_iqc_result__custom_js:102 Submit button clicked\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000534\npcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\npcb_iqc_result__custom_js:241 Found PCB! {name: 'uin61obk43', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:19.766090', modified_by: 'acharyacgpt@gmail.com', …}\npcb_iqc_result__custom_js:102 Submit button clicked\nrequest.js:270  POST http://localhost:8080/api/method/frappe.desk.form.save.savedocs 417 (EXPECTATION FAILED)\nsend @ jquery.js:10109\najax @ jquery.js:9690\nfrappe.request.call @ request.js:270\nfrappe.call @ request.js:105\np @ save.js:198\no @ save.js:21\nfrappe.ui.form.save @ save.js:225\n(anonymous) @ form.js:808\nPromise.then\n(anonymous) @ dom.js:262\nfrappe.run_serially @ dom.js:260\nvalidate_and_save @ form.js:799\n(anonymous) @ form.js:738\nsave @ form.js:735\nsubmit_pcb_data @ pcb_iqc_result__custom_js:408\neval @ pcb_iqc_result__custom_js:103\ndispatch @ jquery.js:5430\net.handle @ jquery.js:5234Understand this error\nrequest.js:459 Traceback (most recent call last):\n  File \"apps/frappe/frappe/app.py\", line 103, in application\n    response = frappe.api.handle()\n  File \"apps/frappe/frappe/api.py\", line 55, in handle\n    return frappe.handler.handle()\n  File \"apps/frappe/frappe/handler.py\", line 50, in handle\n    data = execute_cmd(cmd)\n  File \"apps/frappe/frappe/handler.py\", line 85, in execute_cmd\n    return frappe.call(method, **frappe.form_dict)\n  File \"apps/frappe/frappe/__init__.py\", line 1628, in call\n    return fn(*args, **newargs)\n  File \"apps/frappe/frappe/desk/form/save.py\", line 31, in savedocs\n    doc.save()\n  File \"apps/frappe/frappe/model/document.py\", line 324, in save\n    return self._save(*args, **kwargs)\n  File \"apps/frappe/frappe/model/document.py\", line 353, in _save\n    self.check_if_latest()\n  File \"apps/frappe/frappe/model/document.py\", line 798, in check_if_latest\n    frappe.msgprint(\n  File \"apps/frappe/frappe/__init__.py\", line 513, in msgprint\n    _raise_exception()\n  File \"apps/frappe/frappe/__init__.py\", line 456, in _raise_exception\n    raise raise_exception(msg)\nfrappe.exceptions.TimestampMismatchError: Error: Document has been modified after you have opened it (2026-01-23 12:50:39.267937, 2026-01-23 12:50:59.329109). Please refresh to get the latest document.\n\n(anonymous) @ request.js:459\nfrappe.request.cleanup @ request.js:457\n(anonymous) @ request.js:316\nV @ jquery.js:3500\nfireWith @ jquery.js:3630\nS0 @ jquery.js:9798\n(anonymous) @ jquery.js:10057\nXMLHttpRequest.send\nsend @ jquery.js:10109\najax @ jquery.js:9690\nfrappe.request.call @ request.js:270\nfrappe.call @ request.js:105\np @ save.js:198\no @ save.js:21\nfrappe.ui.form.save @ save.js:225\n(anonymous) @ form.js:808\nPromise.then\n(anonymous) @ dom.js:262\nfrappe.run_serially @ dom.js:260\nvalidate_and_save @ form.js:799\n(anonymous) @ form.js:738\nsave @ form.js:735\nsubmit_pcb_data @ pcb_iqc_result__custom_js:408\neval @ pcb_iqc_result__custom_js:103\ndispatch @ jquery.js:5430\net.handle @ jquery.js:5234Understand this error\nuijv3cmddu:1 Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.\nElement with focus: <button.btn btn-modal-close btn-link>\nAncestor with aria-hidden: <div.modal fade> <div class=​\"modal fade\" style=​\"overflow:​ auto;​ z-index:​ 2000;​ padding-right:​ 12px;​ display:​ block;​\" tabindex=​\"-1\" aria-hidden=​\"true\">​…​</div>​Understand this warning\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\npcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\npcb_iqc_result__custom_js:241 Found PCB! {name: 'uj05ij1dcc', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:39.267937', modified_by: 'acharyacgpt@gmail.com', …}\npcb_iqc_result__custom_js:102 Submit button clicked\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:134 No serial number in pcb_scan field\npcb_iqc_result__custom_js:56 Enter key pressed in pcb_scan\npcb_iqc_result__custom_js:144 Searching for PCB: SLB250202000349\npcb_iqc_result__custom_js:236 Checking 2 rows in pcb table\npcb_iqc_result__custom_js:241 Found PCB! {name: 'uj05ij1dcc', owner: 'acharyacgpt@gmail.com', creation: '2026-01-23 12:49:40.770622', modified: '2026-01-23 12:50:39.267937', modified_by: 'acharyacgpt@gmail.com', …}\npcb_iqc_result__custom_js:102 Submit button clicked\nrequest.js:270  POST http://localhost:8080/api/method/frappe.desk.form.save.savedocs 417 (EXPECTATION FAILED)\nsend @ jquery.js:10109\najax @ jquery.js:9690\nfrappe.request.call @ request.js:270\nfrappe.call @ request.js:105\np @ save.js:198\no @ save.js:21\nfrappe.ui.form.save @ save.js:225\n(anonymous) @ form.js:808\nPromise.then\n(anonymous) @ dom.js:262\nfrappe.run_serially @ dom.js:260\nvalidate_and_save @ form.js:799\n(anonymous) @ form.js:738\nsave @ form.js:735\nsubmit_pcb_data @ pcb_iqc_result__custom_js:408\neval @ pcb_iqc_result__custom_js:103\ndispatch @ jquery.js:5430\net.handle @ jquery.js:5234Understand this error\nrequest.js:459 Traceback (most recent call last):\n  File \"apps/frappe/frappe/app.py\", line 103, in application\n    response = frappe.api.handle()\n  File \"apps/frappe/frappe/api.py\", line 55, in handle\n    return frappe.handler.handle()\n  File \"apps/frappe/frappe/handler.py\", line 50, in handle\n    data = execute_cmd(cmd)\n  File \"apps/frappe/frappe/handler.py\", line 85, in execute_cmd\n    return frappe.call(method, **frappe.form_dict)\n  File \"apps/frappe/frappe/__init__.py\", line 1628, in call\n    return fn(*args, **newargs)\n  File \"apps/frappe/frappe/desk/form/save.py\", line 31, in savedocs\n    doc.save()\n  File \"apps/frappe/frappe/model/document.py\", line 324, in save\n    return self._save(*args, **kwargs)\n  File \"apps/frappe/frappe/model/document.py\", line 353, in _save\n    self.check_if_latest()\n  File \"apps/frappe/frappe/model/document.py\", line 798, in check_if_latest\n    frappe.msgprint(\n  File \"apps/frappe/frappe/__init__.py\", line 513, in msgprint\n    _raise_exception()\n  File \"apps/frappe/frappe/__init__.py\", line 456, in _raise_exception\n    raise raise_exception(msg)\nfrappe.exceptions.TimestampMismatchError: Error: Document has been modified after you have opened it (2026-01-23 12:54:06.551397, 2026-01-23 12:54:27.400673). Please refresh to get the latest document\n\ni think its better u record every action in console \n\nbasically",
       "fullConversationHeadersOnly": [
         {
           "bubbleId": "c58882f5-de9a-4957-87eb-4ed0c6f2e5d7",
@@ -22029,7 +22029,7 @@
       "subtitle": "FIX_ENTER_KEY_SEARCH.py, PCB_IQC_RESULT_WORKFLOW.md, FIX_PARENT_ERROR_COMPLETE.py, README.md, ORGANIZE_PCB_IQC_FILES.ps1",
       "filesChangedCount": 333
     },
-    "extracted_at": "2026-01-23T12:53:00.800348"
+    "extracted_at": "2026-01-23T12:58:00.815024"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -26188,7 +26188,7 @@
       "subtitle": "COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py",
       "filesChangedCount": 50
     },
-    "extracted_at": "2026-01-23T12:53:00.800348"
+    "extracted_at": "2026-01-23T12:58:00.816086"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -34700,7 +34700,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-01-23T12:53:00.811212"
+    "extracted_at": "2026-01-23T12:58:00.823096"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -34918,7 +34918,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-23T12:53:00.811212"
+    "extracted_at": "2026-01-23T12:58:00.823096"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -35095,7 +35095,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-23T12:53:00.811212"
+    "extracted_at": "2026-01-23T12:58:00.824094"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -44206,12 +44206,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-01-23T12:53:00.817215"
+    "extracted_at": "2026-01-23T12:58:00.830096"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-01-23T12:53:00.818215"
+    "extracted_at": "2026-01-23T12:58:00.830096"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -44390,7 +44390,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-01-23T12:53:00.818215"
+    "extracted_at": "2026-01-23T12:58:00.830096"
   },
   {
     "key": "composerData:40c3238e-9290-4c15-b4b4-14d3f7651247",
@@ -44564,7 +44564,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-23T12:53:00.818215"
+    "extracted_at": "2026-01-23T12:58:00.830096"
   },
   {
     "key": "composerData:842169da-0a70-49ac-a2d0-7cf9409a2f08",
@@ -44675,7 +44675,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-23T12:53:00.818215"
+    "extracted_at": "2026-01-23T12:58:00.830096"
   },
   {
     "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
@@ -44849,7 +44849,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-23T12:53:00.818215"
+    "extracted_at": "2026-01-23T12:58:00.830096"
   },
   {
     "key": "composerData:6afdc338-e6ca-4338-82e7-be278b231592",
@@ -44960,7 +44960,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-23T12:53:00.818215"
+    "extracted_at": "2026-01-23T12:58:00.830096"
   },
   {
     "key": "composerData:bedbc2a3-6db6-4e15-8f64-cd2294495832",
@@ -46720,7 +46720,7 @@
       "subtitle": "QUICK_START.txt, README.md, INSTALL_PART1_EXEC_FIXED.py, INSTALL_PART1_IPYTHON.py",
       "filesChangedCount": 16
     },
-    "extracted_at": "2026-01-23T12:53:00.818215"
+    "extracted_at": "2026-01-23T12:58:00.831093"
   },
   {
     "key": "composerData:f69725e8-01bb-4d53-8f4e-287a321776e7",
@@ -46894,7 +46894,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-01-23T12:53:00.818215"
+    "extracted_at": "2026-01-23T12:58:00.831093"
   },
   {
     "key": "composerData:f640be18-f22f-402f-b9af-3c832eed7b5c",
@@ -47005,7 +47005,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-01-23T12:53:00.818215"
+    "extracted_at": "2026-01-23T12:58:00.831093"
   },
   {
     "key": "composerData:e2baad6c-fc4b-485e-8d7b-5122ad090688",
@@ -48000,7 +48000,7 @@
       "subtitle": "sentence_typer.py",
       "filesChangedCount": 1
     },
-    "extracted_at": "2026-01-23T12:53:00.818215"
+    "extracted_at": "2026-01-23T12:58:00.831093"
   },
   {
     "key": "composerData:b78f7a66-0f67-464f-b658-a46828691cea",
@@ -49858,6 +49858,128 @@
         {
           "bubbleId": "0ce1df43-e889-4335-9b14-feec4917d038",
           "type": 2
+        },
+        {
+          "bubbleId": "eb2aeeea-e4f2-400f-9106-01613ae8b571",
+          "type": 2,
+          "serverBubbleId": "b8b4a48d-267c-4107-b843-ba16ffd53e02"
+        },
+        {
+          "bubbleId": "fd70a89e-ed72-4483-8a5f-04f3272ccf19",
+          "type": 2
+        },
+        {
+          "bubbleId": "a8c25169-438f-40b8-9ca1-3b5087325247",
+          "type": 1
+        },
+        {
+          "bubbleId": "90d6ff22-85ea-4ebd-9d33-930b6d4b632c",
+          "type": 2,
+          "serverBubbleId": "5ee31876-4031-4cb9-b468-3c1bf39f08f0"
+        },
+        {
+          "bubbleId": "ecf7fb7c-7ccf-436c-ac81-7310cc9b5778",
+          "type": 2
+        },
+        {
+          "bubbleId": "5a0cb54f-8ef4-4a31-a0d1-371e25cd2aa0",
+          "type": 2
+        },
+        {
+          "bubbleId": "7663e1c7-47d4-4de3-836f-e800b4fb3a82",
+          "type": 2
+        },
+        {
+          "bubbleId": "5811623a-a599-42aa-88d5-f08c2576d75e",
+          "type": 2,
+          "serverBubbleId": "33848753-79ce-4d16-b668-8c405856ed54"
+        },
+        {
+          "bubbleId": "2c7892cf-f97d-42ef-bdd0-daa5e3041532",
+          "type": 2
+        },
+        {
+          "bubbleId": "ac408c38-9714-4a28-a16d-7445c0b55815",
+          "type": 2
+        },
+        {
+          "bubbleId": "976b459b-0101-4cb0-a255-0eb06d8a5441",
+          "type": 2,
+          "serverBubbleId": "74043614-7a0c-45e0-8feb-bb33ee43c678"
+        },
+        {
+          "bubbleId": "5cad15b2-2490-4021-9ec6-00168ad80a5e",
+          "type": 2
+        },
+        {
+          "bubbleId": "4ddf1e1b-4885-4cb6-bc26-ce93fdce5498",
+          "type": 2
+        },
+        {
+          "bubbleId": "524829f2-1dea-438d-88d0-460034b6af8f",
+          "type": 2
+        },
+        {
+          "bubbleId": "ffdec395-0e09-429c-b023-1a9f4996cec3",
+          "type": 2
+        },
+        {
+          "bubbleId": "ee46c354-b7ee-47b5-a00f-5aff3cab6d33",
+          "type": 2
+        },
+        {
+          "bubbleId": "30248bf6-bd85-4ef2-a4bb-f592043be628",
+          "type": 2
+        },
+        {
+          "bubbleId": "9ef538cf-69f5-4db2-a71d-258e24f08c57",
+          "type": 2
+        },
+        {
+          "bubbleId": "d490bccb-eb0e-4842-9311-809e3bc41ea9",
+          "type": 2
+        },
+        {
+          "bubbleId": "d63147ba-12f6-4788-b8f2-ff3c0db1bad2",
+          "type": 2
+        },
+        {
+          "bubbleId": "d9ef23c3-9fef-422f-ab69-d2d0fec6a3f0",
+          "type": 2,
+          "serverBubbleId": "c79ab222-ffbb-4da9-9e4f-dceba7ee79a6"
+        },
+        {
+          "bubbleId": "c093ffe1-9de6-48ed-bbe5-1c0edcb61cf6",
+          "type": 2
+        },
+        {
+          "bubbleId": "2052acc9-f934-4424-9fad-d5b5b70d000b",
+          "type": 2
+        },
+        {
+          "bubbleId": "ea64a324-a9e3-40ff-9b74-cbbb713f458f",
+          "type": 2
+        },
+        {
+          "bubbleId": "054fa0e6-f4ca-4561-b834-9b65abd2a066",
+          "type": 2
+        },
+        {
+          "bubbleId": "ba79887d-510a-467d-99c9-decf98df7b12",
+          "type": 2,
+          "serverBubbleId": "c008eb39-c584-470a-9f20-718484021e94"
+        },
+        {
+          "bubbleId": "ce7aff09-a352-48d5-bf3e-f20aa5df396a",
+          "type": 2
+        },
+        {
+          "bubbleId": "1427785a-fc6b-42c8-8afd-13466414746e",
+          "type": 2
+        },
+        {
+          "bubbleId": "583341fa-403d-43c0-b795-d277ae7bc6a7",
+          "type": 2
         }
       ],
       "conversationMap": {},
@@ -49911,7 +50033,7 @@
       },
       "gitGraphFileSuggestions": [],
       "generatingBubbleIds": [],
-      "chatGenerationUUID": "e43ca8d3-8b9b-472b-9d90-6acd2cce5a21",
+      "chatGenerationUUID": "096e025c-726f-4d00-ae07-a4feebc430da",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -52353,6 +52475,240 @@
             "diffId": "85c52f21-b059-438a-9048-bdfbdbeba0e4",
             "lastDiffId": "26c5db8a-e92f-4da3-b966-586a6e9adfa8",
             "lastAppliedAt": 1769152838476
+          },
+          "676c5644-3e66-4553-a72b-ff5838907480": {
+            "_v": 3,
+            "bubbleId": "4ddf1e1b-4885-4cb6-bc26-ce93fdce5498",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+              "_sep": 1,
+              "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+              "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+              "scheme": "file"
+            },
+            "codeblockId": "676c5644-3e66-4553-a72b-ff5838907480",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "1977cfb9-fcb8-4b6a-a9c8-f83219082659",
+              "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153029940,
+            "composerChatGenerationUuid": "096e025c-726f-4d00-ae07-a4feebc430da",
+            "diffId": "e79d81e8-dde3-4e5d-98ea-8c9a36c659d4",
+            "lastDiffId": "7615d599-c244-4e73-9a72-0eb2f0cc88f8",
+            "lastAppliedAt": 1769153032216
+          },
+          "cdd27320-6536-451a-98e5-1a654d1438a7": {
+            "_v": 3,
+            "bubbleId": "524829f2-1dea-438d-88d0-460034b6af8f",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+              "_sep": 1,
+              "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+              "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+              "scheme": "file"
+            },
+            "codeblockId": "cdd27320-6536-451a-98e5-1a654d1438a7",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "676c5644-3e66-4553-a72b-ff5838907480",
+              "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153032550,
+            "composerChatGenerationUuid": "096e025c-726f-4d00-ae07-a4feebc430da",
+            "diffId": "849413ff-4bfa-45a5-8357-8f001e49e46b",
+            "lastDiffId": "7007516d-0036-4c56-a4e5-aca7ce6c0923",
+            "lastAppliedAt": 1769153034092
+          },
+          "8da1bc5d-3e5f-41bb-b621-d4a36b359c3d": {
+            "_v": 3,
+            "bubbleId": "ffdec395-0e09-429c-b023-1a9f4996cec3",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+              "_sep": 1,
+              "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+              "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+              "scheme": "file"
+            },
+            "codeblockId": "8da1bc5d-3e5f-41bb-b621-d4a36b359c3d",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "cdd27320-6536-451a-98e5-1a654d1438a7",
+              "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153034441,
+            "composerChatGenerationUuid": "096e025c-726f-4d00-ae07-a4feebc430da",
+            "diffId": "dd026879-8236-431e-9839-33288752c1e7",
+            "lastDiffId": "16517287-c4bb-4203-90cd-07a7586f2e30",
+            "lastAppliedAt": 1769153036126
+          },
+          "ea861a83-8537-4b0c-bf83-5f9e8eeee4a6": {
+            "_v": 3,
+            "bubbleId": "ee46c354-b7ee-47b5-a00f-5aff3cab6d33",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+              "_sep": 1,
+              "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+              "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+              "scheme": "file"
+            },
+            "codeblockId": "ea861a83-8537-4b0c-bf83-5f9e8eeee4a6",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "8da1bc5d-3e5f-41bb-b621-d4a36b359c3d",
+              "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153036460,
+            "composerChatGenerationUuid": "096e025c-726f-4d00-ae07-a4feebc430da",
+            "diffId": "2ef234f6-4b48-41cc-ab94-ecb11859f84b",
+            "lastDiffId": "eb49e30a-17ed-40ae-91c7-700f04c5cab4",
+            "lastAppliedAt": 1769153038232
+          },
+          "c34c6dc7-4a66-4ab9-be3f-e2cf96fcc10a": {
+            "_v": 3,
+            "bubbleId": "30248bf6-bd85-4ef2-a4bb-f592043be628",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+              "_sep": 1,
+              "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+              "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+              "scheme": "file"
+            },
+            "codeblockId": "c34c6dc7-4a66-4ab9-be3f-e2cf96fcc10a",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "ea861a83-8537-4b0c-bf83-5f9e8eeee4a6",
+              "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153038575,
+            "composerChatGenerationUuid": "096e025c-726f-4d00-ae07-a4feebc430da",
+            "diffId": "ba9384e2-8a91-4968-898b-83069aefb126",
+            "lastDiffId": "3b64ec0b-dbdd-4490-8ff4-e029d11d2919",
+            "lastAppliedAt": 1769153040273
+          },
+          "bcc7918c-4956-467c-9df9-5160440d8815": {
+            "_v": 3,
+            "bubbleId": "9ef538cf-69f5-4db2-a71d-258e24f08c57",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+              "_sep": 1,
+              "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+              "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+              "scheme": "file"
+            },
+            "codeblockId": "bcc7918c-4956-467c-9df9-5160440d8815",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "c34c6dc7-4a66-4ab9-be3f-e2cf96fcc10a",
+              "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153040615,
+            "composerChatGenerationUuid": "096e025c-726f-4d00-ae07-a4feebc430da",
+            "diffId": "0c23400d-f8f9-4957-90fe-26f453b03dd7",
+            "lastDiffId": "6942da75-2071-40f9-96ea-ceb70ae333fa",
+            "lastAppliedAt": 1769153042192
+          },
+          "c1db109a-ad27-4911-bb5c-7cffb51c103d": {
+            "_v": 3,
+            "bubbleId": "d490bccb-eb0e-4842-9311-809e3bc41ea9",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+              "_sep": 1,
+              "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+              "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+              "scheme": "file"
+            },
+            "codeblockId": "c1db109a-ad27-4911-bb5c-7cffb51c103d",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "bcc7918c-4956-467c-9df9-5160440d8815",
+              "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153042522,
+            "composerChatGenerationUuid": "096e025c-726f-4d00-ae07-a4feebc430da",
+            "diffId": "170660a6-bb49-4cba-85be-845adffd7bd9",
+            "lastDiffId": "5636a023-7026-44e0-b3dd-ffd3a63b0d15",
+            "lastAppliedAt": 1769153044149
+          },
+          "4293b0e6-d20b-4628-9fa1-53b6404f4e36": {
+            "_v": 3,
+            "bubbleId": "2052acc9-f934-4424-9fad-d5b5b70d000b",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+              "_sep": 1,
+              "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+              "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+              "scheme": "file"
+            },
+            "codeblockId": "4293b0e6-d20b-4628-9fa1-53b6404f4e36",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "c1db109a-ad27-4911-bb5c-7cffb51c103d",
+              "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153052815,
+            "composerChatGenerationUuid": "096e025c-726f-4d00-ae07-a4feebc430da",
+            "diffId": "e987eb11-3492-46fb-96f0-daaf5e53f573",
+            "lastDiffId": "3e393b79-2540-455d-b630-660bb1ab45f5",
+            "lastAppliedAt": 1769153056253
+          },
+          "5ebc4896-cfc2-456a-aa52-8b044f32bb50": {
+            "_v": 3,
+            "bubbleId": "ea64a324-a9e3-40ff-9b74-cbbb713f458f",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+              "_sep": 1,
+              "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+              "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+              "scheme": "file"
+            },
+            "codeblockId": "5ebc4896-cfc2-456a-aa52-8b044f32bb50",
+            "status": "completed",
+            "languageId": "python",
+            "chainedInfo": {
+              "chainedFromCodeblockId": "4293b0e6-d20b-4628-9fa1-53b6404f4e36",
+              "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+            },
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769153056591,
+            "composerChatGenerationUuid": "096e025c-726f-4d00-ae07-a4feebc430da",
+            "diffId": "403a131f-a0ea-4c06-8a5a-f69a12d688a1",
+            "lastDiffId": "6c9b29ba-376b-444b-976b-e043caf7c613",
+            "lastAppliedAt": 1769153062294
           }
         },
         "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py": {
@@ -52549,6 +52905,30 @@
             "diffId": "c72efff3-fbbb-4ba4-8da9-4f41a0297582",
             "lastDiffId": "5da63bef-6497-4989-93fc-576548cfbbde",
             "lastAppliedAt": 1769152717782
+          }
+        },
+        "file:///k%3A/VoiceTyper/PREMIUM_UI_UPDATE.md": {
+          "b5200f34-a9df-42fa-a613-7c6e43848823": {
+            "_v": 3,
+            "bubbleId": "812c961a-cf6c-4c10-b7be-05ea4c0f662f",
+            "codeBlockIdx": 0,
+            "uri": {
+              "$mid": 1,
+              "fsPath": "k:\\VoiceTyper\\PREMIUM_UI_UPDATE.md",
+              "_sep": 1,
+              "external": "file:///k%3A/VoiceTyper/PREMIUM_UI_UPDATE.md",
+              "path": "/K:/VoiceTyper/PREMIUM_UI_UPDATE.md",
+              "scheme": "file"
+            },
+            "codeblockId": "b5200f34-a9df-42fa-a613-7c6e43848823",
+            "status": "completed",
+            "languageId": "markdown",
+            "codeBlockDisplayPreference": "collapsed",
+            "createdAt": 1769152956675,
+            "composerChatGenerationUuid": "e43ca8d3-8b9b-472b-9d90-6acd2cce5a21",
+            "diffId": "36a2bc0c-b889-49c9-8e4e-f8528e30d995",
+            "lastDiffId": "43376448-35b9-4de0-881c-dfe12549471f",
+            "lastAppliedAt": 1769152959773
           }
         }
       },
@@ -52784,6 +53164,12 @@
         "file:///k%3A/VoiceTyper/PREMIUM_UI_DESIGN.md": {
           "content": "",
           "firstEditBubbleId": "623f9b29-48f1-4b81-9a5c-3d71d6d8a5d3",
+          "isNewlyCreated": true,
+          "newlyCreatedFolders": []
+        },
+        "file:///k%3A/VoiceTyper/PREMIUM_UI_UPDATE.md": {
+          "content": "",
+          "firstEditBubbleId": "812c961a-cf6c-4c10-b7be-05ea4c0f662f",
           "isNewlyCreated": true,
           "newlyCreatedFolders": []
         }
@@ -53148,10 +53534,20 @@
             "path": "/K:/VoiceTyper/PREMIUM_UI_DESIGN.md",
             "scheme": "file"
           }
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\PREMIUM_UI_UPDATE.md",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/PREMIUM_UI_UPDATE.md",
+            "path": "/K:/VoiceTyper/PREMIUM_UI_UPDATE.md",
+            "scheme": "file"
+          }
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1769152751421,
+      "lastUpdatedAt": 1769153021169,
       "createdAt": 1769087511260,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -53227,56 +53623,18 @@
       "forceMode": "edit",
       "usageData": {
         "composer-1": {
-          "costInCents": 167,
-          "amount": 11
+          "costInCents": 191,
+          "amount": 12
         }
       },
-      "contextUsagePercent": 21.31500244140625,
+      "contextUsagePercent": 27.029502868652344,
       "allAttachedFileCodeChunksUris": [
-        "file:///c%3A/Users/pc/Desktop/voice_typer.py",
-        "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
-        "file:///c%3A/Users/pc/Desktop/voice_typer_whisper.py",
-        "file:///c%3A/Users/pc/Desktop/requirements_voice_typer_whisper.txt",
-        "file:///c%3A/Users/pc/Desktop/README_VOICE_TYPER.md",
-        "file:///c%3A/Users/pc/Desktop/install_voice_typer.bat",
-        "file:///c%3A/Users/pc/Desktop/run_voice_typer.bat",
-        "file:///c%3A/Users/pc/Desktop/copy_to_k_drive.bat",
-        "file:///c%3A/Users/pc/Desktop/QUICK_START_VOICE_TYPER.md",
-        "file:///k%3A/VoiceTyper/launch_voice_typer.bat",
-        "file:///k%3A/VoiceTyper/voice_typer_whisper.py",
-        "file:///k%3A/VoiceTyper/AUTO_TYPE_GUIDE.md",
-        "file:///k%3A/VoiceTyper/KEYBOARD_SHORTCUTS.md",
-        "file:///k%3A/VoiceTyper/WHISPER_MODELS_GUIDE.md",
-        "file:///k%3A/VoiceTyper/GOOGLE_DOCS_SPEED_GUIDE.md",
-        "file:///k%3A/VoiceTyper/voice_typer_whisper_v2_gpu.py",
-        "file:///k%3A/VoiceTyper/GPU_SETUP_GUIDE.md",
-        "file:///k%3A/VoiceTyper/install_gpu_pytorch.bat",
-        "file:///k%3A/VoiceTyper/run_v2_gpu.bat",
-        "file:///k%3A/VoiceTyper/install_gpu_pytorch_fixed.bat",
-        "file:///k%3A/VoiceTyper/GPU_INSTALL_STATUS.md",
-        "file:///k%3A/VoiceTyper/run_v2_gpu_venv.bat",
-        "file:///k%3A/VoiceTyper/PROJECT_STRUCTURE.md",
-        "file:///k%3A/VoiceTyper/scripts/install_gpu_final.bat",
-        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/6.txt",
-        "file:///k%3A/VoiceTyper/scripts/install_gpu_k_drive.bat",
-        "file:///k%3A/VoiceTyper/scripts/run_v2_gpu_venv.bat",
-        "file:///k%3A/VoiceTyper/README.md",
-        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/7.txt",
-        "file:///k%3A/VoiceTyper/PROJECT_STATUS.md",
-        "file:///k%3A/VoiceTyper/COMPLETION_REPORT.md",
-        "file:///k%3A/VoiceTyper/scripts/run_v1.bat",
-        "file:///k%3A/VoiceTyper/FINAL_STATUS.md",
-        "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
         "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
-        "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py",
-        "file:///k%3A/VoiceTyper/scripts/install_gpu_english.bat",
-        "file:///k%3A/VoiceTyper/ENGLISH_GPU_UPDATE.md",
-        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/9.txt",
-        "file:///k%3A/VoiceTyper/scripts/run_english_gpu.bat",
-        "file:///k%3A/VoiceTyper/SUCCESS_REPORT.md",
-        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/10.txt",
         "file:///k%3A/VoiceTyper/PREMIUM_UI_DESIGN.md",
-        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/11.txt"
+        "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
+        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/11.txt",
+        "file:///k%3A/VoiceTyper/PREMIUM_UI_UPDATE.md",
+        "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/12.txt"
       ],
       "modelConfig": {
         "modelName": "composer-1",
@@ -53313,8 +53671,8 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 4262,
-      "totalLinesRemoved": 241,
+      "totalLinesAdded": 4487,
+      "totalLinesRemoved": 248,
       "addedFiles": 0,
       "removedFiles": 0,
       "isArchived": false,
@@ -53335,12 +53693,12 @@
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
       "conversationState": "",
-      "latestChatGenerationUUID": "e43ca8d3-8b9b-472b-9d90-6acd2cce5a21",
+      "latestChatGenerationUUID": "096e025c-726f-4d00-ae07-a4feebc430da",
       "isAgentic": true,
-      "subtitle": "PREMIUM_UI_UPDATE.md, voice_typer_whisper.py, PREMIUM_UI_DESIGN.md, SUCCESS_REPORT.md, run_english_gpu.bat",
-      "filesChangedCount": 38,
+      "subtitle": "AUDIO_DIAGNOSTICS_GUIDE.md, voice_typer_whisper.py, PREMIUM_UI_UPDATE.md, PREMIUM_UI_DESIGN.md, SUCCESS_REPORT.md",
+      "filesChangedCount": 39,
       "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
     },
-    "extracted_at": "2026-01-23T12:53:00.820215"
+    "extracted_at": "2026-01-23T12:58:00.833096"
   }
 ]
