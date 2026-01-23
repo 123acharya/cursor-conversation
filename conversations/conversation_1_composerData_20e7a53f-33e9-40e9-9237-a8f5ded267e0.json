@@ -5988,10 +5988,19 @@
       {
         "bubbleId": "64a031fc-e1f1-4062-8185-5907ed7f8cfb",
         "type": 2
+      },
+      {
+        "bubbleId": "d03bb8cb-726c-4d20-849f-07fb83c94e48",
+        "type": 1
+      },
+      {
+        "bubbleId": "006b442a-795b-47cc-a0e2-1e98b141f9ac",
+        "type": 2,
+        "serverBubbleId": "2065e7af-fd18-4bbf-8fd5-41ffcf023314"
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -6041,6 +6050,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "4d98be64-2d06-4a16-9ded-b37358b69fa6",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -23254,7 +23264,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769171674662,
+    "lastUpdatedAt": 1769172150234,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -23334,7 +23344,7 @@
         "amount": 43
       }
     },
-    "contextUsagePercent": 63.17150115966797,
+    "contextUsagePercent": 65.26050186157227,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
@@ -23376,10 +23386,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "91440f4c-8583-4559-9491-532d13757c7f",
+    "latestChatGenerationUUID": "4d98be64-2d06-4a16-9ded-b37358b69fa6",
     "isAgentic": true,
     "subtitle": "ENABLE_EDIT_AFTER_SUBMIT.py, FIX_ENTER_KEY_SEARCH.py, PCB_IQC_RESULT_WORKFLOW.md, FIX_PARENT_ERROR_COMPLETE.py, README.md",
     "filesChangedCount": 334
   },
-  "extracted_at": "2026-01-23T18:08:00.380083"
+  "extracted_at": "2026-01-23T18:13:00.439787"
 }
