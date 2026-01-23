@@ -4476,10 +4476,62 @@
       {
         "bubbleId": "8d9ae57d-f6a0-4ff1-a911-6a6d670408d1",
         "type": 2
+      },
+      {
+        "bubbleId": "03dc4c78-8bb6-4e8f-bc28-1e36a7b402b2",
+        "type": 1
+      },
+      {
+        "bubbleId": "f12aaadb-912e-4e0d-b51e-41bf78be4c96",
+        "type": 2,
+        "serverBubbleId": "47b56bee-df8b-4976-8d51-580ebcff7074"
+      },
+      {
+        "bubbleId": "47a0c45d-d636-48bc-a713-c46241458a10",
+        "type": 2
+      },
+      {
+        "bubbleId": "840f2539-6dea-4d78-8fb4-a5ba75c8637f",
+        "type": 2
+      },
+      {
+        "bubbleId": "13386198-98a6-4337-a928-c16ecd36dcc2",
+        "type": 2,
+        "serverBubbleId": "f7a215be-af14-4fc4-8702-fb60c65dd15c"
+      },
+      {
+        "bubbleId": "cc0b7fa2-3778-4139-b278-935fb87fd007",
+        "type": 2
+      },
+      {
+        "bubbleId": "7e4de6a9-b1da-40e8-8bca-98915eae0322",
+        "type": 2
+      },
+      {
+        "bubbleId": "3d262679-450e-441d-b739-fb004863e91b",
+        "type": 2,
+        "serverBubbleId": "a4805588-b823-4ea4-93da-77826c88e5d4"
+      },
+      {
+        "bubbleId": "223262f1-9822-4de5-ab86-168b0aad6f34",
+        "type": 2
+      },
+      {
+        "bubbleId": "ed7b8c12-12ac-40d3-99a9-d961ea568960",
+        "type": 2
+      },
+      {
+        "bubbleId": "92050dfc-a15b-436d-a992-5a89075db113",
+        "type": 2,
+        "serverBubbleId": "282cb5e2-ff88-4cc7-bcda-02322a17a66d"
+      },
+      {
+        "bubbleId": "775ac21a-9035-4522-9ca0-d7f7a844b359",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -4529,7 +4581,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "cf1b4fc7-c9ef-4d1e-97cf-dfb55ce93f16",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -16545,6 +16596,30 @@
           "lastDiffId": "a5917c02-5a99-4c7d-aa54-2eb5b9e54c6d",
           "lastAppliedAt": 1769147724244
         }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py": {
+        "53606975-cc21-46df-ba23-904d80bea4dd": {
+          "_v": 3,
+          "bubbleId": "7e4de6a9-b1da-40e8-8bca-98915eae0322",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "53606975-cc21-46df-ba23-904d80bea4dd",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769148000709,
+          "composerChatGenerationUuid": "0f6aa410-faf5-499f-91df-cbccbf34e1c8",
+          "diffId": "146c06da-6ba2-4393-959d-3f80f3f9f3a7",
+          "lastDiffId": "c6fb9859-05a6-4461-bb0e-6122b35bd2b2",
+          "lastAppliedAt": 1769148027307
+        }
       }
     },
     "originalFileStates": {
@@ -18538,6 +18613,12 @@
         "content": "# ============================================================================\r\n# Fix Parent Reference Error - Complete Solution\r\n# ============================================================================\r\n# 1. Disable child table input until document is saved\r\n# 2. Add server-side validation hook to skip parent check for new docs\r\n# 3. Update client script to handle new documents properly\r\n\r\nimport frappe\r\n\r\nprint('='*80)\r\nprint('Fixing Parent Reference Error - Complete Solution')\r\nprint('='*80)\r\n\r\n# ============================================================================\r\n# PART 1: Add Server Script to skip validation for new documents\r\n# ============================================================================\r\nprint('\\n1. Adding Server Script to handle new documents...')\r\n\r\nserver_script_name = 'PCB IQC Result - Skip Parent Validation'\r\n\r\n# Check if server script exists\r\nif frappe.db.exists('Server Script', server_script_name):\r\n    server_script = frappe.get_doc('Server Script', server_script_name)\r\n    print('  ⚠️  Server Script exists - updating...')\r\nelse:\r\n    server_script = frappe.new_doc('Server Script')\r\n    server_script.name = server_script_name\r\n    print('  ✅ Creating new Server Script...')\r\n\r\nserver_script.script_type = 'DocType Event'\r\nserver_script.reference_doctype = 'PCB IQC Result'\r\nserver_script.event_frequency = 'On Save'\r\nserver_script.doctype_event = 'Before Save'\r\n\r\nserver_script.script = \"\"\"\r\n# Skip parent validation for child tables when document is new\r\n# ERPNext will validate parent fields after document is saved\r\n\r\nif doc.is_new():\r\n    # For new documents, parent fields will be set automatically by ERPNext\r\n    # Just ensure they're not None\r\n    if hasattr(doc, 'pcb_iqc_data_enter') and doc.pcb_iqc_data_enter:\r\n        for row in doc.pcb_iqc_data_enter:\r\n            if not row.parent:\r\n                row.parent = doc.name\r\n            if not row.parenttype:\r\n                row.parenttype = 'PCB IQC Result'\r\n            if not row.parentfield:\r\n                row.parentfield = 'pcb_iqc_data_enter'\r\n    \r\n    if hasattr(doc, 'pcb') and doc.pcb:\r\n        for row in doc.pcb:\r\n            if not row.parent:\r\n                row.parent = doc.name\r\n            if not row.parenttype:\r\n                row.parenttype = 'PCB IQC Result'\r\n            if not row.parentfield:\r\n                row.parentfield = 'pcb'\r\n\"\"\"\r\n\r\nserver_script.enabled = 1\r\nserver_script.flags.ignore_validate = True\r\nserver_script.flags.ignore_permissions = True\r\nserver_script.save(ignore_permissions=True)\r\nfrappe.db.commit()\r\n\r\nprint('  ✅ Server Script saved')\r\n\r\n# ============================================================================\r\n# PART 2: Update Client Script to disable child tables until saved\r\n# ============================================================================\r\nprint('\\n2. Updating Client Script...')\r\n\r\nclient_script_name = frappe.db.get_value('Client Script', {'dt': 'PCB IQC Result'}, 'name')\r\n\r\nif not client_script_name:\r\n    print('  ❌ Client Script not found!')\r\n    exit()\r\n\r\nscript_doc = frappe.get_doc('Client Script', client_script_name)\r\n\r\nupdated_script = \"\"\"\r\nfrappe.ui.form.on('PCB IQC Result', {\r\n    refresh: function(frm) {\r\n        // Attach handlers to buttons in HTML field (they already exist!)\r\n        attach_button_handlers(frm);\r\n        \r\n        // CRITICAL FIX: Disable child table input if document is new\r\n        if (frm.is_new()) {\r\n            if (frm.fields_dict['pcb_iqc_data_enter'] && frm.fields_dict['pcb_iqc_data_enter'].grid) {\r\n                frm.fields_dict['pcb_iqc_data_enter'].grid.set_read_only(1);\r\n                frm.fields_dict['pcb_iqc_data_enter'].grid.wrapper.find('.grid-add-row').hide();\r\n                frappe.show_alert({\r\n                    message: __('Please save the document first before adding PCB data'),\r\n                    indicator: 'orange'\r\n                }, 5);\r\n            }\r\n        } else {\r\n            // Document is saved - enable child table\r\n            if (frm.fields_dict['pcb_iqc_data_enter'] && frm.fields_dict['pcb_iqc_data_enter'].grid) {\r\n                frm.fields_dict['pcb_iqc_data_enter'].grid.set_read_only(0);\r\n                frm.fields_dict['pcb_iqc_data_enter'].grid.max_rows = 1;\r\n                frm.fields_dict['pcb_iqc_data_enter'].grid.wrapper.find('.grid-add-row').show();\r\n                apply_status_colors(frm);\r\n            }\r\n        }\r\n        \r\n        // Add Enter key handler to pcb_scan field\r\n        if (frm.fields_dict['pcb_scan']) {\r\n            frm.fields_dict['pcb_scan'].$input.off('keypress.pcb_search');\r\n            frm.fields_dict['pcb_scan'].$input.on('keypress.pcb_search', function(e) {\r\n                if (e.which === 13) {\r\n                    e.preventDefault();\r\n                    search_pcb_in_table(frm);\r\n                }\r\n            });\r\n        }\r\n    },\r\n    \r\n    pcb_scan: function(frm) {\r\n        // Enter key is handled in refresh event\r\n    },\r\n    \r\n    // Re-enable child table after save\r\n    after_save: function(frm) {\r\n        if (frm.fields_dict['pcb_iqc_data_enter'] && frm.fields_dict['pcb_iqc_data_enter'].grid) {\r\n            frm.fields_dict['pcb_iqc_data_enter'].grid.set_read_only(0);\r\n            frm.fields_dict['pcb_iqc_data_enter'].grid.max_rows = 1;\r\n            frm.fields_dict['pcb_iqc_data_enter'].grid.wrapper.find('.grid-add-row').show();\r\n            apply_status_colors(frm);\r\n        }\r\n    }\r\n});\r\n\r\n// Attach handlers to buttons (they're already in the HTML field)\r\nfunction attach_button_handlers(frm) {\r\n    setTimeout(function() {\r\n        // Remove old handlers first\r\n        $('.pcb-submit-btn').off('click');\r\n        $('.pcb-search-btn').off('click');\r\n        $('.pcb-filter-btn').off('click');\r\n        \r\n        // Attach new handlers\r\n        $('.pcb-submit-btn').on('click', function(e) {\r\n            e.preventDefault();\r\n            e.stopPropagation();\r\n            console.log('Submit button clicked');\r\n            submit_pcb_data(frm);\r\n        });\r\n        \r\n        $('.pcb-search-btn').on('click', function(e) {\r\n            e.preventDefault();\r\n            e.stopPropagation();\r\n            console.log('Search button clicked');\r\n            search_pcb_serial(frm);\r\n        });\r\n        \r\n        $('.pcb-filter-btn').on('click', function(e) {\r\n            e.preventDefault();\r\n            e.stopPropagation();\r\n            console.log('Filter button clicked');\r\n            filter_by_batch(frm);\r\n        });\r\n    }, 500);\r\n}\r\n\r\n// Search PCB in pcb table - STRICT: Only work if document is saved\r\nfunction search_pcb_in_table(frm) {\r\n    if (!frm.doc.pcb_scan) {\r\n        return;\r\n    }\r\n    \r\n    let serial_no = frm.doc.pcb_scan.trim();\r\n    if (!serial_no) {\r\n        return;\r\n    }\r\n    \r\n    console.log('Searching for PCB:', serial_no);\r\n    \r\n    // CRITICAL: If document is new, prompt user to save first\r\n    if (frm.is_new()) {\r\n        frappe.confirm(__('Please save the document first before scanning PCB serial numbers. Save now?'), function() {\r\n            // Save the document\r\n            frm.save().then(function() {\r\n                console.log('Document saved, now adding child rows');\r\n                add_pcb_to_tables(frm, serial_no);\r\n            }).catch(function(err) {\r\n                console.error('Error saving document:', err);\r\n                frappe.msgprint(__('Could not save document. Please check required fields and try again.'));\r\n            });\r\n        }, function() {\r\n            // User cancelled - clear scan field\r\n            frm.set_value('pcb_scan', '');\r\n        });\r\n        return;\r\n    }\r\n    \r\n    // Document is saved - proceed normally\r\n    add_pcb_to_tables(frm, serial_no);\r\n}\r\n\r\n// Helper function to add PCB to tables\r\nfunction add_pcb_to_tables(frm, serial_no) {\r\n    let pcb_table_field = 'pcb';\r\n    let found_pcb = null;\r\n    \r\n    // Search in pcb table (bottom table)\r\n    if (frm.doc[pcb_table_field] && frm.doc[pcb_table_field].length > 0) {\r\n        console.log('Checking', frm.doc[pcb_table_field].length, 'rows in pcb table');\r\n        for (let i = 0; i < frm.doc[pcb_table_field].length; i++) {\r\n            let row = frm.doc[pcb_table_field][i];\r\n            if (row.pcb_serial_no === serial_no) {\r\n                found_pcb = row;\r\n                console.log('Found PCB!', found_pcb);\r\n                break;\r\n            }\r\n        }\r\n    } else {\r\n        console.log('pcb table is empty');\r\n    }\r\n    \r\n    // Clear top table first\r\n    frm.clear_table('pcb_iqc_data_enter');\r\n    \r\n    // Add row to PCB IQC Data Enter table (first row only)\r\n    let row = frm.add_child('pcb_iqc_data_enter');\r\n    \r\n    if (found_pcb) {\r\n        // PCB found in pcb table - populate with existing data\r\n        frappe.model.set_value(row.doctype, row.name, {\r\n            'pcb_serial_no': found_pcb.pcb_serial_no,\r\n            'item_code': found_pcb.item_code || frm.doc.pcb || '',\r\n            'overall_status': found_pcb.overall_status || 'Pending',\r\n            'iqc_date': found_pcb.iqc_date || frappe.datetime.get_today(),\r\n            'pts1_status': found_pcb.pts1_status || 'Pending',\r\n            'pts1_date': found_pcb.pts1_date,\r\n            'pts2_status': found_pcb.pts2_status || 'Pending',\r\n            'pts2_date': found_pcb.pts2_date,\r\n            'pts3_status': found_pcb.pts3_status || 'Pending',\r\n            'pts3_date': found_pcb.pts3_date,\r\n            'dominant_channel': found_pcb.dominant_channel,\r\n            'max_value': found_pcb.max_value,\r\n            'remarks': found_pcb.remarks\r\n        });\r\n        frappe.show_alert({\r\n            message: __('PCB found! Data loaded from pcb table'),\r\n            indicator: 'blue'\r\n        }, 3);\r\n    } else {\r\n        // PCB NOT found - add serial to PCB IQC Data Enter table\r\n        frappe.model.set_value(row.doctype, row.name, {\r\n            'pcb_serial_no': serial_no,\r\n            'item_code': frm.doc.pcb || '',\r\n            'overall_status': 'Pending',\r\n            'iqc_date': frappe.datetime.get_today(),\r\n            'pts1_status': 'Pending',\r\n            'pts2_status': 'Pending',\r\n            'pts3_status': 'Pending'\r\n        });\r\n        \r\n        // AUTO-ADD: Immediately add a row to pcb table with the serial number\r\n        let new_pcb_row = frm.add_child(pcb_table_field, {\r\n            'pcb_serial_no': serial_no,\r\n            'item_code': frm.doc.pcb || '',\r\n            'overall_status': 'Pending',\r\n            'iqc_date': frappe.datetime.get_today(),\r\n            'pts1_status': 'Pending',\r\n            'pts2_status': 'Pending',\r\n            'pts3_status': 'Pending'\r\n        });\r\n        \r\n        frm.refresh_field(pcb_table_field);\r\n        \r\n        frappe.show_alert({\r\n            message: __('New PCB added! Enter PTS testing details'),\r\n            indicator: 'orange'\r\n        }, 3);\r\n    }\r\n    \r\n    frm.refresh_field('pcb_iqc_data_enter');\r\n    setTimeout(() => {\r\n        apply_status_colors(frm);\r\n        frm.set_value('pcb_scan', '');\r\n    }, 300);\r\n}\r\n\r\n// Submit PCB Data - Update existing row in pcb table\r\nfunction submit_pcb_data(frm) {\r\n    if (!frm.doc.pcb_iqc_data_enter || frm.doc.pcb_iqc_data_enter.length === 0) {\r\n        frappe.msgprint(__('Please enter PCB data in PCB IQC Data Enter table'));\r\n        return;\r\n    }\r\n    \r\n    let pcb_data = frm.doc.pcb_iqc_data_enter[0];\r\n    if (!pcb_data.pcb_serial_no) {\r\n        frappe.msgprint(__('PCB Serial Number is required'));\r\n        return;\r\n    }\r\n    \r\n    // FIX: Ensure document is saved before submitting\r\n    if (frm.is_new()) {\r\n        frappe.msgprint(__('Please save the document first before submitting PCB data'));\r\n        return;\r\n    }\r\n    \r\n    let pcb_table_field = 'pcb';\r\n    let exists_in_pcb = false;\r\n    let existing_row_name = null;\r\n    \r\n    // Find existing row in pcb table\r\n    if (frm.doc[pcb_table_field] && frm.doc[pcb_table_field].length > 0) {\r\n        for (let i = 0; i < frm.doc[pcb_table_field].length; i++) {\r\n            if (frm.doc[pcb_table_field][i].pcb_serial_no === pcb_data.pcb_serial_no) {\r\n                exists_in_pcb = true;\r\n                existing_row_name = frm.doc[pcb_table_field][i].name;\r\n                break;\r\n            }\r\n        }\r\n    }\r\n    \r\n    if (!exists_in_pcb) {\r\n        frappe.msgprint(__('PCB not found in pcb table. Please scan the serial number first.'));\r\n        return;\r\n    }\r\n    \r\n    // Update existing row in pcb table with data from PCB IQC Data Enter\r\n    try {\r\n        frappe.model.set_value('PCB IQC Line', existing_row_name, {\r\n            'item_code': pcb_data.item_code || frm.doc.pcb,\r\n            'overall_status': pcb_data.overall_status || 'Pending',\r\n            'iqc_date': pcb_data.iqc_date || frappe.datetime.get_today(),\r\n            'pts1_status': pcb_data.pts1_status || 'Pending',\r\n            'pts1_date': pcb_data.pts1_date,\r\n            'pts2_status': pcb_data.pts2_status || 'Pending',\r\n            'pts2_date': pcb_data.pts2_date,\r\n            'pts3_status': pcb_data.pts3_status || 'Pending',\r\n            'pts3_date': pcb_data.pts3_date,\r\n            'dominant_channel': pcb_data.dominant_channel,\r\n            'max_value': pcb_data.max_value,\r\n            'remarks': pcb_data.remarks\r\n        });\r\n        \r\n        frm.refresh_field(pcb_table_field);\r\n        frappe.show_alert({\r\n            message: __('PCB data updated successfully'),\r\n            indicator: 'green'\r\n        }, 5);\r\n        \r\n        // Clear PCB IQC Data Enter table after successful submit\r\n        frm.clear_table('pcb_iqc_data_enter');\r\n        frm.refresh_field('pcb_iqc_data_enter');\r\n        \r\n        // Auto-save the document after successful submission\r\n        frm.save();\r\n        frm.reload_doc();\r\n    } catch(e) {\r\n        console.error('Error in submit_pcb_data:', e);\r\n        frappe.msgprint(__('Error: {0}', [e.message || 'Unknown error']));\r\n    }\r\n}\r\n\r\nfunction search_pcb_serial(frm) {\r\n    let d = new frappe.ui.Dialog({\r\n        title: __('Search PCB Serial Number'),\r\n        fields: [{ label: __('PCB Serial Number'), fieldname: 'serial_no', fieldtype: 'Data', reqd: 1 }],\r\n        primary_action_label: __('Search'),\r\n        primary_action: function() {\r\n            let values = d.get_values();\r\n            if (values.serial_no) {\r\n                frm.set_value('pcb_scan', values.serial_no);\r\n                setTimeout(() => search_pcb_in_table(frm), 200);\r\n                d.hide();\r\n            }\r\n        }\r\n    });\r\n    d.show();\r\n}\r\n\r\nfunction filter_by_batch(frm) {\r\n    frappe.msgprint(__('Batch filtering will be implemented'));\r\n}\r\n\r\nfunction apply_status_colors(frm) {\r\n    if (!frm.fields_dict['pcb_iqc_data_enter'] || !frm.fields_dict['pcb_iqc_data_enter'].grid) return;\r\n    setTimeout(function() {\r\n        if (frm.fields_dict['pcb_iqc_data_enter'].grid.grid_rows) {\r\n            frm.fields_dict['pcb_iqc_data_enter'].grid.grid_rows.forEach(function(row) {\r\n                ['pts1_status', 'pts2_status', 'pts3_status', 'overall_status'].forEach(function(fieldname) {\r\n                    let status = row.doc[fieldname];\r\n                    if (status) {\r\n                        let cell = row.$grid_row.find('[data-fieldname=\"' + fieldname + '\"]');\r\n                        if (cell && cell.length) {\r\n                            cell.removeClass('status-pass status-fail status-pending');\r\n                            if (status === 'Pass') {\r\n                                cell.css({'background-color': '#d4edda', 'color': '#155724', 'font-weight': 'bold'});\r\n                            } else if (status === 'Fail') {\r\n                                cell.css({'background-color': '#f8d7da', 'color': '#721c24', 'font-weight': 'bold'});\r\n                            } else if (status === 'Pending') {\r\n                                cell.css({'background-color': '#fff3cd', 'color': '#856404', 'font-weight': 'normal'});\r\n                            }\r\n                        }\r\n                    }\r\n                });\r\n            });\r\n        }\r\n    }, 100);\r\n}\r\n\r\nfrappe.ui.form.on('PCB IQC Data Enter', {\r\n    pts1_status: function(frm, cdt, cdn) { update_pts_status(frm, cdt, cdn, 'pts1'); },\r\n    pts2_status: function(frm, cdt, cdn) { update_pts_status(frm, cdt, cdn, 'pts2'); },\r\n    pts3_status: function(frm, cdt, cdn) { update_pts_status(frm, cdt, cdn, 'pts3'); }\r\n});\r\n\r\nfunction update_pts_status(frm, cdt, cdn, pts_type) {\r\n    let row = locals[cdt][cdn];\r\n    if (row[pts_type + '_status'] && row[pts_type + '_status'] !== 'Pending') {\r\n        if (!row[pts_type + '_date']) {\r\n            frappe.model.set_value(cdt, cdn, pts_type + '_date', frappe.datetime.now_datetime());\r\n        }\r\n    }\r\n    let pts1 = row.pts1_status || 'Pending';\r\n    let pts2 = row.pts2_status || 'Pending';\r\n    let pts3 = row.pts3_status || 'Pending';\r\n    let overall = 'Pending';\r\n    if (pts1 === 'Fail' || pts2 === 'Fail' || pts3 === 'Fail') {\r\n        overall = 'Fail';\r\n    } else if (pts1 === 'Pass' && pts2 === 'Pass' && pts3 === 'Pass') {\r\n        overall = 'Pass';\r\n    }\r\n    frappe.model.set_value(cdt, cdn, 'overall_status', overall);\r\n    setTimeout(() => apply_status_colors(frm), 100);\r\n}\r\n\"\"\"\r\n\r\nscript_doc.script = updated_script\r\nscript_doc.save(ignore_permissions=True)\r\nfrappe.db.commit()\r\n\r\nprint('  ✅ Client Script updated')\r\n\r\nprint('\\n' + '='*80)\r\nprint('✅ COMPLETE!')\r\nprint('='*80)\r\nprint('\\nKey fixes:')\r\nprint('  1. Child table is disabled (read-only) until document is saved')\r\nprint('  2. Server script ensures parent fields are set correctly for new docs')\r\nprint('  3. User is prompted to save before scanning serial numbers')\r\nprint('  4. Child table is automatically enabled after document is saved')\r\nprint('\\n⚠️  WORKFLOW:')\r\nprint('  1. Create new PCB IQC Result document')\r\nprint('  2. Fill required fields (PCB Item, etc.)')\r\nprint('  3. SAVE the document first')\r\nprint('  4. Then scan PCB serial numbers')\r\n",
         "firstEditBubbleId": "d235ebb7-6e52-48a6-a4c8-f104e67b2fb9",
         "isNewlyCreated": false,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py": {
+        "content": "",
+        "firstEditBubbleId": "7e4de6a9-b1da-40e8-8bca-98915eae0322",
+        "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
     },
@@ -20641,10 +20722,20 @@
           "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/README.md",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+          "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769147710886,
+    "lastUpdatedAt": 1769148031682,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -20720,11 +20811,11 @@
     "forceMode": "edit",
     "usageData": {
       "composer-1": {
-        "costInCents": 487,
-        "amount": 25
+        "costInCents": 518,
+        "amount": 27
       }
     },
-    "contextUsagePercent": 44.92850112915039,
+    "contextUsagePercent": 56.4630012512207,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/CREATE_CHILD_TABLE_TABLES.py",
       "file:///c%3A/Users/pc/Desktop/FIX_CHILD_TABLES_COMPLETE.py",
@@ -20732,7 +20823,9 @@
       "file:///c%3A/Users/pc/Desktop/FIX_PARENT_REFERENCE_ERROR.py",
       "file:///c%3A/Users/pc/Desktop/FIX_PARENT_ERROR_COMPLETE.py",
       "file:///c%3A/Users/pc/Desktop/ORGANIZE_PCB_IQC_FILES.ps1",
-      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/README.md"
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/README.md",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PARENT_ERROR_COMPLETE.py",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/2.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -20744,7 +20837,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 45178,
+    "totalLinesAdded": 45598,
     "totalLinesRemoved": 25,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -20766,10 +20859,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "cf1b4fc7-c9ef-4d1e-97cf-dfb55ce93f16",
+    "latestChatGenerationUUID": "0f6aa410-faf5-499f-91df-cbccbf34e1c8",
     "isAgentic": true,
-    "subtitle": "FIX_PARENT_ERROR_COMPLETE.py, README.md, ORGANIZE_PCB_IQC_FILES.ps1, FIX_PARENT_ERROR_COMPLETE.py, FIX_PARENT_REFERENCE_ERROR.py",
-    "filesChangedCount": 331
+    "subtitle": "FIX_ENTER_KEY_SEARCH.py, FIX_PARENT_ERROR_COMPLETE.py, README.md, ORGANIZE_PCB_IQC_FILES.ps1, FIX_PARENT_ERROR_COMPLETE.py",
+    "filesChangedCount": 332
   },
-  "extracted_at": "2026-01-23T11:28:00.648885"
+  "extracted_at": "2026-01-23T11:33:00.661223"
 }
