@@ -2386,6 +2386,48 @@
       {
         "bubbleId": "ba6ca41a-670a-47b9-9acd-b71f913a0fd6",
         "type": 2
+      },
+      {
+        "bubbleId": "19688920-49ad-4e48-9bb8-00bee15f96a1",
+        "type": 1
+      },
+      {
+        "bubbleId": "8b7f4299-034a-4f87-b05e-f9b2816256f9",
+        "type": 2,
+        "serverBubbleId": "3d7009a9-fc5a-4e34-8f83-7c0666667cc1"
+      },
+      {
+        "bubbleId": "956f5258-5269-40d8-a001-dfec4e76650d",
+        "type": 2
+      },
+      {
+        "bubbleId": "3f847684-62b5-44ed-b426-d8fc38649a11",
+        "type": 2
+      },
+      {
+        "bubbleId": "b9a38d13-cf64-470a-992b-de08381f82e9",
+        "type": 2
+      },
+      {
+        "bubbleId": "50361d4b-42cd-4167-9403-324768b5aa81",
+        "type": 2
+      },
+      {
+        "bubbleId": "3ac363c2-41f6-4187-b00c-6f6bb70aad7a",
+        "type": 2
+      },
+      {
+        "bubbleId": "4ebc185d-56c4-474c-a902-5dcbe590f75c",
+        "type": 2
+      },
+      {
+        "bubbleId": "bf7d3332-e579-459d-b92d-6042b2da2952",
+        "type": 2,
+        "serverBubbleId": "5b13c910-2470-4e34-a37a-d9e1dcb91ad5"
+      },
+      {
+        "bubbleId": "6ac30ebb-ab9b-4549-9f42-96e49e502732",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -5623,6 +5665,58 @@
           "diffId": "ca09c749-024c-4f5d-92e5-c2d56992d0d0",
           "lastDiffId": "83389efb-a3aa-4fbe-9425-7b24e81aa435",
           "lastAppliedAt": 1769171351208
+        },
+        "30c0b449-5069-4504-a774-3e6575fb297c": {
+          "_v": 3,
+          "bubbleId": "b9a38d13-cf64-470a-992b-de08381f82e9",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "30c0b449-5069-4504-a774-3e6575fb297c",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "b0ef7f8d-849a-4f13-8e55-b04a8f679ea4",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769172313927,
+          "composerChatGenerationUuid": "bce8d4f3-eccc-4e41-98bf-98d0c5109490",
+          "diffId": "2f487186-9d75-4606-9cab-e4fbf29d81a5",
+          "lastDiffId": "2314f9dd-f203-4fc4-9569-438028c396df",
+          "lastAppliedAt": 1769172320412
+        },
+        "fd565232-4886-4c15-b78b-b5e4cda79800": {
+          "_v": 3,
+          "bubbleId": "50361d4b-42cd-4167-9403-324768b5aa81",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "fd565232-4886-4c15-b78b-b5e4cda79800",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "30c0b449-5069-4504-a774-3e6575fb297c",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769172320767,
+          "composerChatGenerationUuid": "bce8d4f3-eccc-4e41-98bf-98d0c5109490",
+          "diffId": "3b4bde26-d38d-4d90-8fe5-7df4be9d62e3",
+          "lastDiffId": "fc796510-3c74-4531-9c8d-35d8601089a2",
+          "lastAppliedAt": 1769172323291
         }
       },
       "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py": {
@@ -6657,7 +6751,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769171420448,
+    "lastUpdatedAt": 1769172331309,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -6737,7 +6831,7 @@
         "amount": 16
       }
     },
-    "contextUsagePercent": 49.2760009765625,
+    "contextUsagePercent": 50.540000915527344,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
       "file:///k%3A/VoiceTyper/PREMIUM_UI_DESIGN.md",
@@ -6750,7 +6844,9 @@
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/14.txt",
       "file:///k%3A/VoiceTyper/TRANSCRIPTION_FIX.md",
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/16.txt",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/17.txt"
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/17.txt",
+      "file:///k%3A/VoiceTyper/ACCURACY_IMPROVEMENTS.md",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/2.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -6762,7 +6858,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 5433,
+    "totalLinesAdded": 5470,
     "totalLinesRemoved": 299,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -6784,10 +6880,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "5c24e444-4e2b-4530-b199-01f896e8bc8b",
+    "latestChatGenerationUUID": "bce8d4f3-eccc-4e41-98bf-98d0c5109490",
     "isAgentic": true,
-    "subtitle": "ACCURACY_IMPROVEMENTS.md, voice_typer_whisper.py, TRANSCRIPTION_FIX.md, VOICE_RECOGNITION_FIX.md, AUDIO_DIAGNOSTICS_GUIDE.md",
+    "subtitle": "voice_typer_whisper.py, ACCURACY_IMPROVEMENTS.md, TRANSCRIPTION_FIX.md, VOICE_RECOGNITION_FIX.md, AUDIO_DIAGNOSTICS_GUIDE.md",
     "filesChangedCount": 43
   },
-  "extracted_at": "2026-01-23T18:13:00.452192"
+  "extracted_at": "2026-01-23T18:18:00.413998"
 }

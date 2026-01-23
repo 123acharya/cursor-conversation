@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"i think u are not getting it \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"i pu\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "i think u are not getting it \ni pu",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "d0d89e3d-7d80-4696-9a17-6d403ba8aaa1",
@@ -767,6 +767,53 @@
       {
         "bubbleId": "d8b8c539-28d9-49de-b6bd-78350162547d",
         "type": 2
+      },
+      {
+        "bubbleId": "d30723b0-0d3f-4fcf-82d8-0b823c10c9ce",
+        "type": 1
+      },
+      {
+        "bubbleId": "4c72405f-da58-4443-bce1-2dc45f42ef59",
+        "type": 2,
+        "serverBubbleId": "80116c6c-3d25-4411-a27b-2824d5165769"
+      },
+      {
+        "bubbleId": "19385f0c-986b-4478-b696-ad0345dbb848",
+        "type": 2
+      },
+      {
+        "bubbleId": "d1cd928a-0092-45ca-926c-7f460b817fa9",
+        "type": 2
+      },
+      {
+        "bubbleId": "03734d10-418d-45df-bc60-266c9ed37401",
+        "type": 2
+      },
+      {
+        "bubbleId": "638293db-8bf1-4087-a105-6536daa5e042",
+        "type": 2,
+        "serverBubbleId": "7f06d0ae-c359-4aae-96b9-fc0c4cf04769"
+      },
+      {
+        "bubbleId": "4280c650-a786-49c0-a1a5-e80bdbee3c1e",
+        "type": 2
+      },
+      {
+        "bubbleId": "2de419d4-3dc1-4772-b16c-c65383c78b3c",
+        "type": 2
+      },
+      {
+        "bubbleId": "4b3767d5-5147-4161-9d19-3e3c7719d8f0",
+        "type": 2
+      },
+      {
+        "bubbleId": "7ae4cd4f-563d-4e55-91c2-cd02da344f6f",
+        "type": 2,
+        "serverBubbleId": "0c379b7d-dc82-4692-9427-957e412c813a"
+      },
+      {
+        "bubbleId": "0dc0c903-b4ef-4bbe-93ef-5dac728b7ae4",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -1361,6 +1408,30 @@
           "lastDiffId": "c4633c37-81b9-45f5-bf8d-9119b85f03f2",
           "lastAppliedAt": 1769147822802
         }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py": {
+        "dfe89d31-58af-4182-9c9c-67fbcf71b874": {
+          "_v": 3,
+          "bubbleId": "4b3767d5-5147-4161-9d19-3e3c7719d8f0",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\UNCANCEL_DOCUMENT.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py",
+            "scheme": "file"
+          },
+          "codeblockId": "dfe89d31-58af-4182-9c9c-67fbcf71b874",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769172420675,
+          "composerChatGenerationUuid": "758bb23e-d465-4301-8bb5-ae093d356e5c",
+          "diffId": "16a4d023-0157-46ba-9134-ea53c98ed425",
+          "lastDiffId": "5578c8bc-7275-498a-953f-853ebddfe351",
+          "lastAppliedAt": 1769172425532
+        }
       }
     },
     "originalFileStates": {
@@ -1457,6 +1528,12 @@
       "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt": {
         "content": "",
         "firstEditBubbleId": "51f535ed-2dc9-43c0-9256-00fbdd1e66d4",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py": {
+        "content": "",
+        "firstEditBubbleId": "4b3767d5-5147-4161-9d19-3e3c7719d8f0",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -1621,10 +1698,20 @@
           "path": "/c:/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\UNCANCEL_DOCUMENT.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769147825604,
+    "lastUpdatedAt": 1769172433271,
     "createdAt": 1768912966484,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -1704,12 +1791,13 @@
         "amount": 1
       }
     },
-    "contextUsagePercent": 33.68450164794922,
+    "contextUsagePercent": 41.618499755859375,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk",
       "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
       "file:///c%3A/Users/pc/Desktop/start_cursor_auto_accept.bat",
       "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/6.txt",
       "file:///c%3A/Users/pc/Desktop/test_cursor_detection.ahk",
       "file:///c%3A/Users/pc/Desktop/test_and_start.bat",
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2.ahk",
@@ -1717,7 +1805,12 @@
       "file:///c%3A/Users/pc/Desktop/start_simple_script.bat",
       "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
       "file:///c%3A/Users/pc/Desktop/START_HERE.bat",
-      "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_DOCTYPE_FIXED.py"
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/5.txt",
+      "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_DOCTYPE_FIXED.py",
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/README.md",
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/19.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -1729,7 +1822,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 1243,
+    "totalLinesAdded": 1300,
     "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -1751,10 +1844,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "476b1e87-af65-451e-9505-a196122e3d08",
+    "latestChatGenerationUUID": "758bb23e-d465-4301-8bb5-ae093d356e5c",
     "isAgentic": true,
-    "subtitle": "QUICK_START.txt, README.md, INSTALL_PART1_EXEC_FIXED.py, INSTALL_PART1_IPYTHON.py",
-    "filesChangedCount": 16
+    "subtitle": "UNCANCEL_DOCUMENT.py, QUICK_START.txt, README.md, INSTALL_PART1_EXEC_FIXED.py, INSTALL_PART1_IPYTHON.py",
+    "filesChangedCount": 17
   },
-  "extracted_at": "2026-01-23T18:13:00.452192"
+  "extracted_at": "2026-01-23T18:18:00.404926"
 }
