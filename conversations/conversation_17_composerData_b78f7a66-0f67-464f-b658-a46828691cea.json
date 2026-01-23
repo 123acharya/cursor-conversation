@@ -1204,11 +1204,37 @@
       },
       {
         "bubbleId": "9634c2ab-9a9b-40fa-b762-930fc1c18ae9",
+        "type": 2,
+        "serverBubbleId": "d195bc39-20f4-4ab9-ba4c-8077f5e629e4"
+      },
+      {
+        "bubbleId": "4d8a418c-d835-4692-b856-942fd037b8c0",
+        "type": 2
+      },
+      {
+        "bubbleId": "4f3ec424-225e-4797-9429-902365fad6fa",
+        "type": 2
+      },
+      {
+        "bubbleId": "172648b5-ca9a-44a9-b67b-5ac564ff5f7f",
+        "type": 2
+      },
+      {
+        "bubbleId": "a3c02457-089e-4bda-918c-6ec7f8886d08",
+        "type": 2
+      },
+      {
+        "bubbleId": "63ce0d84-2a55-4c2d-92bb-919a2a6640e8",
+        "type": 2,
+        "serverBubbleId": "9d3c8b35-a128-4cba-9014-e5b7f60ce301"
+      },
+      {
+        "bubbleId": "d70c246d-24e2-4330-9711-a538abe4aaec",
         "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -1258,7 +1284,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "7be19eaa-4ae5-4b57-b0a4-3d2c6d4923f4",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/voice_typer.py": {
@@ -2550,6 +2575,54 @@
           "lastDiffId": "929afd06-0187-4b0e-a8dc-2a1e1fdab78f",
           "lastAppliedAt": 1769148217576
         }
+      },
+      "file:///k%3A/VoiceTyper/PROJECT_STATUS.md": {
+        "e796ebb6-60df-4e43-a382-1e437573f683": {
+          "_v": 3,
+          "bubbleId": "2a7f1438-72d0-444c-a9cb-c28d3b46874b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\PROJECT_STATUS.md",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/PROJECT_STATUS.md",
+            "path": "/K:/VoiceTyper/PROJECT_STATUS.md",
+            "scheme": "file"
+          },
+          "codeblockId": "e796ebb6-60df-4e43-a382-1e437573f683",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769149201017,
+          "composerChatGenerationUuid": "7be19eaa-4ae5-4b57-b0a4-3d2c6d4923f4",
+          "diffId": "cf5afbc5-6acc-4781-8261-50e07044f689",
+          "lastDiffId": "5a8ce28d-e50b-4f6b-bc2f-b74f9ad63c5b",
+          "lastAppliedAt": 1769149208088
+        }
+      },
+      "file:///k%3A/VoiceTyper/COMPLETION_REPORT.md": {
+        "d9de33d4-2247-49cf-8187-a1b7782ecbba": {
+          "_v": 3,
+          "bubbleId": "a3c02457-089e-4bda-918c-6ec7f8886d08",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\COMPLETION_REPORT.md",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/COMPLETION_REPORT.md",
+            "path": "/K:/VoiceTyper/COMPLETION_REPORT.md",
+            "scheme": "file"
+          },
+          "codeblockId": "d9de33d4-2247-49cf-8187-a1b7782ecbba",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769149218808,
+          "composerChatGenerationUuid": "7be19eaa-4ae5-4b57-b0a4-3d2c6d4923f4",
+          "diffId": "d9907ce1-bbc2-4717-80f5-cad68c9a1fc6",
+          "lastDiffId": "fdf177f7-0105-4a76-8a92-11239858ae73",
+          "lastAppliedAt": 1769149224626
+        }
       }
     },
     "originalFileStates": {
@@ -2718,6 +2791,18 @@
       "file:///k%3A/VoiceTyper/README.md": {
         "content": "",
         "firstEditBubbleId": "cfa808ae-cd7c-4ed2-9fee-45ee00e8c4f5",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/PROJECT_STATUS.md": {
+        "content": "",
+        "firstEditBubbleId": "2a7f1438-72d0-444c-a9cb-c28d3b46874b",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/VoiceTyper/COMPLETION_REPORT.md": {
+        "content": "",
+        "firstEditBubbleId": "a3c02457-089e-4bda-918c-6ec7f8886d08",
         "isNewlyCreated": true,
         "newlyCreatedFolders": []
       }
@@ -2992,10 +3077,30 @@
           "path": "/K:/VoiceTyper/README.md",
           "scheme": "file"
         }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\PROJECT_STATUS.md",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/PROJECT_STATUS.md",
+          "path": "/K:/VoiceTyper/PROJECT_STATUS.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "k:\\VoiceTyper\\COMPLETION_REPORT.md",
+          "_sep": 1,
+          "external": "file:///k%3A/VoiceTyper/COMPLETION_REPORT.md",
+          "path": "/K:/VoiceTyper/COMPLETION_REPORT.md",
+          "scheme": "file"
+        }
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769148431727,
+    "lastUpdatedAt": 1769149229807,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -3075,7 +3180,7 @@
         "amount": 7
       }
     },
-    "contextUsagePercent": 73.38750076293945,
+    "contextUsagePercent": 76.29500007629395,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/voice_typer.py",
       "file:///c%3A/Users/pc/Desktop/requirements_voice_typer.txt",
@@ -3142,7 +3247,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 3235,
+    "totalLinesAdded": 3600,
     "totalLinesRemoved": 32,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -3166,9 +3271,9 @@
     "conversationState": "",
     "latestChatGenerationUUID": "7be19eaa-4ae5-4b57-b0a4-3d2c6d4923f4",
     "isAgentic": true,
-    "subtitle": "PROJECT_STATUS.md, README.md, run_v2_gpu_venv.bat, install_gpu_k_drive.bat, install_gpu_final.bat",
-    "filesChangedCount": 27,
+    "subtitle": "COMPLETION_REPORT.md, PROJECT_STATUS.md, README.md, run_v2_gpu_venv.bat, install_gpu_k_drive.bat",
+    "filesChangedCount": 29,
     "firstTodoWriteBubble": "2baeb55d-c0b7-4ef8-bb22-dde57e2a0146"
   },
-  "extracted_at": "2026-01-23T11:48:00.720301"
+  "extracted_at": "2026-01-23T11:53:00.709544"
 }
