@@ -2251,6 +2251,61 @@
       {
         "bubbleId": "82449e55-fb98-4b02-a323-34b35d8c78f6",
         "type": 2
+      },
+      {
+        "bubbleId": "02592af6-7962-4681-9f64-efc2e96a024c",
+        "type": 1
+      },
+      {
+        "bubbleId": "66fa9ca6-9fed-453a-81da-18e83a50adad",
+        "type": 2,
+        "serverBubbleId": "e4082a83-300a-4bd9-a9dd-0989cfaee237"
+      },
+      {
+        "bubbleId": "8fce3607-fb09-4c64-a8ef-54ba04da8c4c",
+        "type": 2
+      },
+      {
+        "bubbleId": "6ee225f1-2518-4cc2-8f7c-cd5b614e1092",
+        "type": 2
+      },
+      {
+        "bubbleId": "a62b7774-450c-4785-ac53-845b9161d9e4",
+        "type": 2
+      },
+      {
+        "bubbleId": "08b6d90a-f777-41bd-8ba0-ad1d92101873",
+        "type": 2
+      },
+      {
+        "bubbleId": "80796477-340f-4c6d-b6f6-08d1480d0f48",
+        "type": 2
+      },
+      {
+        "bubbleId": "ed83183d-b339-4ceb-8770-ba202e636a9e",
+        "type": 2,
+        "serverBubbleId": "140cf29f-0e53-4fea-8dc5-fe54792d9272"
+      },
+      {
+        "bubbleId": "79f0c464-302a-4c75-822f-44e192ed7603",
+        "type": 2
+      },
+      {
+        "bubbleId": "ceff38c8-abe5-418f-b53b-f98eb1d13395",
+        "type": 2
+      },
+      {
+        "bubbleId": "2d925bcd-b334-4431-a6bc-d352df752a27",
+        "type": 2
+      },
+      {
+        "bubbleId": "8cdd2354-4a64-4868-b410-73daf669f444",
+        "type": 2,
+        "serverBubbleId": "6eeffae8-abac-4a2f-b6e0-3e3e96dc8118"
+      },
+      {
+        "bubbleId": "15b6836b-f773-4c2a-ab8d-268597584e62",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -5339,6 +5394,58 @@
           "diffId": "e685b08b-83bf-4b53-a92c-7894d5d00a66",
           "lastDiffId": "4c714751-db26-4d36-a0ae-f6e881825634",
           "lastAppliedAt": 1769162715358
+        },
+        "7a925cb4-f0c1-49ea-8db0-a6e75a28425c": {
+          "_v": 3,
+          "bubbleId": "a62b7774-450c-4785-ac53-845b9161d9e4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "7a925cb4-f0c1-49ea-8db0-a6e75a28425c",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "7eca338e-c399-4496-ba6f-56292640c818",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769171219668,
+          "composerChatGenerationUuid": "6d75cfd6-4d79-4120-bae5-f007434b9154",
+          "diffId": "0121405e-6c52-4a6e-8465-efc4d74e245d",
+          "lastDiffId": "f3fecd80-8975-467e-b5b6-a59764bc512b",
+          "lastAppliedAt": 1769171224009
+        },
+        "a4c49c68-73d6-4fa7-839b-e7124dbbbfa9": {
+          "_v": 3,
+          "bubbleId": "08b6d90a-f777-41bd-8ba0-ad1d92101873",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\VoiceTyper\\src\\voice_typer_whisper.py",
+            "_sep": 1,
+            "external": "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
+            "path": "/K:/VoiceTyper/src/voice_typer_whisper.py",
+            "scheme": "file"
+          },
+          "codeblockId": "a4c49c68-73d6-4fa7-839b-e7124dbbbfa9",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "7a925cb4-f0c1-49ea-8db0-a6e75a28425c",
+            "composerId": "b78f7a66-0f67-464f-b658-a46828691cea"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769171224382,
+          "composerChatGenerationUuid": "6d75cfd6-4d79-4120-bae5-f007434b9154",
+          "diffId": "b1e1bdb5-6ce7-4f75-9fce-a30683f5e9c7",
+          "lastDiffId": "ea044a4c-c3d1-4b82-bbd0-84901204eb1a",
+          "lastAppliedAt": 1769171229057
         }
       },
       "file:///k%3A/VoiceTyper/src/voice_typer_whisper_v2_gpu.py": {
@@ -6333,7 +6440,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769162854315,
+    "lastUpdatedAt": 1769171238190,
     "createdAt": 1769087511260,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -6413,7 +6520,7 @@
         "amount": 16
       }
     },
-    "contextUsagePercent": 39.839500427246094,
+    "contextUsagePercent": 43.96049880981445,
     "allAttachedFileCodeChunksUris": [
       "file:///k%3A/VoiceTyper/src/voice_typer_whisper.py",
       "file:///k%3A/VoiceTyper/PREMIUM_UI_DESIGN.md",
@@ -6425,7 +6532,9 @@
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/13.txt",
       "file:///k%3A/VoiceTyper/VOICE_RECOGNITION_FIX.md",
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/14.txt",
-      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/15.txt"
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/15.txt",
+      "file:///k%3A/VoiceTyper/TRANSCRIPTION_FIX.md",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/16.txt"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -6459,10 +6568,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "48132596-9e79-4366-a3fe-c28793293c14",
+    "latestChatGenerationUUID": "6d75cfd6-4d79-4120-bae5-f007434b9154",
     "isAgentic": true,
-    "subtitle": "TRANSCRIPTION_FIX.md, voice_typer_whisper.py, VOICE_RECOGNITION_FIX.md, AUDIO_DIAGNOSTICS_GUIDE.md, PREMIUM_UI_UPDATE.md",
+    "subtitle": "voice_typer_whisper.py, TRANSCRIPTION_FIX.md, VOICE_RECOGNITION_FIX.md, AUDIO_DIAGNOSTICS_GUIDE.md, PREMIUM_UI_UPDATE.md",
     "filesChangedCount": 42
   },
-  "extracted_at": "2026-01-23T17:53:01.514985"
+  "extracted_at": "2026-01-23T17:58:00.930039"
 }
