@@ -4463,6 +4463,110 @@
       {
         "bubbleId": "4b3c465c-8dd6-44c9-9f42-e4d7ae7aacaf",
         "type": 2
+      },
+      {
+        "bubbleId": "e9f6e589-50b2-4e06-82f2-4b90f00a3eba",
+        "type": 1
+      },
+      {
+        "bubbleId": "3eef3cd4-8a4f-4a3c-8887-4bba3da188cd",
+        "type": 2,
+        "serverBubbleId": "7d2056aa-47ed-40bf-af8b-b8b9ae9ca2f6"
+      },
+      {
+        "bubbleId": "39999bbb-ff65-4187-a90c-a78b3b0ffcb3",
+        "type": 2
+      },
+      {
+        "bubbleId": "9ca7dafb-0dd4-4365-832d-4e0500c10c85",
+        "type": 2
+      },
+      {
+        "bubbleId": "2af0a8bc-17ea-4b79-baec-3f6be8e4b78b",
+        "type": 2,
+        "serverBubbleId": "aeb5febc-641c-4024-836c-4fc8b6151f43"
+      },
+      {
+        "bubbleId": "d943f40e-a65d-4fa2-af47-7f0d0f4d1864",
+        "type": 2
+      },
+      {
+        "bubbleId": "c8ad3847-5cd9-4b8e-a233-c7d477cd3679",
+        "type": 2
+      },
+      {
+        "bubbleId": "7b8d2b47-1593-4f5a-bd75-3590fbfdb3f7",
+        "type": 2,
+        "serverBubbleId": "9dfe8bdb-277b-49e5-9a8e-dc8da69b4326"
+      },
+      {
+        "bubbleId": "96681666-4ffa-40af-89cf-8f41d44f442f",
+        "type": 2
+      },
+      {
+        "bubbleId": "1f25a99a-1abd-4cdc-a6a9-af43c1a229fb",
+        "type": 2
+      },
+      {
+        "bubbleId": "617d5f0d-2284-4eb5-8e7b-b72b344d3576",
+        "type": 2,
+        "serverBubbleId": "82c305d6-5084-4511-9932-77e4878e3ded"
+      },
+      {
+        "bubbleId": "c5173afe-947e-4f3d-89e9-b0cd8dfc9c2c",
+        "type": 2
+      },
+      {
+        "bubbleId": "6878e0b7-e8c3-4300-83c8-97c503a36b49",
+        "type": 2
+      },
+      {
+        "bubbleId": "21d3c3b7-4a50-458b-a1dc-6c017ffae78a",
+        "type": 2,
+        "serverBubbleId": "0c2bdca2-64f5-408d-b63a-f1210dcd7f8f"
+      },
+      {
+        "bubbleId": "f2e22735-7a73-4b50-b814-9659b6dbb932",
+        "type": 2
+      },
+      {
+        "bubbleId": "007eda66-1cf3-4dca-8a54-46e419e825dc",
+        "type": 2
+      },
+      {
+        "bubbleId": "e5e7f676-9757-4daf-a8ce-d2b08b07d503",
+        "type": 2,
+        "serverBubbleId": "6b964894-728c-4517-ada0-aea31caf18fb"
+      },
+      {
+        "bubbleId": "c71229ce-6617-4d74-894c-d054c9a649c2",
+        "type": 2
+      },
+      {
+        "bubbleId": "8f6a0fba-ade6-4565-821a-d84d6b979ed6",
+        "type": 2
+      },
+      {
+        "bubbleId": "e9d82083-4da8-4c27-80d2-eb24b99cd7d0",
+        "type": 2,
+        "serverBubbleId": "0d7aa8e9-060b-42af-8792-b35d0f4ef98d"
+      },
+      {
+        "bubbleId": "1dcd65e9-5a9f-45a8-93d4-4e7b6a49b31c",
+        "type": 2
+      },
+      {
+        "bubbleId": "4f73263f-7845-42db-9392-9c19ea03b3fc",
+        "type": 2
+      },
+      {
+        "bubbleId": "db7817eb-737f-4266-af82-daed6bdf0111",
+        "type": 2,
+        "serverBubbleId": "707da42f-316b-40b1-8f04-ada6dcf4b565"
+      },
+      {
+        "bubbleId": "bfe72d72-b6f6-4102-855a-6c0c02dd5769",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -17568,6 +17672,58 @@
           "diffId": "87a88849-0608-41f2-be94-76a19d61f65b",
           "lastDiffId": "f59b01c4-1880-43df-a77a-d871697fb94a",
           "lastAppliedAt": 1769236925379
+        },
+        "de9d5a4e-adda-4cda-804c-1cc5f847964d": {
+          "_v": 3,
+          "bubbleId": "6878e0b7-e8c3-4300-83c8-97c503a36b49",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "de9d5a4e-adda-4cda-804c-1cc5f847964d",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "285716d8-416e-41e5-8bc2-8c5ddefcc26e",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769237469583,
+          "composerChatGenerationUuid": "018696f9-d88d-44c9-a12b-8bd5041ffbf5",
+          "diffId": "41203854-cf50-4a35-9b4b-4559f8a648c2",
+          "lastDiffId": "1a67592a-c6fd-462b-b782-e6f2bd4ed9cb",
+          "lastAppliedAt": 1769237473224
+        },
+        "6295946e-1172-49e8-805e-1fea1b760d2f": {
+          "_v": 3,
+          "bubbleId": "8f6a0fba-ade6-4565-821a-d84d6b979ed6",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "6295946e-1172-49e8-805e-1fea1b760d2f",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "de9d5a4e-adda-4cda-804c-1cc5f847964d",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769237477819,
+          "composerChatGenerationUuid": "018696f9-d88d-44c9-a12b-8bd5041ffbf5",
+          "diffId": "b46ae252-9de2-4729-aea1-017dd85e9520",
+          "lastDiffId": "a0059a2e-32b6-4f7b-95c8-ae930a9329e4",
+          "lastAppliedAt": 1769237505574
         }
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md": {
@@ -21833,7 +21989,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769237222813,
+    "lastUpdatedAt": 1769237510079,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -21905,15 +22061,15 @@
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "chat",
-    "forceMode": "chat",
+    "unifiedMode": "agent",
+    "forceMode": "edit",
     "usageData": {
       "composer-1": {
         "costInCents": 942,
         "amount": 43
       }
     },
-    "contextUsagePercent": 16.774002075195312,
+    "contextUsagePercent": 29.45099639892578,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/2.txt",
@@ -21929,7 +22085,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 46360,
+    "totalLinesAdded": 46376,
     "totalLinesRemoved": 25,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -21951,10 +22107,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "3100bb80-6233-470b-bbf8-64577b3ec969",
-    "isAgentic": false,
+    "latestChatGenerationUUID": "018696f9-d88d-44c9-a12b-8bd5041ffbf5",
+    "isAgentic": true,
     "subtitle": "FIX_ENTER_KEY_SEARCH.py, ENABLE_EDIT_AFTER_SUBMIT.py, PCB_IQC_RESULT_WORKFLOW.md",
     "filesChangedCount": 334
   },
-  "extracted_at": "2026-01-24T12:18:01.039193"
+  "extracted_at": "2026-01-24T12:23:00.828046"
 }
