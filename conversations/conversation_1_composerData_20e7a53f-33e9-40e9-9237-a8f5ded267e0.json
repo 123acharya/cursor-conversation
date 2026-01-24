@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"its working but its little bit wrong way\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so basically when ever i change test rsult in PCc iqc data enter is directly changeing in pcb table even before pressing update \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"in this way operator may make mista\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "its working but its little bit wrong way\nso basically when ever i change test rsult in PCc iqc data enter is directly changeing in pcb table even before pressing update \nin this way operator may make mista",
+    "text": "",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "2498fef8-c661-4afa-a3ad-9c5506ce449d",
@@ -4649,10 +4649,51 @@
         "bubbleId": "e2515527-397e-45de-ace6-f210857cec1a",
         "type": 2,
         "serverBubbleId": "45ad09ee-833a-4b3c-bf53-d821a3fc079a"
+      },
+      {
+        "bubbleId": "76250784-2a27-49ae-ae6a-5ebcae837e1f",
+        "type": 1
+      },
+      {
+        "bubbleId": "193fbf49-c786-4cbc-9b64-24ac58a04235",
+        "type": 2,
+        "serverBubbleId": "8230a15b-664f-4396-a9aa-fc67aa1ee6d6"
+      },
+      {
+        "bubbleId": "131dc937-0b68-4844-987f-8f8266992171",
+        "type": 2
+      },
+      {
+        "bubbleId": "79d46ef1-458c-47b4-b4f5-12d2fa7e8259",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f324164-bdbc-4907-95cd-8f54295a76e6",
+        "type": 2,
+        "serverBubbleId": "02a064f1-fb20-4521-a6e7-d85498257f1a"
+      },
+      {
+        "bubbleId": "0898ca1d-51c4-4e05-bfd4-8f897833f3c0",
+        "type": 2,
+        "serverBubbleId": "35dcfe3b-329e-4fe2-b6c4-ce2d6aeb47ca"
+      },
+      {
+        "bubbleId": "5bb510c7-cfe6-4d72-aeb6-f51d9bddda88",
+        "type": 2,
+        "serverBubbleId": "46b8d74d-fe3e-4521-907c-25f6e06c03e8"
+      },
+      {
+        "bubbleId": "d8e2cceb-6d04-43f4-aaac-ba4db0bd842f",
+        "type": 1
+      },
+      {
+        "bubbleId": "53b145cb-3539-47c0-bf8b-82db80d82472",
+        "type": 2,
+        "serverBubbleId": "7d503670-2235-417a-a450-6a6f46dabc0a"
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -4702,6 +4743,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "c285abe4-eaa9-46f3-856b-7c2c64501779",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -17854,6 +17896,32 @@
           "diffId": "9a61990a-ff02-4413-b139-5b261628e1d7",
           "lastDiffId": "eb58a07a-654d-4a74-94cd-bf127f073959",
           "lastAppliedAt": 1769238560864
+        },
+        "c968845a-1361-407e-a602-496ab30cec26": {
+          "_v": 3,
+          "bubbleId": "79d46ef1-458c-47b4-b4f5-12d2fa7e8259",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "c968845a-1361-407e-a602-496ab30cec26",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "a4a0b1a2-de09-4640-8a7f-6f30b8a84008",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769238882185,
+          "composerChatGenerationUuid": "b6ad2c71-7da6-43c6-9ea6-ad242668364c",
+          "diffId": "c44d8d03-a716-4a13-b54f-1011999f0e66",
+          "lastDiffId": "e6f54a20-61a4-4a50-8666-89a80c75d23d",
+          "lastAppliedAt": 1769238896953
         }
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md": {
@@ -22119,7 +22187,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769238580008,
+    "lastUpdatedAt": 1769239039234,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -22199,8 +22267,8 @@
         "amount": 43
       }
     },
-    "contextUsagePercent": 24.262496948242188,
-    "contextTokensUsed": 65994,
+    "contextUsagePercent": 25.273162841796875,
+    "contextTokensUsed": 68743,
     "contextTokenLimit": 272000,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
@@ -22217,7 +22285,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 46486,
+    "totalLinesAdded": 46452,
     "totalLinesRemoved": 25,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -22239,10 +22307,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "b22798e9-61dd-48ca-b9f9-4effca7497c5",
+    "latestChatGenerationUUID": "c285abe4-eaa9-46f3-856b-7c2c64501779",
     "isAgentic": true,
     "subtitle": "FIX_ENTER_KEY_SEARCH.py, FIX_ENTER_KEY_SEARCH.py, ENABLE_EDIT_AFTER_SUBMIT.py, PCB_IQC_RESULT_WORKFLOW.md",
     "filesChangedCount": 334
   },
-  "extracted_at": "2026-01-24T12:43:00.885445"
+  "extracted_at": "2026-01-24T12:48:00.946156"
 }
