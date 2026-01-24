@@ -2476,7 +2476,8 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -6884,5 +6885,5 @@
     "subtitle": "voice_typer_whisper.py",
     "filesChangedCount": 43
   },
-  "extracted_at": "2026-01-24T11:53:00.903983"
+  "extracted_at": "2026-01-24T11:58:00.810704"
 }
