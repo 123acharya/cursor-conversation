@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"MOST OF THE THINGS ARE WORKING FINE EXCEPT WHEN WE CHANGE RESULT OF THE ALREADY STORED PCB IN PCB TABLE \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "MOST OF THE THINGS ARE WORKING FINE EXCEPT WHEN WE CHANGE RESULT OF THE ALREADY STORED PCB IN PCB TABLE \n\nso ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "2498fef8-c661-4afa-a3ad-9c5506ce449d",
@@ -22498,7 +22498,7 @@
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py"
     ],
     "modelConfig": {
-      "modelName": "gpt-5.2",
+      "modelName": "composer-1",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -22534,5 +22534,5 @@
     "subtitle": "FIX_ENTER_KEY_SEARCH.py, FIX_ENTER_KEY_SEARCH.py, ENABLE_EDIT_AFTER_SUBMIT.py, PCB_IQC_RESULT_WORKFLOW.md",
     "filesChangedCount": 334
   },
-  "extracted_at": "2026-01-24T18:18:00.550792"
+  "extracted_at": "2026-01-24T18:23:00.548296"
 }
