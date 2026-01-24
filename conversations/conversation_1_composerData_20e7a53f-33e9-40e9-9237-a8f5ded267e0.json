@@ -4951,11 +4951,22 @@
       },
       {
         "bubbleId": "50d11213-7a44-41de-a5ea-d81e35157548",
-        "type": 2
+        "type": 2,
+        "serverBubbleId": "d0f45b79-af7f-4245-b9f0-a19b0d8a9c49"
+      },
+      {
+        "bubbleId": "0800d58d-0540-483a-a8a9-6d45775e3434",
+        "type": 2,
+        "serverBubbleId": "aaca9dd4-d4b6-4fc9-9725-5e23fbabc739"
+      },
+      {
+        "bubbleId": "100e1ceb-f227-435d-8087-ba2c80fca40d",
+        "type": 2,
+        "serverBubbleId": "b206767e-c683-41e9-8307-a522ed96712f"
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "quotes": [],
@@ -5005,7 +5016,6 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "e5114ee5-28b5-4541-b3ed-3d085335a53f",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -18321,11 +18331,14 @@
             "scheme": "file"
           },
           "codeblockId": "e0a10729-5ff6-4800-a27e-bdd7729860b1",
-          "status": "aborted",
+          "status": "completed",
           "languageId": "python",
           "codeBlockDisplayPreference": "collapsed",
           "createdAt": 1769259757243,
-          "composerChatGenerationUuid": "e5114ee5-28b5-4541-b3ed-3d085335a53f"
+          "composerChatGenerationUuid": "e5114ee5-28b5-4541-b3ed-3d085335a53f",
+          "diffId": "aec6cc4b-ad7f-4479-a45a-4be9ef25165d",
+          "lastDiffId": "89bb59cd-b0d9-4ca2-ab74-65dfaeabeab3",
+          "lastAppliedAt": 1769259762365
         }
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md": {
@@ -22591,7 +22604,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769259409483,
+    "lastUpdatedAt": 1769259784220,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -22671,8 +22684,8 @@
         "amount": 43
       }
     },
-    "contextUsagePercent": 34.12794494628906,
-    "contextTokensUsed": 92828,
+    "contextUsagePercent": 34.52977752685547,
+    "contextTokensUsed": 93921,
     "contextTokenLimit": 272000,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
@@ -22689,7 +22702,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 46517,
+    "totalLinesAdded": 46518,
     "totalLinesRemoved": 25,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -22716,5 +22729,5 @@
     "subtitle": "FIX_ENTER_KEY_SEARCH.py, FIX_ENTER_KEY_SEARCH.py, ENABLE_EDIT_AFTER_SUBMIT.py, PCB_IQC_RESULT_WORKFLOW.md",
     "filesChangedCount": 334
   },
-  "extracted_at": "2026-01-24T18:33:00.631667"
+  "extracted_at": "2026-01-24T18:38:00.646057"
 }
