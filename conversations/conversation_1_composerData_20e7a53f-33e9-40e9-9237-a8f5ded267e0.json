@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Pass → Pending\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Fail → Pending\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Pending → Fail\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Pass → Fail\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Fail → Pass\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Pending → Pass\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"this works but somethine whenwe cahnge drom \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "Pass → Pending\nFail → Pending\n\nPending → Fail\nPass → Fail\n\nFail → Pass\nPending → Pass\nthis works but somethine whenwe cahnge drom ",
+    "text": "",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "2498fef8-c661-4afa-a3ad-9c5506ce449d",
@@ -4995,6 +4995,47 @@
         "bubbleId": "7026a748-5bd0-44f0-aab1-36cf8aceefd7",
         "type": 2,
         "serverBubbleId": "51b3f327-319e-4db8-8a4d-f25827249a2f"
+      },
+      {
+        "bubbleId": "f1a52fee-d997-4771-bb2e-c3a6c2287b92",
+        "type": 1
+      },
+      {
+        "bubbleId": "000d5c15-5f14-474e-a666-3a9d38bdf85a",
+        "type": 2,
+        "serverBubbleId": "7a49331c-a75d-4746-8562-0ec3a1939579"
+      },
+      {
+        "bubbleId": "49a3f63f-9589-4f10-afa6-cf82fcf72610",
+        "type": 2
+      },
+      {
+        "bubbleId": "4f893c30-ef6b-42c6-9cb8-92a592ef5e91",
+        "type": 2
+      },
+      {
+        "bubbleId": "c4a5295b-d332-4b4c-bfb5-210a7c1ccc7d",
+        "type": 2,
+        "serverBubbleId": "2253aab9-484f-440c-8e36-121206b80ea5"
+      },
+      {
+        "bubbleId": "48b93282-cd94-4f7c-9beb-ea28f701d58a",
+        "type": 2,
+        "serverBubbleId": "82420006-b7f4-465a-82b3-6fff362ee74b"
+      },
+      {
+        "bubbleId": "3deaf98d-0be1-496e-9cf1-28d9be69cf91",
+        "type": 2,
+        "serverBubbleId": "2c50b918-96b8-43f4-a0a5-aa04a4b73737"
+      },
+      {
+        "bubbleId": "a0fa9dd8-4722-4ba3-b032-83858e8f901d",
+        "type": 1
+      },
+      {
+        "bubbleId": "f83c2de1-8f28-4427-9c17-421b6dc8a59a",
+        "type": 2,
+        "serverBubbleId": "c5b31b49-49ec-4f4b-8764-f6a7f2178d8c"
       }
     ],
     "conversationMap": {},
@@ -18397,6 +18438,32 @@
           "diffId": "1c42116a-7674-4634-8c66-d23ebd97274c",
           "lastDiffId": "047884b9-cfee-4701-b009-378f0eaeb102",
           "lastAppliedAt": 1769263271806
+        },
+        "379a6d4d-9b52-4163-8b12-cdac9a87e8f1": {
+          "_v": 3,
+          "bubbleId": "4f893c30-ef6b-42c6-9cb8-92a592ef5e91",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "379a6d4d-9b52-4163-8b12-cdac9a87e8f1",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "e384c1bf-1fde-419e-8eb5-ffad9cc41860",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769264359626,
+          "composerChatGenerationUuid": "da3be0b5-d6b4-4d86-8aba-f9d6c470b2ba",
+          "diffId": "6087c1eb-16d3-466c-9029-c81e7d2b50a2",
+          "lastDiffId": "3c26522a-88f2-4cce-828d-b0ee1b539037",
+          "lastAppliedAt": 1769264376753
         }
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md": {
@@ -22662,7 +22729,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769263292576,
+    "lastUpdatedAt": 1769264487385,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -22742,8 +22809,8 @@
         "amount": 43
       }
     },
-    "contextUsagePercent": 35.12610626220703,
-    "contextTokensUsed": 95543,
+    "contextUsagePercent": 35.81397247314453,
+    "contextTokensUsed": 97414,
     "contextTokenLimit": 272000,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
@@ -22760,7 +22827,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 46535,
+    "totalLinesAdded": 46550,
     "totalLinesRemoved": 25,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -22782,10 +22849,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "dded0e46-bfb5-49b6-a696-62cd5b702030",
+    "latestChatGenerationUUID": "d3078097-ee14-4a14-be12-78f08ca65438",
     "isAgentic": true,
     "subtitle": "FIX_ENTER_KEY_SEARCH.py, FIX_ENTER_KEY_SEARCH.py, ENABLE_EDIT_AFTER_SUBMIT.py, PCB_IQC_RESULT_WORKFLOW.md",
     "filesChangedCount": 334
   },
-  "extracted_at": "2026-01-24T19:48:00.754841"
+  "extracted_at": "2026-01-24T19:53:00.750247"
 }
