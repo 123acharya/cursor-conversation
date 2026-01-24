@@ -4567,10 +4567,54 @@
       {
         "bubbleId": "bfe72d72-b6f6-4102-855a-6c0c02dd5769",
         "type": 2
+      },
+      {
+        "bubbleId": "ae79dc53-e650-4095-99af-59e22426ebe7",
+        "type": 1
+      },
+      {
+        "bubbleId": "73cb5708-9285-479f-8952-f3ebba0529c5",
+        "type": 2,
+        "serverBubbleId": "d1bd0b39-09a7-44a7-94d5-ecfc0e51403a"
+      },
+      {
+        "bubbleId": "3a6411de-7ebc-478f-8543-7a4fa83d5ccf",
+        "type": 2
+      },
+      {
+        "bubbleId": "2dfa146e-75f4-432a-955b-30409d961427",
+        "type": 2
+      },
+      {
+        "bubbleId": "4fb03213-d8c6-4f4a-a3b5-a1b54409dfe5",
+        "type": 2,
+        "serverBubbleId": "296e45cf-dfcf-47ce-9ef0-da65f2258aba"
+      },
+      {
+        "bubbleId": "b488db6c-9e9e-4fb6-bbd5-e668e3eb2349",
+        "type": 2,
+        "serverBubbleId": "c14a16bf-2042-4dcb-91bb-9aa4846fc9dc"
+      },
+      {
+        "bubbleId": "a5889594-eb01-454b-9f72-f3f650e6d380",
+        "type": 2
+      },
+      {
+        "bubbleId": "32033df3-704c-4ba1-9d4d-d7e1bbdc4119",
+        "type": 2,
+        "serverBubbleId": "d3afc821-1ea5-4e04-9561-4e200c52f6f2"
+      },
+      {
+        "bubbleId": "8e73e29a-dcad-4871-9c53-073ce4f23231",
+        "type": 2
+      },
+      {
+        "bubbleId": "3982ad16-8e6c-4008-a355-0bfea4256db6",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "quotes": [],
@@ -4620,6 +4664,7 @@
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "502184a7-52e6-42bd-94b5-25672ef9ce0b",
     "isReadingLongFile": false,
     "codeBlockData": {
       "file:///c%3A/Users/pc/Desktop/ERPNext_System_Understanding.md": {
@@ -17724,6 +17769,28 @@
           "diffId": "b46ae252-9de2-4729-aea1-017dd85e9520",
           "lastDiffId": "a0059a2e-32b6-4f7b-95c8-ae930a9329e4",
           "lastAppliedAt": 1769237505574
+        },
+        "40bd0221-1421-4cfa-affa-142f6d7c57a1": {
+          "_v": 3,
+          "bubbleId": "a5889594-eb01-454b-9f72-f3f650e6d380",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "40bd0221-1421-4cfa-affa-142f6d7c57a1",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769237839227,
+          "composerChatGenerationUuid": "502184a7-52e6-42bd-94b5-25672ef9ce0b",
+          "diffId": "834be713-759f-4c59-bb8f-2016bf5f536c",
+          "lastDiffId": "7baa886f-b827-40cd-bf22-89948c582d9e",
+          "lastAppliedAt": 1769237870520
         }
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md": {
@@ -21989,7 +22056,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769237510079,
+    "lastUpdatedAt": 1769237799820,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -22069,14 +22136,16 @@
         "amount": 43
       }
     },
-    "contextUsagePercent": 29.45099639892578,
+    "contextUsagePercent": 22.851104736328125,
+    "contextTokensUsed": 62155,
+    "contextTokenLimit": 272000,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
       "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/2.txt",
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py"
     ],
     "modelConfig": {
-      "modelName": "composer-1",
+      "modelName": "gpt-5.2",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -22085,7 +22154,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 46376,
+    "totalLinesAdded": 46450,
     "totalLinesRemoved": 25,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -22107,10 +22176,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "018696f9-d88d-44c9-a12b-8bd5041ffbf5",
+    "latestChatGenerationUUID": "502184a7-52e6-42bd-94b5-25672ef9ce0b",
     "isAgentic": true,
-    "subtitle": "FIX_ENTER_KEY_SEARCH.py, ENABLE_EDIT_AFTER_SUBMIT.py, PCB_IQC_RESULT_WORKFLOW.md",
+    "subtitle": "FIX_ENTER_KEY_SEARCH.py, FIX_ENTER_KEY_SEARCH.py, ENABLE_EDIT_AFTER_SUBMIT.py, PCB_IQC_RESULT_WORKFLOW.md",
     "filesChangedCount": 334
   },
-  "extracted_at": "2026-01-24T12:23:00.828046"
+  "extracted_at": "2026-01-24T12:28:00.849679"
 }
