@@ -4424,6 +4424,45 @@
       {
         "bubbleId": "d182bf3c-4c96-4e10-a92f-0265295e9aee",
         "type": 2
+      },
+      {
+        "bubbleId": "e968b0ba-678a-477f-8450-20a95a2d231e",
+        "type": 1
+      },
+      {
+        "bubbleId": "233a972e-cae8-4a05-8c4b-fc4ac5860142",
+        "type": 2,
+        "serverBubbleId": "021e595b-c1f5-4cb0-bc57-7a70da0c48bc"
+      },
+      {
+        "bubbleId": "e6cefd9d-b3ce-46a6-844d-7f6667319f5a",
+        "type": 2
+      },
+      {
+        "bubbleId": "0723fb91-c0f2-4267-841a-a5436f3eca3c",
+        "type": 1
+      },
+      {
+        "bubbleId": "7946fa54-fa99-408d-9942-cd080f97ccf6",
+        "type": 2,
+        "serverBubbleId": "4b6cc606-de33-4c8a-b866-7b970c7ec7f4"
+      },
+      {
+        "bubbleId": "c48711e3-bc68-49f1-87c1-a75c5bc5856e",
+        "type": 2
+      },
+      {
+        "bubbleId": "32ac63da-e573-4568-a43e-2143b22d8064",
+        "type": 1
+      },
+      {
+        "bubbleId": "3db24db6-9b74-4853-b6ea-6574fd087d4c",
+        "type": 2,
+        "serverBubbleId": "eb48662f-4760-4804-a339-a66e9a9ccbb5"
+      },
+      {
+        "bubbleId": "4b3c465c-8dd6-44c9-9f42-e4d7ae7aacaf",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -21794,7 +21833,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769236933698,
+    "lastUpdatedAt": 1769237222813,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -21866,77 +21905,19 @@
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "agent",
-    "forceMode": "edit",
+    "unifiedMode": "chat",
+    "forceMode": "chat",
     "usageData": {
       "composer-1": {
         "costInCents": 942,
         "amount": 43
       }
     },
-    "contextUsagePercent": 18.3594970703125,
+    "contextUsagePercent": 16.774002075195312,
     "allAttachedFileCodeChunksUris": [
-      "file:///c%3A/Users/pc/Desktop/SAVE_DOCTYPE_VIA_CONSOLE.py",
-      "file:///c%3A/Users/pc/Desktop/PCB_IQC_FORM_GUIDE.md",
-      "file:///c%3A/Users/pc/Desktop/INSTALL_PART3_CLIENT_SCRIPT.py",
-      "file:///c%3A/Users/pc/Desktop/INSTALL_PART3_CLIENT_SCRIPT_FIXED.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_THREE_ISSUES.py",
-      "file:///c%3A/Users/pc/Desktop/MOVE_PCB_IQC_DATA_ENTER_TO_ROW4.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_PCB_SCAN_PERMISSION_ERROR.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_PERMISSION_ERROR_COMPLETE.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_PTS_STATUS_DROPDOWN_AND_COLORS.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_SUBMIT_BUTTON_AND_LOGIC.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_SUBMIT_BUTTON_VISIBILITY.py",
-      "file:///c%3A/Users/pc/Desktop/VERIFY_AND_FIX_SUBMIT_BUTTON.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_JAVASCRIPT_ERRORS.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_TO_PAGE.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_SIMPLE.py",
-      "file:///c%3A/Users/pc/Desktop/VERIFY_BUTTONS_WORKING.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_NEAR_PCB_SCAN.py",
-      "file:///c%3A/Users/pc/Desktop/UPDATE_BUTTONS_INLINE.txt",
-      "file:///c%3A/Users/pc/Desktop/UPDATE_BUTTONS_FINAL.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_PCB_SCAN_AND_SUBMIT_LOGIC.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_SUBMIT_AND_SEARCH.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_AS_DOCTYPE_FIELD.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_PART1.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_PART2.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_SIMPLE_PASTE.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_BUTTONS_PART2_SIMPLE.py",
-      "file:///c%3A/Users/pc/Desktop/CHECK_AND_ADD_BUTTONS.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_DUPLICATE_BUTTONS_AND_MOVE.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_CREATED_BY_ERROR_PERMANENT.py",
-      "file:///c%3A/Users/pc/Desktop/BYPASS_CREATED_BY_VALIDATION.py",
-      "file:///c%3A/Users/pc/Desktop/MOVE_BUTTONS_TO_ROW4_FINAL.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_BUTTONS_AND_ENTER_KEY.py",
-      "file:///c%3A/Users/pc/Desktop/CREATE_SERVER_METHOD.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_LEDGER_ERROR_COMPLETE.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_LEDGER_ERROR_FINAL.py",
-      "file:///c%3A/Users/pc/Desktop/REMOVE_LEDGER_CALL.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_AUTO_SAVE_AFTER_SUBMIT.py",
-      "file:///c%3A/Users/pc/Desktop/ADD_AUTO_SAVE_SIMPLE.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_SERVER_SCRIPT_IMPORT_ERROR.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_SERVER_SCRIPT_IMPORT_ERROR_SIMPLE.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_SERVER_SCRIPT_IMPORT_ERROR_FINAL.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_HASATTR_ERROR.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_HASATTR_ERROR_COMPLETE.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_SERVER_SCRIPT_RESTRICTED_ENV.py",
-      "file:///c%3A/Users/pc/Desktop/DISABLE_PROBLEMATIC_SERVER_SCRIPT.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_SERVER_SCRIPT_PROPERLY.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_SERVER_SCRIPT_CORRECTLY.py",
-      "file:///c%3A/Users/pc/Desktop/DISABLE_SERVER_SCRIPTS_SQL.py",
-      "file:///c%3A/Users/pc/Desktop/DISABLE_SERVER_SCRIPTS_SAFE.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_CHILD_TABLE_PARENT_FIELD.py",
-      "file:///c%3A/Users/pc/Desktop/CREATE_CHILD_TABLE_TABLES.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_CHILD_TABLES_COMPLETE.py",
-      "file:///c%3A/Users/pc/Desktop/CREATE_CHILD_TABLES_DIRECT.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_PARENT_REFERENCE_ERROR.py",
-      "file:///c%3A/Users/pc/Desktop/FIX_PARENT_ERROR_COMPLETE.py",
-      "file:///c%3A/Users/pc/Desktop/ORGANIZE_PCB_IQC_FILES.ps1",
-      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/README.md",
-      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PARENT_ERROR_COMPLETE.py",
-      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
-      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDIT_AFTER_SUBMIT.py"
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/2.txt",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py"
     ],
     "modelConfig": {
       "modelName": "composer-1",
@@ -21970,10 +21951,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "1906732b-f5e8-4caa-bd4c-992ad3688dd7",
-    "isAgentic": true,
-    "subtitle": "FIX_ENTER_KEY_SEARCH.py",
+    "latestChatGenerationUUID": "3100bb80-6233-470b-bbf8-64577b3ec969",
+    "isAgentic": false,
+    "subtitle": "FIX_ENTER_KEY_SEARCH.py, ENABLE_EDIT_AFTER_SUBMIT.py, PCB_IQC_RESULT_WORKFLOW.md",
     "filesChangedCount": 334
   },
-  "extracted_at": "2026-01-24T12:13:00.873045"
+  "extracted_at": "2026-01-24T12:18:01.039193"
 }
