@@ -2446,7 +2446,6 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -6882,8 +6881,8 @@
     "conversationState": "",
     "latestChatGenerationUUID": "bce8d4f3-eccc-4e41-98bf-98d0c5109490",
     "isAgentic": true,
-    "subtitle": "voice_typer_whisper.py, ACCURACY_IMPROVEMENTS.md, TRANSCRIPTION_FIX.md, VOICE_RECOGNITION_FIX.md, AUDIO_DIAGNOSTICS_GUIDE.md",
+    "subtitle": "voice_typer_whisper.py",
     "filesChangedCount": 43
   },
-  "extracted_at": "2026-01-24T11:48:02.377486"
+  "extracted_at": "2026-01-24T11:53:00.903983"
 }

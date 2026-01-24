@@ -1234,7 +1234,6 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
       "mentions": {
         "composers": {},
@@ -1265,7 +1264,8 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -2538,8 +2538,8 @@
     "conversationState": "",
     "latestChatGenerationUUID": "1e5333c5-0fe1-4495-9326-f99a4202da05",
     "isAgentic": true,
-    "subtitle": "FORCE_ENABLE_UPDATE_BUTTON.py, ENABLE_EDITING_ON_SUBMITTED.py, FIX_DOMINANT_CHANNEL_VALIDATION.py, QUICK_VERIFY.py, VERIFY_AND_COMPLETE.py",
+    "subtitle": "cursor_auto_accept.ahk, CURSOR_AUTO_ACCEPT_README.md, start_cursor_auto_accept.bat, install_autohotkey.ps1, test_cursor_detection.ahk",
     "filesChangedCount": 24
   },
-  "extracted_at": "2026-01-24T11:48:02.377486"
+  "extracted_at": "2026-01-24T11:53:00.900327"
 }
