@@ -3,9 +3,9 @@
   "data": {
     "_v": 11,
     "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"s\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"its working but its little bit wrong way\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so basically when ever i change test rsult in PCc iqc data enter is directly changeing in pcb table even before pressing update \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"in this way operator may make mista\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "s",
+    "text": "its working but its little bit wrong way\nso basically when ever i change test rsult in PCc iqc data enter is directly changeing in pcb table even before pressing update \nin this way operator may make mista",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "2498fef8-c661-4afa-a3ad-9c5506ce449d",
@@ -4617,6 +4617,38 @@
         "bubbleId": "7e44337b-4ec9-4f10-aa2f-96e48f5627e8",
         "type": 2,
         "serverBubbleId": "c29e486a-d408-4196-86bd-07d192b09e7c"
+      },
+      {
+        "bubbleId": "d67dc539-3ee5-4b06-9eb9-a89554c7c1f3",
+        "type": 1
+      },
+      {
+        "bubbleId": "65952b61-5461-4f8f-961d-d56c43542443",
+        "type": 2,
+        "serverBubbleId": "35820d45-0899-4091-babd-1b939e806e77"
+      },
+      {
+        "bubbleId": "afe70484-2ef1-4ce1-ab06-3246a6f67503",
+        "type": 2
+      },
+      {
+        "bubbleId": "24f0a874-caf5-4d13-be2b-3b59758aaf50",
+        "type": 2
+      },
+      {
+        "bubbleId": "9e66c866-43a1-47da-a8ae-e2aecd27df66",
+        "type": 2,
+        "serverBubbleId": "d3e3d941-f5a3-4b4d-ac81-bc68c1fd20eb"
+      },
+      {
+        "bubbleId": "2250f14c-8193-4e39-a623-9e0964242bf4",
+        "type": 2,
+        "serverBubbleId": "68b91184-6c1f-47b5-ac7c-d282f5965657"
+      },
+      {
+        "bubbleId": "e2515527-397e-45de-ace6-f210857cec1a",
+        "type": 2,
+        "serverBubbleId": "45ad09ee-833a-4b3c-bf53-d821a3fc079a"
       }
     ],
     "conversationMap": {},
@@ -17796,6 +17828,32 @@
           "diffId": "834be713-759f-4c59-bb8f-2016bf5f536c",
           "lastDiffId": "7baa886f-b827-40cd-bf22-89948c582d9e",
           "lastAppliedAt": 1769237870520
+        },
+        "a4a0b1a2-de09-4640-8a7f-6f30b8a84008": {
+          "_v": 3,
+          "bubbleId": "24f0a874-caf5-4d13-be2b-3b59758aaf50",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_ENTER_KEY_SEARCH.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ENTER_KEY_SEARCH.py",
+            "scheme": "file"
+          },
+          "codeblockId": "a4a0b1a2-de09-4640-8a7f-6f30b8a84008",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "40bd0221-1421-4cfa-affa-142f6d7c57a1",
+            "composerId": "20e7a53f-33e9-40e9-9237-a8f5ded267e0"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769238534046,
+          "composerChatGenerationUuid": "b22798e9-61dd-48ca-b9f9-4effca7497c5",
+          "diffId": "9a61990a-ff02-4413-b139-5b261628e1d7",
+          "lastDiffId": "eb58a07a-654d-4a74-94cd-bf127f073959",
+          "lastAppliedAt": 1769238560864
         }
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md": {
@@ -22061,7 +22119,7 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1769237892907,
+    "lastUpdatedAt": 1769238580008,
     "createdAt": 1767854180908,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -22141,8 +22199,8 @@
         "amount": 43
       }
     },
-    "contextUsagePercent": 23.07757568359375,
-    "contextTokensUsed": 62771,
+    "contextUsagePercent": 24.262496948242188,
+    "contextTokensUsed": 65994,
     "contextTokenLimit": 272000,
     "allAttachedFileCodeChunksUris": [
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
@@ -22159,7 +22217,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 46450,
+    "totalLinesAdded": 46486,
     "totalLinesRemoved": 25,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -22181,10 +22239,10 @@
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "latestChatGenerationUUID": "502184a7-52e6-42bd-94b5-25672ef9ce0b",
+    "latestChatGenerationUUID": "b22798e9-61dd-48ca-b9f9-4effca7497c5",
     "isAgentic": true,
     "subtitle": "FIX_ENTER_KEY_SEARCH.py, FIX_ENTER_KEY_SEARCH.py, ENABLE_EDIT_AFTER_SUBMIT.py, PCB_IQC_RESULT_WORKFLOW.md",
     "filesChangedCount": 334
   },
-  "extracted_at": "2026-01-24T12:38:01.109154"
+  "extracted_at": "2026-01-24T12:43:00.885445"
 }
