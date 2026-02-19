@@ -1,8 +1,8 @@
 {
-  "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
+  "key": "composerData:cf711e49-659c-45f4-9aeb-e47b999047d6",
   "data": {
-    "_v": 11,
-    "composerId": "e8d48cac-ca38-4719-b62f-395758f05174",
+    "_v": 13,
+    "composerId": "cf711e49-659c-45f4-9aeb-e47b999047d6",
     "richText": "",
     "hasLoaded": true,
     "text": "",
@@ -11,7 +11,6 @@
     "status": "none",
     "context": {
       "composers": [],
-      "quotes": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
       "selectedImages": [],
@@ -24,15 +23,15 @@
       "cursorRules": [],
       "cursorCommands": [],
       "gitPRDiffSelections": [],
+      "subagentSelections": [],
+      "browserSelections": [],
       "mentions": {
         "composers": {},
-        "quotes": {},
         "selectedCommits": {},
         "selectedPullRequests": {},
         "gitDiff": [],
         "gitDiffFromBranchToMain": [],
         "selectedImages": {},
-        "useWeb": [],
         "folderSelections": {},
         "fileSelections": {},
         "terminalFiles": {},
@@ -40,104 +39,36 @@
         "terminalSelections": {},
         "selectedDocs": {},
         "externalLinks": {},
-        "useLinterErrors": [],
-        "useDiffReview": [],
-        "useGenerateRules": [],
-        "useContextPicking": [],
-        "useRememberThis": [],
         "diffHistory": [],
         "cursorRules": {},
         "cursorCommands": {},
-        "autoContext": [],
         "uiElementSelections": [],
         "consoleLogs": [],
         "ideEditorsState": [],
-        "gitPRDiffSelections": {}
+        "gitPRDiffSelections": {},
+        "subagentSelections": {},
+        "browserSelections": {}
       }
     },
-    "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
     "isReadingLongFile": false,
     "codeBlockData": {},
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1768831863809,
+    "createdAt": 1771335070586,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
-    "capabilities": [
-      {
-        "type": 30,
-        "data": {}
-      },
-      {
-        "type": 34,
-        "data": {}
-      },
-      {
-        "type": 15,
-        "data": {
-          "bubbleDataMap": "{}"
-        }
-      },
-      {
-        "type": 22,
-        "data": {}
-      },
-      {
-        "type": 18,
-        "data": {}
-      },
-      {
-        "type": 19,
-        "data": {}
-      },
-      {
-        "type": 33,
-        "data": {}
-      },
-      {
-        "type": 32,
-        "data": {}
-      },
-      {
-        "type": 23,
-        "data": {}
-      },
-      {
-        "type": 16,
-        "data": {}
-      },
-      {
-        "type": 24,
-        "data": {}
-      },
-      {
-        "type": 25,
-        "data": {}
-      },
-      {
-        "type": 21,
-        "data": {}
-      },
-      {
-        "type": 31,
-        "data": {}
-      },
-      {
-        "type": 29,
-        "data": {}
-      }
-    ],
+    "capabilities": [],
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "agent",
-    "forceMode": "edit",
+    "unifiedMode": "chat",
+    "forceMode": "chat",
     "usageData": {},
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
-      "modelName": "composer-1",
+      "modelName": "default",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -150,7 +81,6 @@
     "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
-    "isArchived": false,
     "isDraft": false,
     "isCreatingWorktree": false,
     "isApplyingWorktree": false,
@@ -161,14 +91,16 @@
     "isBestOfNParent": false,
     "bestOfNJudgeWinner": false,
     "isSpec": false,
+    "isProject": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "B/QkTZsfwOLJ2cR4Hqp8F+eakZ9Nme4knfT4yzHGNZc=",
-    "isNAL": false,
+    "speculativeSummarizationEncryptionKey": "3arKDbmKXd0f0xySpOPOB/yNANY00rSy+XXWCRzvSEU=",
+    "isNAL": true,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
-    "conversationState": "",
-    "isAgentic": true
+    "conversationState": "~",
+    "queueItems": [],
+    "isAgentic": false
   },
-  "extracted_at": "2026-02-19T11:28:16.109559"
+  "extracted_at": "2026-02-19T11:28:16.133804"
 }

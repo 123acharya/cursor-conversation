@@ -1,8 +1,8 @@
 {
-  "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
+  "key": "composerData:842169da-0a70-49ac-a2d0-7cf9409a2f08",
   "data": {
     "_v": 11,
-    "composerId": "e8d48cac-ca38-4719-b62f-395758f05174",
+    "composerId": "842169da-0a70-49ac-a2d0-7cf9409a2f08",
     "richText": "",
     "hasLoaded": true,
     "text": "",
@@ -62,78 +62,15 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1768831863809,
+    "createdAt": 1768548420871,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
-    "capabilities": [
-      {
-        "type": 30,
-        "data": {}
-      },
-      {
-        "type": 34,
-        "data": {}
-      },
-      {
-        "type": 15,
-        "data": {
-          "bubbleDataMap": "{}"
-        }
-      },
-      {
-        "type": 22,
-        "data": {}
-      },
-      {
-        "type": 18,
-        "data": {}
-      },
-      {
-        "type": 19,
-        "data": {}
-      },
-      {
-        "type": 33,
-        "data": {}
-      },
-      {
-        "type": 32,
-        "data": {}
-      },
-      {
-        "type": 23,
-        "data": {}
-      },
-      {
-        "type": 16,
-        "data": {}
-      },
-      {
-        "type": 24,
-        "data": {}
-      },
-      {
-        "type": 25,
-        "data": {}
-      },
-      {
-        "type": 21,
-        "data": {}
-      },
-      {
-        "type": 31,
-        "data": {}
-      },
-      {
-        "type": 29,
-        "data": {}
-      }
-    ],
+    "capabilities": [],
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "agent",
-    "forceMode": "edit",
+    "unifiedMode": "chat",
+    "forceMode": "chat",
     "usageData": {},
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
@@ -163,12 +100,12 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "B/QkTZsfwOLJ2cR4Hqp8F+eakZ9Nme4knfT4yzHGNZc=",
+    "speculativeSummarizationEncryptionKey": "iAeRaUZAWsjUnR0BdEvth6UmaBucb5NFd+cPZb+dS7U=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "isAgentic": true
+    "isAgentic": false
   },
-  "extracted_at": "2026-02-19T11:28:16.109559"
+  "extracted_at": "2026-02-17T16:58:02.337613"
 }

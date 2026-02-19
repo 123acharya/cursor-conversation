@@ -1,0 +1,2113 @@
+{
+  "key": "composerData:5588c989-a208-4857-b087-9f29ac8b4528",
+  "data": {
+    "_v": 13,
+    "composerId": "5588c989-a208-4857-b087-9f29ac8b4528",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "4095b213-eb55-4e92-9a8c-ffa8dcf4370f",
+        "type": 1
+      },
+      {
+        "bubbleId": "22275b05-5dee-4d6c-bccd-71cf294237a7",
+        "type": 2,
+        "serverBubbleId": "cef7a0a6-1f1f-4cda-b068-c0c0c2ed3571"
+      },
+      {
+        "bubbleId": "75d769d2-5266-4d9d-8fc3-30d96ff19454",
+        "type": 2
+      },
+      {
+        "bubbleId": "83e38c87-e0ff-44e4-86ae-2d4157a2b958",
+        "type": 2
+      },
+      {
+        "bubbleId": "2c4e0704-5cf9-452c-8bd7-088dbfa8be79",
+        "type": 2
+      },
+      {
+        "bubbleId": "2491cd63-acdb-4c67-8a13-fc069aeeed86",
+        "type": 2,
+        "serverBubbleId": "6d5a3eb4-dbd3-42bc-bbd9-eb8f5c91af6d"
+      },
+      {
+        "bubbleId": "77768494-c61c-407e-aca5-5492ec1590a4",
+        "type": 2
+      },
+      {
+        "bubbleId": "78d0b23a-7322-4211-8dd8-b4e5d7eebe38",
+        "type": 1
+      },
+      {
+        "bubbleId": "80a8e4eb-6689-4a84-8302-03bb00cb1e9b",
+        "type": 2,
+        "serverBubbleId": "826a635f-8f54-4932-a52b-f16c1452b2fc"
+      },
+      {
+        "bubbleId": "0e3531b0-52d4-43b4-a54b-344439d33f5e",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f39993c-f05b-4d58-a379-8c66c02287b6",
+        "type": 2
+      },
+      {
+        "bubbleId": "3e436dba-7457-4dd3-b4e5-8e5877a5e388",
+        "type": 2
+      },
+      {
+        "bubbleId": "350d243a-d89d-4b43-9f10-cf3d2b097d56",
+        "type": 2,
+        "serverBubbleId": "ea9fa063-66c8-4dd8-9e57-000bc8abd307"
+      },
+      {
+        "bubbleId": "16ef50bb-34b0-4339-bdd3-00e5c8195722",
+        "type": 2
+      },
+      {
+        "bubbleId": "c214bc7c-58c9-44bf-bbc1-d51ad458e7db",
+        "type": 2
+      },
+      {
+        "bubbleId": "07105997-dcf3-4d6e-a545-bbd18afc5141",
+        "type": 2
+      },
+      {
+        "bubbleId": "8e6b6798-3a16-4808-b699-e878612baf24",
+        "type": 2,
+        "serverBubbleId": "ae8441db-ceae-4e14-ace1-5d5b755879d0"
+      },
+      {
+        "bubbleId": "55e77e06-5d60-49e6-9abc-8602f6ae669a",
+        "type": 2
+      },
+      {
+        "bubbleId": "05679c14-20ef-4a72-b784-47dc5c8c66b7",
+        "type": 2
+      },
+      {
+        "bubbleId": "e30e7f42-2fe4-41ce-9429-6978174f4650",
+        "type": 2,
+        "serverBubbleId": "8800c9da-8517-4ce2-bc5f-94a68f58bfd9"
+      },
+      {
+        "bubbleId": "e8aee638-273c-43cb-b04a-37f4d60cba6e",
+        "type": 2
+      },
+      {
+        "bubbleId": "9358c094-1fd3-4bdc-8721-2d7aef83dbf8",
+        "type": 2
+      },
+      {
+        "bubbleId": "26a1248e-1ef1-4b3b-9eff-9b257b49588f",
+        "type": 2,
+        "serverBubbleId": "13c0e6f1-6b3a-4994-b54b-8a106d1c2ff1"
+      },
+      {
+        "bubbleId": "4677dcce-a8c4-4122-b1e2-d5a8ce328c70",
+        "type": 2
+      },
+      {
+        "bubbleId": "88cbc13d-bcdc-4f2a-bc65-bf96ca919513",
+        "type": 1
+      },
+      {
+        "bubbleId": "15ce0783-d133-4d54-859f-81fbb222749a",
+        "type": 2,
+        "serverBubbleId": "dde4b1bd-de91-4419-941c-dcfa1c6d1821"
+      },
+      {
+        "bubbleId": "2a41a386-9bb5-4eb1-b185-bcfb8d4328a1",
+        "type": 2
+      },
+      {
+        "bubbleId": "34f4fc24-8c08-4645-8dca-dfdc9b68fcb1",
+        "type": 2
+      },
+      {
+        "bubbleId": "40e3ac51-64ab-4b0c-8feb-dedf827d9809",
+        "type": 2,
+        "serverBubbleId": "b07c65ea-844f-4402-8130-0cedee5cde4e"
+      },
+      {
+        "bubbleId": "6028054f-66b1-4746-b851-7ff6d87b9bf6",
+        "type": 2
+      },
+      {
+        "bubbleId": "e36de3cf-8eb8-4327-84f9-f036a30a356b",
+        "type": 2
+      },
+      {
+        "bubbleId": "1be6df88-5ca7-4fe4-bfe1-3d5a74d225ea",
+        "type": 2,
+        "serverBubbleId": "fcffe5a2-2fdb-4258-8f7f-5d7688892105"
+      },
+      {
+        "bubbleId": "0e55b539-91ca-4208-809f-5f4ae4d11fc7",
+        "type": 2
+      },
+      {
+        "bubbleId": "e9b38a8e-ce22-4964-8cf2-5fb3a75594c4",
+        "type": 2
+      },
+      {
+        "bubbleId": "cb631b95-ef80-42fb-8e90-6bfee06a7b60",
+        "type": 2
+      },
+      {
+        "bubbleId": "b20d35f2-a85f-4bad-9d79-3e18102902fe",
+        "type": 2,
+        "serverBubbleId": "6135ce1b-235f-4d71-93de-9f58c541998d"
+      },
+      {
+        "bubbleId": "06b80fa1-c1ab-4e82-89b0-2a1110cbe3c7",
+        "type": 2
+      },
+      {
+        "bubbleId": "9fa6b3ef-4d03-479d-8cbc-416af1de9780",
+        "type": 2
+      },
+      {
+        "bubbleId": "89186db3-5f6e-449a-b47a-ecc67fda856e",
+        "type": 2
+      },
+      {
+        "bubbleId": "1dc40341-0e28-4c69-8fa0-759e9549521f",
+        "type": 2,
+        "serverBubbleId": "fa330b17-2661-44d2-aa81-80c08c6334a4"
+      },
+      {
+        "bubbleId": "e3e137b4-6ca4-4e21-88c9-f95621f43131",
+        "type": 2
+      },
+      {
+        "bubbleId": "ebe92853-2475-4ac6-8eec-e07f6bb55301",
+        "type": 1
+      },
+      {
+        "bubbleId": "a5883ebf-2df4-41dc-bba9-018ba47246c9",
+        "type": 2,
+        "serverBubbleId": "f627af3e-5fdb-4375-bf33-a4ed25c77a37"
+      },
+      {
+        "bubbleId": "2bc1bb56-a834-433b-82ba-b538a906822c",
+        "type": 2
+      },
+      {
+        "bubbleId": "9de1c30f-14e2-4cca-97fd-9de87b6b5a5c",
+        "type": 2
+      },
+      {
+        "bubbleId": "9dbb82c1-1e79-401f-91e0-60d95bbead5f",
+        "type": 2,
+        "serverBubbleId": "b78794bd-7e2d-4dec-821f-0b7921b6220d"
+      },
+      {
+        "bubbleId": "1ca1437d-b18b-4597-a2bd-d510181e06d3",
+        "type": 2
+      },
+      {
+        "bubbleId": "1070cd0a-27d1-4b86-b73d-e5962aa59caf",
+        "type": 2
+      },
+      {
+        "bubbleId": "d2fc6104-ef30-4f13-8a4a-75544ea6b713",
+        "type": 2
+      },
+      {
+        "bubbleId": "c095f5b3-0fb7-4ada-95c2-ed2058170999",
+        "type": 2
+      },
+      {
+        "bubbleId": "9be446dd-d187-4e09-986b-ebbaf03df8ee",
+        "type": 2
+      },
+      {
+        "bubbleId": "669926f3-7780-47ab-abf1-9e9ed2e1047d",
+        "type": 2
+      },
+      {
+        "bubbleId": "85115286-366b-4736-856f-3a8c6801bf85",
+        "type": 2
+      },
+      {
+        "bubbleId": "4929b744-2790-43f8-bac2-bf881f1ca652",
+        "type": 2
+      },
+      {
+        "bubbleId": "45c82947-1d70-4eff-8aff-7ce4c0a86294",
+        "type": 2,
+        "serverBubbleId": "87f99a1c-bf96-4238-a95f-24b42e468a5f"
+      },
+      {
+        "bubbleId": "26c17455-2b29-44ac-a93a-08eff2380a4c",
+        "type": 2
+      },
+      {
+        "bubbleId": "4763a403-1b23-4c64-9186-f5fff54fdb44",
+        "type": 2
+      },
+      {
+        "bubbleId": "a91f7bcd-f611-4877-aa9e-2f5b3327495a",
+        "type": 2
+      },
+      {
+        "bubbleId": "60bbb67c-bcd6-49d6-81be-a308967a6bd8",
+        "type": 2,
+        "serverBubbleId": "1f3e2586-8537-47f8-905d-af307aae67c5"
+      },
+      {
+        "bubbleId": "39fc855f-bb99-4242-b2e6-64db138538bf",
+        "type": 2
+      },
+      {
+        "bubbleId": "e8eaf42c-73e3-4d5d-9023-11a8bf41a8f3",
+        "type": 1
+      },
+      {
+        "bubbleId": "fb303b28-a335-4619-8e32-9d22e6fe8fe5",
+        "type": 2,
+        "serverBubbleId": "fcc81c78-9c49-40c7-add0-059fa6646332"
+      },
+      {
+        "bubbleId": "34790280-e1af-4504-8f39-fdf93562e4d6",
+        "type": 2
+      },
+      {
+        "bubbleId": "a728ebd4-d348-4cae-8625-2ea4c1802eba",
+        "type": 2
+      },
+      {
+        "bubbleId": "72675160-16b4-45ab-ae6d-e244b0a34528",
+        "type": 2
+      },
+      {
+        "bubbleId": "0197cbe5-55b2-4f96-ab24-0820948ff849",
+        "type": 2,
+        "serverBubbleId": "2efcf018-8a66-4bd6-a34d-585cdc25bbe1"
+      },
+      {
+        "bubbleId": "ace1182c-e190-40ed-b940-2165f3b93f15",
+        "type": 2
+      },
+      {
+        "bubbleId": "a9ade0ec-6cea-429b-8ab0-70f2f706009c",
+        "type": 2
+      },
+      {
+        "bubbleId": "2e991d96-b29e-4a37-b466-4fb3ee128c1b",
+        "type": 2
+      },
+      {
+        "bubbleId": "913a76c6-81ef-4654-826d-128fef72b16c",
+        "type": 2
+      },
+      {
+        "bubbleId": "07066e73-5ada-42fb-a1c3-c4fa4f08be7c",
+        "type": 2
+      },
+      {
+        "bubbleId": "729bb1f9-4464-4c9d-83ff-91e60c16cc8a",
+        "type": 2
+      },
+      {
+        "bubbleId": "486b092e-0030-41c8-b8fc-fb4530139be3",
+        "type": 2,
+        "serverBubbleId": "9c579f16-42d8-4dc7-878f-0e01ea2af40b"
+      },
+      {
+        "bubbleId": "386fae72-b7a1-4bf2-ae7f-f473d73af50e",
+        "type": 2
+      },
+      {
+        "bubbleId": "b345a854-794e-4296-9253-7b851466fec0",
+        "type": 2
+      },
+      {
+        "bubbleId": "a6ed54bb-12eb-44e2-b58f-ef7facfebd0e",
+        "type": 2
+      },
+      {
+        "bubbleId": "bea1c19b-c595-4f88-9301-ae6bb811f807",
+        "type": 2
+      },
+      {
+        "bubbleId": "42b3330e-a4ee-49a0-a26f-e74730d0f14f",
+        "type": 2,
+        "serverBubbleId": "b845f76c-81c6-4b31-a737-eeb7a1667bca"
+      },
+      {
+        "bubbleId": "1e5fe90f-0b6e-42f1-a09b-0bb04aecf315",
+        "type": 2
+      },
+      {
+        "bubbleId": "2cce4092-5ecb-4156-b27b-4b662168322b",
+        "type": 2
+      },
+      {
+        "bubbleId": "b4c97126-324f-4d94-a43f-af4e64eed090",
+        "type": 2,
+        "serverBubbleId": "0a6cee2e-add3-4bf0-ac5f-c2c7af967e47"
+      },
+      {
+        "bubbleId": "cc76cc90-ec3b-4158-81ad-d56fcfee510e",
+        "type": 2
+      },
+      {
+        "bubbleId": "efdec27c-3998-44c8-a580-265d08ceaa8b",
+        "type": 1
+      },
+      {
+        "bubbleId": "18f486db-ee81-43b0-ad83-39db4f447925",
+        "type": 2,
+        "serverBubbleId": "dcc02460-c438-4391-8005-f36bab47db06"
+      },
+      {
+        "bubbleId": "ab851a93-12fe-48cf-87ef-434217bd22d8",
+        "type": 2
+      },
+      {
+        "bubbleId": "ab9a97f5-760c-4b6d-ba3c-35b7a9c31e47",
+        "type": 2
+      },
+      {
+        "bubbleId": "bd351e52-aa94-4ca6-aa91-345596c7d0c7",
+        "type": 2,
+        "serverBubbleId": "8272b897-4564-48f8-94f2-2d8a379d44fa"
+      },
+      {
+        "bubbleId": "45f6523d-89b1-49fd-ae7e-155a905acd56",
+        "type": 2
+      },
+      {
+        "bubbleId": "d0dceed9-1da3-4c4f-9506-d600a1ac8df2",
+        "type": 2
+      },
+      {
+        "bubbleId": "2bf099c7-e5ea-4871-a73b-1b1c315c3d8f",
+        "type": 2,
+        "serverBubbleId": "b8864edc-e405-434c-b7f7-96f45fe4637d"
+      },
+      {
+        "bubbleId": "ad868fb1-7593-4815-9fe4-72e27b866651",
+        "type": 2
+      },
+      {
+        "bubbleId": "4ed732a3-f5aa-4dd0-a8bb-f54504b63662",
+        "type": 2
+      },
+      {
+        "bubbleId": "e1264c33-9d0b-4ca4-9997-f67f648e2120",
+        "type": 2
+      },
+      {
+        "bubbleId": "b4906026-3e18-4929-8ef6-869558214dbe",
+        "type": 2
+      },
+      {
+        "bubbleId": "44d4dad3-e83f-40bb-85a2-4a8f168e34bc",
+        "type": 2,
+        "serverBubbleId": "53666b1f-f6a7-41d8-94b1-fff10f30bb36"
+      },
+      {
+        "bubbleId": "ea4f24b8-a76f-4b68-b732-51f232b83ca9",
+        "type": 2
+      },
+      {
+        "bubbleId": "b61e620b-395e-479c-a402-1eaf72419e06",
+        "type": 1
+      },
+      {
+        "bubbleId": "021ef902-5fea-4ef4-8de3-e66a2bc8106a",
+        "type": 2,
+        "serverBubbleId": "4b860269-55a0-4bf7-b363-06ab14717c9b"
+      },
+      {
+        "bubbleId": "7138ab42-57ff-4b46-90a2-1060e51ade4a",
+        "type": 2
+      },
+      {
+        "bubbleId": "3273e811-97d2-411e-b2b0-74b443eb7cb8",
+        "type": 2
+      },
+      {
+        "bubbleId": "cffd2beb-214f-47f3-9336-54d1c18508f9",
+        "type": 2
+      },
+      {
+        "bubbleId": "e209524b-8e40-4efb-9dd0-c99bc68c1fe1",
+        "type": 2,
+        "serverBubbleId": "ab506957-57d9-4be3-9bb8-02ec6fd939ce"
+      },
+      {
+        "bubbleId": "930a934b-29ee-4e19-bf81-df1cba1c6992",
+        "type": 2
+      },
+      {
+        "bubbleId": "a88478ac-91f9-455f-a72b-1efc8f220399",
+        "type": 2
+      },
+      {
+        "bubbleId": "c5bcfb29-e1ac-40c5-a13e-fdbf719ccd70",
+        "type": 2
+      },
+      {
+        "bubbleId": "fd9119c2-9817-4303-9577-ff058aa708f1",
+        "type": 2
+      },
+      {
+        "bubbleId": "4078f0e2-3845-43be-8e56-ce866cbed8d8",
+        "type": 2,
+        "serverBubbleId": "29b35320-2486-48e2-add4-5ae6e30d98ea"
+      },
+      {
+        "bubbleId": "e743fd36-5584-48cd-bb03-f28bff7f97b4",
+        "type": 2
+      },
+      {
+        "bubbleId": "ed8f9f64-129e-4a07-83b7-77bfa36f4917",
+        "type": 2
+      },
+      {
+        "bubbleId": "044d4caa-aab5-4f5c-b69b-015dd50c0078",
+        "type": 2
+      },
+      {
+        "bubbleId": "27f52721-31d7-4ed0-a38c-16f12ee1bbdb",
+        "type": 2
+      },
+      {
+        "bubbleId": "3a6b9782-685c-478b-b041-7290c4ae7343",
+        "type": 2
+      },
+      {
+        "bubbleId": "9b9dba5a-0396-4da4-9f7c-850a521836e8",
+        "type": 2
+      },
+      {
+        "bubbleId": "f4f657f6-d2f1-424c-b8fa-2648f9dea74b",
+        "type": 2,
+        "serverBubbleId": "2091d598-c28c-4a93-b919-75afe6b8e3c7"
+      },
+      {
+        "bubbleId": "1e0ca6ae-c1a4-418d-b181-709cb70ae750",
+        "type": 2
+      },
+      {
+        "bubbleId": "8e19e3b7-f254-4575-83fe-7341102ef43a",
+        "type": 1
+      },
+      {
+        "bubbleId": "e337cc32-ebfc-45bf-aea2-efb3ec8f8b09",
+        "type": 2,
+        "serverBubbleId": "8ac265b1-fe1f-4bb8-8bb2-9589a10c0bfe"
+      },
+      {
+        "bubbleId": "f5d67332-8f84-45cf-94ea-06c159544e18",
+        "type": 2
+      },
+      {
+        "bubbleId": "7c242ef3-38e1-4ab7-8807-e14d60b1194e",
+        "type": 2
+      },
+      {
+        "bubbleId": "ebce5e58-b6b7-42a2-8571-6ffc4ebc85e9",
+        "type": 2,
+        "serverBubbleId": "bd8041ef-2b30-443d-9b23-12fff1fc52c7"
+      },
+      {
+        "bubbleId": "0a375d66-7c20-4d14-9eff-f1fb04b09b91",
+        "type": 2
+      },
+      {
+        "bubbleId": "2e2d90e3-9a23-4835-a7bd-863bbde10da8",
+        "type": 2
+      },
+      {
+        "bubbleId": "6eff8de4-08e6-465f-8c23-15ee337ac5b3",
+        "type": 2
+      },
+      {
+        "bubbleId": "58a623dc-ddb9-477e-8016-9d260f1737df",
+        "type": 2,
+        "serverBubbleId": "bed0bc1d-6c2d-4850-bf95-04162007cfc5"
+      },
+      {
+        "bubbleId": "72e49ce0-270a-4efc-b289-0a7fb67a5105",
+        "type": 2
+      },
+      {
+        "bubbleId": "35b941db-a74c-4f86-9996-d893c9d172a5",
+        "type": 2
+      },
+      {
+        "bubbleId": "a1a1840a-0f13-4617-8367-72ff5adde6d8",
+        "type": 2
+      },
+      {
+        "bubbleId": "5cc4ee58-6c4b-4bc9-ae5f-dc21d6aca40f",
+        "type": 2,
+        "serverBubbleId": "e4c1a326-9781-4f80-b327-93653a6b1521"
+      },
+      {
+        "bubbleId": "a17403bf-774a-4075-807d-16f1a465364d",
+        "type": 2
+      },
+      {
+        "bubbleId": "694837c7-2e9b-428b-a1ac-d674f4e40a1a",
+        "type": 2
+      },
+      {
+        "bubbleId": "fd880635-f32f-4cd1-833f-41518b78bf97",
+        "type": 2,
+        "serverBubbleId": "e659524c-b3ce-4411-bde1-ea07a901c296"
+      },
+      {
+        "bubbleId": "6ef0835f-3c90-4a91-b8e3-79de3d0beece",
+        "type": 2
+      },
+      {
+        "bubbleId": "61260ea1-be50-4219-89f1-6f7747229ba0",
+        "type": 2
+      },
+      {
+        "bubbleId": "dc2847a4-fb68-433c-845c-fcfc970489af",
+        "type": 2
+      },
+      {
+        "bubbleId": "8c4ea416-7d70-4b01-aeee-b0e43d5e1fa6",
+        "type": 2,
+        "serverBubbleId": "c3aa32bc-63bf-42e0-8954-3a0fe3c00dca"
+      },
+      {
+        "bubbleId": "5bcc7369-f394-4e2e-90ca-a9156912bc54",
+        "type": 2
+      },
+      {
+        "bubbleId": "4de63312-7896-49fd-b92f-ada6ccc28ea2",
+        "type": 1
+      },
+      {
+        "bubbleId": "e85bd432-b054-4532-8caf-d83aa49ecb3b",
+        "type": 2,
+        "serverBubbleId": "0546c784-8b10-4da1-bde2-121666875cb1"
+      },
+      {
+        "bubbleId": "33138f09-6273-4ce0-8940-3cfa0f2c5d76",
+        "type": 2
+      },
+      {
+        "bubbleId": "5364e68f-b130-4564-82a9-f3049cb387ed",
+        "type": 2
+      },
+      {
+        "bubbleId": "14184944-90b3-4bc4-97c1-fa46b198864d",
+        "type": 2,
+        "serverBubbleId": "2e6d1d75-d31c-4c71-8246-94d6ff6667c0"
+      },
+      {
+        "bubbleId": "7612d390-244d-401f-a709-10aab7d83950",
+        "type": 2
+      },
+      {
+        "bubbleId": "0a2a579b-07e9-49aa-ad62-942bfd71b309",
+        "type": 2
+      },
+      {
+        "bubbleId": "55abbdfa-1e73-4946-b84b-9faf02d4a53d",
+        "type": 2
+      },
+      {
+        "bubbleId": "7485ebb3-0197-4977-a7c2-e43a67ca15c7",
+        "type": 2
+      },
+      {
+        "bubbleId": "2d66925d-96e8-44ff-9175-17ecfffdfa82",
+        "type": 2
+      },
+      {
+        "bubbleId": "1aad7c06-bcae-4023-93ac-2e0773c6c8ce",
+        "type": 2
+      },
+      {
+        "bubbleId": "a0b658c3-033a-46c3-a87a-a7f0fe0db87a",
+        "type": 2
+      },
+      {
+        "bubbleId": "c24bd4fb-f01a-485e-8ce5-8a53d357e641",
+        "type": 2,
+        "serverBubbleId": "24839e2f-8fdd-4e92-b292-77334e5d27f3"
+      },
+      {
+        "bubbleId": "d1f0a722-b385-45a4-88ec-cebfab83bf26",
+        "type": 2
+      },
+      {
+        "bubbleId": "8f959c8b-4863-4d12-b213-4baedf350ac0",
+        "type": 2
+      },
+      {
+        "bubbleId": "b40fbcf4-92c7-4530-8558-24a35003b062",
+        "type": 2
+      },
+      {
+        "bubbleId": "50fe9cb1-b15d-4bb8-8bc3-160895b1fe80",
+        "type": 2
+      },
+      {
+        "bubbleId": "3f861365-3be4-44e2-9bfc-fd88837e7bcf",
+        "type": 2
+      },
+      {
+        "bubbleId": "65e0d932-0274-41a4-935c-84f393bd8a82",
+        "type": 2
+      },
+      {
+        "bubbleId": "346b4425-96d2-4a4f-9e0c-44c554a532b0",
+        "type": 2,
+        "serverBubbleId": "1830786e-cc42-480d-a13d-92506f5bb916"
+      },
+      {
+        "bubbleId": "02a7a61e-c7b9-452f-b760-37df241e6785",
+        "type": 2
+      },
+      {
+        "bubbleId": "adc2bdaf-5a59-4b74-a97a-0b84d53c46d2",
+        "type": 1
+      },
+      {
+        "bubbleId": "8fbeab7d-6f13-4c2b-92ec-e100b9441c8b",
+        "type": 2,
+        "serverBubbleId": "1301357e-68f0-4805-996f-a0dce9500d0b"
+      },
+      {
+        "bubbleId": "4617bde0-f1ab-4de0-b691-c06a251c5a98",
+        "type": 2
+      },
+      {
+        "bubbleId": "6d84b216-a6c5-4e2c-b575-2b2606fe57ed",
+        "type": 2
+      },
+      {
+        "bubbleId": "1600f36c-df13-4221-b54f-392a8805cd13",
+        "type": 2
+      },
+      {
+        "bubbleId": "d510a389-900e-40b7-8c4b-ffe9b6c27f63",
+        "type": 2,
+        "serverBubbleId": "35b05e20-f6f5-4418-8a5e-b7861eb037b6"
+      },
+      {
+        "bubbleId": "65f1dcd9-1642-4170-b20f-35a2ba949bb9",
+        "type": 2
+      },
+      {
+        "bubbleId": "bc01e206-3303-43b8-a24a-6ec4d99593ac",
+        "type": 2
+      },
+      {
+        "bubbleId": "291f014a-a5f4-4e18-b395-2870d24a1c85",
+        "type": 2
+      },
+      {
+        "bubbleId": "720013fc-b312-4b5e-92d3-0e6693e0f6a3",
+        "type": 2
+      },
+      {
+        "bubbleId": "305d1ae7-564b-45ce-b2bd-af5948654356",
+        "type": 2,
+        "serverBubbleId": "6d890f61-62db-4071-aa56-479bac9a6393"
+      },
+      {
+        "bubbleId": "753e6b66-2a14-4b95-8e67-72114fdf50ab",
+        "type": 2
+      },
+      {
+        "bubbleId": "78f63149-35b9-4678-9e95-5a97156ab237",
+        "type": 2
+      },
+      {
+        "bubbleId": "6485ee35-f11e-4f47-b00f-1647adfa27c6",
+        "type": 2
+      },
+      {
+        "bubbleId": "a38618c0-43e4-4030-b933-99a8e76c7fcb",
+        "type": 2
+      },
+      {
+        "bubbleId": "ed91f81a-2743-4b60-bd2d-f4082ba5fc4b",
+        "type": 2
+      },
+      {
+        "bubbleId": "79389ca6-1c80-4f23-8e1f-7a4c3a2e04d1",
+        "type": 2
+      },
+      {
+        "bubbleId": "6fdd72cf-43d8-48ad-bc41-335334ae4994",
+        "type": 2
+      },
+      {
+        "bubbleId": "ce3c1279-7e2a-497f-8b7d-e3668cfa70ce",
+        "type": 2,
+        "serverBubbleId": "dab0fc9e-c5d3-46b4-bad4-341995e8e059"
+      },
+      {
+        "bubbleId": "cfbcd2c2-a254-4883-b96f-f7961b807fe0",
+        "type": 2
+      },
+      {
+        "bubbleId": "07711931-c423-45ee-9b01-9e9bdf47a5b8",
+        "type": 2
+      },
+      {
+        "bubbleId": "a91aaee3-4a46-436b-b2e3-c6ff218b194b",
+        "type": 2
+      },
+      {
+        "bubbleId": "cb0c60b7-73ff-4741-98e6-9aeedf01b98c",
+        "type": 2,
+        "serverBubbleId": "064402d3-0db2-4ef2-af94-e3a94fb91699"
+      },
+      {
+        "bubbleId": "c0f0ffc4-3864-4631-b287-1077585df28d",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "completed",
+    "context": {
+      "composers": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "ideEditorsState": true,
+      "gitPRDiffSelections": [],
+      "subagentSelections": [],
+      "browserSelections": [],
+      "mentions": {
+        "composers": {},
+        "quotes": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "useWeb": [],
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {
+          "{\"uri\":\"terminal:\",\"range\":{\"selectionStartColumn\":0,\"selectionStartLineNumber\":1042,\"positionColumn\":49,\"positionLineNumber\":1055},\"text\":\"```bash\\n>> python test_api_credentials.py\\r\\ncd : Cannot find path 'C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project\\\\PCB_IQC_ERPNext_Project\\\\EXAMPLES' because \\r\\nit does not exist.\\r\\nAt line:1 char:1\\r\\n+ cd PCB_IQC_ERPNext_Project/EXAMPLES\\r\\n+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : ObjectNotFound: (C:\\\\Users\\\\pc\\\\Des...roject\\\\EXAMPLES:String) [Set-Location], ItemN  \\r\\n   otFoundException\\r\\n    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand\\r\\n \\r\\nC:\\\\Users\\\\pc\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python.exe: can't open file 'C:\\\\\\\\Users\\\\\\\\pc\\\\\\\\Desktop\\\\\\\\PCB_IQC_ERPNext_Project\\\\\\\\test_api_credentials.py': [Errno 2] No such file or directory\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> ^C\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project>\\n```\"}": [
+            {
+              "uuid": "f28481df-6218-4c84-a830-88315187745f"
+            }
+          ],
+          "{\"uri\":\"terminal:\",\"range\":{\"selectionStartColumn\":0,\"selectionStartLineNumber\":1036,\"positionColumn\":52,\"positionLineNumber\":1055},\"text\":\"```bash\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> ^C\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> python test_api_credentials.py\\r\\nC:\\\\Users\\\\pc\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python.exe: can't open file 'C:\\\\\\\\Users\\\\\\\\pc\\\\\\\\Desktop\\\\\\\\PCB_IQC_ERPNext_Project\\\\\\\\test_api_credentials.py': [Errno 2] No such file or directory\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> RUN_TESTS.bat\\r\\nRUN_TESTS.bat : The term 'RUN_TESTS.bat' is not recognized as the name of a cmdlet, function, script file, or \\r\\noperable program. Check the spelling of the name, or if a path was included, verify that the path is correct    \\r\\nand try again.\\r\\nAt line:1 char:1\\r\\n+ RUN_TESTS.bat\\r\\n+ ~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : ObjectNotFound: (RUN_TESTS.bat:String) [], CommandNotFoundException\\r\\n    + FullyQualifiedErrorId : CommandNotFoundException\\r\\n \\r\\n\\r\\nSuggestion [3,General]: The command RUN_TESTS.bat was not found, but does exist in the current location. Windows PowerShell does not load commands from the current location by default. If you trust this command, instead type: \\\".\\\\RUN_TESTS.bat\\\". See \\\"get-help about_Command_Precedence\\\" for more details.\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> ^C\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project>\\n```\"}": [
+            {
+              "uuid": "13696278-2979-475d-afa1-65581360a802"
+            }
+          ],
+          "{\"uri\":\"terminal:\",\"range\":{\"selectionStartColumn\":0,\"selectionStartLineNumber\":1019,\"positionColumn\":61,\"positionLineNumber\":1054},\"text\":\"```bash\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> cd EXAMPLES\\r\\n>> python test_api_credentials.py\\r\\n\\r\\n============================================================\\r\\nERPNext API Credentials Test\\r\\n============================================================\\r\\n============================================================\\r\\nTesting ERPNext API Connection\\r\\n============================================================\\r\\n\\r\\nERPNext URL: http://localhost:8080\\r\\nAPI Key: 24005ddb99b6ec9\\r\\nAPI Secret: ***************\\r\\n\\r\\n------------------------------------------------------------\\r\\nTest 1: Ping API\\r\\n------------------------------------------------------------\\r\\n✅ SUCCESS: API connection works!\\r\\n   Response: {'message': 'pong'}\\r\\n\\r\\n------------------------------------------------------------\\r\\nTest 2: Get PCB Information\\r\\n------------------------------------------------------------\\r\\n✅ SUCCESS: Found PCB Master\\r\\n   Serial: 12345\\r\\n   Status: N/A\\r\\n\\r\\n============================================================\\r\\n✅ Your API credentials are working!\\r\\n============================================================\\r\\n\\r\\nNext steps:\\r\\n1. Update test_send_pts_result.py with these credentials\\r\\n2. Run: python test_send_pts_result.py\\r\\n3. Integrate with your PTS Python code\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project\\\\EXAMPLES> ^C\\n```\"}": [
+            {
+              "uuid": "eb6870d5-005c-4c32-bb13-2b98783ee51b"
+            }
+          ],
+          "{\"uri\":\"terminal:\",\"range\":{\"selectionStartColumn\":0,\"selectionStartLineNumber\":1039,\"positionColumn\":58,\"positionLineNumber\":1055},\"text\":\"```bash\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project\\\\EXAMPLES> test_api_direct.py\\r\\ntest_api_direct.py : The term 'test_api_direct.py' is not recognized as the name of a \\r\\ncmdlet, function, script file, or operable program. Check the spelling of the name, or   \\r\\nif a path was included, verify that the path is correct and try again.\\r\\nAt line:1 char:1\\r\\n+ test_api_direct.py\\r\\n+ ~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : ObjectNotFound: (test_api_direct.py:String) [], CommandNo  \\r\\n   tFoundException\\r\\n    + FullyQualifiedErrorId : CommandNotFoundException\\r\\n \\r\\n\\r\\nSuggestion [3,General]: The command test_api_direct.py was not found, but does exist in the current location. Windows PowerShell does not load commands from the current location \\r\\nby default. If you trust this command, instead type: \\\".\\\\test_api_direct.py\\\". See \\\"get-help about_Command_Precedence\\\" for more details.\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project\\\\EXAMPLES>\\n```\"}": [
+            {
+              "uuid": "675b4677-6100-4af7-b164-60c5b4d36fc7"
+            }
+          ]
+        },
+        "terminalSelections": {
+          "{\"uri\":\"terminal:\",\"range\":{\"selectionStartColumn\":0,\"selectionStartLineNumber\":1042,\"positionColumn\":49,\"positionLineNumber\":1055},\"text\":\"```bash\\n>> python test_api_credentials.py\\r\\ncd : Cannot find path 'C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project\\\\PCB_IQC_ERPNext_Project\\\\EXAMPLES' because \\r\\nit does not exist.\\r\\nAt line:1 char:1\\r\\n+ cd PCB_IQC_ERPNext_Project/EXAMPLES\\r\\n+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : ObjectNotFound: (C:\\\\Users\\\\pc\\\\Des...roject\\\\EXAMPLES:String) [Set-Location], ItemN  \\r\\n   otFoundException\\r\\n    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand\\r\\n \\r\\nC:\\\\Users\\\\pc\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python.exe: can't open file 'C:\\\\\\\\Users\\\\\\\\pc\\\\\\\\Desktop\\\\\\\\PCB_IQC_ERPNext_Project\\\\\\\\test_api_credentials.py': [Errno 2] No such file or directory\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> ^C\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project>\\n```\"}": [],
+          "{\"uri\":\"terminal:\",\"range\":{\"selectionStartColumn\":0,\"selectionStartLineNumber\":1036,\"positionColumn\":52,\"positionLineNumber\":1055},\"text\":\"```bash\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> ^C\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> python test_api_credentials.py\\r\\nC:\\\\Users\\\\pc\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python.exe: can't open file 'C:\\\\\\\\Users\\\\\\\\pc\\\\\\\\Desktop\\\\\\\\PCB_IQC_ERPNext_Project\\\\\\\\test_api_credentials.py': [Errno 2] No such file or directory\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> RUN_TESTS.bat\\r\\nRUN_TESTS.bat : The term 'RUN_TESTS.bat' is not recognized as the name of a cmdlet, function, script file, or \\r\\noperable program. Check the spelling of the name, or if a path was included, verify that the path is correct    \\r\\nand try again.\\r\\nAt line:1 char:1\\r\\n+ RUN_TESTS.bat\\r\\n+ ~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : ObjectNotFound: (RUN_TESTS.bat:String) [], CommandNotFoundException\\r\\n    + FullyQualifiedErrorId : CommandNotFoundException\\r\\n \\r\\n\\r\\nSuggestion [3,General]: The command RUN_TESTS.bat was not found, but does exist in the current location. Windows PowerShell does not load commands from the current location by default. If you trust this command, instead type: \\\".\\\\RUN_TESTS.bat\\\". See \\\"get-help about_Command_Precedence\\\" for more details.\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> ^C\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project>\\n```\"}": [],
+          "{\"uri\":\"terminal:\",\"range\":{\"selectionStartColumn\":0,\"selectionStartLineNumber\":1019,\"positionColumn\":61,\"positionLineNumber\":1054},\"text\":\"```bash\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project> cd EXAMPLES\\r\\n>> python test_api_credentials.py\\r\\n\\r\\n============================================================\\r\\nERPNext API Credentials Test\\r\\n============================================================\\r\\n============================================================\\r\\nTesting ERPNext API Connection\\r\\n============================================================\\r\\n\\r\\nERPNext URL: http://localhost:8080\\r\\nAPI Key: 24005ddb99b6ec9\\r\\nAPI Secret: ***************\\r\\n\\r\\n------------------------------------------------------------\\r\\nTest 1: Ping API\\r\\n------------------------------------------------------------\\r\\n✅ SUCCESS: API connection works!\\r\\n   Response: {'message': 'pong'}\\r\\n\\r\\n------------------------------------------------------------\\r\\nTest 2: Get PCB Information\\r\\n------------------------------------------------------------\\r\\n✅ SUCCESS: Found PCB Master\\r\\n   Serial: 12345\\r\\n   Status: N/A\\r\\n\\r\\n============================================================\\r\\n✅ Your API credentials are working!\\r\\n============================================================\\r\\n\\r\\nNext steps:\\r\\n1. Update test_send_pts_result.py with these credentials\\r\\n2. Run: python test_send_pts_result.py\\r\\n3. Integrate with your PTS Python code\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project\\\\EXAMPLES> ^C\\n```\"}": [],
+          "{\"uri\":\"terminal:\",\"range\":{\"selectionStartColumn\":0,\"selectionStartLineNumber\":1039,\"positionColumn\":58,\"positionLineNumber\":1055},\"text\":\"```bash\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project\\\\EXAMPLES> test_api_direct.py\\r\\ntest_api_direct.py : The term 'test_api_direct.py' is not recognized as the name of a \\r\\ncmdlet, function, script file, or operable program. Check the spelling of the name, or   \\r\\nif a path was included, verify that the path is correct and try again.\\r\\nAt line:1 char:1\\r\\n+ test_api_direct.py\\r\\n+ ~~~~~~~~~~~~~~~~~~\\r\\n    + CategoryInfo          : ObjectNotFound: (test_api_direct.py:String) [], CommandNo  \\r\\n   tFoundException\\r\\n    + FullyQualifiedErrorId : CommandNotFoundException\\r\\n \\r\\n\\r\\nSuggestion [3,General]: The command test_api_direct.py was not found, but does exist in the current location. Windows PowerShell does not load commands from the current location \\r\\nby default. If you trust this command, instead type: \\\".\\\\test_api_direct.py\\\". See \\\"get-help about_Command_Precedence\\\" for more details.\\r\\nPS C:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project\\\\EXAMPLES>\\n```\"}": []
+        },
+        "selectedDocs": {},
+        "externalLinks": {},
+        "useLinterErrors": [],
+        "useDiffReview": [],
+        "useGenerateRules": [],
+        "useContextPicking": [],
+        "useRememberThis": [],
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "autoContext": [],
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {}
+      },
+      "quotes": []
+    },
+    "generatingBubbleIds": [],
+    "isReadingLongFile": false,
+    "codeBlockData": {
+      "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html": {
+        "d9f2e0aa-d5e6-4fe1-8838-a7b2cd29ed62": {
+          "_v": 3,
+          "bubbleId": "9358c094-1fd3-4bdc-8721-2d7aef83dbf8",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "d9f2e0aa-d5e6-4fe1-8838-a7b2cd29ed62",
+          "status": "accepted",
+          "languageId": "html",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770803929854,
+          "composerChatGenerationUuid": "4ee90df5-e702-4f23-a856-ced39631924e",
+          "diffId": "adf87bfa-138d-48fe-997d-893a06c27003",
+          "lastDiffId": "6048615b-7a37-4f60-a6a1-7c246578beda",
+          "lastAppliedAt": 1770803966122,
+          "committedToBranch": "main"
+        },
+        "995651b4-a0f1-4f46-9f78-89c6ae82fc1a": {
+          "_v": 3,
+          "bubbleId": "1070cd0a-27d1-4b86-b73d-e5962aa59caf",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "995651b4-a0f1-4f46-9f78-89c6ae82fc1a",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "d9f2e0aa-d5e6-4fe1-8838-a7b2cd29ed62",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770805361845,
+          "composerChatGenerationUuid": "16b657fb-d213-40d2-b4b5-4a5052a03e2c",
+          "diffId": "162c7c43-211a-4bf0-b576-34fc40157211",
+          "lastDiffId": "e3d49b04-d527-4a67-a068-6032e055bf92",
+          "lastAppliedAt": 1770805363294,
+          "committedToBranch": "main"
+        },
+        "2fa07597-c696-463d-a368-4f363bb62707": {
+          "_v": 3,
+          "bubbleId": "d2fc6104-ef30-4f13-8a4a-75544ea6b713",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "2fa07597-c696-463d-a368-4f363bb62707",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "995651b4-a0f1-4f46-9f78-89c6ae82fc1a",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770805364617,
+          "composerChatGenerationUuid": "16b657fb-d213-40d2-b4b5-4a5052a03e2c",
+          "diffId": "72329ea8-7fbb-4103-8690-4e782595bc62",
+          "lastDiffId": "99234c3b-af61-4eb8-8248-ece54a5e5f66",
+          "lastAppliedAt": 1770805367633,
+          "committedToBranch": "main"
+        },
+        "750ce2ab-2ee4-43c2-aca2-e9a7323a3f0d": {
+          "_v": 3,
+          "bubbleId": "c095f5b3-0fb7-4ada-95c2-ed2058170999",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "750ce2ab-2ee4-43c2-aca2-e9a7323a3f0d",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "2fa07597-c696-463d-a368-4f363bb62707",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770805368431,
+          "composerChatGenerationUuid": "16b657fb-d213-40d2-b4b5-4a5052a03e2c",
+          "diffId": "e39aa576-051c-4c6f-a815-da5b7393669f",
+          "lastDiffId": "996cb934-4aea-406a-9b92-e04beb687ac1",
+          "lastAppliedAt": 1770805369962,
+          "committedToBranch": "main"
+        },
+        "0ee7dfd9-0661-4bd2-928b-be227f68de19": {
+          "_v": 3,
+          "bubbleId": "9be446dd-d187-4e09-986b-ebbaf03df8ee",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "0ee7dfd9-0661-4bd2-928b-be227f68de19",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "750ce2ab-2ee4-43c2-aca2-e9a7323a3f0d",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770805370310,
+          "composerChatGenerationUuid": "16b657fb-d213-40d2-b4b5-4a5052a03e2c",
+          "diffId": "208bc745-1d74-4826-935a-5587863505ba",
+          "lastDiffId": "c56f4174-f145-4d2d-949a-86bfb1a90967",
+          "lastAppliedAt": 1770805372700,
+          "committedToBranch": "main"
+        },
+        "b92cee2f-52a7-4b2d-9c20-b4fe2bb30981": {
+          "_v": 3,
+          "bubbleId": "669926f3-7780-47ab-abf1-9e9ed2e1047d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "b92cee2f-52a7-4b2d-9c20-b4fe2bb30981",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "0ee7dfd9-0661-4bd2-928b-be227f68de19",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770805373051,
+          "composerChatGenerationUuid": "16b657fb-d213-40d2-b4b5-4a5052a03e2c",
+          "diffId": "2087cb5f-d268-4fd2-83d1-9c21d4a14329",
+          "lastDiffId": "c844d32c-4019-45fb-8b6c-a46f7e7bb007",
+          "lastAppliedAt": 1770805375093,
+          "committedToBranch": "main"
+        },
+        "c27a1837-dec9-46a4-938e-6bbed3852a3f": {
+          "_v": 3,
+          "bubbleId": "85115286-366b-4736-856f-3a8c6801bf85",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "c27a1837-dec9-46a4-938e-6bbed3852a3f",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "b92cee2f-52a7-4b2d-9c20-b4fe2bb30981",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770805375561,
+          "composerChatGenerationUuid": "16b657fb-d213-40d2-b4b5-4a5052a03e2c",
+          "diffId": "505952ba-e603-485b-adbe-1e57cdbaa503",
+          "lastDiffId": "2273983f-494c-4dab-92e6-7ead5fffc45f",
+          "lastAppliedAt": 1770805378601,
+          "committedToBranch": "main"
+        },
+        "36e1a9e3-69b9-4c89-b3fe-e562f4bb0c9e": {
+          "_v": 3,
+          "bubbleId": "4929b744-2790-43f8-bac2-bf881f1ca652",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "36e1a9e3-69b9-4c89-b3fe-e562f4bb0c9e",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "c27a1837-dec9-46a4-938e-6bbed3852a3f",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770805378908,
+          "composerChatGenerationUuid": "16b657fb-d213-40d2-b4b5-4a5052a03e2c",
+          "diffId": "120c4a30-477b-441a-be9a-4951546274f9",
+          "lastDiffId": "036df3f5-1839-4d13-8c68-3b4746dfeae3",
+          "lastAppliedAt": 1770805381129,
+          "committedToBranch": "main"
+        },
+        "82eeb11c-7432-4c0b-9ad8-da46b928ffa4": {
+          "_v": 3,
+          "bubbleId": "4763a403-1b23-4c64-9186-f5fff54fdb44",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "82eeb11c-7432-4c0b-9ad8-da46b928ffa4",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "36e1a9e3-69b9-4c89-b3fe-e562f4bb0c9e",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770805383029,
+          "composerChatGenerationUuid": "16b657fb-d213-40d2-b4b5-4a5052a03e2c",
+          "diffId": "5ed487c9-ac47-49d6-81dc-6c168a8dea9f",
+          "lastDiffId": "a92de6a0-598b-4834-a7c5-4fe87a8b1304",
+          "lastAppliedAt": 1770805386227,
+          "committedToBranch": "main"
+        },
+        "7a542439-ec21-4f1a-8af6-03d719f83c7d": {
+          "_v": 3,
+          "bubbleId": "a9ade0ec-6cea-429b-8ab0-70f2f706009c",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "7a542439-ec21-4f1a-8af6-03d719f83c7d",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "82eeb11c-7432-4c0b-9ad8-da46b928ffa4",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770806615390,
+          "composerChatGenerationUuid": "f4713730-230f-4f43-a4a9-d5c52a27f9d7",
+          "diffId": "dd3d2a08-c7c4-4bfb-a9cb-dea9a15638d1",
+          "lastDiffId": "876366db-9da3-4fb9-9871-e4d9b1c97f31",
+          "lastAppliedAt": 1770806643551,
+          "committedToBranch": "main"
+        },
+        "007290db-caa9-41d8-b7e8-fbee8fef9e60": {
+          "_v": 3,
+          "bubbleId": "2e991d96-b29e-4a37-b466-4fb3ee128c1b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "007290db-caa9-41d8-b7e8-fbee8fef9e60",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "7a542439-ec21-4f1a-8af6-03d719f83c7d",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770806644936,
+          "composerChatGenerationUuid": "f4713730-230f-4f43-a4a9-d5c52a27f9d7",
+          "diffId": "8837dda3-e0cf-48f3-a853-0ec5bb60a630",
+          "lastDiffId": "36cd6192-3c21-4d67-888b-105fa40a0157",
+          "lastAppliedAt": 1770806675228,
+          "committedToBranch": "main"
+        },
+        "98eb0504-de4f-4d8f-ba97-c53921a76aa1": {
+          "_v": 3,
+          "bubbleId": "913a76c6-81ef-4654-826d-128fef72b16c",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "98eb0504-de4f-4d8f-ba97-c53921a76aa1",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "007290db-caa9-41d8-b7e8-fbee8fef9e60",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770806690993,
+          "composerChatGenerationUuid": "f4713730-230f-4f43-a4a9-d5c52a27f9d7",
+          "diffId": "dc74af04-e011-4fab-877a-b68fb3c7a268",
+          "lastDiffId": "7fe0e113-9d61-4187-90d3-ad5a69158c6a",
+          "lastAppliedAt": 1770806699840,
+          "committedToBranch": "main"
+        },
+        "c5751b8e-5fc2-48cc-9a8a-98c5154e78b4": {
+          "_v": 3,
+          "bubbleId": "07066e73-5ada-42fb-a1c3-c4fa4f08be7c",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "c5751b8e-5fc2-48cc-9a8a-98c5154e78b4",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "98eb0504-de4f-4d8f-ba97-c53921a76aa1",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770806700221,
+          "composerChatGenerationUuid": "f4713730-230f-4f43-a4a9-d5c52a27f9d7",
+          "diffId": "989ffb76-27c5-4be8-89ff-f7f2e0aac4ab",
+          "lastDiffId": "619e603d-86aa-4cb2-b2de-a82ffe3ac3d5",
+          "lastAppliedAt": 1770806732840,
+          "committedToBranch": "main"
+        },
+        "d6f4a5bc-4143-4523-b701-46f114505056": {
+          "_v": 3,
+          "bubbleId": "729bb1f9-4464-4c9d-83ff-91e60c16cc8a",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "d6f4a5bc-4143-4523-b701-46f114505056",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "c5751b8e-5fc2-48cc-9a8a-98c5154e78b4",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770806733274,
+          "composerChatGenerationUuid": "f4713730-230f-4f43-a4a9-d5c52a27f9d7",
+          "diffId": "1020ce52-63e0-4a1d-8fd1-e152cc33e3c3",
+          "lastDiffId": "d5f20ae3-ced5-4d6d-a3d1-87caef4ea11a",
+          "lastAppliedAt": 1770806842422,
+          "committedToBranch": "main"
+        },
+        "5d24a4cd-db7e-4850-a168-9c0b7eb47f1e": {
+          "_v": 3,
+          "bubbleId": "b345a854-794e-4296-9253-7b851466fec0",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "5d24a4cd-db7e-4850-a168-9c0b7eb47f1e",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "d6f4a5bc-4143-4523-b701-46f114505056",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770806846263,
+          "composerChatGenerationUuid": "f4713730-230f-4f43-a4a9-d5c52a27f9d7",
+          "diffId": "ad17b89f-5fd9-4c3b-a86e-3ccdbe565377",
+          "lastDiffId": "3575cce7-a6fd-4209-9a63-540bbae38568",
+          "lastAppliedAt": 1770806853348,
+          "committedToBranch": "main"
+        },
+        "38ea9c44-0c61-4aff-99e3-e1dff2caa4d0": {
+          "_v": 3,
+          "bubbleId": "a6ed54bb-12eb-44e2-b58f-ef7facfebd0e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "38ea9c44-0c61-4aff-99e3-e1dff2caa4d0",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "5d24a4cd-db7e-4850-a168-9c0b7eb47f1e",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770806853721,
+          "composerChatGenerationUuid": "f4713730-230f-4f43-a4a9-d5c52a27f9d7",
+          "diffId": "59b26efc-4e17-4768-b35b-3c289a0a9e0c",
+          "lastDiffId": "3a819e73-341b-43f9-88ae-9688d5f3111a",
+          "lastAppliedAt": 1770806863543,
+          "committedToBranch": "main"
+        },
+        "d56979ed-f561-4ae8-8d1f-a7c5b6ade2ce": {
+          "_v": 3,
+          "bubbleId": "2cce4092-5ecb-4156-b27b-4b662168322b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "d56979ed-f561-4ae8-8d1f-a7c5b6ade2ce",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "38ea9c44-0c61-4aff-99e3-e1dff2caa4d0",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770806881132,
+          "composerChatGenerationUuid": "f4713730-230f-4f43-a4a9-d5c52a27f9d7",
+          "diffId": "8c7042a7-b8c5-423f-90a7-916c1b823d54",
+          "lastDiffId": "30d4b536-5473-48c5-b1db-d158d4cb1f41",
+          "lastAppliedAt": 1770806909007,
+          "committedToBranch": "main"
+        },
+        "7afdde4d-5623-4f78-913d-b59c96d1f1de": {
+          "_v": 3,
+          "bubbleId": "4ed732a3-f5aa-4dd0-a8bb-f54504b63662",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "7afdde4d-5623-4f78-913d-b59c96d1f1de",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "d56979ed-f561-4ae8-8d1f-a7c5b6ade2ce",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807136065,
+          "composerChatGenerationUuid": "aac94ace-b7b0-4bf0-a53c-34de6af5a53b",
+          "diffId": "352581e7-1051-4bcb-81d3-120457b1fade",
+          "lastDiffId": "591d9de9-6e2c-4485-ab3e-162db27a01c0",
+          "lastAppliedAt": 1770807142865,
+          "committedToBranch": "main"
+        },
+        "18ee8ba4-5f6c-4f36-bedb-8d3b5aa164a8": {
+          "_v": 3,
+          "bubbleId": "e1264c33-9d0b-4ca4-9997-f67f648e2120",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "18ee8ba4-5f6c-4f36-bedb-8d3b5aa164a8",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "7afdde4d-5623-4f78-913d-b59c96d1f1de",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807143236,
+          "composerChatGenerationUuid": "aac94ace-b7b0-4bf0-a53c-34de6af5a53b",
+          "diffId": "e00cbda8-7820-4287-a213-d5cc178ce5d5",
+          "lastDiffId": "d41aa9d3-944d-4c6f-8455-7a7ee2688b48",
+          "lastAppliedAt": 1770807159408,
+          "committedToBranch": "main"
+        },
+        "8689e785-3af2-4c05-843f-34799bf98bf5": {
+          "_v": 3,
+          "bubbleId": "a88478ac-91f9-455f-a72b-1efc8f220399",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "8689e785-3af2-4c05-843f-34799bf98bf5",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "18ee8ba4-5f6c-4f36-bedb-8d3b5aa164a8",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807211410,
+          "composerChatGenerationUuid": "3d3b8d0b-07ef-4fe3-a827-7928d5341c7e",
+          "diffId": "414f1849-bf71-4789-a50e-ded911849863",
+          "lastDiffId": "ca2d08e7-9aae-4f32-bbb9-3137a9fc2b93",
+          "lastAppliedAt": 1770807216452,
+          "committedToBranch": "main"
+        },
+        "3a9077df-1803-4c0f-af0d-9ec82b637f4b": {
+          "_v": 3,
+          "bubbleId": "c5bcfb29-e1ac-40c5-a13e-fdbf719ccd70",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "3a9077df-1803-4c0f-af0d-9ec82b637f4b",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "8689e785-3af2-4c05-843f-34799bf98bf5",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807216790,
+          "composerChatGenerationUuid": "3d3b8d0b-07ef-4fe3-a827-7928d5341c7e",
+          "diffId": "49034098-060e-4ec8-9228-61061d6e18d0",
+          "lastDiffId": "d147a697-c6f6-4ace-bd4f-a153301b7257",
+          "lastAppliedAt": 1770807219701,
+          "committedToBranch": "main"
+        },
+        "a3f04b58-1fb0-4e4c-8ac9-fa9221558d8c": {
+          "_v": 3,
+          "bubbleId": "ed8f9f64-129e-4a07-83b7-77bfa36f4917",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "a3f04b58-1fb0-4e4c-8ac9-fa9221558d8c",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "3a9077df-1803-4c0f-af0d-9ec82b637f4b",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807223266,
+          "composerChatGenerationUuid": "3d3b8d0b-07ef-4fe3-a827-7928d5341c7e",
+          "diffId": "025c5dd1-e5fe-4b37-ae79-14604d716387",
+          "lastDiffId": "ece5b306-f1bd-4851-91ee-e4123cf02a44",
+          "lastAppliedAt": 1770807225394,
+          "committedToBranch": "main"
+        },
+        "df72395d-44f7-48e8-8b2b-ac2a86d99445": {
+          "_v": 3,
+          "bubbleId": "044d4caa-aab5-4f5c-b69b-015dd50c0078",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "df72395d-44f7-48e8-8b2b-ac2a86d99445",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "a3f04b58-1fb0-4e4c-8ac9-fa9221558d8c",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807225754,
+          "composerChatGenerationUuid": "3d3b8d0b-07ef-4fe3-a827-7928d5341c7e",
+          "diffId": "f50fc2bf-3f3a-444c-b73a-b1902f64ed45",
+          "lastDiffId": "75867a4b-699c-42a4-87af-9a2aac33ef8e",
+          "lastAppliedAt": 1770807230246,
+          "committedToBranch": "main"
+        },
+        "eb8c0b57-5052-4a0d-881d-1253bd57fd31": {
+          "_v": 3,
+          "bubbleId": "27f52721-31d7-4ed0-a38c-16f12ee1bbdb",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "eb8c0b57-5052-4a0d-881d-1253bd57fd31",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "df72395d-44f7-48e8-8b2b-ac2a86d99445",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807231226,
+          "composerChatGenerationUuid": "3d3b8d0b-07ef-4fe3-a827-7928d5341c7e",
+          "diffId": "e3c8db7d-9109-462e-be27-beec26f78170",
+          "lastDiffId": "8ffa1d5a-8728-4d42-9350-a594cf456a00",
+          "lastAppliedAt": 1770807232992,
+          "committedToBranch": "main"
+        },
+        "2caaf21b-31e1-4055-9007-cdf29480bf61": {
+          "_v": 3,
+          "bubbleId": "3a6b9782-685c-478b-b041-7290c4ae7343",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "2caaf21b-31e1-4055-9007-cdf29480bf61",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "eb8c0b57-5052-4a0d-881d-1253bd57fd31",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807233523,
+          "composerChatGenerationUuid": "3d3b8d0b-07ef-4fe3-a827-7928d5341c7e",
+          "diffId": "068c6d18-6723-4fbb-a627-ecd8b1a8fd3c",
+          "lastDiffId": "e3cdbce1-6c08-4662-952e-d05108ee1992",
+          "lastAppliedAt": 1770807235756,
+          "committedToBranch": "main"
+        },
+        "cad70034-3bb2-4def-a23f-c93b8d0595ba": {
+          "_v": 3,
+          "bubbleId": "2e2d90e3-9a23-4835-a7bd-863bbde10da8",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "cad70034-3bb2-4def-a23f-c93b8d0595ba",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "2caaf21b-31e1-4055-9007-cdf29480bf61",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807370219,
+          "composerChatGenerationUuid": "af9a0884-7203-4cc1-9908-a418371d518e",
+          "diffId": "7a3ce439-b1db-4a41-b2c1-928e63cd3122",
+          "lastDiffId": "fdc1d8f7-375d-4c87-aa99-edba47fd83a2",
+          "lastAppliedAt": 1770807399849,
+          "committedToBranch": "main"
+        },
+        "40002826-06ab-47b5-a3fc-69c2db296a71": {
+          "_v": 3,
+          "bubbleId": "35b941db-a74c-4f86-9996-d893c9d172a5",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "40002826-06ab-47b5-a3fc-69c2db296a71",
+          "status": "aborted",
+          "languageId": "html",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807406096,
+          "composerChatGenerationUuid": "af9a0884-7203-4cc1-9908-a418371d518e",
+          "committedToBranch": "main"
+        },
+        "0ac53854-f19c-4e4c-ac50-98fd1cf0c6c7": {
+          "_v": 3,
+          "bubbleId": "61260ea1-be50-4219-89f1-6f7747229ba0",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "0ac53854-f19c-4e4c-ac50-98fd1cf0c6c7",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "cad70034-3bb2-4def-a23f-c93b8d0595ba",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770807441551,
+          "composerChatGenerationUuid": "af9a0884-7203-4cc1-9908-a418371d518e",
+          "diffId": "bf4b65a4-a161-4ccb-be09-1d92d98f5e87",
+          "lastDiffId": "67a13b85-3ff0-43a9-a76f-90263753a5ab",
+          "lastAppliedAt": 1770807474697,
+          "committedToBranch": "main"
+        },
+        "f7a1f12a-96f9-4a9c-b8e6-f2242fa16fed": {
+          "_v": 3,
+          "bubbleId": "55abbdfa-1e73-4946-b84b-9faf02d4a53d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "f7a1f12a-96f9-4a9c-b8e6-f2242fa16fed",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "0ac53854-f19c-4e4c-ac50-98fd1cf0c6c7",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898317455,
+          "composerChatGenerationUuid": "4ca28ffe-e3f5-42cd-b226-b573bee59267",
+          "diffId": "129dc25a-ab2b-46b0-bf98-73bda6d5d5d3",
+          "lastDiffId": "73aa2938-a226-4137-8334-5143cfa7bf0b",
+          "lastAppliedAt": 1770898318207,
+          "committedToBranch": "main"
+        },
+        "5f3b43e6-a6ba-44ff-bdc0-0de6a1b20bef": {
+          "_v": 3,
+          "bubbleId": "7485ebb3-0197-4977-a7c2-e43a67ca15c7",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "5f3b43e6-a6ba-44ff-bdc0-0de6a1b20bef",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "f7a1f12a-96f9-4a9c-b8e6-f2242fa16fed",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898318541,
+          "composerChatGenerationUuid": "4ca28ffe-e3f5-42cd-b226-b573bee59267",
+          "diffId": "5f19ff65-ad7e-4c0f-aa8e-dc27f2a50cbd",
+          "lastDiffId": "b612d4eb-c820-480e-9421-d11d8d47392a",
+          "lastAppliedAt": 1770898321637,
+          "committedToBranch": "main"
+        },
+        "dc8367b6-bdd7-4386-a33a-85301541f9cc": {
+          "_v": 3,
+          "bubbleId": "2d66925d-96e8-44ff-9175-17ecfffdfa82",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "dc8367b6-bdd7-4386-a33a-85301541f9cc",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "5f3b43e6-a6ba-44ff-bdc0-0de6a1b20bef",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898321974,
+          "composerChatGenerationUuid": "4ca28ffe-e3f5-42cd-b226-b573bee59267",
+          "diffId": "efb471d8-caa1-4566-a2c5-a1a1c83f400c",
+          "lastDiffId": "8adcffc6-d251-42ee-a4ba-30ecf93807e4",
+          "lastAppliedAt": 1770898322701,
+          "committedToBranch": "main"
+        },
+        "9498156e-b0ce-47a8-9ec7-9104f487d70f": {
+          "_v": 3,
+          "bubbleId": "1aad7c06-bcae-4023-93ac-2e0773c6c8ce",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "9498156e-b0ce-47a8-9ec7-9104f487d70f",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "dc8367b6-bdd7-4386-a33a-85301541f9cc",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898323041,
+          "composerChatGenerationUuid": "4ca28ffe-e3f5-42cd-b226-b573bee59267",
+          "diffId": "7acfa3aa-c137-45e0-a2b7-1a23d62f0d7d",
+          "lastDiffId": "4026a798-f1dc-4366-b04b-879ce6431ad3",
+          "lastAppliedAt": 1770898324122,
+          "committedToBranch": "main"
+        },
+        "56eba649-8418-4c88-ab96-e984a611ac95": {
+          "_v": 3,
+          "bubbleId": "8f959c8b-4863-4d12-b213-4baedf350ac0",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "56eba649-8418-4c88-ab96-e984a611ac95",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "9498156e-b0ce-47a8-9ec7-9104f487d70f",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898329285,
+          "composerChatGenerationUuid": "4ca28ffe-e3f5-42cd-b226-b573bee59267",
+          "diffId": "239c5d0f-dd98-4d97-bc49-fe711ac2b0c0",
+          "lastDiffId": "a54c96ad-e9d4-49c0-9068-bb92b88565ef",
+          "lastAppliedAt": 1770898331046,
+          "committedToBranch": "main"
+        },
+        "2076ce32-6f5a-4764-86a3-89042af78c43": {
+          "_v": 3,
+          "bubbleId": "b40fbcf4-92c7-4530-8558-24a35003b062",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "2076ce32-6f5a-4764-86a3-89042af78c43",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "56eba649-8418-4c88-ab96-e984a611ac95",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898331370,
+          "composerChatGenerationUuid": "4ca28ffe-e3f5-42cd-b226-b573bee59267",
+          "diffId": "c051f1d7-91ad-40b7-a08c-6c2219eeb9a2",
+          "lastDiffId": "1d54287e-eb01-435b-a971-87aff12b4454",
+          "lastAppliedAt": 1770898332148,
+          "committedToBranch": "main"
+        },
+        "5e8eefa1-afb7-4e79-8619-ef5db3bb0149": {
+          "_v": 3,
+          "bubbleId": "50fe9cb1-b15d-4bb8-8bc3-160895b1fe80",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "5e8eefa1-afb7-4e79-8619-ef5db3bb0149",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "2076ce32-6f5a-4764-86a3-89042af78c43",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898332495,
+          "composerChatGenerationUuid": "4ca28ffe-e3f5-42cd-b226-b573bee59267",
+          "diffId": "2fcbebc8-1fb8-462c-ab33-a4e79a4d734b",
+          "lastDiffId": "041e7b67-9803-4cfa-abd3-a079b1457da1",
+          "lastAppliedAt": 1770898333207,
+          "committedToBranch": "main"
+        },
+        "17074deb-988b-41f0-9243-85149073b94f": {
+          "_v": 3,
+          "bubbleId": "3f861365-3be4-44e2-9bfc-fd88837e7bcf",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "17074deb-988b-41f0-9243-85149073b94f",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "5e8eefa1-afb7-4e79-8619-ef5db3bb0149",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898333534,
+          "composerChatGenerationUuid": "4ca28ffe-e3f5-42cd-b226-b573bee59267",
+          "diffId": "0db209d5-4226-40eb-a537-0e2df9beac4a",
+          "lastDiffId": "d26d48f8-0e63-4cc0-b5a5-937f531e92b0",
+          "lastAppliedAt": 1770898334766,
+          "committedToBranch": "main"
+        },
+        "f0b561a8-8ab8-4786-854e-db57df2667d9": {
+          "_v": 3,
+          "bubbleId": "291f014a-a5f4-4e18-b395-2870d24a1c85",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "f0b561a8-8ab8-4786-854e-db57df2667d9",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "17074deb-988b-41f0-9243-85149073b94f",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898713932,
+          "composerChatGenerationUuid": "878be994-4e3d-490b-a396-55c41ea37834",
+          "diffId": "5bc2d487-c4f0-435b-bfd9-fea792c5d178",
+          "lastDiffId": "e2835a98-dab8-45d1-86ff-71d6eba33fab",
+          "lastAppliedAt": 1770898715342,
+          "committedToBranch": "main"
+        },
+        "f6b12e90-a52f-439e-8f58-20e39d1dbfa0": {
+          "_v": 3,
+          "bubbleId": "78f63149-35b9-4678-9e95-5a97156ab237",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "f6b12e90-a52f-439e-8f58-20e39d1dbfa0",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "f0b561a8-8ab8-4786-854e-db57df2667d9",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898719967,
+          "composerChatGenerationUuid": "878be994-4e3d-490b-a396-55c41ea37834",
+          "diffId": "0d3fd4e6-4279-42e1-8c8a-9e10517284d9",
+          "lastDiffId": "6fcc5764-2e5f-4831-a1cf-22f97dc68c48",
+          "lastAppliedAt": 1770898721964,
+          "committedToBranch": "main"
+        },
+        "3ee3b65b-0414-4d5d-9be6-a1046b8bac32": {
+          "_v": 3,
+          "bubbleId": "6485ee35-f11e-4f47-b00f-1647adfa27c6",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "3ee3b65b-0414-4d5d-9be6-a1046b8bac32",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "f6b12e90-a52f-439e-8f58-20e39d1dbfa0",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898722305,
+          "composerChatGenerationUuid": "878be994-4e3d-490b-a396-55c41ea37834",
+          "diffId": "f16fd050-9e88-4f2d-b9ff-2e9c1ee13ba2",
+          "lastDiffId": "0a090fbd-75b4-45f6-8033-129f6c16d148",
+          "lastAppliedAt": 1770898725423,
+          "committedToBranch": "main"
+        },
+        "110de240-976f-4289-a93d-cdb5d0e1bf40": {
+          "_v": 3,
+          "bubbleId": "ed91f81a-2743-4b60-bd2d-f4082ba5fc4b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "110de240-976f-4289-a93d-cdb5d0e1bf40",
+          "status": "aborted",
+          "languageId": "html",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898725761,
+          "composerChatGenerationUuid": "878be994-4e3d-490b-a396-55c41ea37834",
+          "committedToBranch": "main"
+        },
+        "1cdbed59-9f95-49d7-8348-15da7239a326": {
+          "_v": 3,
+          "bubbleId": "79389ca6-1c80-4f23-8e1f-7a4c3a2e04d1",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\voice-to-text-demo.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+            "path": "/c:/Users/pc/Desktop/voice-to-text-demo.html",
+            "scheme": "file"
+          },
+          "codeblockId": "1cdbed59-9f95-49d7-8348-15da7239a326",
+          "status": "accepted",
+          "languageId": "html",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "3ee3b65b-0414-4d5d-9be6-a1046b8bac32",
+            "composerId": "5588c989-a208-4857-b087-9f29ac8b4528"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770898731165,
+          "composerChatGenerationUuid": "878be994-4e3d-490b-a396-55c41ea37834",
+          "diffId": "cdce1a5f-c7f8-4a15-b889-dc93c4272a20",
+          "lastDiffId": "0ed40745-425d-44d6-85cb-e29b47474946",
+          "lastAppliedAt": 1770898733166,
+          "committedToBranch": "main",
+          "partialInlineDiffFatesId": "95d7868b-9572-4b4a-8ca3-71ebb8802805"
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/test-speech-api.html": {
+        "70d7e4f2-486e-4646-b928-8f6ebf3da93f": {
+          "_v": 3,
+          "bubbleId": "cb631b95-ef80-42fb-8e90-6bfee06a7b60",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\test-speech-api.html",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/test-speech-api.html",
+            "path": "/c:/Users/pc/Desktop/test-speech-api.html",
+            "scheme": "file"
+          },
+          "codeblockId": "70d7e4f2-486e-4646-b928-8f6ebf3da93f",
+          "status": "accepted",
+          "languageId": "html",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770805126770,
+          "composerChatGenerationUuid": "37ef2d0c-aee1-4df8-b747-3b06ca3b1ba5",
+          "diffId": "26d627db-96b3-4c96-b455-8f78074b7a4c",
+          "lastDiffId": "beacf063-ea74-493e-a76a-ac93ffe9e753",
+          "lastAppliedAt": 1770805135640,
+          "committedToBranch": "main",
+          "partialInlineDiffFatesId": "7ba8835a-2e51-49d8-8e0a-122f41f1da33"
+        }
+      }
+    },
+    "originalFileStates": {
+      "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html": {
+        "content": "",
+        "firstEditBubbleId": "9358c094-1fd3-4bdc-8721-2d7aef83dbf8",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/test-speech-api.html": {
+        "content": "",
+        "firstEditBubbleId": "cb631b95-ef80-42fb-8e90-6bfee06a7b60",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      }
+    },
+    "newlyCreatedFiles": [],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1770898743670,
+    "createdAt": 1770803722857,
+    "hasChangedContext": true,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "name": "NVIDIA personaplex capabilities",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {},
+    "contextUsagePercent": 50.47700119018555,
+    "allAttachedFileCodeChunksUris": [
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/5.txt",
+      "file:///c%3A/Users/pc/Desktop/voice-to-text-demo.html",
+      "file:///c%3A/Users/pc/Desktop/test-speech-api.html",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/INSPECT_EXISTING_WORKSPACE_EXAMPLE.py",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/2.txt"
+    ],
+    "modelConfig": {
+      "modelName": "composer-1",
+      "maxMode": false
+    },
+    "subComposerIds": [],
+    "subagentComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 1203,
+    "totalLinesRemoved": 0,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "worktreeStartedReadOnly": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isProject": false,
+    "isSpecSubagentDone": false,
+    "isContinuationInProgress": false,
+    "stopHookLoopCount": 0,
+    "committedToBranch": "main",
+    "speculativeSummarizationEncryptionKey": "4+PHIydt//idgrfxEgFrGQ1axlZmFg23FBVL4zeu6AE=",
+    "isNAL": true,
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "~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",
+    "queueItems": [],
+    "blobEncryptionKey": "ziRemk8ItVe40xnDlYisK4tF6m66/kv6jcDGQY3kRTE=",
+    "latestChatGenerationUUID": "878be994-4e3d-490b-a396-55c41ea37834",
+    "isAgentic": true,
+    "subtitle": "Edited voice-to-text-demo.html, test-speech-api.html",
+    "filesChangedCount": 2
+  },
+  "extracted_at": "2026-02-17T16:58:02.349736"
+}

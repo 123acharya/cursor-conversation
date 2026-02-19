@@ -1,0 +1,2005 @@
+{
+  "key": "composerData:52bf78e1-449d-401d-9bc7-85c2b58f5fa9",
+  "data": {
+    "_v": 13,
+    "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "d5df724d-a6f5-445f-a9ce-b79e6b5df341",
+        "type": 1,
+        "serverBubbleId": "d5df724d-a6f5-445f-a9ce-b79e6b5df341"
+      },
+      {
+        "bubbleId": "db0834bc-6ba4-430f-a842-ffb57ccb9756",
+        "type": 1,
+        "serverBubbleId": "db0834bc-6ba4-430f-a842-ffb57ccb9756"
+      },
+      {
+        "bubbleId": "0a62b67e-a954-440c-ac23-d2aadfb33f88",
+        "type": 1,
+        "serverBubbleId": "0a62b67e-a954-440c-ac23-d2aadfb33f88"
+      },
+      {
+        "bubbleId": "d03a73a5-d9c0-4dad-abae-76ad48709bc4",
+        "type": 1,
+        "serverBubbleId": "d03a73a5-d9c0-4dad-abae-76ad48709bc4"
+      },
+      {
+        "bubbleId": "21f805c2-a102-4752-95b8-02d2102ccd8b",
+        "type": 1,
+        "serverBubbleId": "21f805c2-a102-4752-95b8-02d2102ccd8b"
+      },
+      {
+        "bubbleId": "cb0d949b-f5a2-4e39-8a1a-14cedf4856b8",
+        "type": 1,
+        "serverBubbleId": "cb0d949b-f5a2-4e39-8a1a-14cedf4856b8"
+      },
+      {
+        "bubbleId": "6413bc10-ec85-40ed-8ef2-7a6d26eb0050",
+        "type": 1,
+        "serverBubbleId": "6413bc10-ec85-40ed-8ef2-7a6d26eb0050"
+      },
+      {
+        "bubbleId": "9cda0465-5ed6-453a-ac90-96267c714b48",
+        "type": 1,
+        "serverBubbleId": "9cda0465-5ed6-453a-ac90-96267c714b48"
+      },
+      {
+        "bubbleId": "f6fa0325-7388-4d03-aca1-141cdd486960",
+        "type": 1,
+        "serverBubbleId": "f6fa0325-7388-4d03-aca1-141cdd486960"
+      },
+      {
+        "bubbleId": "d20b2b38-c9d1-483b-9da0-173a0359a368",
+        "type": 1,
+        "serverBubbleId": "d20b2b38-c9d1-483b-9da0-173a0359a368"
+      },
+      {
+        "bubbleId": "bb457c33-4719-4a9e-844b-e81f9e8e7252",
+        "type": 1,
+        "serverBubbleId": "bb457c33-4719-4a9e-844b-e81f9e8e7252"
+      },
+      {
+        "bubbleId": "30ec3e51-f51a-4509-ba22-24242e591d57",
+        "type": 1,
+        "serverBubbleId": "30ec3e51-f51a-4509-ba22-24242e591d57"
+      },
+      {
+        "bubbleId": "3326b428-b19d-43c0-85e1-8d2a3ea1aaab",
+        "type": 1,
+        "serverBubbleId": "3326b428-b19d-43c0-85e1-8d2a3ea1aaab"
+      },
+      {
+        "bubbleId": "59b9001c-c29c-45fc-bd98-b07ff0fc06a3",
+        "type": 1,
+        "serverBubbleId": "59b9001c-c29c-45fc-bd98-b07ff0fc06a3"
+      },
+      {
+        "bubbleId": "8647fedf-8d20-409c-aecb-9209a0c22af0",
+        "type": 1,
+        "serverBubbleId": "8647fedf-8d20-409c-aecb-9209a0c22af0"
+      },
+      {
+        "bubbleId": "ec4d7cf9-536d-41bc-8353-c90053bc97cd",
+        "type": 1,
+        "serverBubbleId": "ec4d7cf9-536d-41bc-8353-c90053bc97cd"
+      },
+      {
+        "bubbleId": "ba626225-0339-4004-9cb6-d4580052eb16",
+        "type": 2,
+        "serverBubbleId": "7043af08-c60c-5907-baa7-0c5d71a9aa2a"
+      },
+      {
+        "bubbleId": "f54d814c-ecb3-481f-887e-a53ab2a4a3c7",
+        "type": 2,
+        "serverBubbleId": "6d96bd6b-0f91-5a6b-9367-f89eec408d6b"
+      },
+      {
+        "bubbleId": "196eee3d-1847-4633-b82c-7cc2f0006436",
+        "type": 2,
+        "serverBubbleId": "31dadb12-9697-5a94-bfa6-5f033d104f0a"
+      },
+      {
+        "bubbleId": "79efa3df-e362-4888-b4bc-5e8468b1b4a2",
+        "type": 2,
+        "serverBubbleId": "9adae191-4d92-5247-a181-17ad48f3e7d4"
+      },
+      {
+        "bubbleId": "36112b47-bb00-4165-81ef-563e38b4c0af",
+        "type": 2,
+        "serverBubbleId": "a4af3744-0439-5e4a-af70-10962fa2b03c"
+      },
+      {
+        "bubbleId": "120acc91-c665-4ea9-8601-e9be1d3b99ce",
+        "type": 2,
+        "serverBubbleId": "6f0906c1-3f3f-5707-98fa-843961529db7"
+      },
+      {
+        "bubbleId": "f7187f40-8435-41b0-a663-fc8c0270527a",
+        "type": 2,
+        "serverBubbleId": "8ec517b3-eb44-515c-a19f-d5427fce545b"
+      },
+      {
+        "bubbleId": "a4cbd843-563f-4431-9a67-3fb6f6f1288c",
+        "type": 2,
+        "serverBubbleId": "498b890a-381d-576e-b2c2-1d9926a62cbc"
+      },
+      {
+        "bubbleId": "24bf9b27-0c5f-455a-a4c7-e74d2f35878a",
+        "type": 1,
+        "serverBubbleId": "24bf9b27-0c5f-455a-a4c7-e74d2f35878a"
+      },
+      {
+        "bubbleId": "f70b211d-53a1-4dbb-bf4a-ea905d4deab4",
+        "type": 2,
+        "serverBubbleId": "df07c44c-14a4-5090-9ed0-a640a9eae63b"
+      },
+      {
+        "bubbleId": "c96d0721-f7c6-496e-a522-e43cbf3b22fd",
+        "type": 2,
+        "serverBubbleId": "b911c816-5e17-5734-b555-9bd8b689a2a1"
+      },
+      {
+        "bubbleId": "3033d22d-21ee-4cd0-bf11-6f0b74b0bc71",
+        "type": 2,
+        "serverBubbleId": "74b8b104-0325-51ce-8ac1-db81a4afa525"
+      },
+      {
+        "bubbleId": "e77f62dd-2bdb-4b22-9d20-b994f78ea4f7",
+        "type": 2,
+        "serverBubbleId": "6835c7fc-d960-5537-88b1-9040b07395b3"
+      },
+      {
+        "bubbleId": "71459aac-85ca-4ef0-9fad-6f15b454e3f7",
+        "type": 2,
+        "serverBubbleId": "b7b39be2-0210-57ec-a1ec-94ca90081866"
+      },
+      {
+        "bubbleId": "a44163f5-b5f0-4ad8-b684-efaf01561ed0",
+        "type": 2,
+        "serverBubbleId": "d0a2b5fb-8d64-5907-917d-60488116da85"
+      },
+      {
+        "bubbleId": "bd81fec4-2505-496d-b76a-12283ad53fbf",
+        "type": 2,
+        "serverBubbleId": "72620657-ca0a-55e3-8958-1778a4387ca6"
+      },
+      {
+        "bubbleId": "f8ed6769-18df-4809-87cd-217fcb8d0978",
+        "type": 2,
+        "serverBubbleId": "35388f97-a02e-5ae8-b6cc-d2397a53b449"
+      },
+      {
+        "bubbleId": "51b82a7d-6cbb-4664-83b0-45ca0a85cea5",
+        "type": 2,
+        "serverBubbleId": "3318c076-9408-5a2a-9737-33dc9117323e"
+      },
+      {
+        "bubbleId": "bab7e2b2-cdb5-4a7e-9366-c0edaa66e21c",
+        "type": 2,
+        "serverBubbleId": "ca5fb3ac-7097-569b-9c47-c1607113527e"
+      },
+      {
+        "bubbleId": "b6116eda-06f6-4a13-bada-df2bf29c2b8e",
+        "type": 2,
+        "serverBubbleId": "46bec729-f27d-5d0a-8d94-fd4b41d4586b"
+      },
+      {
+        "bubbleId": "0a120c44-8901-4670-aa29-68fa3e241d17",
+        "type": 2,
+        "serverBubbleId": "b3183e5e-01fb-5652-b4d9-6f7eeb0d6743"
+      },
+      {
+        "bubbleId": "984477e1-8adb-42d6-a4e3-7a466d47248a",
+        "type": 2,
+        "serverBubbleId": "b82f2629-04f2-54da-81a3-15688ca8cf46"
+      },
+      {
+        "bubbleId": "0b185025-603e-439c-a2ec-e8507a7bda12",
+        "type": 2,
+        "serverBubbleId": "16b24d5c-ebe6-5372-922a-dad24983aa70"
+      },
+      {
+        "bubbleId": "14d5f819-8f9f-4fa7-b913-1321394e8138",
+        "type": 2,
+        "serverBubbleId": "613067e6-08f4-5a3a-a9d5-4a476252c84c"
+      },
+      {
+        "bubbleId": "fad3be11-102a-4065-8d3f-a02e16193ee7",
+        "type": 2,
+        "serverBubbleId": "f6e03cf1-86ba-5fa9-b980-c93d3b79a205"
+      },
+      {
+        "bubbleId": "83e1e0ea-b464-46d2-8258-467bad7ecf36",
+        "type": 2,
+        "serverBubbleId": "6e3eb2a3-0cb6-5527-a1c2-513bbc6d07fa"
+      },
+      {
+        "bubbleId": "8d96f47c-9abc-4fe6-8c8e-2d43fc5df723",
+        "type": 2,
+        "serverBubbleId": "ee4961be-8e64-55ae-b4e6-c3387f8fec04"
+      },
+      {
+        "bubbleId": "144a971e-e8ca-4c06-8487-1cc1a678e21b",
+        "type": 2,
+        "serverBubbleId": "5769bc78-a35f-52e1-be57-34083ebebfd9"
+      },
+      {
+        "bubbleId": "38114209-3681-48c6-aff6-5e733787a30c",
+        "type": 2,
+        "serverBubbleId": "e2df2317-a3c4-52b8-8ab3-860fe36b1c49"
+      },
+      {
+        "bubbleId": "da448654-40fb-41f3-9145-b74d4dd2101f",
+        "type": 2,
+        "serverBubbleId": "e2c0375d-2fcb-50b2-b941-4e964dc4d0e8"
+      },
+      {
+        "bubbleId": "e855899f-9885-4c94-9628-f1b8b3d3183c",
+        "type": 2,
+        "serverBubbleId": "fb86ffa1-d1a9-5991-8bbb-3958e7bb3047"
+      },
+      {
+        "bubbleId": "1807cacc-cbd6-4aa3-bbf5-aeff21c21397",
+        "type": 2,
+        "serverBubbleId": "4abc719d-a918-5605-b3f2-aeff61b60297"
+      },
+      {
+        "bubbleId": "eb40bfe3-3751-4d90-b17b-08074ea416c1",
+        "type": 2,
+        "serverBubbleId": "ff51bc49-45a6-5e63-9fe2-79a2f50cbeb2"
+      },
+      {
+        "bubbleId": "01c55312-0f67-4ac6-80aa-bf86658182f8",
+        "type": 2,
+        "serverBubbleId": "a6dde387-8d82-57e0-9412-32b501970af6"
+      },
+      {
+        "bubbleId": "40602880-fb73-4280-bdd9-639a779066ad",
+        "type": 2,
+        "serverBubbleId": "063c5699-f872-5a39-a614-ef7aee3a7ff0"
+      },
+      {
+        "bubbleId": "0c8879c6-dce0-4403-94a7-3139981cc11e",
+        "type": 2,
+        "serverBubbleId": "c8f6ccd9-1649-5d3c-bc97-d389331f8155"
+      },
+      {
+        "bubbleId": "3182ae0c-0330-448d-b5d9-5369b969d7a8",
+        "type": 2,
+        "serverBubbleId": "a32501ca-f89d-510d-9249-53004698ddc7"
+      },
+      {
+        "bubbleId": "46cbb07c-4801-463b-a6d5-bbfcab2b9e5e",
+        "type": 2,
+        "serverBubbleId": "d270a1ab-8f8e-556a-8460-9f6f45420b36"
+      },
+      {
+        "bubbleId": "711cd145-2a57-4cea-8229-dbdaded3cb09",
+        "type": 2,
+        "serverBubbleId": "6f1eb547-5b56-5474-bed5-908e5f52208b"
+      },
+      {
+        "bubbleId": "ab8cb222-11f6-4bba-b838-b19e72da0f88",
+        "type": 2,
+        "serverBubbleId": "2d6a850d-ef2a-5427-8c5c-a3cc8cd051ad"
+      },
+      {
+        "bubbleId": "f6937d48-08b0-463f-a90c-81d927a0873d",
+        "type": 2,
+        "serverBubbleId": "b0e282f4-7b41-5b38-9908-7ed0cbbf6b11"
+      },
+      {
+        "bubbleId": "c91c1c27-3d9f-454f-91f3-b39f76c1881f",
+        "type": 2,
+        "serverBubbleId": "6689fe39-0c6b-5e18-8054-34ab8bfcf2d8"
+      },
+      {
+        "bubbleId": "3becfbf1-7058-4fc8-8fac-e6dc8f1718b0",
+        "type": 2,
+        "serverBubbleId": "d729e20e-5d9d-5e0a-a5ef-380078e16614"
+      },
+      {
+        "bubbleId": "e402a3df-de5f-482b-adc4-1c0dc5554094",
+        "type": 2,
+        "serverBubbleId": "954e019e-37de-512a-89d3-17d3a40903c0"
+      },
+      {
+        "bubbleId": "fd89fc20-894f-46ae-84d1-949789923551",
+        "type": 2,
+        "serverBubbleId": "ea7574ba-5371-527f-a27b-1a70b6fe6496"
+      },
+      {
+        "bubbleId": "06c63691-64c2-494e-ab42-9c93608f6ba7",
+        "type": 2,
+        "serverBubbleId": "d250c9e7-c0e3-521a-9918-1ebaf2535b69"
+      },
+      {
+        "bubbleId": "0e4fccf5-d8b7-41fb-bc38-3c2b95222381",
+        "type": 2,
+        "serverBubbleId": "709e7334-600d-5c2c-8ed0-34a0cde8bd9f"
+      },
+      {
+        "bubbleId": "6753cafe-5b29-4edc-8537-6dc9be6dbd0d",
+        "type": 2,
+        "serverBubbleId": "c3e00c3e-4dd3-501c-930e-ae061ccb1030"
+      },
+      {
+        "bubbleId": "db3a66af-aeaf-4ed5-b2dd-97b1ba0de8e8",
+        "type": 2,
+        "serverBubbleId": "79cbc237-02e6-566c-852c-bbb809846e0f"
+      },
+      {
+        "bubbleId": "e7afd34c-96bb-45eb-a3f6-71a889561e30",
+        "type": 2,
+        "serverBubbleId": "e06be0d3-cf2b-5835-9bbd-85f5740de340"
+      },
+      {
+        "bubbleId": "ee3f5a70-834f-449f-bd7a-2a276eb6d1c4",
+        "type": 2,
+        "serverBubbleId": "5c549888-25fe-5482-a16a-5ccc8ea873dd"
+      },
+      {
+        "bubbleId": "63b16670-3ac4-498e-b745-5f49197add1d",
+        "type": 2,
+        "serverBubbleId": "b34af110-592f-510f-aafe-2a01a45ad8b0"
+      },
+      {
+        "bubbleId": "d38ff8cf-2100-4792-8089-943471bb25e1",
+        "type": 2,
+        "serverBubbleId": "eec1252d-b188-5d65-a293-13014221bc0e"
+      },
+      {
+        "bubbleId": "cc37f69e-767e-4e19-86fa-ef1a578ba74e",
+        "type": 2,
+        "serverBubbleId": "31677a70-be07-5d82-aed2-48d3165a9220"
+      },
+      {
+        "bubbleId": "6a9bd8b6-f21a-468d-b273-cfc2fe7d097c",
+        "type": 2,
+        "serverBubbleId": "7d75f15c-146d-5ce4-a12c-a4b6dc99d96b"
+      },
+      {
+        "bubbleId": "bfd3248f-867d-4507-9d54-5d24f8286d72",
+        "type": 2,
+        "serverBubbleId": "04c7bc72-9eda-5d52-a298-89ab822cbaf1"
+      },
+      {
+        "bubbleId": "243ef572-7e0f-4cbd-a82e-04f167df8dd5",
+        "type": 2,
+        "serverBubbleId": "e5c748b4-dc7e-5c25-8b15-03281cd7ae70"
+      },
+      {
+        "bubbleId": "094b6b81-27b5-42a1-a098-18f9a799c4da",
+        "type": 2,
+        "serverBubbleId": "6b24a4d9-f2c1-5708-bcd5-ea136879c892"
+      },
+      {
+        "bubbleId": "6ae85b3f-775b-4b1c-ab95-5b9935a98d0b",
+        "type": 2,
+        "serverBubbleId": "31b0a137-6bd0-5da7-b456-3cbcd60cbe3f"
+      },
+      {
+        "bubbleId": "e439b46f-262c-42ab-915a-3b0ae8118f25",
+        "type": 2,
+        "serverBubbleId": "4ca51c37-ba0f-57ed-93f9-aa356dd1e57a"
+      },
+      {
+        "bubbleId": "b0a902db-8439-4ecb-bacc-8f9e6a25e352",
+        "type": 2,
+        "serverBubbleId": "e224982e-5f19-59fa-8764-cc84420b97f9"
+      },
+      {
+        "bubbleId": "b83eabf2-65c0-475c-890f-e0108c8e21cc",
+        "type": 2,
+        "serverBubbleId": "b3623a1f-408f-58cb-963b-94fe67cf6938"
+      },
+      {
+        "bubbleId": "30aa82e9-f8c2-444c-b5c9-0dc36100bdff",
+        "type": 2,
+        "serverBubbleId": "2a732d89-167f-5d8b-82fa-b24debec0b20"
+      },
+      {
+        "bubbleId": "fa167aeb-c4c9-40f8-a9a6-9a000dd2b12c",
+        "type": 2,
+        "serverBubbleId": "4e8ef3e0-ddb3-5d41-b299-7a080ae0d40f"
+      },
+      {
+        "bubbleId": "e988e3b6-eeb2-496f-a369-64bacffafaa1",
+        "type": 2,
+        "serverBubbleId": "e2dae4f9-9419-5130-bcec-2c040617c128"
+      },
+      {
+        "bubbleId": "0fbea707-1333-4475-864a-73a7c53db090",
+        "type": 2,
+        "serverBubbleId": "575b2d73-dddc-58d8-928a-a9ea965d9923"
+      },
+      {
+        "bubbleId": "7d0ecaab-7225-46ca-a6fd-9ff4dc18abcf",
+        "type": 2,
+        "serverBubbleId": "ae8026ba-81ef-5436-aff4-5b56507b3a29"
+      },
+      {
+        "bubbleId": "b4b16a0a-8083-4c9d-a16f-3221062bb5f0",
+        "type": 2,
+        "serverBubbleId": "f0904369-bbda-5010-a720-e0f22afb3fe4"
+      },
+      {
+        "bubbleId": "e37743b0-1eed-42a4-81be-c02b13ec820c",
+        "type": 2,
+        "serverBubbleId": "c2eae6b3-d827-5519-899a-e3dd38612822"
+      },
+      {
+        "bubbleId": "edd57cf9-d358-42e1-8201-533075858b62",
+        "type": 2,
+        "serverBubbleId": "90f56af8-daf4-5df1-8c91-ae4b16039058"
+      },
+      {
+        "bubbleId": "8d03c943-c224-4887-9fa1-426f6416b575",
+        "type": 2,
+        "serverBubbleId": "71499eda-af87-59de-ac42-bbc6afd3efd6"
+      },
+      {
+        "bubbleId": "5f7b96f8-b70e-43b6-b84b-1221b0fdd7de",
+        "type": 2,
+        "serverBubbleId": "e8329649-ec71-5ad2-b50c-fc3cca5adfc5"
+      },
+      {
+        "bubbleId": "19351e67-59ba-4cbb-9875-5ff7c3e2bdb9",
+        "type": 2,
+        "serverBubbleId": "e4d32b17-ea55-57fa-92f2-8411a00ed323"
+      },
+      {
+        "bubbleId": "92228370-c60f-4842-b1b7-1e986f0ea583",
+        "type": 2,
+        "serverBubbleId": "f1fba32f-59de-5891-beca-355368ed43ce"
+      },
+      {
+        "bubbleId": "7cc01866-c74a-4d8b-b17d-06e63f5f7987",
+        "type": 2,
+        "serverBubbleId": "d19d8c72-1919-530d-838c-14e79f35fc6d"
+      },
+      {
+        "bubbleId": "6c06ae7d-8c26-49c2-ba7b-e33a6a3ad76e",
+        "type": 2,
+        "serverBubbleId": "b0a00959-8ffd-5ffc-80b1-4fa569bf70fd"
+      },
+      {
+        "bubbleId": "08036b00-d877-4670-ab7a-6537e8c8fba3",
+        "type": 2,
+        "serverBubbleId": "6aefae9c-d625-5382-998c-53bc5235d0f4"
+      },
+      {
+        "bubbleId": "679cabbe-f49e-4460-aec0-3a9848d0c417",
+        "type": 2,
+        "serverBubbleId": "cfb4376f-55d5-5235-9e5d-8c4850d3381a"
+      },
+      {
+        "bubbleId": "9673869b-395a-48c3-ae07-3d38f2572d73",
+        "type": 2,
+        "serverBubbleId": "b16ed827-21c4-5ebe-af63-7f8d50b4ccca"
+      },
+      {
+        "bubbleId": "e354b5ce-6026-46e8-8a9d-5a54153463b7",
+        "type": 2,
+        "serverBubbleId": "56962a9f-2552-5605-86d1-beab8d2bad98"
+      },
+      {
+        "bubbleId": "f73175fc-1562-4b42-8e1c-2375a7168659",
+        "type": 2,
+        "serverBubbleId": "d5eca071-3445-5453-b129-6b6a2df4b65d"
+      },
+      {
+        "bubbleId": "61530611-8793-4de0-8611-a5d080099605",
+        "type": 1,
+        "serverBubbleId": "61530611-8793-4de0-8611-a5d080099605"
+      },
+      {
+        "bubbleId": "5c2bfbd3-2135-4ca5-bd69-e5c3084f7ae2",
+        "type": 2,
+        "serverBubbleId": "f0492507-cdaf-5073-94bb-1b772d3f5b74"
+      },
+      {
+        "bubbleId": "c333ea89-7140-433f-9d53-1d2b0b9ff390",
+        "type": 2,
+        "serverBubbleId": "1a4bf408-8a49-58bf-911e-bde6aae556d4"
+      },
+      {
+        "bubbleId": "3265d913-0d82-4723-8153-6d0c20362cd7",
+        "type": 2,
+        "serverBubbleId": "1862b359-3000-557d-a917-0439277f1f33"
+      },
+      {
+        "bubbleId": "33d4d5b2-60db-4e18-981f-b18d77a4bf74",
+        "type": 2,
+        "serverBubbleId": "f94af651-d044-5b17-944b-e62f0b72a4c1"
+      },
+      {
+        "bubbleId": "f029ba55-7f9d-4a4d-9d6f-3af7a2ec8ac3",
+        "type": 2,
+        "serverBubbleId": "4a61f60d-bdf5-5112-b9c5-41996fd771b4"
+      },
+      {
+        "bubbleId": "eea5a82f-cacb-4305-8ccf-05d406c81de1",
+        "type": 2,
+        "serverBubbleId": "f2e11203-1f3a-59c5-8ac5-b4454021c887"
+      },
+      {
+        "bubbleId": "18d27c7e-211c-41ea-832e-15a0fd7af3d6",
+        "type": 2,
+        "serverBubbleId": "e2d0a80d-5e76-5081-ae29-6cad86feb62b"
+      },
+      {
+        "bubbleId": "e465ca80-c98a-415c-941f-b8381c319329",
+        "type": 2,
+        "serverBubbleId": "3f28621f-75a6-5614-a7d4-1f4c740b67c0"
+      },
+      {
+        "bubbleId": "e22e8dbc-b78a-4561-ab0b-97b1594a1253",
+        "type": 2,
+        "serverBubbleId": "399292e2-5fd6-5e62-8357-8e188394cce5"
+      },
+      {
+        "bubbleId": "638a5a3a-18d9-4461-ba60-3c3f4b99e6f0",
+        "type": 2,
+        "serverBubbleId": "e80a4758-7998-5cd6-84d1-14151e90cbd5"
+      },
+      {
+        "bubbleId": "548aaa35-0eea-4569-b540-8a2f1fd057cd",
+        "type": 2,
+        "serverBubbleId": "92132e1d-9e51-5c00-afec-fe272d5c7cca"
+      },
+      {
+        "bubbleId": "b370f3c5-ef19-408f-8045-219929d320d4",
+        "type": 2,
+        "serverBubbleId": "595a0475-7fb9-50cc-b4c7-dfbb9e42adce"
+      },
+      {
+        "bubbleId": "141bd4c2-bf0e-4cc2-82d4-075f3fa0880a",
+        "type": 2,
+        "serverBubbleId": "eb59c693-c0e0-5067-ac3b-d7fedf3c26c7"
+      },
+      {
+        "bubbleId": "502f10b8-b1d1-44a7-8990-fd4689b7b4a1",
+        "type": 2,
+        "serverBubbleId": "443039b8-dda4-580a-b4a1-be2b53a42776"
+      },
+      {
+        "bubbleId": "8cc7791d-f82d-48f8-b724-7fd74b797ce4",
+        "type": 2,
+        "serverBubbleId": "1d64f970-bb18-597c-8a30-a8260f0fc6f1"
+      },
+      {
+        "bubbleId": "4e42336b-5a2c-4a22-a40b-79b76dba085a",
+        "type": 2,
+        "serverBubbleId": "81737009-3a32-5cb2-94ff-943d91bd1586"
+      },
+      {
+        "bubbleId": "a0d61eaf-9521-4ae8-acf1-e15c9771fff5",
+        "type": 2,
+        "serverBubbleId": "3a8da130-b40f-5f67-8b76-39d39d351dac"
+      },
+      {
+        "bubbleId": "dbc5a531-fa21-40f5-b905-fdb2b8da1af0",
+        "type": 2,
+        "serverBubbleId": "3c6720fa-3f07-5c2b-b453-ea98251f66da"
+      },
+      {
+        "bubbleId": "e4ff0dc0-84b8-452b-9f43-7780e8c44d87",
+        "type": 2,
+        "serverBubbleId": "25e9ecf0-e34a-50b8-beca-bd6a5c35b838"
+      },
+      {
+        "bubbleId": "1c7eb66e-dcfc-4b85-9524-98d365abd1f3",
+        "type": 2,
+        "serverBubbleId": "d9aee2e9-1231-574a-8390-d014d3fe1eb6"
+      },
+      {
+        "bubbleId": "e0741386-d396-499e-8885-0f645f2b4467",
+        "type": 2,
+        "serverBubbleId": "59109e30-c609-5d7e-a7d3-5ed4e47882ac"
+      },
+      {
+        "bubbleId": "47c3b168-bfe7-4d7d-bca4-4b7393949ee7",
+        "type": 2,
+        "serverBubbleId": "f456312a-988b-5ea4-8d57-f7617f9d41f2"
+      },
+      {
+        "bubbleId": "15ca9bf8-2efc-4485-b797-1aa87a73fa1a",
+        "type": 2,
+        "serverBubbleId": "365f02c1-fbff-57aa-83c3-65fd3f4ca6c1"
+      },
+      {
+        "bubbleId": "9eee58aa-0270-4ae6-9a5b-ca2a5a3a143e",
+        "type": 2,
+        "serverBubbleId": "7f024a28-0832-5819-95fa-8e5d327d4349"
+      },
+      {
+        "bubbleId": "c5e149c8-8090-49d3-bca5-cdfdf3b019e7",
+        "type": 1,
+        "serverBubbleId": "c5e149c8-8090-49d3-bca5-cdfdf3b019e7"
+      },
+      {
+        "bubbleId": "37b01966-09fb-42a1-9274-7db9d148a2ea",
+        "type": 2,
+        "serverBubbleId": "93b27cff-6fb9-5e47-b553-f48caa139e04"
+      },
+      {
+        "bubbleId": "903143ae-8c9e-400e-9f21-fdfbed633c76",
+        "type": 2,
+        "serverBubbleId": "1a09875c-ae41-5070-b632-44fe5706771d"
+      },
+      {
+        "bubbleId": "169509a3-27fd-4ecb-91f2-ed0b475438a6",
+        "type": 1,
+        "serverBubbleId": "169509a3-27fd-4ecb-91f2-ed0b475438a6"
+      },
+      {
+        "bubbleId": "6a790791-93a8-458e-b043-fe4c498948ad",
+        "type": 2,
+        "serverBubbleId": "abebbf7a-8905-50b3-83e9-c47f1016f354"
+      },
+      {
+        "bubbleId": "ec60abb0-8d3f-416d-a657-6f9c11a9cd86",
+        "type": 2,
+        "serverBubbleId": "023d38a9-3fb2-5ca0-9f5a-c53c09efdbe6"
+      },
+      {
+        "bubbleId": "cc03f634-db0b-4032-aa7c-e4474a276e28",
+        "type": 1,
+        "serverBubbleId": "cc03f634-db0b-4032-aa7c-e4474a276e28"
+      },
+      {
+        "bubbleId": "9e6f65ab-eae3-466e-8fcb-27ccfe86bf11",
+        "type": 2,
+        "serverBubbleId": "9b848417-7538-537d-b643-d2680eee01ee"
+      },
+      {
+        "bubbleId": "585665d2-0911-4a2c-84ac-bd9df402ebc8",
+        "type": 2,
+        "serverBubbleId": "50939311-b50c-5e60-b826-50beae052623"
+      },
+      {
+        "bubbleId": "c0a69434-fb00-4a20-be89-fb27364c3d0b",
+        "type": 2,
+        "serverBubbleId": "d2c2c67b-bdd6-517a-8247-e442b1037e13"
+      },
+      {
+        "bubbleId": "d31e5624-f0d0-442d-9267-094b9c2cae97",
+        "type": 2,
+        "serverBubbleId": "1b085c9b-facb-5542-a20c-c2c19ada0dcf"
+      },
+      {
+        "bubbleId": "e76305c4-7f12-47a9-a557-93194cd8dcd1",
+        "type": 2,
+        "serverBubbleId": "84e31757-bb64-51eb-8e4e-de3948a0f3cc"
+      },
+      {
+        "bubbleId": "0c2f2dae-9170-454a-bb02-d2ce2d1a9e84",
+        "type": 2,
+        "serverBubbleId": "3784da5a-53e3-5f9d-9f36-d26b225efd6c"
+      },
+      {
+        "bubbleId": "24950cd4-0ecb-4999-af34-b036909748eb",
+        "type": 2,
+        "serverBubbleId": "489f9622-aae4-5ee4-9701-66ac118de815"
+      },
+      {
+        "bubbleId": "a3531c14-18af-4747-a57d-df0996cd614c",
+        "type": 2,
+        "serverBubbleId": "98c23ab8-69e0-5963-8689-58dde2d42fba"
+      },
+      {
+        "bubbleId": "3ae79b64-c5a4-4f41-8635-04d3db42af6e",
+        "type": 2,
+        "serverBubbleId": "01e87be6-3328-54bc-8c17-a0e617d8aaf2"
+      },
+      {
+        "bubbleId": "4d5ba75d-0e33-447a-976c-fcc74bd1a1e5",
+        "type": 2,
+        "serverBubbleId": "e64749b3-d04a-52c0-9e6c-db8bb6265936"
+      },
+      {
+        "bubbleId": "0d4b92b2-ea95-47cc-a66f-89b15a4cfcc3",
+        "type": 2,
+        "serverBubbleId": "f147af5b-49df-57da-883c-f93e874f75ad"
+      },
+      {
+        "bubbleId": "b09f962c-43b4-493d-bf05-20c1c5956238",
+        "type": 2,
+        "serverBubbleId": "6c3a3220-ca83-59f4-a7b9-0a1b8ae8ccab"
+      },
+      {
+        "bubbleId": "e0695e26-4dc4-4560-9118-92444d9e9fe5",
+        "type": 2,
+        "serverBubbleId": "31479378-7fb2-5cde-af0d-77f3c200febd"
+      },
+      {
+        "bubbleId": "055ce735-99ec-44f3-9ed3-a26d66ff6586",
+        "type": 2,
+        "serverBubbleId": "82959154-367c-523c-b4a7-8083510452d2"
+      },
+      {
+        "bubbleId": "54f89bd0-428a-4081-b73b-5c22c789f9ae",
+        "type": 2,
+        "serverBubbleId": "a1f00f96-7ced-5e22-9ec0-b1f245602640"
+      },
+      {
+        "bubbleId": "d12e9e64-978e-4a7c-8e3e-c9ce7d9cd15f",
+        "type": 2,
+        "serverBubbleId": "39be891f-7f4e-56f9-a71c-bcb7cb8e9eb3"
+      },
+      {
+        "bubbleId": "ca60b137-c546-45ac-83f3-0179bf35f094",
+        "type": 2,
+        "serverBubbleId": "fbc7b50f-8cf2-50a3-a620-2495b7857cf9"
+      },
+      {
+        "bubbleId": "a6edccb0-6d6c-40a8-9fb1-960daa175423",
+        "type": 2,
+        "serverBubbleId": "b2a1ddd1-cf3d-575e-92e5-d13ff97cdad7"
+      },
+      {
+        "bubbleId": "f9bbc2c9-a4bb-49f3-bb4b-a5610838b96d",
+        "type": 2,
+        "serverBubbleId": "60247a1c-d2a1-5b60-ae40-488c0d2f4508"
+      },
+      {
+        "bubbleId": "d5fa3038-95f1-4eae-b390-746c37cb3ee7",
+        "type": 2,
+        "serverBubbleId": "35064a55-8abc-516a-a14f-db91f4ffc204"
+      },
+      {
+        "bubbleId": "52106fe7-c962-44bb-b6d4-707877d0ec66",
+        "type": 2,
+        "serverBubbleId": "716a5e3d-c62c-5ad5-9f4d-ea166d92d9ce"
+      },
+      {
+        "bubbleId": "ca112bbe-31f2-4b8b-ad6a-a4961b6f4649",
+        "type": 2,
+        "serverBubbleId": "157f854d-985d-5128-887d-073c28beac63"
+      },
+      {
+        "bubbleId": "39a00117-3722-4d39-9f7e-a55c4bfe41dc",
+        "type": 2,
+        "serverBubbleId": "8e4b59b4-b72c-54d6-8daf-2955bc04300e"
+      },
+      {
+        "bubbleId": "99f4a576-2aff-44f5-8943-7a25643a4755",
+        "type": 2,
+        "serverBubbleId": "8f4bd1c3-fb2a-50f0-9ae2-d0c9aee81a81"
+      },
+      {
+        "bubbleId": "3be6c87c-e4cc-435f-8b11-067a13cf2d42",
+        "type": 2,
+        "serverBubbleId": "82b9e81b-322a-526b-a67d-4a10d883ad03"
+      },
+      {
+        "bubbleId": "9a5e5dd0-9f4c-42b4-bd9f-041fc9fb027e",
+        "type": 2,
+        "serverBubbleId": "8506ae17-6894-5b80-b7c8-cd9ef3c94757"
+      },
+      {
+        "bubbleId": "0211aa1a-71a0-4821-b930-c0c7b027ef86",
+        "type": 2,
+        "serverBubbleId": "04051146-6bf4-564f-b94a-2d3be7458f0e"
+      },
+      {
+        "bubbleId": "d0f276f0-3f4f-465c-9e6e-0307106947bb",
+        "type": 2,
+        "serverBubbleId": "3f34fb50-c7fd-57d2-9332-b054e685e4cc"
+      },
+      {
+        "bubbleId": "43674c18-b75b-4a42-8c07-1025787a5713",
+        "type": 2,
+        "serverBubbleId": "90fe998d-a6fc-56ba-a911-da893d945281"
+      },
+      {
+        "bubbleId": "a522dd70-787c-4c44-ad7d-5e206d487442",
+        "type": 2,
+        "serverBubbleId": "4fbda181-1e0c-5cf5-b770-bb7064146590"
+      },
+      {
+        "bubbleId": "95c5ab98-47f9-434b-adbb-f3809fc306dc",
+        "type": 2,
+        "serverBubbleId": "c9cf1aa6-81a0-5965-88de-bc6d5c1a08f1"
+      },
+      {
+        "bubbleId": "23d67549-3dc6-4d0b-80b9-fbfc38b4710a",
+        "type": 2,
+        "serverBubbleId": "289c2190-c16a-5c3b-8cf7-9013c4c36df2"
+      },
+      {
+        "bubbleId": "35c35973-d7ef-40d9-abd7-48fbf5e5bebe",
+        "type": 2,
+        "serverBubbleId": "0037a115-06a4-5b71-8522-f183e06b407c"
+      },
+      {
+        "bubbleId": "105b64d8-fc47-429f-bd02-9284a08e684d",
+        "type": 2,
+        "serverBubbleId": "cb282df4-66a4-5bb9-9a9c-d40cbda52d40"
+      },
+      {
+        "bubbleId": "a248fcd2-cd7f-4ba4-ba16-f699575eb6b1",
+        "type": 2,
+        "serverBubbleId": "37ffbf64-9681-56b9-ba2b-7938c15bd17f"
+      },
+      {
+        "bubbleId": "a820df81-226c-41e2-88e2-9a58a94cd3da",
+        "type": 2,
+        "serverBubbleId": "78ef66a1-6b79-5fc6-ad6f-883a9bc108bb"
+      },
+      {
+        "bubbleId": "9c57e6fc-0d8b-4644-9c2c-f4f8854c86ff",
+        "type": 2,
+        "serverBubbleId": "ce759c35-e1a8-58f5-a07c-db84d95d3760"
+      },
+      {
+        "bubbleId": "85e7dece-178b-4b97-b531-a912f8d24512",
+        "type": 2,
+        "serverBubbleId": "077e1172-36c2-5b24-816a-f1dbd3e2a0d0"
+      },
+      {
+        "bubbleId": "1c74794e-239c-4629-a4e2-f76364893e1f",
+        "type": 1,
+        "serverBubbleId": "1c74794e-239c-4629-a4e2-f76364893e1f"
+      },
+      {
+        "bubbleId": "0571ad10-1868-4f8e-ab77-d7dc19bbcbc9",
+        "type": 2,
+        "serverBubbleId": "d7276362-c8fd-5e83-a60b-45c340c12d61"
+      },
+      {
+        "bubbleId": "070e1bd3-fe7f-4616-bbea-cde4a9099252",
+        "type": 2,
+        "serverBubbleId": "7e5b5556-de60-5497-92a7-a301c2b35341"
+      },
+      {
+        "bubbleId": "00172259-40d4-41f7-b83d-337342e708c6",
+        "type": 2,
+        "serverBubbleId": "4ad14f3d-c6e5-5b8c-a398-4d7ee559f5d6"
+      },
+      {
+        "bubbleId": "3eb8ebe4-06b0-4fda-866d-ea1cdd59a9b2",
+        "type": 2,
+        "serverBubbleId": "8724dae0-6013-5856-8788-d38ae11e3001"
+      },
+      {
+        "bubbleId": "0fbe2e8b-d004-4ba3-a826-e0d6d2edc368",
+        "type": 2,
+        "serverBubbleId": "e838857c-3964-57ae-b545-4535eaba33cc"
+      },
+      {
+        "bubbleId": "2195c0b7-08f2-4505-a9ff-372788db8b0c",
+        "type": 2,
+        "serverBubbleId": "08d1dfff-81f2-5e88-979f-b076d96a52b4"
+      },
+      {
+        "bubbleId": "26909034-8619-4b39-9b73-12344b1d1d8c",
+        "type": 2,
+        "serverBubbleId": "8591476b-186f-5f5a-8cf3-466f0416d090"
+      },
+      {
+        "bubbleId": "36497ab6-29f2-435f-9dde-7ff2b61e94df",
+        "type": 2,
+        "serverBubbleId": "912b6956-d7a4-5293-95a3-f16e5a9ad292"
+      },
+      {
+        "bubbleId": "3dbf3220-666a-434e-af5b-b2da9882493a",
+        "type": 2,
+        "serverBubbleId": "a52f4309-6c62-595b-b6a3-79a75654a4e3"
+      },
+      {
+        "bubbleId": "df9eb865-c906-4173-88f5-d356a83909dc",
+        "type": 2,
+        "serverBubbleId": "21dd9c5e-d4cf-5218-aece-2c2f03921bf6"
+      },
+      {
+        "bubbleId": "6c3d5409-9a92-4b7c-a2c9-8a7be108130f",
+        "type": 2,
+        "serverBubbleId": "63dcfedd-7772-5448-9992-95cbe548dc4c"
+      },
+      {
+        "bubbleId": "cea73deb-0717-4c8c-afc9-8b09132423ec",
+        "type": 2,
+        "serverBubbleId": "24c88ac2-e22d-54ec-b8f0-bfdc3db99430"
+      },
+      {
+        "bubbleId": "41f2a788-c278-453a-81f8-76cf979cc6db",
+        "type": 2,
+        "serverBubbleId": "04b486ad-26c5-5e58-93ea-67bec0046372"
+      },
+      {
+        "bubbleId": "6086f662-dda7-4a20-9d64-40f4f903c5cb",
+        "type": 2,
+        "serverBubbleId": "a4e625b4-ce24-5364-aced-1bf154d66929"
+      },
+      {
+        "bubbleId": "0e3a5696-096c-425c-b7a5-a4da346bad56",
+        "type": 2,
+        "serverBubbleId": "fdb84d37-fac2-52b7-8eae-625c438ee21f"
+      },
+      {
+        "bubbleId": "0afd74c5-7ae1-4339-b040-0af696e8249a",
+        "type": 2,
+        "serverBubbleId": "99edf04b-7c40-558d-a89c-488114c9a109"
+      },
+      {
+        "bubbleId": "24590e0f-31a5-4a42-a1c9-844137cc8e53",
+        "type": 2,
+        "serverBubbleId": "49aeb2f0-f88e-5ef3-b217-27394aaf95b1"
+      },
+      {
+        "bubbleId": "86ca55ec-1413-4b9b-ba5a-e0d685a2b073",
+        "type": 2,
+        "serverBubbleId": "b5394e9e-b01d-57eb-94a1-389c36f5495d"
+      },
+      {
+        "bubbleId": "a9c00654-087f-4429-91a3-3435901db91a",
+        "type": 1,
+        "serverBubbleId": "a9c00654-087f-4429-91a3-3435901db91a"
+      },
+      {
+        "bubbleId": "b0b5c594-bc11-414d-bd5c-644d4b965c15",
+        "type": 2
+      },
+      {
+        "bubbleId": "1b2b7abd-aae3-40fb-af6e-5b9f67c55d15",
+        "type": 2
+      },
+      {
+        "bubbleId": "6636ec1e-0588-4fe0-b486-1cf93b2b92af",
+        "type": 2
+      },
+      {
+        "bubbleId": "fe2adef8-c816-4b45-904b-416c678091f0",
+        "type": 2
+      },
+      {
+        "bubbleId": "598b6407-6dd9-4174-9081-01a444960a96",
+        "type": 2
+      },
+      {
+        "bubbleId": "1976110a-12a2-48c4-99cd-9b55a95437b9",
+        "type": 2
+      },
+      {
+        "bubbleId": "46eb388a-14b2-4651-a28c-c9b8090036b4",
+        "type": 2
+      },
+      {
+        "bubbleId": "f1dbd04b-96ba-4e59-be89-968570db69b6",
+        "type": 1
+      },
+      {
+        "bubbleId": "dd41438e-b019-4d9c-979e-80997ab1491e",
+        "type": 2
+      },
+      {
+        "bubbleId": "0b787bae-0a8d-496b-bca6-0223b4059cf7",
+        "type": 2
+      },
+      {
+        "bubbleId": "a44e204d-a933-44da-81df-e8c9e4b2be71",
+        "type": 2
+      },
+      {
+        "bubbleId": "24d56f21-367a-43dd-a380-d3e83d55ffb9",
+        "type": 2
+      },
+      {
+        "bubbleId": "0da3d2c2-c5bd-4ee4-8a47-bd91c41647a4",
+        "type": 2
+      },
+      {
+        "bubbleId": "d3441a97-99b4-43c2-826a-1cb95a3a016a",
+        "type": 1
+      },
+      {
+        "bubbleId": "0611d056-5d36-4ea9-b4de-dc7e96749f25",
+        "type": 2
+      },
+      {
+        "bubbleId": "c633f27e-2bc7-4a6d-af94-a0d6203f793c",
+        "type": 2
+      },
+      {
+        "bubbleId": "f822b80c-8131-4bd6-8b7c-f5948534ad3b",
+        "type": 2
+      },
+      {
+        "bubbleId": "4784c752-1897-4aa9-b64c-207ed6fd5345",
+        "type": 2
+      },
+      {
+        "bubbleId": "16c42155-ba47-4e2f-9220-f3f60fbd4424",
+        "type": 2
+      },
+      {
+        "bubbleId": "cc5fd2f3-4162-4814-8fb7-4d9d65d46868",
+        "type": 2
+      },
+      {
+        "bubbleId": "3a5be86e-49bc-4e68-ab5f-7fe2fc720d6d",
+        "type": 2
+      },
+      {
+        "bubbleId": "5aefd572-415e-4535-8af9-325588cccef9",
+        "type": 2
+      },
+      {
+        "bubbleId": "d9f7a2da-3fc8-4ef3-bb54-b460eed2cd62",
+        "type": 2
+      },
+      {
+        "bubbleId": "100c2ad4-605e-4c98-b1a9-a3301d6516fb",
+        "type": 2
+      },
+      {
+        "bubbleId": "eb0b7bb6-60dc-43fa-b0c8-01fc239dd745",
+        "type": 2
+      },
+      {
+        "bubbleId": "318d55c8-eff7-4ee0-9560-0c78191bc18c",
+        "type": 1
+      },
+      {
+        "bubbleId": "e50f5f2a-81db-4792-a66f-5f5960d0f577",
+        "type": 2
+      },
+      {
+        "bubbleId": "291f993f-530f-44f7-a5a0-11e25bd0a2b7",
+        "type": 2
+      },
+      {
+        "bubbleId": "af408798-3db8-4d6f-9ca7-cdf253890edd",
+        "type": 2
+      },
+      {
+        "bubbleId": "b7475332-8818-44a1-b78e-225f6597c440",
+        "type": 2
+      },
+      {
+        "bubbleId": "076c471b-6e38-4ae1-b0a3-a6b7b91fef18",
+        "type": 2
+      },
+      {
+        "bubbleId": "595c495d-a5e6-44f9-8b4f-c5e7dfba9cf3",
+        "type": 2
+      },
+      {
+        "bubbleId": "3d2de826-4dbf-4518-9997-c29d49037f97",
+        "type": 1
+      },
+      {
+        "bubbleId": "98595433-ffab-4f33-942e-96aa9e907c11",
+        "type": 2
+      },
+      {
+        "bubbleId": "4d398977-f363-4d45-bc26-9b2ebdb6c7d1",
+        "type": 2
+      },
+      {
+        "bubbleId": "ffe9604a-50e2-46f8-a732-d2acfb26ba80",
+        "type": 2
+      },
+      {
+        "bubbleId": "7767a37c-2ca9-4597-af9c-19c9df409186",
+        "type": 2
+      },
+      {
+        "bubbleId": "f3cdebea-46e2-4d3d-b537-4ec28dd9a09e",
+        "type": 2
+      },
+      {
+        "bubbleId": "7d0ca23e-2e38-4748-a7c4-518f36971941",
+        "type": 2
+      },
+      {
+        "bubbleId": "7855ec86-614c-477e-a74d-dbaaa277d00d",
+        "type": 2
+      },
+      {
+        "bubbleId": "adf6b867-4c90-4a03-82e6-cb11b2515c53",
+        "type": 2
+      },
+      {
+        "bubbleId": "54d72a1a-efa0-4ff8-84e8-dcb8b9b0b3eb",
+        "type": 2
+      },
+      {
+        "bubbleId": "10049c62-b553-4577-b65d-d41f75176180",
+        "type": 2
+      },
+      {
+        "bubbleId": "ab0219ae-9a57-4e41-bbb3-eaef0dd269c7",
+        "type": 2
+      },
+      {
+        "bubbleId": "8a2166de-7736-4a88-ba5b-3a64feeaf494",
+        "type": 2
+      },
+      {
+        "bubbleId": "39e67094-d3fe-49f0-a740-eac1fc6ea7ae",
+        "type": 2
+      },
+      {
+        "bubbleId": "94887a47-f263-4722-8c70-ed23c78d40a4",
+        "type": 2
+      },
+      {
+        "bubbleId": "737c5331-d160-4bf8-9cab-307cd592bd4b",
+        "type": 2
+      },
+      {
+        "bubbleId": "f5949b83-1dc8-4a40-9d8c-5d7e591a90ca",
+        "type": 2
+      },
+      {
+        "bubbleId": "6db0aaac-cdf1-4437-a0d5-32edb0897ba0",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "completed",
+    "context": {
+      "composers": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "ideEditorsState": true,
+      "gitPRDiffSelections": [],
+      "subagentSelections": [],
+      "browserSelections": [],
+      "mentions": {
+        "composers": {},
+        "quotes": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "useWeb": [],
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {},
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "useLinterErrors": [],
+        "useDiffReview": [],
+        "useGenerateRules": [],
+        "useContextPicking": [],
+        "useRememberThis": [],
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "autoContext": [],
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {}
+      },
+      "quotes": []
+    },
+    "generatingBubbleIds": [],
+    "isReadingLongFile": false,
+    "codeBlockData": {
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py": {
+        "612d93ca-7c57-44c9-a6d1-74e498040158": {
+          "_v": 3,
+          "bubbleId": "037051e6-2404-4e92-8123-4e4e08a29ecc",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "612d93ca-7c57-44c9-a6d1-74e498040158",
+          "status": "accepted",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771164809192,
+          "composerChatGenerationUuid": "4f13e1e4-2e63-4126-8ce3-ce7dbc5025ac",
+          "diffId": "23ae117b-210b-4fdd-9292-48c2b1b26d1e",
+          "lastDiffId": "9c3e7716-17f4-4edf-a54d-3a767e2efff5",
+          "lastAppliedAt": 1771164814220
+        },
+        "82dea2be-a6ea-403d-82a5-8be6e0362b41": {
+          "_v": 3,
+          "bubbleId": "d99df635-cbe5-4775-b6fb-f1267bc2bd06",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "82dea2be-a6ea-403d-82a5-8be6e0362b41",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "612d93ca-7c57-44c9-a6d1-74e498040158",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771166218568,
+          "composerChatGenerationUuid": "5bf62df8-e248-40ee-ade5-3853912a6096",
+          "diffId": "8ed6485b-b194-417d-a0f2-c1b022e02199",
+          "lastDiffId": "2ab958e5-3430-4cec-9406-020a0d3241e9",
+          "lastAppliedAt": 1771166226483
+        },
+        "aef40603-46d7-4b2f-aa76-3dc4c70dbaca": {
+          "_v": 3,
+          "bubbleId": "237b99ae-0ae4-42b5-9a38-e7537213c49e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "aef40603-46d7-4b2f-aa76-3dc4c70dbaca",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "82dea2be-a6ea-403d-82a5-8be6e0362b41",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771166662925,
+          "composerChatGenerationUuid": "40080e78-3b35-4863-836d-77792c10bae8",
+          "diffId": "9ed11f85-c9c6-4c65-87a5-d191d36389e7",
+          "lastDiffId": "dbf8078b-ce8a-480b-ab89-d713fc132a34",
+          "lastAppliedAt": 1771166678209
+        },
+        "0712e35f-7745-475b-9611-7affac970cbb": {
+          "_v": 3,
+          "bubbleId": "bc7f0c2d-7239-423d-bf58-8a45b551220e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "0712e35f-7745-475b-9611-7affac970cbb",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "aef40603-46d7-4b2f-aa76-3dc4c70dbaca",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771167747192,
+          "composerChatGenerationUuid": "6a1ec86f-8906-4e8b-84e0-1f88c034a4b3",
+          "diffId": "fc8d4856-fe66-4dbe-9c58-a7fbc552e99b",
+          "lastDiffId": "c837f7fd-1665-4327-bf96-f1512ac7e5df",
+          "lastAppliedAt": 1771167752816
+        },
+        "1c2b3926-a36c-43e6-b412-1fd09e9bc02a": {
+          "_v": 3,
+          "bubbleId": "2171036c-922f-428d-a2ea-51bf3c3e4624",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "1c2b3926-a36c-43e6-b412-1fd09e9bc02a",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "0712e35f-7745-475b-9611-7affac970cbb",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771167754733,
+          "composerChatGenerationUuid": "6a1ec86f-8906-4e8b-84e0-1f88c034a4b3",
+          "diffId": "c1e34474-9f36-4b01-9f4e-041e9b277019",
+          "lastDiffId": "6cd09f23-fd30-4d6d-a416-d33d7755864d",
+          "lastAppliedAt": 1771167803036
+        },
+        "108244de-2d9b-4f0b-9540-6e2a5a2869ff": {
+          "_v": 3,
+          "bubbleId": "afe0151e-73db-4bad-ad8a-e34d1492469d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "108244de-2d9b-4f0b-9540-6e2a5a2869ff",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "1c2b3926-a36c-43e6-b412-1fd09e9bc02a",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771168123538,
+          "composerChatGenerationUuid": "dee3cb3e-55ee-412c-b634-ad15539ba53e",
+          "diffId": "dd0f7cff-0f3b-4113-8030-411a2cf00de0",
+          "lastDiffId": "d192f5e8-d8f4-467d-b335-416f12a8a692",
+          "lastAppliedAt": 1771168128420
+        },
+        "92223c10-22d9-4482-a21c-f176ad0def95": {
+          "_v": 3,
+          "bubbleId": "b05e1efc-d1c7-47fa-8d3f-70f811f77157",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "92223c10-22d9-4482-a21c-f176ad0def95",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "108244de-2d9b-4f0b-9540-6e2a5a2869ff",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771169640764,
+          "composerChatGenerationUuid": "b6915fa2-35e0-4e1e-b7db-79d42e8c2246",
+          "diffId": "c534ae7f-f824-4f36-99d6-72d6603e607a",
+          "lastDiffId": "ea6c05c5-ccb2-4a08-84bb-1dd0555286f6",
+          "lastAppliedAt": 1771169645678
+        },
+        "c75140cb-95c5-4d89-bdce-c3ee13a2880b": {
+          "_v": 3,
+          "bubbleId": "509ae421-4d27-4be1-9060-330845a680db",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "c75140cb-95c5-4d89-bdce-c3ee13a2880b",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "92223c10-22d9-4482-a21c-f176ad0def95",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771169649206,
+          "composerChatGenerationUuid": "b6915fa2-35e0-4e1e-b7db-79d42e8c2246",
+          "diffId": "7d20fcfd-4ae1-471a-b4d6-fd89f714d39b",
+          "lastDiffId": "10724316-36fe-469e-b6b0-d63ced5aed54",
+          "lastAppliedAt": 1771169740645
+        },
+        "0bb2f023-c6ca-4c9f-84f6-fe6ded02c85a": {
+          "_v": 3,
+          "bubbleId": "4834cd2f-0cec-4c47-905f-cc2087c83823",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "0bb2f023-c6ca-4c9f-84f6-fe6ded02c85a",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "c75140cb-95c5-4d89-bdce-c3ee13a2880b",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771170103031,
+          "composerChatGenerationUuid": "a53d4851-1986-4943-99fd-230dede8f941",
+          "diffId": "9d75b64d-0ec5-483e-b6a4-003d1c1676bd",
+          "lastDiffId": "9dd730a6-302f-4b3a-9646-3bb9694c0ac4",
+          "lastAppliedAt": 1771170105045
+        },
+        "15525c15-b4d5-4cf9-bd5a-919f06d049f0": {
+          "_v": 3,
+          "bubbleId": "cd7f7988-8d7e-4a5d-b63d-3bf895ceb898",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "15525c15-b4d5-4cf9-bd5a-919f06d049f0",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "0bb2f023-c6ca-4c9f-84f6-fe6ded02c85a",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771170108582,
+          "composerChatGenerationUuid": "a53d4851-1986-4943-99fd-230dede8f941",
+          "diffId": "17846a10-7552-4e0b-b392-180d3b04815f",
+          "lastDiffId": "6edc014f-8a6d-40c6-a1bc-ec09988154f5",
+          "lastAppliedAt": 1771170116696
+        },
+        "31590d8d-0426-4463-bb9d-ed5f9e32eb82": {
+          "_v": 3,
+          "bubbleId": "91a95aba-810b-4ae7-9c88-804d7c7d0559",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "31590d8d-0426-4463-bb9d-ed5f9e32eb82",
+          "status": "aborted",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771170118693,
+          "composerChatGenerationUuid": "a53d4851-1986-4943-99fd-230dede8f941"
+        },
+        "40af2f76-be51-4922-b757-761aa522316a": {
+          "_v": 3,
+          "bubbleId": "deabd427-7665-48b1-9d4b-13c48d0caca4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "40af2f76-be51-4922-b757-761aa522316a",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "15525c15-b4d5-4cf9-bd5a-919f06d049f0",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771170198271,
+          "composerChatGenerationUuid": "9bd31028-b7ef-460c-8da1-62530107ad1d",
+          "diffId": "76b3b0aa-7f9b-4489-b9ab-95b185a77a88",
+          "lastDiffId": "7c6fbee1-020d-4e4b-bf89-eefdd344712e",
+          "lastAppliedAt": 1771170199574
+        },
+        "72ce6f67-c3b1-42dc-b8d7-5f1f9b357130": {
+          "_v": 3,
+          "bubbleId": "cb5efb69-04b1-49e5-b564-978380a83673",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "72ce6f67-c3b1-42dc-b8d7-5f1f9b357130",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "40af2f76-be51-4922-b757-761aa522316a",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771170201596,
+          "composerChatGenerationUuid": "9bd31028-b7ef-460c-8da1-62530107ad1d",
+          "diffId": "ffa002b7-bd84-496f-ba6f-3dafaac0e97e",
+          "lastDiffId": "794673e9-1420-4f76-9042-6faaa0b3f1f5",
+          "lastAppliedAt": 1771170205874
+        },
+        "0d59c5f6-9c66-4357-aea2-3fa57c60eb2d": {
+          "_v": 3,
+          "bubbleId": "5ea58965-2869-4dca-8d07-2001412023b4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "0d59c5f6-9c66-4357-aea2-3fa57c60eb2d",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "72ce6f67-c3b1-42dc-b8d7-5f1f9b357130",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771170207868,
+          "composerChatGenerationUuid": "9bd31028-b7ef-460c-8da1-62530107ad1d",
+          "diffId": "9fd34231-c621-4c98-ac91-36718d827e4a",
+          "lastDiffId": "68b7334c-0978-425a-95e5-a458a84b4465",
+          "lastAppliedAt": 1771170210764
+        },
+        "28397fd4-2096-4f32-9fa3-adc86e3ecca6": {
+          "_v": 3,
+          "bubbleId": "16146556-7384-45d1-8849-c4f79d620a33",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\pts1_connector.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/pts1_connector.py",
+            "scheme": "file"
+          },
+          "codeblockId": "28397fd4-2096-4f32-9fa3-adc86e3ecca6",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "0d59c5f6-9c66-4357-aea2-3fa57c60eb2d",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771170213074,
+          "composerChatGenerationUuid": "9bd31028-b7ef-460c-8da1-62530107ad1d",
+          "diffId": "d0d2c281-d464-4fce-87ab-90d18b30a216",
+          "lastDiffId": "789ae0fd-9cea-4964-b441-e5c466e9b34e",
+          "lastAppliedAt": 1771170215824,
+          "partialInlineDiffFatesId": "f6406775-0fc5-4719-97a6-d9b3f504f52f"
+        }
+      },
+      "file:///g%3A/frappe_docker-main/set_pts1_module_to_stock.py": {
+        "992e30ae-4471-41c5-a6d1-ecf76e698ca7": {
+          "_v": 3,
+          "bubbleId": "3aa2d3c9-da3d-420d-a095-6aeb9ff3012b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\set_pts1_module_to_stock.py",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/set_pts1_module_to_stock.py",
+            "path": "/g:/frappe_docker-main/set_pts1_module_to_stock.py",
+            "scheme": "file"
+          },
+          "codeblockId": "992e30ae-4471-41c5-a6d1-ecf76e698ca7",
+          "status": "accepted",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771165536420,
+          "composerChatGenerationUuid": "523764e1-171f-40c2-b3c4-860dac4f4437",
+          "diffId": "3d3e5ca9-2162-4ec8-9683-6b2c24b3bf05",
+          "lastDiffId": "5822b525-1492-4bd6-b17e-16cd23526cbd",
+          "lastAppliedAt": 1771165537331,
+          "partialInlineDiffFatesId": "28d139eb-7c5f-42e2-8764-acceb0b8db82"
+        }
+      },
+      "file:///g%3A/frappe_docker-main/set_pts1_test_to_stock.bat": {
+        "59f9dd54-eb8b-48ee-bbbd-ddc2282ca897": {
+          "_v": 3,
+          "bubbleId": "73c3013c-b1e5-4b36-9b1d-2b9351a147be",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\set_pts1_test_to_stock.bat",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/set_pts1_test_to_stock.bat",
+            "path": "/g:/frappe_docker-main/set_pts1_test_to_stock.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "59f9dd54-eb8b-48ee-bbbd-ddc2282ca897",
+          "status": "accepted",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771165543392,
+          "composerChatGenerationUuid": "523764e1-171f-40c2-b3c4-860dac4f4437",
+          "diffId": "0e188a27-6d42-4592-a40a-a203305ede83",
+          "lastDiffId": "350deec2-ff7b-41a3-ab8c-f7188e238923",
+          "lastAppliedAt": 1771165548264
+        },
+        "7842cebe-0f1c-4c9a-b42b-b819ed9c0443": {
+          "_v": 3,
+          "bubbleId": "8242e248-d7ba-4e3b-bd92-c62c332edde5",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\set_pts1_test_to_stock.bat",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/set_pts1_test_to_stock.bat",
+            "path": "/g:/frappe_docker-main/set_pts1_test_to_stock.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "7842cebe-0f1c-4c9a-b42b-b819ed9c0443",
+          "status": "accepted",
+          "languageId": "bat",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "59f9dd54-eb8b-48ee-bbbd-ddc2282ca897",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771165642803,
+          "composerChatGenerationUuid": "0eb8dc11-9230-41ca-8f2f-31f5ffea7159",
+          "diffId": "f8334b24-ab6b-4cb8-a336-4557d692cc0c",
+          "lastDiffId": "41ff8b05-cb27-47fa-af52-94d845148d3d",
+          "lastAppliedAt": 1771165645512
+        },
+        "e47d2a84-ea0c-4481-8d10-339cda178fa9": {
+          "_v": 3,
+          "bubbleId": "49a1b2c4-0720-4dfd-a3ed-b97c4654a470",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\set_pts1_test_to_stock.bat",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/set_pts1_test_to_stock.bat",
+            "path": "/g:/frappe_docker-main/set_pts1_test_to_stock.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "e47d2a84-ea0c-4481-8d10-339cda178fa9",
+          "status": "accepted",
+          "languageId": "bat",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "7842cebe-0f1c-4c9a-b42b-b819ed9c0443",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771165719798,
+          "composerChatGenerationUuid": "8bcc6b18-214b-46ad-a1a1-8387ac620f29",
+          "diffId": "e0b47b9b-1245-4ba0-9a91-ca3cc7bebf45",
+          "lastDiffId": "900fcf7e-8709-4396-b703-1136cb3dfd3c",
+          "lastAppliedAt": 1771165720752
+        },
+        "7e6c3d95-bed2-435a-822f-8118d106438f": {
+          "_v": 3,
+          "bubbleId": "b079c8de-80f9-48a0-a456-c1bd71b72721",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "g:\\frappe_docker-main\\set_pts1_test_to_stock.bat",
+            "_sep": 1,
+            "external": "file:///g%3A/frappe_docker-main/set_pts1_test_to_stock.bat",
+            "path": "/g:/frappe_docker-main/set_pts1_test_to_stock.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "7e6c3d95-bed2-435a-822f-8118d106438f",
+          "status": "accepted",
+          "languageId": "bat",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "e47d2a84-ea0c-4481-8d10-339cda178fa9",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771165861779,
+          "composerChatGenerationUuid": "b127040a-c383-4a77-87be-02590b97e11a",
+          "diffId": "03635084-304e-4c9b-89c7-b49114f28365",
+          "lastDiffId": "a2df0542-0c32-4091-90a3-7692e20bbe7b",
+          "lastAppliedAt": 1771165863425,
+          "partialInlineDiffFatesId": "2fbf9c04-ddbd-42d9-bfd8-17eb027cb344"
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/actual_test.py": {
+        "8ec74d77-ac2e-4c57-ba7e-59b0cb84a029": {
+          "_v": 3,
+          "bubbleId": "e7367f3d-387f-4bd3-8bcf-fd10794e54c2",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\actual_test.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/actual_test.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/actual_test.py",
+            "scheme": "file"
+          },
+          "codeblockId": "8ec74d77-ac2e-4c57-ba7e-59b0cb84a029",
+          "status": "accepted",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771167808371,
+          "composerChatGenerationUuid": "6a1ec86f-8906-4e8b-84e0-1f88c034a4b3",
+          "diffId": "46e1886b-9ac1-4ed1-8c38-81e3da54703c",
+          "lastDiffId": "7e6d763a-8e22-42b8-aeef-627a2e480ed2",
+          "lastAppliedAt": 1771167823491
+        },
+        "e9c20a6c-791d-46c0-a55e-18e7276c1a48": {
+          "_v": 3,
+          "bubbleId": "3e4c196f-914f-48db-9338-a00822d57019",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\actual_test.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/actual_test.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/actual_test.py",
+            "scheme": "file"
+          },
+          "codeblockId": "e9c20a6c-791d-46c0-a55e-18e7276c1a48",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "8ec74d77-ac2e-4c57-ba7e-59b0cb84a029",
+            "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1771169749506,
+          "composerChatGenerationUuid": "b6915fa2-35e0-4e1e-b7db-79d42e8c2246",
+          "diffId": "0d11c1c9-705e-4dd3-9da8-532b970640ec",
+          "lastDiffId": "8ba7e2c3-e640-433d-8d03-3d781b837ac1",
+          "lastAppliedAt": 1771169755358,
+          "partialInlineDiffFatesId": "1c1ccd84-084a-45fd-936a-5165e4189f46"
+        }
+      }
+    },
+    "originalFileStates": {
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py": {
+        "content": "# pts1_connector.py\r\nimport time, json, socket, subprocess\r\nfrom datetime import datetime\r\nimport requests\r\nimport os, sys\r\n\r\nERP = \"http://localhost:8080\"\r\nAPI_KEY = \"24005ddb99b6ec9\"\r\nAPI_SECRET = \"44f0cde25a27d1d\"\r\nDOCTYPE = \"PTS1 Test\"\r\n\r\n\r\n\r\n\r\nPC_NAME = socket.gethostname()\r\nPOLL_SECONDS = 1\r\nRUN_TIMEOUT_SEC = 120   # kill test if stuck\r\n\r\nPYTHON_EXE = \"python\"\r\n\r\nBASE_DIR = os.path.dirname(os.path.abspath(__file__))\r\nPYTHON_EXE = sys.executable\r\nTEST_SCRIPT = os.path.join(BASE_DIR, \"actual_test.py\")\r\n\r\n\r\n\r\ndef headers():\r\n    return {\"Authorization\": f\"token {API_KEY}:{API_SECRET}\"}\r\n\r\ndef now():\r\n    return datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\")\r\n\r\ndef get_queued_jobs():\r\n    params = {\r\n        \"fields\": '[\"name\",\"pcb_serial_no\",\"target_pc\",\"test_status\",\"locked_by\",\"abort_requested\"]',\r\n        \"filters\": f'[[\"{DOCTYPE}\",\"test_status\",\"=\",\"Queued\"],[\"{DOCTYPE}\",\"target_pc\",\"=\",\"{PC_NAME}\"]]',\r\n        \"order_by\": \"creation asc\",\r\n        \"limit_page_length\": 5\r\n    }\r\n    r = requests.get(f\"{ERP}/api/resource/{DOCTYPE}\", headers=headers(), params=params, timeout=10)\r\n    r.raise_for_status()\r\n    return r.json().get(\"data\", [])\r\n\r\ndef get_doc(name):\r\n    r = requests.get(f\"{ERP}/api/resource/{DOCTYPE}/{name}\", headers=headers(), timeout=10)\r\n    r.raise_for_status()\r\n    return r.json()[\"data\"]\r\n\r\ndef update_doc(name, payload):\r\n    r = requests.put(f\"{ERP}/api/resource/{DOCTYPE}/{name}\", headers=headers(), json=payload, timeout=10)\r\n    r.raise_for_status()\r\n\r\ndef try_lock(jobname):\r\n    # simple lock: set locked_by if empty and move to Running\r\n    doc = get_doc(jobname)\r\n    if doc.get(\"test_status\") != \"Queued\":\r\n        return False\r\n    if doc.get(\"locked_by\"):\r\n        return False\r\n\r\n    update_doc(jobname, {\r\n        \"locked_by\": PC_NAME,\r\n        \"locked_at\": now(),\r\n        \"test_status\": \"Running\",\r\n        \"test_started_at\": now(),\r\n        \"test_result\": \"Pending\",\r\n        \"current_step\": \"START\",\r\n        \"progress_pct\": 0,\r\n        \"error_message\": \"\",\r\n        \"live_log\": f\"Locked by {PC_NAME} at {now()}\\n\",\r\n        \"result_json\": \"\"\r\n    })\r\n    return True\r\n\r\ndef tail_limit(s, max_chars=12000):\r\n    return (s or \"\")[-max_chars:]\r\n\r\ndef run_test_stream(jobname, serial):\r\n    cmd = [PYTHON_EXE, TEST_SCRIPT, \"--serial\", serial, \"--job\", jobname]\r\n    p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True, bufsize=1)\r\n\r\n    live_log = \"\"\r\n    metrics = {}\r\n    start_t = time.time()\r\n    last_push = 0.0\r\n\r\n    while True:\r\n        # Abort support (poll ERP flag occasionally)\r\n        if int(time.time() - start_t) % 2 == 0:\r\n            doc = get_doc(jobname)\r\n            if doc.get(\"abort_requested\"):\r\n                p.terminate()\r\n                update_doc(jobname, {\r\n                    \"test_status\": \"Failed\",\r\n                    \"test_result\": \"Fail\",\r\n                    \"test_completed_at\": now(),\r\n                    \"error_message\": \"Aborted by operator\",\r\n                    \"live_log\": tail_limit(live_log + \"ABORT requested\\n\")\r\n                })\r\n                return\r\n\r\n        # Timeout\r\n        if time.time() - start_t > RUN_TIMEOUT_SEC:\r\n            p.kill()\r\n            update_doc(jobname, {\r\n                \"test_status\": \"Failed\",\r\n                \"test_result\": \"Fail\",\r\n                \"test_completed_at\": now(),\r\n                \"error_message\": f\"Timeout after {RUN_TIMEOUT_SEC}s\",\r\n                \"live_log\": tail_limit(live_log + f\"TIMEOUT after {RUN_TIMEOUT_SEC}s\\n\")\r\n            })\r\n            return\r\n\r\n        line = p.stdout.readline() if p.stdout else \"\"\r\n        if line:\r\n            line = line.strip()\r\n            if line:\r\n                live_log = tail_limit(live_log + line + \"\\n\")\r\n                payload = {\"live_log\": live_log}\r\n\r\n                try:\r\n                    evt = json.loads(line)\r\n                except Exception:\r\n                    evt = {\"event\": \"LOG\", \"message\": line}\r\n\r\n                if evt.get(\"event\") == \"STEP\":\r\n                    payload[\"current_step\"] = evt.get(\"name\", \"\")\r\n                    payload[\"progress_pct\"] = int(evt.get(\"pct\", 0))\r\n\r\n                elif evt.get(\"event\") == \"METRIC\":\r\n                    for k, v in evt.items():\r\n                        if k != \"event\":\r\n                            metrics[k] = v\r\n                    payload[\"result_json\"] = json.dumps(metrics, indent=2)\r\n\r\n                elif evt.get(\"event\") == \"DONE\":\r\n                    result = evt.get(\"result\", \"Fail\")\r\n                    payload[\"test_status\"] = \"Completed\" if result == \"Pass\" else \"Failed\"\r\n                    payload[\"test_result\"] = result\r\n                    payload[\"test_completed_at\"] = now()\r\n\r\n                # throttle update\r\n                t = time.time()\r\n                if (t - last_push) > 0.8 or evt.get(\"event\") in (\"STEP\", \"DONE\"):\r\n                    update_doc(jobname, payload)\r\n                    last_push = t\r\n        else:\r\n            # no line -> check if process ended\r\n            rc = p.poll()\r\n            if rc is not None:\r\n                # process ended\r\n                if rc == 0:\r\n                    update_doc(jobname, {\r\n                        \"test_status\": \"Completed\",\r\n                        \"test_result\": \"Pass\",\r\n                        \"test_completed_at\": now(),\r\n                        \"live_log\": live_log\r\n                    })\r\n                else:\r\n                    update_doc(jobname, {\r\n                        \"test_status\": \"Failed\",\r\n                        \"test_result\": \"Fail\",\r\n                        \"test_completed_at\": now(),\r\n                        \"error_message\": f\"Exit code {rc}\",\r\n                        \"live_log\": live_log\r\n                    })\r\n                return\r\n\r\ndef main():\r\n    print(f\"[connector] PC_NAME={PC_NAME} polling {ERP}\")\r\n    backoff = 1\r\n    while True:\r\n        try:\r\n            jobs = get_queued_jobs()\r\n            if not jobs:\r\n                time.sleep(POLL_SECONDS)\r\n                backoff = 1\r\n                continue\r\n\r\n            jobname = jobs[0][\"name\"]\r\n            serial = jobs[0].get(\"pcb_serial_no\") or \"NA\"\r\n\r\n            if not try_lock(jobname):\r\n                time.sleep(0.5)\r\n                continue\r\n\r\n            print(\"[connector] locked & running\", jobname, serial)\r\n            run_test_stream(jobname, serial)\r\n            print(\"[connector] finished\", jobname)\r\n            backoff = 1\r\n\r\n        except Exception as e:\r\n            print(\"[connector] error:\", e)\r\n            time.sleep(backoff)\r\n            backoff = min(backoff * 2, 10)\r\n\r\nif __name__ == \"__main__\":\r\n    main()\r\n",
+        "firstEditBubbleId": "037051e6-2404-4e92-8123-4e4e08a29ecc",
+        "isNewlyCreated": false,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/set_pts1_module_to_stock.py": {
+        "content": "",
+        "firstEditBubbleId": "3aa2d3c9-da3d-420d-a095-6aeb9ff3012b",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///g%3A/frappe_docker-main/set_pts1_test_to_stock.bat": {
+        "content": "",
+        "firstEditBubbleId": "73c3013c-b1e5-4b36-9b1d-2b9351a147be",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/actual_test.py": {
+        "content": "# actual_test.py\r\nimport json, time, sys, argparse\r\n\r\ndef emit(event, **data):\r\n    print(json.dumps({\"event\": event, **data}), flush=True)\r\n\r\ndef run(serial, job):\r\n    emit(\"START\", serial=serial, job=job)\r\n    emit(\"STEP\", name=\"CONNECT\", pct=10)\r\n    time.sleep(1)\r\n\r\n    emit(\"STEP\", name=\"PLAY_AUDIO\", pct=40)\r\n    time.sleep(1)\r\n\r\n    emit(\"METRIC\", thd=0.8, rms=1.23)\r\n    emit(\"STEP\", name=\"ANALYZE\", pct=80)\r\n    time.sleep(1)\r\n\r\n    emit(\"DONE\", result=\"Pass\", message=\"All good\")\r\n    return 0\r\n\r\nif __name__ == \"__main__\":\r\n    ap = argparse.ArgumentParser()\r\n    ap.add_argument(\"--serial\", required=True)\r\n    ap.add_argument(\"--job\", required=True)\r\n    args = ap.parse_args()\r\n    sys.exit(run(args.serial, args.job))\r\n",
+        "firstEditBubbleId": "e7367f3d-387f-4bd3-8bcf-fd10794e54c2",
+        "isNewlyCreated": false,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/create_pts1_lane_doctype.py": {
+        "content": "",
+        "firstEditBubbleId": "17d3e6f5-5e3e-4f07-a4b2-bcb3680f78fb",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/run_create_pts1_lane.sh": {
+        "content": "",
+        "firstEditBubbleId": "2e009374-eea9-46d6-ab40-b9b240f1695c",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/run_create_pts1_lane.py": {
+        "content": "",
+        "firstEditBubbleId": "b8304057-782c-4330-80ec-0228eee4d80c",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/verify_pts1_lane.py": {
+        "content": "",
+        "firstEditBubbleId": "8323da14-b850-495b-8ad5-13d98a09d832",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/setup_pts1_test_lanes_and_script.py": {
+        "content": "",
+        "firstEditBubbleId": "5d8590ab-e4fa-4504-bb53-8201c00149f7",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/verify_pts1_schema.py": {
+        "content": "",
+        "firstEditBubbleId": "7524aafd-7c69-4248-905e-4e1f7374e8d4",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS1_Test_Client_Script.js": {
+        "content": "",
+        "firstEditBubbleId": "7dda648c-dfb5-4442-b146-aef9fdd7738c",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      }
+    },
+    "newlyCreatedFiles": [
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/create_pts1_lane_doctype.py",
+          "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/create_pts1_lane_doctype.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/run_create_pts1_lane.sh",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/run_create_pts1_lane.sh",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/run_create_pts1_lane.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/run_create_pts1_lane.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/verify_pts1_lane.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/verify_pts1_lane.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/setup_pts1_test_lanes_and_script.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/setup_pts1_test_lanes_and_script.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/verify_pts1_schema.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/verify_pts1_schema.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS1_Test_Client_Script.js",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS1_Test_Client_Script.js",
+          "scheme": "file"
+        }
+      }
+    ],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1771410942132,
+    "createdAt": 1771164542137,
+    "hasChangedContext": true,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "name": "PTS1 Test connector upgrades",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {},
+    "contextUsagePercent": 91.425,
+    "contextTokensUsed": 182850,
+    "contextTokenLimit": 200000,
+    "allAttachedFileCodeChunksUris": [
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/pts1_connector.py",
+      "file:///g%3A/frappe_docker-main/set_pts1_module_to_stock.py",
+      "file:///g%3A/frappe_docker-main/set_pts1_test_to_stock.bat",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/actual_test.py"
+    ],
+    "modelConfig": {
+      "modelName": "composer-1.5",
+      "maxMode": false
+    },
+    "subComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 565,
+    "totalLinesRemoved": 20,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isProject": false,
+    "isSpecSubagentDone": false,
+    "stopHookLoopCount": 0,
+    "committedToBranch": "main",
+    "speculativeSummarizationEncryptionKey": "qf88AJfgm0fR9XhCYnhKP07umCfnfC2X+o4lP5+pMSI=",
+    "isNAL": true,
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "~CiBVbCywT0Dlo2Fpz3Y4mcWcX9JfqR9g+QGo3u3U1/1kGwogw0FEYEIRnoBSog11zgioOUJb2XCWmmd/5EoGrcnvwhEKID6Z1P7yxLGR13YCSX9jYSqgfGT3gOZepY0sZM8Z/iHICiDNy1SWn3UGweZ3xgR2/pVwCZqJ/MmuaJFEEHA0WOE4MAogAZuHh0XrI5xwaOcVcf66gp+bPNjXPZd2zq0Wo4Nl1bIKIKx0ks6eY3GQK/725vSEgBBxqOlQWxNQTL7/2HvLRofYCiDFlJJWJhjr4WCYzkvl+u4nGmbVEtRfjXgUjnIUHJds9Qog2iMxhFjqY0srRVGnH0rFV0TDkwuEOFvMXijnpRIL+SEKIMnmHh+xt2Vs5sQm779PRrVC7Qjvf2n/Ehwk+5QPrbDjCiBLpE7I9GTT+oox75qBufxRiyV/G18KeJBUCRKLrylIBAogghv3ZHMznFIE/Yj1nukbbnwwdroj15jAdXVmfHvGjWkaIDXVXgbZ1Zqr/EHRcWkViRH8f6im5vrnPQs5h4v62wghGiD7o+3u8Uf7hULAFcdX0X2ZKsT7I/KW4ln3FglmmxeCfRogTnidqnBUAPvaX3QrKGBkdwCecefdVpDZ/p59O7QdElQqCAjClAsQwJoMQiBFJWAMsao+bCTDu3FV5yEssXia0K2f9dtWPVlucwT080IgFBDcUmc5VpQ6v7aSfcVsdgTtwy8J9VMxuhEYn4zdBE1CINlBJfJGuuLFoIDLsAwqM1h51E5nZnYpes/U9kIphVNPQiCQwruzerjCrzITnqLUkhNoGmCA7O9OoJq1sFlTKZ9xukIgC9JDrrrRU/45s+gFysvaaliNxJ4xMzNITbo8EEZupMpCIMj8FtnLQACScGvz6wqe0+SRvhBKUhNH5VrXywVMxghtQiCrHvK/hfR/t1gxBIoqL232+p7LLXYs1nsvgb5btX1HDEIgPj2xqks19p1DwPQS/oJGIMMfn5lKeOiYw4RsfqYmtQFCINC2SshM7zrl7TO54JWmYaOb/CKWM4rOpdx40GkYSEkyQiCBujcRM9JjiZnhAFYwvKyq4QlWZiqaPqBUolQ61QG7B0IgVRffyzEUboGOQamDU1hXgJNZyCoaqnILVf2fewlCZLhCIEUrBXMkKFC+SVyJPT6lTgQXkgL4Y3n/4YaFvOcq+/HmQiB2bPJMJUZLTt1UJeRGQkTwNYHz1n9p+hlz0zzGk7Kt7EIgBgzPcO26I25lGBbqE4BwTFHy+yHLwC8NWr1RaC9SchpCIJlPnXnTUqo7tFgUpq7zk1+NKKYKvU5jdqH18uEJcH9uQiALu8jRVAbwy7ZnXA9wOUCVZKwhfqPSi04DNCsGIdYlrkIgUOnQezDJHFDts5qTzbc6Rot1tCFCWs9MHZGeJgeq6jhCIL22oOUOR6qPtR6V+kfWmv1eE8zaOi0+cH4NXmAFA1FSQiDy0cfR3E93mgk6W9Kqzkoq5bnfm2MeDpOBnsUkrRcg50IgPIKKQPElavJIXzO6ITWZyGS9KskPOg7sSxAgvdUKR8tCICpaC5swn0iCcn7Xqt/xXV5KJct7mjGXXnJOvpqNpH3CQiB7m8GcUie95CYp1z1Gqh4XhLLEYKU1BBzgs2aiZS2/z0IgyfkiT0BK2NUVIYSaWzr1gHjTQ/u76wwJL/77EUxF9MNCIHANFir1S1m4JFToPWnfhaRdPAxiopgmmAp86rqfVUrhQiD5G5ru1A6ZwfT7Tz7LnuSlC6LTpm9vCaEaZ/E7o/JBv0IgG4Okg6p/jX+g6bYYKxiNdbH7uyKHcToEc/RRIbfQU4FCIOLhyQY8rt183Qnz9K/jYByma/2syXj4CKXya+aX93H2SjRmaWxlOi8vL2FwcC9iYWNrZW5kL3NlcnZlci9jOiU1Q1VzZXJzJTVDcGMlNUNEZXNrdG9wUAFqIBjEIAX9yOKtLvKZ1/dqBt2zTCDebY855U0QCBj6yJU5ep0BClVjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXHB0czFfY29ubmVjdG9yLnB5EkQKICrIJHqqq7jE901fgbaPK1SgeIReByhUPDRyAyXw/yZVEiDzZQ9LXByQd2XoBiJD+noQp2OGMhfYg8CumyEU5NVaZ3qFAQpfQzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxjcmVhdGVfcHRzMV9sYW5lX2RvY3R5cGUucHkSIgogw3i831PtewKqUT081fvFQ+ScUkhi6tDyED2coMOtIDZ6hAEKXmM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcUFRTMV9UZXN0X0NsaWVudF9TY3JpcHQuanMSIgogI1rHWsgG4xhtAHiVGcfmKO7IemwxUkD75O5XXIkNPFd6fwpZYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFx2ZXJpZnlfcHRzMV9zY2hlbWEucHkSIgogEg7xfWNxtImj0dGbfCMZqYk0Z06G6oQAC4Z65j+0n5t6gQEKW2M6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxccnVuX2NyZWF0ZV9wdHMxX2xhbmUuc2gSIgogAQIQsoxn1rnIWs4wbYjLErTqmsmSrCqFZexZW3iGwUR6fQpXYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFx2ZXJpZnlfcHRzMV9sYW5lLnB5EiIKIC3vIAhwi43lQqci0UeMsH46QeFdBlJfXSBYkqKz/BBTeoEBCltjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXHJ1bl9jcmVhdGVfcHRzMV9sYW5lLnB5EiIKIKRzCVi8CVdOrvFe+klDKSuJomFwciwFGhtwKoRZpneaepoBClJjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXGFjdHVhbF90ZXN0LnB5EkQKILcqfEbP8SOPcLEhyoFP/zAuGKCBATMI/EJMu/LkWoZ1EiBbVS9UuoONCCBnRZYSx+j47IbOAhT3AI4N4FC6iCe+QnqNAQpnYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxzZXR1cF9wdHMxX3Rlc3RfbGFuZXNfYW5kX3NjcmlwdC5weRIiCiCFY+ummq4jKed33X+xlTivvKTVvA+YYQsXxH0/VuKnn4gBAZIBS1BDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0L0VYQU1QTEVTL0NIQVJHUFQgIFRSSUFML2NyZWF0ZV9wdHMxX2xhbmVfZG9jdHlwZS5weZIBVWM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxccHRzMV9jb25uZWN0b3IucHmSAVNQQ0JfSVFDX0VSUE5leHRfUHJvamVjdC9FWEFNUExFUy9DSEFSR1BUICBUUklBTC9zZXR1cF9wdHMxX3Rlc3RfbGFuZXNfYW5kX3NjcmlwdC5weZIBUmM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcYWN0dWFsX3Rlc3QucHmSAUFQQ0JfSVFDX0VSUE5leHRfUHJvamVjdC9FWEFNUExFUy9DSEFSR1BUICBUUklBTC9wdHMxX2Nvbm5lY3Rvci5weZIBREM6XFVzZXJzXHBjXC5jdXJzb3JccHJvamVjdHNcYy1Vc2Vycy1wYy1EZXNrdG9wXHRlcm1pbmFsc1w2OTMxMzcudHh0",
+    "queueItems": [],
+    "latestChatGenerationUUID": "5c710989-1114-493c-82c5-68d91d8460fa",
+    "isAgentic": true,
+    "subtitle": "Edited pts1_connector.py",
+    "filesChangedCount": 9
+  },
+  "extracted_at": "2026-02-19T11:28:16.131805"
+}

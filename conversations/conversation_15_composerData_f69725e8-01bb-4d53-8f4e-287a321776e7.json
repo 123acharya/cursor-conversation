@@ -1,8 +1,8 @@
 {
-  "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
+  "key": "composerData:f69725e8-01bb-4d53-8f4e-287a321776e7",
   "data": {
     "_v": 11,
-    "composerId": "e8d48cac-ca38-4719-b62f-395758f05174",
+    "composerId": "f69725e8-01bb-4d53-8f4e-287a321776e7",
     "richText": "",
     "hasLoaded": true,
     "text": "",
@@ -62,7 +62,7 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1768831863809,
+    "createdAt": 1768916267154,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
@@ -163,12 +163,12 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "B/QkTZsfwOLJ2cR4Hqp8F+eakZ9Nme4knfT4yzHGNZc=",
+    "speculativeSummarizationEncryptionKey": "RJwMDBiCR2eM/bmJS0cJZ5VhULvrZg02jCMpat9qcOg=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
     "isAgentic": true
   },
-  "extracted_at": "2026-02-19T11:28:16.109559"
+  "extracted_at": "2026-02-17T16:58:02.338659"
 }

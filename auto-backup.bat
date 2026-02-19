@@ -30,6 +30,15 @@ if exist "%APPDATA%\Cursor\User\workspaceStorage" (
 )
 
 REM Git operations
+REM Remove stale lock file if it exists (from crashed Git process)
+if exist ".git\index.lock" (
+    echo Removing stale Git lock file...
+    del /F /Q ".git\index.lock" >nul 2>&1
+)
+
+REM Wait a moment to ensure no other Git process is running
+timeout /t 2 /nobreak >nul 2>&1
+
 git add -A
 git commit -m "Auto-backup: %date% %time%" --allow-empty >nul 2>&1
 

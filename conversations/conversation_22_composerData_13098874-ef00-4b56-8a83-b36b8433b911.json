@@ -1,9 +1,9 @@
 {
-  "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
+  "key": "composerData:13098874-ef00-4b56-8a83-b36b8433b911",
   "data": {
     "_v": 11,
-    "composerId": "e8d48cac-ca38-4719-b62f-395758f05174",
-    "richText": "",
+    "composerId": "13098874-ef00-4b56-8a83-b36b8433b911",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
     "text": "",
     "fullConversationHeadersOnly": [],
@@ -34,7 +34,11 @@
         "selectedImages": {},
         "useWeb": [],
         "folderSelections": {},
-        "fileSelections": {},
+        "fileSelections": {
+          "file:///c%3A/Users/pc/Desktop/create_auto_backup_script.bat": [],
+          "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/BACKUP_SUMMARY_2026-01-25.md": [],
+          "file:///g%3A/frappe_docker-main/backup_erpnext_complete.bat": []
+        },
         "terminalFiles": {},
         "selections": {},
         "terminalSelections": {},
@@ -53,7 +57,8 @@
         "consoleLogs": [],
         "ideEditorsState": [],
         "gitPRDiffSelections": {}
-      }
+      },
+      "ideEditorsState": true
     },
     "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
@@ -62,7 +67,7 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1768831863809,
+    "createdAt": 1769858232859,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
@@ -163,12 +168,14 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "B/QkTZsfwOLJ2cR4Hqp8F+eakZ9Nme4knfT4yzHGNZc=",
+    "speculativeSummarizationEncryptionKey": "DPEiuK+qMwFG5YmeqZ0ekNFH/BApz9PYmPEaBWeoCyQ=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
-    "isAgentic": true
+    "isAgentic": true,
+    "subtitle": "New chat",
+    "filesChangedCount": 0
   },
-  "extracted_at": "2026-02-19T11:28:16.109559"
+  "extracted_at": "2026-02-17T16:58:02.349736"
 }

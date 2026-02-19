@@ -1,8 +1,8 @@
 {
-  "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
+  "key": "composerData:c04735c7-1fb3-4a83-b120-1c97d308d405",
   "data": {
     "_v": 11,
-    "composerId": "e8d48cac-ca38-4719-b62f-395758f05174",
+    "composerId": "c04735c7-1fb3-4a83-b120-1c97d308d405",
     "richText": "",
     "hasLoaded": true,
     "text": "",
@@ -62,73 +62,10 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1768831863809,
+    "createdAt": 1770463014493,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
-    "capabilities": [
-      {
-        "type": 30,
-        "data": {}
-      },
-      {
-        "type": 34,
-        "data": {}
-      },
-      {
-        "type": 15,
-        "data": {
-          "bubbleDataMap": "{}"
-        }
-      },
-      {
-        "type": 22,
-        "data": {}
-      },
-      {
-        "type": 18,
-        "data": {}
-      },
-      {
-        "type": 19,
-        "data": {}
-      },
-      {
-        "type": 33,
-        "data": {}
-      },
-      {
-        "type": 32,
-        "data": {}
-      },
-      {
-        "type": 23,
-        "data": {}
-      },
-      {
-        "type": 16,
-        "data": {}
-      },
-      {
-        "type": 24,
-        "data": {}
-      },
-      {
-        "type": 25,
-        "data": {}
-      },
-      {
-        "type": 21,
-        "data": {}
-      },
-      {
-        "type": 31,
-        "data": {}
-      },
-      {
-        "type": 29,
-        "data": {}
-      }
-    ],
+    "capabilities": [],
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
@@ -137,7 +74,7 @@
     "usageData": {},
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
-      "modelName": "composer-1",
+      "modelName": "gpt-5.1-high",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -163,12 +100,12 @@
     "isSpec": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "B/QkTZsfwOLJ2cR4Hqp8F+eakZ9Nme4knfT4yzHGNZc=",
+    "speculativeSummarizationEncryptionKey": "q0+SvZzS+k5O1b1lsOkj9OijbD27OHDDo+eeeuwB6DM=",
     "isNAL": false,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "",
     "isAgentic": true
   },
-  "extracted_at": "2026-02-19T11:28:16.109559"
+  "extracted_at": "2026-02-19T11:28:16.126563"
 }
