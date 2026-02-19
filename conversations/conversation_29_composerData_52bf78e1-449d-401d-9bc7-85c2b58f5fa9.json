@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "52bf78e1-449d-401d-9bc7-85c2b58f5fa9",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"i need some changes im not uploading Firmware from the erp so i remove that firmare file selction part \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"change varify button as dump 1 2 3 4 button \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so when we select the PCB serial; number in lane 1 com number and when we press dump the connect programm should recive the command saying dump pcb using com port so my actual programm uses this code run flashing and dumping using the connector programm\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "i need some changes im not uploading Firmware from the erp so i remove that firmare file selction part \n\nchange varify button as dump 1 2 3 4 button \n\nso when we select the PCB serial; number in lane 1 com number and when we press dump the connect programm should recive the command saying dump pcb using com port so my actual programm uses this code run flashing and dumping using the connector programm",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "d5df724d-a6f5-445f-a9ce-b79e6b5df341",
@@ -2989,5 +2989,5 @@
     "filesChangedCount": 11,
     "firstTodoWriteBubble": "dbc98c01-0aab-4500-8de8-0e041bc0dfca"
   },
-  "extracted_at": "2026-02-19T18:53:03.018903"
+  "extracted_at": "2026-02-19T19:03:03.684653"
 }
