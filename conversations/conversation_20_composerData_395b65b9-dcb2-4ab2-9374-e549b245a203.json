@@ -30299,7 +30299,7 @@
     "queueItems": [],
     "latestChatGenerationUUID": "376a1f69-a593-4560-9ae2-35df77e7de5a",
     "isAgentic": true,
-    "subtitle": "Edited RESTORE_CLIENT_SCRIPT_FROM_WORKING_VERSION.py, UPSERT_PCB_IQC_PCB_SCAN_AUTO_TRIGGER.py, UPDATE_MASTER_LEDGER_BY_SERIAL.py, pcb_iqc_result_api.py",
+    "subtitle": "Edited UPSERT_PCB_IQC_MASTER_LEDGER_UNIFIED_RACE_FIX.py, INSTALL_PCB_IQC_RESULT_API_FROM_LOCAL.py, PATCH_FIX_GET_COMBINED_REMARK_SAFEEXEC.py, ENABLE_PCB_IQC_LEDGER_SERVER_SCRIPTS.py, pcb_iqc_result_api.py",
     "filesChangedCount": 14,
     "firstTodoWriteBubble": "51679749-85e6-4926-bdde-20040da1f1a2",
     "planEditSnapshots": {
@@ -31736,5 +31736,5 @@
       }
     }
   },
-  "extracted_at": "2026-02-20T12:03:04.441549"
+  "extracted_at": "2026-02-20T12:13:17.925710"
 }
