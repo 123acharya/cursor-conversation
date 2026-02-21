@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "395b65b9-dcb2-4ab2-9374-e549b245a203",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"now i have fixed PTS1 test doctyoe and its working go thught it and understand everything \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"i want this to work without any flaw in current system that we are built \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"only problem that i see is the PCB IQC \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "now i have fixed PTS1 test doctyoe and its working go thught it and understand everything \ni want this to work without any flaw in current system that we are built \n\nonly problem that i see is the PCB IQC ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "cfbe6ed1-4e27-4199-a53e-134450bc8d33",
@@ -31983,5 +31983,5 @@
       }
     }
   },
-  "extracted_at": "2026-02-21T15:23:18.114786"
+  "extracted_at": "2026-02-21T15:33:17.770173"
 }
