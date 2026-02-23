@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "395b65b9-dcb2-4ab2-9374-e549b245a203",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"i found some PCBs that didnt change have the the event moved to ots testing in secodn row its might be some kind of flue mistake that happeds but the gaurd rail should have prevented it from happening \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"becuse whenever we enter the pts test result it should check for 2nd row being moved to pts testing \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also there are some pcbs where even if the ptsresults are pass overall result doesnt show as pass it shows as pts ppending\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also in somcases if the pts test is fail overall shows as pts pending the is some gauradrail is issue is there for sure\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "i found some PCBs that didnt change have the the event moved to ots testing in secodn row its might be some kind of flue mistake that happeds but the gaurd rail should have prevented it from happening \nbecuse whenever we enter the pts test result it should check for 2nd row being moved to pts testing \n\nalso there are some pcbs where even if the ptsresults are pass overall result doesnt show as pass it shows as pts ppending\nalso in somcases if the pts test is fail overall shows as pts pending the is some gauradrail is issue is there for sure\n",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "83a8a38b-bdb8-48a8-9404-750bdaa3028d",
@@ -3942,7 +3942,48 @@
       "composers": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [],
+      "selectedImages": [
+        {
+          "uuid": "e914cf04-8064-4724-9f2e-3e7f53015a8e",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-4a9d961a-ace2-49c7-a6ce-6e0671443578.png",
+          "dimension": {
+            "width": 1143,
+            "height": 444
+          },
+          "loadedAt": 1771841121289,
+          "addedWithoutMention": true
+        },
+        {
+          "uuid": "a170faa5-5dd3-4f67-8944-abbed65fd449",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-0d6b20f5-4749-449f-9692-ce285a024757.png",
+          "dimension": {
+            "width": 1303,
+            "height": 872
+          },
+          "loadedAt": 1771841501139,
+          "addedWithoutMention": true
+        },
+        {
+          "uuid": "5101b8d1-3ec2-46f4-8849-969cd4e38861",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-7df6b86c-0dcc-469f-acea-5f95deee0674.png",
+          "dimension": {
+            "width": 1045,
+            "height": 379
+          },
+          "loadedAt": 1771841532445,
+          "addedWithoutMention": true
+        },
+        {
+          "uuid": "39dca984-7961-4cd0-9490-be7ab104892e",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-31094bf2-da41-4cdb-ba4c-659a36262e07.png",
+          "dimension": {
+            "width": 1070,
+            "height": 134
+          },
+          "loadedAt": 1771841557458,
+          "addedWithoutMention": true
+        }
+      ],
       "folderSelections": [],
       "fileSelections": [],
       "selections": [],
@@ -31877,5 +31918,5 @@
       }
     }
   },
-  "extracted_at": "2026-02-23T15:33:01.781802"
+  "extracted_at": "2026-02-23T15:43:01.660282"
 }
