@@ -30986,8 +30986,8 @@
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "debug",
-    "forceMode": "debug",
+    "unifiedMode": "plan",
+    "forceMode": "plan",
     "usageData": {},
     "contextUsagePercent": 58.587999999999994,
     "contextTokensUsed": 117176,
@@ -32557,5 +32557,5 @@
       }
     }
   },
-  "extracted_at": "2026-02-23T17:13:02.496627"
+  "extracted_at": "2026-02-23T17:23:02.068343"
 }
