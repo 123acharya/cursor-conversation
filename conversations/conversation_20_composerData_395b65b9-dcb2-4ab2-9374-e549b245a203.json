@@ -3926,7 +3926,28 @@
       "composers": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [],
+      "selectedImages": [
+        {
+          "uuid": "90cfc844-d935-48c9-aef1-e9fcc36a3b17",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-b5173a5c-edfa-4790-8911-25dfad11aa66.png",
+          "dimension": {
+            "width": 1315,
+            "height": 949
+          },
+          "loadedAt": 1771920501089,
+          "addedWithoutMention": true
+        },
+        {
+          "uuid": "a8e36d88-9b0a-46d7-905c-8f4a6d4b1b83",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-40e6c766-7966-48c0-8893-8cf90c0c4f5c.png",
+          "dimension": {
+            "width": 1305,
+            "height": 951
+          },
+          "loadedAt": 1771920519155,
+          "addedWithoutMention": true
+        }
+      ],
       "folderSelections": [],
       "fileSelections": [],
       "selections": [],
@@ -31929,5 +31950,5 @@
       }
     }
   },
-  "extracted_at": "2026-02-24T13:33:03.247122"
+  "extracted_at": "2026-02-24T13:43:13.139734"
 }
