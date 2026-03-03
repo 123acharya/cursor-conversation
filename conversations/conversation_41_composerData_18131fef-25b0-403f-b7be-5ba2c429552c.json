@@ -58,10 +58,38 @@
       {
         "bubbleId": "1e59e990-edf9-448f-85ab-107364aaa772",
         "type": 1
+      },
+      {
+        "bubbleId": "6f75f080-f270-484f-a292-9be3cc8c16f0",
+        "type": 2
+      },
+      {
+        "bubbleId": "1861f4a8-ddc2-4cbd-897f-7be0eb6b4563",
+        "type": 2
+      },
+      {
+        "bubbleId": "49de5ec6-2694-42bf-a693-14def37851dd",
+        "type": 2
+      },
+      {
+        "bubbleId": "03732d5b-45a7-4020-ac65-8f819190f3c9",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f36f81f-8a46-4874-bc6a-4f8dd230ac70",
+        "type": 2
+      },
+      {
+        "bubbleId": "c24dd8e8-7a7f-4f91-b66c-dcbdacb9f12e",
+        "type": 2
+      },
+      {
+        "bubbleId": "91c2a601-6dca-4dff-9dcb-2c848ab00b1d",
+        "type": 2
       }
     ],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "completed",
     "context": {
       "composers": [],
       "selectedCommits": [],
@@ -182,7 +210,6 @@
       "quotes": []
     },
     "generatingBubbleIds": [],
-    "chatGenerationUUID": "42b6c2dc-0b76-4328-9b4c-c395efb14eb6",
     "isReadingLongFile": false,
     "codeBlockData": {},
     "originalFileStates": {
@@ -262,8 +289,8 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 20.913970588235294,
-    "contextTokensUsed": 56886,
+    "contextUsagePercent": 28.802573529411763,
+    "contextTokensUsed": 78343,
     "contextTokenLimit": 272000,
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
@@ -298,12 +325,12 @@
     "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
-    "conversationState": "~CiCN53wqJE/AQLQXxE+ehKiFEWgRhCLskxZseiQF3mMUUQog0R8VNOBClwTUG/1tH6cIVMPZhpcv6BGkeG6VU1xRyfYKIPh0nx3pivyHbTj/0VVMcb7R1yxkjBQK9a+4MlkoUOTrCiBUCA+IrJuMebjbAevXSAAMjIfTFPcTGxCgQvQaevEAXwogxZe9PVBW2WsIoXjtpJ0mAlMf3KOFUl0VcMeJJMXXwlcKIKSpneCVWmviddBEEHUgHQcFMBneGDlOl8rZjgHnTM/NCiB74jHsX3IN3JWTIBEK7txe1MSCtH3oN+AsT3mE6x6qfAoglbFch0NovrneLOTrck6NgyUvlto3aXsVC2aAB6p/aqkKICo6hqX7zM+CQpzArMxoQBEl1uj3fl20X6hWcpvbA9oNCiBBCw+0sCMIzrTik5KVL8Lmu7ivwb9gdcm2sDAONJKLYwogofFl1ESS7ElE1lNtwddm+N/wwZWs65Hx+3E9A5e6gbEKIEHfMM7G0S9nto4KgoA2pXp23iNypsvAZVCrPUDuw21uCiBhX8tC13ABn3DshsH+QI1xXUk1PuEAQgq/QTiCyPyNYCoICLa8AxCAzRBCIEkZSrItCSOAG3UXF8g6/OiLmWIEipikmyMjHYNIfS22QiDGVkkGTHdcmcbfkKuSzTJxOdRvmtPMceg8SNerKYCT/Eo0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFABenMKK2M6XFVzZXJzXHBjXERvd25sb2Fkc1xwdHMxIGNsaWVudCBzY3JpcHQuanMSRAogBDCD3qE3Z6IlUUvRboQRFY3WuB8pxSYuWagAv2oPNwwSIDiunf6Psixw6a5uJ9BTb3Xkao89+QTOYzX4VZXdUfa9kgEqYzpcVXNlcnNccGNcRG93bmxvYWRzXGNvbV9zY2FuX2hlYWRsZXNzLnB5kgEvYzpcVXNlcnNccGNcRG93bmxvYWRzXFBUUzEgU3RhdGlvbiBDb25uZWN0b3IucHmSAUBjOlxVc2Vyc1xwY1xEb3dubG9hZHNccHRzIGFwaSBzZXJ2ZXIgc2NyaXB0IDAyLTAzLTIwMjYgLSBDb3B5LnB5kgErYzpcVXNlcnNccGNcRG93bmxvYWRzXHB0czEgY2xpZW50IHNjcmlwdC5qcw==",
+    "conversationState": "~CiCN53wqJE/AQLQXxE+ehKiFEWgRhCLskxZseiQF3mMUUQog0R8VNOBClwTUG/1tH6cIVMPZhpcv6BGkeG6VU1xRyfYKIPh0nx3pivyHbTj/0VVMcb7R1yxkjBQK9a+4MlkoUOTrCiBUCA+IrJuMebjbAevXSAAMjIfTFPcTGxCgQvQaevEAXwogxZe9PVBW2WsIoXjtpJ0mAlMf3KOFUl0VcMeJJMXXwlcKIKSpneCVWmviddBEEHUgHQcFMBneGDlOl8rZjgHnTM/NCiB74jHsX3IN3JWTIBEK7txe1MSCtH3oN+AsT3mE6x6qfAoglbFch0NovrneLOTrck6NgyUvlto3aXsVC2aAB6p/aqkKICo6hqX7zM+CQpzArMxoQBEl1uj3fl20X6hWcpvbA9oNCiBBCw+0sCMIzrTik5KVL8Lmu7ivwb9gdcm2sDAONJKLYwogofFl1ESS7ElE1lNtwddm+N/wwZWs65Hx+3E9A5e6gbEKIEHfMM7G0S9nto4KgoA2pXp23iNypsvAZVCrPUDuw21uCiBhX8tC13ABn3DshsH+QI1xXUk1PuEAQgq/QTiCyPyNYAogSXB89+G12jD8l05hiwby1R/XrycZz8ZPcdooZSH7j8oKIIbA15G782Qygo07uAxwfrBm3213hjSn3LDHS2XJLdgyCiD0KJEGY8Jnjj4F/+tMTDqpNqJunE75Ln9QPHnCITt5hwog2AJLfcCt+EKG36Az7Em2j5YrbCCqpyLqrvwqAWs+uegKIHD3koxEZcNd0kpxytKB2xnaCQFAc+6Xd2o5U36lasNXCiBo3cxGajR/6P6yeMpGK2Y7f/CeOyD96RfqTj0nj7IE1gogTKXWOszsblZ9sFmc9kWPtEMQxlMBehk6KIPT6/2eUjQqCAiH5AQQgM0QQiBJGUqyLQkjgBt1FxfIOvzoi5liBIqYpJsjIx2DSH0ttkIgxlZJBkx3XJnG35Crks0ycTnUb5rTzHHoPEjXqymAk/xCIOK4TXsrE1FdugU0Qr8RIKnaxtWjlmery+4shkj2hO/0SjRmaWxlOi8vL2FwcC9iYWNrZW5kL3NlcnZlci9jOiU1Q1VzZXJzJTVDcGMlNUNEZXNrdG9wUAF6cworYzpcVXNlcnNccGNcRG93bmxvYWRzXHB0czEgY2xpZW50IHNjcmlwdC5qcxJECiAEMIPeoTdnoiVRS9FuhBEVjda4HynFJi5ZqAC/ag83DBIgOK6d/o+yLHDprm4n0FNvdeRqjz35BM5jNfhVld1R9r2SASpjOlxVc2Vyc1xwY1xEb3dubG9hZHNcY29tX3NjYW5faGVhZGxlc3MucHmSAS9jOlxVc2Vyc1xwY1xEb3dubG9hZHNcUFRTMSBTdGF0aW9uIENvbm5lY3Rvci5weZIBQGM6XFVzZXJzXHBjXERvd25sb2Fkc1xwdHMgYXBpIHNlcnZlciBzY3JpcHQgMDItMDMtMjAyNiAtIENvcHkucHmSAStjOlxVc2Vyc1xwY1xEb3dubG9hZHNccHRzMSBjbGllbnQgc2NyaXB0LmpzkgFnYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxwdHMxIHRlc3RcUFRTMSBTdGF0aW9uIENvbm5lY3Rvci5weZIBY2M6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxccHRzMSB0ZXN0XHB0czEgY2xpZW50IHNjcmlwdC5qc5IBeGM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxccHRzMSB0ZXN0XHB0cyBhcGkgc2VydmVyIHNjcmlwdCAwMi0wMy0yMDI2IC0gQ29weS5weZIBYmM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxccHRzMSB0ZXN0XGNvbV9zY2FuX2hlYWRsZXNzLnB5",
     "queueItems": [],
     "latestChatGenerationUUID": "42b6c2dc-0b76-4328-9b4c-c395efb14eb6",
     "isAgentic": true,
     "subtitle": "Edited pts1 client script.js",
     "filesChangedCount": 1
   },
-  "extracted_at": "2026-03-03T19:33:03.137772"
+  "extracted_at": "2026-03-03T19:43:02.996722"
 }
