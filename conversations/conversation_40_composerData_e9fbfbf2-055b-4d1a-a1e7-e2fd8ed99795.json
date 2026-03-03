@@ -1,9 +1,9 @@
 {
-  "key": "composerData:79b21fa2-ddc2-4f2d-96a8-d60ab1df35d4",
+  "key": "composerData:e9fbfbf2-055b-4d1a-a1e7-e2fd8ed99795",
   "data": {
-    "_v": 11,
-    "composerId": "79b21fa2-ddc2-4f2d-96a8-d60ab1df35d4",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "_v": 13,
+    "composerId": "e9fbfbf2-055b-4d1a-a1e7-e2fd8ed99795",
+    "richText": "",
     "hasLoaded": true,
     "text": "",
     "fullConversationHeadersOnly": [],
@@ -11,7 +11,6 @@
     "status": "none",
     "context": {
       "composers": [],
-      "quotes": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
       "selectedImages": [],
@@ -23,17 +22,16 @@
       "externalLinks": [],
       "cursorRules": [],
       "cursorCommands": [],
-      "ideEditorsState": true,
       "gitPRDiffSelections": [],
+      "subagentSelections": [],
+      "browserSelections": [],
       "mentions": {
         "composers": {},
-        "quotes": {},
         "selectedCommits": {},
         "selectedPullRequests": {},
         "gitDiff": [],
         "gitDiffFromBranchToMain": [],
         "selectedImages": {},
-        "useWeb": [],
         "folderSelections": {},
         "fileSelections": {},
         "terminalFiles": {},
@@ -41,104 +39,36 @@
         "terminalSelections": {},
         "selectedDocs": {},
         "externalLinks": {},
-        "useLinterErrors": [],
-        "useDiffReview": [],
-        "useGenerateRules": [],
-        "useContextPicking": [],
-        "useRememberThis": [],
         "diffHistory": [],
         "cursorRules": {},
         "cursorCommands": {},
-        "autoContext": [],
         "uiElementSelections": [],
         "consoleLogs": [],
         "ideEditorsState": [],
-        "gitPRDiffSelections": {}
+        "gitPRDiffSelections": {},
+        "subagentSelections": {},
+        "browserSelections": {}
       }
     },
-    "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
     "isReadingLongFile": false,
     "codeBlockData": {},
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1769861212060,
+    "createdAt": 1772544650802,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
-    "capabilities": [
-      {
-        "type": 30,
-        "data": {}
-      },
-      {
-        "type": 34,
-        "data": {}
-      },
-      {
-        "type": 15,
-        "data": {
-          "bubbleDataMap": "{}"
-        }
-      },
-      {
-        "type": 22,
-        "data": {}
-      },
-      {
-        "type": 18,
-        "data": {}
-      },
-      {
-        "type": 19,
-        "data": {}
-      },
-      {
-        "type": 33,
-        "data": {}
-      },
-      {
-        "type": 32,
-        "data": {}
-      },
-      {
-        "type": 23,
-        "data": {}
-      },
-      {
-        "type": 16,
-        "data": {}
-      },
-      {
-        "type": 24,
-        "data": {}
-      },
-      {
-        "type": 25,
-        "data": {}
-      },
-      {
-        "type": 21,
-        "data": {}
-      },
-      {
-        "type": 31,
-        "data": {}
-      },
-      {
-        "type": 29,
-        "data": {}
-      }
-    ],
+    "capabilities": [],
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "agent",
-    "forceMode": "edit",
+    "unifiedMode": "chat",
+    "forceMode": "chat",
     "usageData": {},
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
-      "modelName": "composer-1",
+      "modelName": "composer-1.5",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -151,7 +81,6 @@
     "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
-    "isArchived": false,
     "isDraft": false,
     "isCreatingWorktree": false,
     "isApplyingWorktree": false,
@@ -162,16 +91,16 @@
     "isBestOfNParent": false,
     "bestOfNJudgeWinner": false,
     "isSpec": false,
+    "isProject": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "MXmL1wtqfVaTXCKIveJnsTo0MA9/25cdBe1qbKiF+js=",
-    "isNAL": false,
+    "speculativeSummarizationEncryptionKey": "wTMaXUDAEhgi3sEHWhdfZrq52vL0QXU29rpeLWgNVFU=",
+    "isNAL": true,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
-    "conversationState": "",
-    "isAgentic": true,
-    "subtitle": "New chat",
-    "filesChangedCount": 0
+    "conversationState": "~",
+    "queueItems": [],
+    "isAgentic": false
   },
-  "extracted_at": "2026-03-03T19:03:05.264314"
+  "extracted_at": "2026-03-03T19:03:05.274287"
 }
