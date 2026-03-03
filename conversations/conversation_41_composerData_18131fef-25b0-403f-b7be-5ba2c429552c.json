@@ -1,0 +1,223 @@
+{
+  "key": "composerData:18131fef-25b0-403f-b7be-5ba2c429552c",
+  "data": {
+    "_v": 13,
+    "composerId": "18131fef-25b0-403f-b7be-5ba2c429552c",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "bf7c5d3c-14f8-4465-9c26-b4796ec8485b",
+        "type": 1
+      },
+      {
+        "bubbleId": "af4e5a36-a187-4279-b5a9-9b9e5d887c1e",
+        "type": 2
+      },
+      {
+        "bubbleId": "c3e2de5e-f68f-4821-b09f-f1593d92abf0",
+        "type": 2
+      },
+      {
+        "bubbleId": "b63ef1d6-5ef1-424a-af15-bfb903df303f",
+        "type": 2
+      },
+      {
+        "bubbleId": "a94f1fc6-6d23-4e2f-bc9a-43756faa1508",
+        "type": 2
+      },
+      {
+        "bubbleId": "dd1a3fed-4d20-40e6-98d0-5caf006c63d9",
+        "type": 2
+      },
+      {
+        "bubbleId": "0109a9d5-e3fa-46d3-891f-f3e61c39d1fc",
+        "type": 2
+      },
+      {
+        "bubbleId": "94950bf6-45f6-400a-b990-49a625300fe6",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "aborted",
+    "context": {
+      "composers": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "ideEditorsState": true,
+      "gitPRDiffSelections": [],
+      "subagentSelections": [],
+      "browserSelections": [],
+      "mentions": {
+        "composers": {},
+        "quotes": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "useWeb": [],
+        "folderSelections": {},
+        "fileSelections": {
+          "file:///c%3A/Users/pc/Downloads/connector.py": [],
+          "file:///c%3A/Users/pc/Downloads/PTS1%20Station%20Connector.py": [],
+          "file:///c%3A/Users/pc/Downloads/pts1%20client%20script.js": [],
+          "file:///c%3A/Users/pc/Downloads/pts%20api%20server%20script%2002-03-2026%20-%20Copy.py": [],
+          "file:///c%3A/Users/pc/Downloads/com_scan_headless.py": []
+        },
+        "terminalFiles": {},
+        "selections": {
+          "{\"uri\":\"file:///c%3A/Users/pc/Downloads/connector.py\",\"range\":{\"selectionStartLineNumber\":1,\"selectionStartColumn\":1,\"positionLineNumber\":464,\"positionColumn\":1},\"text\":\"```python\\n#!/usr/bin/env python3\\r\\n# -*- coding: utf-8 -*-\\r\\n\\r\\n\\\"\\\"\\\"\\r\\nPTS1 Station Connector (Multi-lane, parallel)\\r\\n\\r\\nWhat it does:\\r\\n- Poll ERPNext for PTS1 Test documents assigned to this PC (target_pc == hostname)\\r\\n- For each doc, finds lanes 1..4 where lane_action_status == \\\"Requested\\\"\\r\\n- Starts each requested lane in parallel (up to MAX_PARALLEL_LANES)\\r\\n- Claims the lane by patching lane_action_status -> Running before executing\\r\\n- Streams ERP_PTS-1.py output into lane_log with throttled updates\\r\\n- Finalizes lane_status + lane_action_status + lane_action_message + lane_progress\\r\\n- Marks parent test_status Running/Completed/Failed smartly\\r\\n\\r\\nImportant:\\r\\n- Your ERP doctype option values MUST match these:\\r\\n  lane_action_status: Requested, Running, Done\\r\\n  lane_status: Pending, Queued, Running, Completed, Failed, Aborted\\r\\n  parent test_status: Queued, Running, Completed, Failed\\r\\n\\\"\\\"\\\"\\r\\n\\r\\nimport os\\r\\nimport sys\\r\\nimport time\\r\\nimport json\\r\\nimport socket\\r\\nimport subprocess\\r\\nimport urllib.parse\\r\\nimport threading\\r\\nfrom concurrent.futures import ThreadPoolExecutor\\r\\n\\r\\nimport requests\\r\\n\\r\\n\\r\\n# ==========================\\r\\n# CONFIG (edit only these)\\r\\n# ==========================\\r\\nERP_URL = \\\"http://192.168.1.50:8080/\\\"   # MUST end with /\\r\\nAPI_KEY = \\\"95403196454d1c9\\\"\\r\\nAPI_SECRET = \\\"eac4a78c7ddafa8\\\"\\r\\n\\r\\nDOCTYPE_PARENT = \\\"PTS1 Test\\\"\\r\\nCHILD_FIELD = \\\"lanes\\\"\\r\\n\\r\\nPOLL_SEC = 1.0\\r\\n\\r\\n# MUST be the python that can run ERP_PTS-1.py (has yaml, gspread etc.)\\r\\nPYTHON_EXE = sys.executable\\r\\n\\r\\n# Your actual program\\r\\nPTS1_SCRIPT = r\\\"D:\\\\PTS_1\\\\PTS_1\\\\ERP_PTS-1.py\\\"\\r\\n\\r\\n# How many lanes you truly want running simultaneously on this PC\\r\\nMAX_PARALLEL_LANES = 4\\r\\n\\r\\n# How often to push logs to ERP (seconds). Higher = less ERP load.\\r\\nLOG_PUSH_SEC = 3.0\\r\\n\\r\\n# Limit log size kept in ERP\\r\\nLOG_KEEP_CHARS = 15000\\r\\n\\r\\n# Retry patch attempts if ERP temporarily fails (network hiccup)\\r\\nPATCH_RETRIES = 3\\r\\nPATCH_RETRY_SLEEP = 0.8\\r\\n\\r\\n# Action mapping (ERP -> operation)\\r\\nACTION_TO_OP = {\\r\\n    \\\"VERIFY\\\": \\\"dump\\\",   # VERIFY means DUMP\\r\\n    \\\"DUMP\\\": \\\"dump\\\",\\r\\n    \\\"FLASH\\\": \\\"flash\\\"\\r\\n}\\r\\n\\r\\n\\r\\n# ==========================\\r\\n# HTTP setup\\r\\n# ==========================\\r\\nHEADERS = {\\r\\n    \\\"Authorization\\\": f\\\"token {API_KEY}:{API_SECRET}\\\",\\r\\n    \\\"Content-Type\\\": \\\"application/json\\\",\\r\\n}\\r\\n\\r\\nPC_NAME = socket.gethostname()\\r\\n\\r\\n\\r\\n# ==========================\\r\\n# Helpers\\r\\n# ==========================\\r\\ndef urljoin(path: str) -> str:\\r\\n    return ERP_URL.rstrip(\\\"/\\\") + \\\"/\\\" + path.lstrip(\\\"/\\\")\\r\\n\\r\\n\\r\\ndef erp_get(path: str, params=None, timeout=15):\\r\\n    return requests.get(urljoin(path), headers=HEADERS, params=params, timeout=timeout)\\r\\n\\r\\n\\r\\ndef erp_put(path: str, data: dict, timeout=15):\\r\\n    return requests.put(urljoin(path), headers=HEADERS, data=json.dumps(data), timeout=timeout)\\r\\n\\r\\n\\r\\ndef safe_str(x):\\r\\n    return \\\"\\\" if x is None else str(x).strip()\\r\\n\\r\\n\\r\\ndef patch_doc(doctype: str, name: str, fields: dict):\\r\\n    \\\"\\\"\\\"PUT update (simple). Returns response.\\\"\\\"\\\"\\r\\n    r = erp_put(\\r\\n        f\\\"api/resource/{urllib.parse.quote(doctype)}/{urllib.parse.quote(name)}\\\",\\r\\n        fields,\\r\\n        timeout=20\\r\\n    )\\r\\n    return r\\r\\n\\r\\n\\r\\ndef patch_ok(doctype: str, name: str, fields: dict, label: str = \\\"\\\") -> bool:\\r\\n    \\\"\\\"\\\"Retry patch few times. If still fails, return False (prevents duplicate starts).\\\"\\\"\\\"\\r\\n    for i in range(PATCH_RETRIES):\\r\\n        try:\\r\\n            r = patch_doc(doctype, name, fields)\\r\\n            if r.status_code in (200, 201):\\r\\n                return True\\r\\n            print(f\\\"[ERP PATCH FAIL]{' '+label if label else ''}\\\", r.status_code, r.text[:350])\\r\\n        except Exception as e:\\r\\n            print(f\\\"[ERP PATCH EXC]{' '+label if label else ''}\\\", repr(e))\\r\\n        time.sleep(PATCH_RETRY_SLEEP * (i + 1))\\r\\n    return False\\r\\n\\r\\n\\r\\ndef get_doc(doctype: str, name: str):\\r\\n    r = erp_get(f\\\"api/resource/{urllib.parse.quote(doctype)}/{urllib.parse.quote(name)}\\\", timeout=20)\\r\\n    if r.status_code != 200:\\r\\n        print(\\\"[ERP GET FAIL]\\\", r.status_code, r.text[:350])\\r\\n        return None\\r\\n    return r.json()[\\\"data\\\"]\\r\\n\\r\\n\\r\\ndef list_jobs_for_pc():\\r\\n    \\\"\\\"\\\"\\r\\n    We list parent docs assigned to this PC.\\r\\n    A parent doc can contain 1..4 lane requests.\\r\\n    \\\"\\\"\\\"\\r\\n    fields = json.dumps([\\\"name\\\", \\\"target_pc\\\", \\\"test_status\\\", \\\"modified\\\"])\\r\\n    filters = json.dumps([\\r\\n        [DOCTYPE_PARENT, \\\"target_pc\\\", \\\"=\\\", PC_NAME],\\r\\n        [DOCTYPE_PARENT, \\\"test_status\\\", \\\"in\\\", [\\\"Queued\\\", \\\"Running\\\"]]\\r\\n    ])\\r\\n    params = {\\r\\n        \\\"fields\\\": fields,\\r\\n        \\\"filters\\\": filters,\\r\\n        \\\"order_by\\\": \\\"modified desc\\\",\\r\\n        \\\"limit_page_length\\\": 20\\r\\n    }\\r\\n    r = erp_get(f\\\"api/resource/{urllib.parse.quote(DOCTYPE_PARENT)}\\\", params=params, timeout=20)\\r\\n    if r.status_code != 200:\\r\\n        print(\\\"[LIST FAIL]\\\", r.status_code, r.text[:350])\\r\\n        return []\\r\\n    return r.json().get(\\\"data\\\", [])\\r\\n\\r\\n\\r\\ndef find_lane_row(doc, lane_no: int):\\r\\n    lanes = doc.get(CHILD_FIELD, []) or []\\r\\n    for row in lanes:\\r\\n        try:\\r\\n            if int(row.get(\\\"lane_no\\\") or 0) == int(lane_no):\\r\\n                return row\\r\\n        except Exception:\\r\\n            pass\\r\\n    # fallback string compare\\r\\n    for row in lanes:\\r\\n        if safe_str(row.get(\\\"lane_no\\\")) == str(lane_no):\\r\\n            return row\\r\\n    return None\\r\\n\\r\\n\\r\\ndef build_child_update(doc, lane_no: int, updates: dict):\\r\\n    \\\"\\\"\\\"\\r\\n    Updates the child row inside a full child list payload.\\r\\n    NOTE: This is heavier than patching child row directly.\\r\\n    It works reliably without knowing child doctype name.\\r\\n    \\\"\\\"\\\"\\r\\n    lanes = doc.get(CHILD_FIELD, []) or []\\r\\n    for r in lanes:\\r\\n        if safe_str(r.get(\\\"lane_no\\\")) == str(lane_no):\\r\\n            r.update(updates)\\r\\n    return {CHILD_FIELD: lanes}\\r\\n\\r\\n\\r\\ndef run_pts1(slot: int, op: str, serial: str, comport: str):\\r\\n    cmd = [\\r\\n        PYTHON_EXE,\\r\\n        PTS1_SCRIPT,\\r\\n        \\\"--slot\\\", str(slot),\\r\\n        \\\"--operation\\\", op,\\r\\n        \\\"--serial\\\", serial,\\r\\n        \\\"--comport\\\", comport\\r\\n    ]\\r\\n    print(\\\"[RUN]\\\", \\\" \\\".join(cmd))\\r\\n\\r\\n    p = subprocess.Popen(\\r\\n        cmd,\\r\\n        stdout=subprocess.PIPE,\\r\\n        stderr=subprocess.STDOUT,\\r\\n        text=True,\\r\\n        bufsize=1,\\r\\n        universal_newlines=True,\\r\\n        cwd=os.path.dirname(PTS1_SCRIPT) or None\\r\\n    )\\r\\n    return p\\r\\n\\r\\n\\r\\n# ==========================\\r\\n# Parallel lane runner\\r\\n# ==========================\\r\\nEXECUTOR = ThreadPoolExecutor(max_workers=MAX_PARALLEL_LANES)\\r\\nIN_FLIGHT = set()\\r\\nIN_FLIGHT_LOCK = threading.Lock()\\r\\n\\r\\n\\r\\ndef mark_parent_running(docname: str):\\r\\n    patch_ok(DOCTYPE_PARENT, docname, {\\\"test_status\\\": \\\"Running\\\"}, label=\\\"parent->Running\\\")\\r\\n\\r\\n\\r\\ndef finalize_parent_if_idle(docname: str):\\r\\n    \\\"\\\"\\\"\\r\\n    If no lane is Requested/Running:\\r\\n      - If any lane Failed/Aborted => parent Failed\\r\\n      - else parent Completed\\r\\n    \\\"\\\"\\\"\\r\\n    d = get_doc(DOCTYPE_PARENT, docname)\\r\\n    if not d:\\r\\n        return\\r\\n\\r\\n    lanes = d.get(CHILD_FIELD, []) or []\\r\\n    active = any(safe_str(x.get(\\\"lane_action_status\\\")).lower() in (\\\"requested\\\", \\\"running\\\") for x in lanes)\\r\\n    if active:\\r\\n        return\\r\\n\\r\\n    any_failed = any(safe_str(x.get(\\\"lane_status\\\")).lower() in (\\\"failed\\\", \\\"aborted\\\") for x in lanes)\\r\\n    parent_status = \\\"Failed\\\" if any_failed else \\\"Completed\\\"\\r\\n    patch_ok(DOCTYPE_PARENT, docname, {\\\"test_status\\\": parent_status}, label=f\\\"parent->{parent_status}\\\")\\r\\n\\r\\n\\r\\ndef run_lane_job(docname: str, lane_no: int):\\r\\n    key = (docname, lane_no)\\r\\n    try:\\r\\n        doc = get_doc(DOCTYPE_PARENT, docname)\\r\\n        if not doc:\\r\\n            return\\r\\n\\r\\n        row = find_lane_row(doc, lane_no)\\r\\n        if not row:\\r\\n            print(f\\\"[SKIP] {docname}: lane {lane_no} row not found\\\")\\r\\n            return\\r\\n\\r\\n        action = safe_str(row.get(\\\"lane_action\\\"))\\r\\n        action_status = safe_str(row.get(\\\"lane_action_status\\\"))\\r\\n        pcb_serial = safe_str(row.get(\\\"pcb_serial_no\\\"))\\r\\n        comport = safe_str(row.get(\\\"com_port\\\"))\\r\\n\\r\\n        print(f\\\"[DOC] {docname} lane{lane_no} parent={safe_str(doc.get('test_status'))} action={action} a_status={action_status} serial={pcb_serial} com={comport}\\\")\\r\\n\\r\\n        # must still be Requested\\r\\n        if action_status.lower() != \\\"requested\\\":\\r\\n            return\\r\\n\\r\\n        op = ACTION_TO_OP.get(action.upper())\\r\\n        if not op:\\r\\n            print(f\\\"[SKIP] {docname}: lane{lane_no} unknown lane_action={action}\\\")\\r\\n            # mark lane done failed so it doesn't stay stuck\\r\\n            d2 = get_doc(DOCTYPE_PARENT, docname)\\r\\n            if d2:\\r\\n                upd = build_child_update(d2, lane_no, {\\r\\n                    \\\"lane_status\\\": \\\"Failed\\\",\\r\\n                    \\\"lane_action_status\\\": \\\"Done\\\",\\r\\n                    \\\"lane_action_message\\\": f\\\"Unknown action: {action}\\\",\\r\\n                    \\\"lane_progress\\\": 100\\r\\n                })\\r\\n                patch_ok(DOCTYPE_PARENT, docname, upd, label=f\\\"lane{lane_no} unknown-action\\\")\\r\\n            finalize_parent_if_idle(docname)\\r\\n            return\\r\\n\\r\\n        if not pcb_serial or not comport:\\r\\n            d2 = get_doc(DOCTYPE_PARENT, docname)\\r\\n            if d2:\\r\\n                upd = build_child_update(d2, lane_no, {\\r\\n                    \\\"lane_status\\\": \\\"Failed\\\",\\r\\n                    \\\"lane_action_status\\\": \\\"Done\\\",\\r\\n                    \\\"lane_action_message\\\": \\\"Missing PCB Serial No or COM Port\\\",\\r\\n                    \\\"lane_progress\\\": 100\\r\\n                })\\r\\n                patch_ok(DOCTYPE_PARENT, docname, upd, label=f\\\"lane{lane_no} missing-fields\\\")\\r\\n            finalize_parent_if_idle(docname)\\r\\n            return\\r\\n\\r\\n        # CLAIM lane: set Running BEFORE starting program\\r\\n        d2 = get_doc(DOCTYPE_PARENT, docname)\\r\\n        if not d2:\\r\\n            return\\r\\n        upd_run = build_child_update(d2, lane_no, {\\r\\n            \\\"lane_status\\\": \\\"Running\\\",\\r\\n            \\\"lane_action_status\\\": \\\"Running\\\",\\r\\n            \\\"lane_action_message\\\": f\\\"{op.upper()} Running\\\",\\r\\n            \\\"lane_progress\\\": 1,\\r\\n            \\\"lane_log\\\": \\\"\\\"\\r\\n        })\\r\\n        if not patch_ok(DOCTYPE_PARENT, docname, upd_run, label=f\\\"lane{lane_no} claim\\\"):\\r\\n            # If claim patch fails, DO NOT execute (prevents duplicate/ghost runs)\\r\\n            return\\r\\n\\r\\n        mark_parent_running(docname)\\r\\n\\r\\n        # RUN\\r\\n        p = run_pts1(lane_no, op, pcb_serial, comport)\\r\\n\\r\\n        log_cache = \\\"\\\"\\r\\n        last_push = 0.0\\r\\n\\r\\n        # Stream logs\\r\\n        for line in iter(p.stdout.readline, \\\"\\\"):\\r\\n            if not line:\\r\\n                break\\r\\n            line = line.rstrip(\\\"\\\\n\\\")\\r\\n            print(f\\\"[PTS1 L{lane_no}]\\\", line)\\r\\n            log_cache += line + \\\"\\\\n\\\"\\r\\n\\r\\n            now = time.time()\\r\\n            if now - last_push > LOG_PUSH_SEC:\\r\\n                last_push = now\\r\\n                d3 = get_doc(DOCTYPE_PARENT, docname)\\r\\n                if not d3:\\r\\n                    continue\\r\\n                existing = safe_str(find_lane_row(d3, lane_no).get(\\\"lane_log\\\"))\\r\\n                merged = (existing + log_cache)[-LOG_KEEP_CHARS:]\\r\\n                upd3 = build_child_update(d3, lane_no, {\\r\\n                    \\\"lane_log\\\": merged,\\r\\n                    \\\"lane_progress\\\": 50\\r\\n                })\\r\\n                patch_ok(DOCTYPE_PARENT, docname, upd3, label=f\\\"lane{lane_no} logpush\\\")\\r\\n                log_cache = \\\"\\\"\\r\\n\\r\\n        rc = p.wait()\\r\\n        print(f\\\"[DONE] {docname} lane{lane_no} op={op} exit={rc}\\\")\\r\\n\\r\\n        passed = (rc == 0)\\r\\n        final_lane_status = \\\"Completed\\\" if passed else \\\"Failed\\\"\\r\\n        msg = f\\\"{op.upper()} SUCCESS (rc=0)\\\" if passed else f\\\"{op.upper()} FAILED (rc={rc})\\\"\\r\\n\\r\\n        d4 = get_doc(DOCTYPE_PARENT, docname)\\r\\n        if not d4:\\r\\n            return\\r\\n        existing = safe_str(find_lane_row(d4, lane_no).get(\\\"lane_log\\\"))\\r\\n        final_log = (existing + log_cache)[-LOG_KEEP_CHARS:]\\r\\n\\r\\n        upd4 = build_child_update(d4, lane_no, {\\r\\n            \\\"lane_status\\\": final_lane_status,\\r\\n            \\\"lane_action_status\\\": \\\"Done\\\",\\r\\n            \\\"lane_action_message\\\": msg,\\r\\n            \\\"lane_progress\\\": 100,\\r\\n            \\\"lane_log\\\": final_log\\r\\n        })\\r\\n        patch_ok(DOCTYPE_PARENT, docname, upd4, label=f\\\"lane{lane_no} finalize\\\")\\r\\n\\r\\n        finalize_parent_if_idle(docname)\\r\\n\\r\\n    except Exception as e:\\r\\n        print(\\\"[LANE JOB ERROR]\\\", docname, lane_no, repr(e))\\r\\n        # Best-effort mark failed\\r\\n        d = get_doc(DOCTYPE_PARENT, docname)\\r\\n        if d:\\r\\n            upd = build_child_update(d, lane_no, {\\r\\n                \\\"lane_status\\\": \\\"Failed\\\",\\r\\n                \\\"lane_action_status\\\": \\\"Done\\\",\\r\\n                \\\"lane_action_message\\\": f\\\"Connector exception: {repr(e)}\\\",\\r\\n                \\\"lane_progress\\\": 100\\r\\n            })\\r\\n            patch_ok(DOCTYPE_PARENT, docname, upd, label=f\\\"lane{lane_no} exception\\\")\\r\\n        finalize_parent_if_idle(docname)\\r\\n\\r\\n    finally:\\r\\n        with IN_FLIGHT_LOCK:\\r\\n            IN_FLIGHT.discard(key)\\r\\n\\r\\n\\r\\ndef process_doc(docname: str):\\r\\n    doc = get_doc(DOCTYPE_PARENT, docname)\\r\\n    if not doc:\\r\\n        return\\r\\n\\r\\n    lanes = doc.get(CHILD_FIELD, []) or []\\r\\n    requested = []\\r\\n    for r in lanes:\\r\\n        try:\\r\\n            lane_no = int(r.get(\\\"lane_no\\\") or 0)\\r\\n        except Exception:\\r\\n            continue\\r\\n        if lane_no < 1 or lane_no > 4:\\r\\n            continue\\r\\n        if safe_str(r.get(\\\"lane_action_status\\\")).lower() == \\\"requested\\\":\\r\\n            requested.append(lane_no)\\r\\n\\r\\n    if not requested:\\r\\n        return\\r\\n\\r\\n    # launch requested lanes in parallel (up to MAX_PARALLEL_LANES)\\r\\n    for lane_no in requested:\\r\\n        key = (docname, lane_no)\\r\\n        with IN_FLIGHT_LOCK:\\r\\n            if key in IN_FLIGHT:\\r\\n                continue\\r\\n            if len(IN_FLIGHT) >= MAX_PARALLEL_LANES:\\r\\n                # station maxed out\\r\\n                break\\r\\n            IN_FLIGHT.add(key)\\r\\n\\r\\n        EXECUTOR.submit(run_lane_job, docname, lane_no)\\r\\n\\r\\n\\r\\n# ==========================\\r\\n# Startup checks\\r\\n# ==========================\\r\\ndef startup_checks():\\r\\n    print(\\\"=\\\" * 60)\\r\\n    print(\\\"PTS1 Station Connector starting (MULTI-LANE)\\\")\\r\\n    print(\\\"ERP_URL   =\\\", ERP_URL)\\r\\n    print(\\\"PC_NAME   =\\\", PC_NAME)\\r\\n    print(\\\"PYTHON    =\\\", PYTHON_EXE)\\r\\n    print(\\\"SCRIPT    =\\\", PTS1_SCRIPT)\\r\\n    print(\\\"PARALLEL  =\\\", MAX_PARALLEL_LANES)\\r\\n    print(\\\"POLL_SEC  =\\\", POLL_SEC)\\r\\n    print(\\\"LOG_PUSH  =\\\", LOG_PUSH_SEC)\\r\\n    print(\\\"=\\\" * 60)\\r\\n\\r\\n    r = erp_get(\\\"api/method/frappe.auth.get_logged_user\\\", timeout=10)\\r\\n    if r.status_code != 200:\\r\\n        print(\\\"Auth FAIL:\\\", r.status_code, r.text[:300])\\r\\n        sys.exit(2)\\r\\n    print(\\\"Auth OK as:\\\", r.json().get(\\\"message\\\"))\\r\\n\\r\\n    r2 = erp_get(\\\"api/resource/PTS1%20Test?limit_page_length=1\\\", timeout=10)\\r\\n    if r2.status_code != 200:\\r\\n        print(\\\"PTS1 Test NOT reachable:\\\", r2.status_code, r2.text[:300])\\r\\n        sys.exit(3)\\r\\n    print(\\\"PTS1 Test reachable; sample:\\\", r2.json().get(\\\"data\\\"))\\r\\n\\r\\n\\r\\n# ==========================\\r\\n# Main loop\\r\\n# ==========================\\r\\ndef main():\\r\\n    startup_checks()\\r\\n    while True:\\r\\n        try:\\r\\n            jobs = list_jobs_for_pc()\\r\\n            print(f\\\"[poll] found {len(jobs)} docs | in_flight={len(IN_FLIGHT)}\\\")\\r\\n            for j in jobs:\\r\\n                process_doc(j[\\\"name\\\"])\\r\\n        except Exception as e:\\r\\n            print(\\\"[LOOP ERROR]\\\", repr(e))\\r\\n        time.sleep(POLL_SEC)\\r\\n\\r\\n\\r\\nif __name__ == \\\"__main__\\\":\\r\\n    main()\\r\\n\\n```\"}": [
+            {
+              "uuid": "bb935edc-b168-4a7a-90c2-04802b03b24a"
+            }
+          ]
+        },
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "useLinterErrors": [],
+        "useDiffReview": [],
+        "useGenerateRules": [],
+        "useContextPicking": [],
+        "useRememberThis": [],
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "autoContext": [],
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {}
+      },
+      "quotes": []
+    },
+    "generatingBubbleIds": [],
+    "chatGenerationUUID": "a7c381f4-c2a0-44f3-9e51-3b3c9aa28a8b",
+    "isReadingLongFile": false,
+    "codeBlockData": {},
+    "originalFileStates": {},
+    "newlyCreatedFiles": [],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1772545190267,
+    "createdAt": 1772544929648,
+    "hasChangedContext": true,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "name": "PTS1 system code understanding",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {},
+    "contextUsagePercent": 7.216911764705883,
+    "contextTokensUsed": 19630,
+    "contextTokenLimit": 272000,
+    "allAttachedFileCodeChunksUris": [],
+    "modelConfig": {
+      "modelName": "gpt-5.1-high",
+      "maxMode": false
+    },
+    "subComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 0,
+    "totalLinesRemoved": 0,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isProject": false,
+    "isSpecSubagentDone": false,
+    "stopHookLoopCount": 0,
+    "speculativeSummarizationEncryptionKey": "ktgES2aN4KuStRSxyavfb3D1E6sTUfCpcGxPfCkv8U8=",
+    "isNAL": true,
+    "agentBackend": "cursor-agent",
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "~CiCN53wqJE/AQLQXxE+ehKiFEWgRhCLskxZseiQF3mMUUQog0R8VNOBClwTUG/1tH6cIVMPZhpcv6BGkeG6VU1xRyfYKIPh0nx3pivyHbTj/0VVMcb7R1yxkjBQK9a+4MlkoUOTrCiBUCA+IrJuMebjbAevXSAAMjIfTFPcTGxCgQvQaevEAXwogxZe9PVBW2WsIoXjtpJ0mAlMf3KOFUl0VcMeJJMXXwlcKIKSpneCVWmviddBEEHUgHQcFMBneGDlOl8rZjgHnTM/NCiB74jHsX3IN3JWTIBEK7txe1MSCtH3oN+AsT3mE6x6qfAoglbFch0NovrneLOTrck6NgyUvlto3aXsVC2aAB6p/aqkqCAiumQEQgM0QQiBYIjQ8NRQmM2zlIqVzTfEdvbLnz4P3a4X0B8s8gdFX3ko0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFABkgEqYzpcVXNlcnNccGNcRG93bmxvYWRzXGNvbV9zY2FuX2hlYWRsZXNzLnB5kgEvYzpcVXNlcnNccGNcRG93bmxvYWRzXFBUUzEgU3RhdGlvbiBDb25uZWN0b3IucHmSAUBjOlxVc2Vyc1xwY1xEb3dubG9hZHNccHRzIGFwaSBzZXJ2ZXIgc2NyaXB0IDAyLTAzLTIwMjYgLSBDb3B5LnB5kgErYzpcVXNlcnNccGNcRG93bmxvYWRzXHB0czEgY2xpZW50IHNjcmlwdC5qcw==",
+    "queueItems": [],
+    "latestChatGenerationUUID": "a7c381f4-c2a0-44f3-9e51-3b3c9aa28a8b",
+    "isAgentic": true,
+    "subtitle": "Read com_scan_headless.py, pts api server script 02-03-2026 - Copy.py, pts1 client script.js, PTS1 Station Connector.py"
+  },
+  "extracted_at": "2026-03-03T19:13:05.912247"
+}
