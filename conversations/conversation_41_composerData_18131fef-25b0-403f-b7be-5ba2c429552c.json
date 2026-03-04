@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "18131fef-25b0-403f-b7be-5ba2c429552c",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"okay mos t of the things \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "okay mos t of the things ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "bf7c5d3c-14f8-4465-9c26-b4796ec8485b",
@@ -1831,5 +1831,5 @@
     "filesChangedCount": 7,
     "firstTodoWriteBubble": "04368659-cc9d-4885-96c1-652eb34ca729"
   },
-  "extracted_at": "2026-03-04T17:53:08.708078"
+  "extracted_at": "2026-03-04T18:03:08.802991"
 }
