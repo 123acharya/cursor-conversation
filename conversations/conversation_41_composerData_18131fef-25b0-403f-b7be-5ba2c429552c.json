@@ -3334,7 +3334,38 @@
       "composers": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [],
+      "selectedImages": [
+        {
+          "uuid": "2c204140-14fe-4e21-a2a8-4c806a3de7e7",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-e99b8bd0-b1ea-49a7-a008-abe9f34c76b0.png",
+          "dimension": {
+            "width": 1325,
+            "height": 882
+          },
+          "loadedAt": 1772704113922,
+          "addedWithoutMention": true
+        },
+        {
+          "uuid": "e27fb5df-e698-41ad-b413-919a512be46d",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-c2f24c53-e0c3-40fc-a8dd-6dc5cc85b6de.png",
+          "dimension": {
+            "width": 1330,
+            "height": 900
+          },
+          "loadedAt": 1772704115229,
+          "addedWithoutMention": true
+        },
+        {
+          "uuid": "2b0fa8f2-1849-4922-a2e3-d8ae9a2d3a0e",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-f0a199b4-6165-4fe1-be30-79144aa2ef94.png",
+          "dimension": {
+            "width": 1319,
+            "height": 881
+          },
+          "loadedAt": 1772704125006,
+          "addedWithoutMention": true
+        }
+      ],
       "folderSelections": [],
       "fileSelections": [
         {
@@ -3672,5 +3703,5 @@
     "filesChangedCount": 9,
     "firstTodoWriteBubble": "04368659-cc9d-4885-96c1-652eb34ca729"
   },
-  "extracted_at": "2026-03-05T15:13:02.092576"
+  "extracted_at": "2026-03-05T15:23:02.266255"
 }
