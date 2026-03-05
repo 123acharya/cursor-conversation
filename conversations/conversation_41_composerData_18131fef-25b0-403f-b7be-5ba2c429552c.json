@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "18131fef-25b0-403f-b7be-5ba2c429552c",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"if \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"[PTS1 L1] Result: b'ERROR: ISP network [007F3388] not found in ISP device cache'\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"if this is the reason for failure in any lane testing then we have to run a msg in er\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "if \n[PTS1 L1] Result: b'ERROR: ISP network [007F3388] not found in ISP device cache'\nif this is the reason for failure in any lane testing then we have to run a msg in er",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "bf7c5d3c-14f8-4465-9c26-b4796ec8485b",
@@ -6284,5 +6284,5 @@
     "filesChangedCount": 11,
     "firstTodoWriteBubble": "04368659-cc9d-4885-96c1-652eb34ca729"
   },
-  "extracted_at": "2026-03-05T20:03:03.120613"
+  "extracted_at": "2026-03-05T20:13:03.056973"
 }
