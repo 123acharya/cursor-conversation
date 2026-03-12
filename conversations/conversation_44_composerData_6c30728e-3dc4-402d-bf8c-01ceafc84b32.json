@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "6c30728e-3dc4-402d-bf8c-01ceafc84b32",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"in the same project if u see the tone genera\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "in the same project if u see the tone genera",
+    "text": "",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "95bd2a4e-efb9-4467-8239-5ac262a1f7e7",
@@ -49,6 +49,66 @@
       },
       {
         "bubbleId": "660197c3-52bd-4269-bff6-7c850bb1d925",
+        "type": 2
+      },
+      {
+        "bubbleId": "7334828b-c299-42c9-8c37-b25f94085ff9",
+        "type": 1
+      },
+      {
+        "bubbleId": "8e6d1209-3877-4346-b4a3-8f922317d359",
+        "type": 2
+      },
+      {
+        "bubbleId": "997d6c1c-8aee-4443-aa87-262c75f5566a",
+        "type": 2
+      },
+      {
+        "bubbleId": "5527e2df-d598-40dd-8a15-374f56b7d450",
+        "type": 2
+      },
+      {
+        "bubbleId": "3b1b17c7-2b9c-4622-b04d-29eb3bbb5c9c",
+        "type": 2
+      },
+      {
+        "bubbleId": "c17b0ad0-f555-4d31-9440-e7da8ffde3f2",
+        "type": 2
+      },
+      {
+        "bubbleId": "d886227f-277f-4975-9a39-075523d0b993",
+        "type": 2
+      },
+      {
+        "bubbleId": "ed64d052-5950-4b57-bebb-2f2a9d610a5f",
+        "type": 2
+      },
+      {
+        "bubbleId": "fe480be3-c287-48cd-a881-9241a56bb4fb",
+        "type": 2
+      },
+      {
+        "bubbleId": "1557ad21-cfa2-4759-98e7-f63f6bb9d76c",
+        "type": 2
+      },
+      {
+        "bubbleId": "78d291d5-6d5a-40d9-b58e-d285c5154373",
+        "type": 2
+      },
+      {
+        "bubbleId": "27397b6d-2973-4169-bc00-5e32bc002634",
+        "type": 2
+      },
+      {
+        "bubbleId": "c754a58e-f7a9-4a34-bf5c-f49d3e6efced",
+        "type": 1
+      },
+      {
+        "bubbleId": "a66eb750-1905-46af-8cf6-0a47157544b9",
+        "type": 2
+      },
+      {
+        "bubbleId": "c7aa0c18-4e80-4a57-93c8-051a9f6ea985",
         "type": 2
       }
     ],
@@ -135,7 +195,7 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1773314391390,
+    "lastUpdatedAt": 1773314861239,
     "createdAt": 1773314167621,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
@@ -202,8 +262,8 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 12.959000000000001,
-    "contextTokensUsed": 25918,
+    "contextUsagePercent": 22.177,
+    "contextTokensUsed": 44354,
     "contextTokenLimit": 200000,
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
@@ -238,12 +298,12 @@
     "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
-    "conversationState": "~CiAt4B1lwybFNGLVXy5aJbvdP4OsAgNXyCAQ6f8xdYo0uQog+h3nxp6rBCCoXBnh00t0IAwJy79sEqF+Pjdy7rLcligKIEV5vkk8fpsvS5TeR4DDKXMM3AKHmFRPkHyQS0ZDXe09CiAL34PXLeOpQTz/lJxCXy80t9PwEMN9G1RaoU8jyk0lJAogLZZXegTI8uaNTsY/vDsyPMQ7Ymk5ghNEJ4BMI3adBGoKIGyBbtFqdNHr5spRav3fcS+LYq2hwGvXB83XdNgiU13OCiACcaZ8jd3qTfUpeWFlO3ATKm5r1XyY0kVPCC3f1ck0XwoghoOIlzfG9DQQ+96EEbtZ35QcnRfC6ldp6v+A+P/YjGYKIG8+X5qWDGg37FRkMcDXN3eDHG7eimZ7/zwsVgzx3fSCCiDqv/5cprTrvIAt0qYMKnPfZnC82rfi1/aKT/3BV5/N+wogzPtqBJEZxwqcIp0QP1iTPoCXr4AcS3MsPTuTCBQvVRoKIIt45uR5Ah13T7HlStlZxde8iJ0RG6I/blvyodnRy6+hCiB4tI9lavWiiD+Xm85vzo8stEfcTsJbO2oqJCpfM6dhSyoICL7KARDAmgxCIPrZesVbswaqBsBSSGsnubfrD+NLOZGX6ZulIqu2d2wYQiA8U0XBuFtvhxPkdURJtFK6K1J4jolzMlCD2j9fOCm4SUo0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFABkgFSSzpcRlFDLVRyYWNraW5nLUFwcFxhcHBcc3JjXG1haW5camF2YVxjb21cZXhhbXBsZVxmcWNhcHBcdXRpbHNcVkxDUGxheWVyTWFuYWdlci5rdJIBTUs6XEZRQy1UcmFja2luZy1BcHBcYXBwXHNyY1xtYWluXGphdmFcY29tXGV4YW1wbGVcZnFjYXBwXHVpXFRlc3RTb25nU2NyZWVuLmt0kgEoSzpcRlFDLVRyYWNraW5nLUFwcFxhcHBcYnVpbGQuZ3JhZGxlLmt0cw==",
+    "conversationState": "~CiAt4B1lwybFNGLVXy5aJbvdP4OsAgNXyCAQ6f8xdYo0uQog+h3nxp6rBCCoXBnh00t0IAwJy79sEqF+Pjdy7rLcligKIEV5vkk8fpsvS5TeR4DDKXMM3AKHmFRPkHyQS0ZDXe09CiAL34PXLeOpQTz/lJxCXy80t9PwEMN9G1RaoU8jyk0lJAogLZZXegTI8uaNTsY/vDsyPMQ7Ymk5ghNEJ4BMI3adBGoKIGyBbtFqdNHr5spRav3fcS+LYq2hwGvXB83XdNgiU13OCiACcaZ8jd3qTfUpeWFlO3ATKm5r1XyY0kVPCC3f1ck0XwoghoOIlzfG9DQQ+96EEbtZ35QcnRfC6ldp6v+A+P/YjGYKIG8+X5qWDGg37FRkMcDXN3eDHG7eimZ7/zwsVgzx3fSCCiDqv/5cprTrvIAt0qYMKnPfZnC82rfi1/aKT/3BV5/N+wogzPtqBJEZxwqcIp0QP1iTPoCXr4AcS3MsPTuTCBQvVRoKIIt45uR5Ah13T7HlStlZxde8iJ0RG6I/blvyodnRy6+hCiB4tI9lavWiiD+Xm85vzo8stEfcTsJbO2oqJCpfM6dhSwogU6Os7mS9WPzFq3pk5xV5GEJVTlYzXzubs16Dr/Ysa4cKINJO6SWeKyG6c0tTCRJywgpe9yk7jJcAUlmA0A5wI/CRCiDzJsm2WXt8roDSKgDmqWfBrzbtoPqGmUeW1OsthwLiJwog8y1cyoE4ArpPVZHD7sFcJl2JX8aNuVO2JlM+dn7uMCAKICLMiceWWlKNJ8s0/7sgCQtNyrGbss5p/wWwhjO4WZNCCiDSnO7uYfNyZDIWzHIfTHZ8vxGurrU5ixJANfofKaambAogGm7+pqxzkHhUoVmAU3GHLWO5vFbQFbckLSntyLS/ssEKIIkMK4YMvHFFK8ILhIk6ovg/lMjUNuW4STL3ygZi5O20CiBG8rA5KIF7MDxLFlZQGH4hWFr72BFAVh+hpV1baamVYQoge3gT0vf1cIitrI8/ncY8sZSbmIgiOorWbzo8wvXLLyQKIGZHuNNVGMHX2AnLSjolt6ucknkMKRupiGi3XuP1LXd1CiDjWrlOwwTjqU+ZizZtDSWMn2nzmGjrtMI9Dodyc8B8qwogBNRkNZay5WfKsqbAvDAOFfNDaPRPXlKInypTFHgSRaAqCAjC2gIQwJoMQiD62XrFW7MGqgbAUkhrJ7m36w/jSzmRl+mbpSKrtndsGEIgPFNFwbhbb4cT5HVESbRSuitSeI6JczJQg9o/XzgpuElCIIID7YSpgjBckwGHTgv/AfoNwLwoILZ1CjyeBtHZhoxkQiAG+1RAVTaVmC/QyJXkOh+fsXxfgfF5BqjgOMTeJOk19ko0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFABkgFSSzpcRlFDLVRyYWNraW5nLUFwcFxhcHBcc3JjXG1haW5camF2YVxjb21cZXhhbXBsZVxmcWNhcHBcdXRpbHNcVkxDUGxheWVyTWFuYWdlci5rdJIBTUs6XEZRQy1UcmFja2luZy1BcHBcYXBwXHNyY1xtYWluXGphdmFcY29tXGV4YW1wbGVcZnFjYXBwXHVpXFRlc3RTb25nU2NyZWVuLmt0kgEoSzpcRlFDLVRyYWNraW5nLUFwcFxhcHBcYnVpbGQuZ3JhZGxlLmt0c5IBVEs6XEZRQy1UcmFja2luZy1BcHBcYXBwXHNyY1xtYWluXGphdmFcY29tXGV4YW1wbGVcZnFjYXBwXEZyZXF1ZW5jeUdlbmVyYXRvclNjcmVlbi5rdA==",
     "queueItems": [],
-    "latestChatGenerationUUID": "e8752cf4-d0f3-4496-b14d-008fa09084b0",
+    "latestChatGenerationUUID": "786e1c90-31b9-439b-9546-8847f5d3db71",
     "isAgentic": true,
-    "subtitle": "Read build.gradle.kts, TestSongScreen.kt, VLCPlayerManager.kt",
+    "subtitle": "Read FrequencyGeneratorScreen.kt, build.gradle.kts, TestSongScreen.kt, VLCPlayerManager.kt",
     "filesChangedCount": 0
   },
-  "extracted_at": "2026-03-12T16:53:02.849302"
+  "extracted_at": "2026-03-12T17:03:02.713791"
 }
