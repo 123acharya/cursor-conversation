@@ -110,10 +110,86 @@
       {
         "bubbleId": "c7aa0c18-4e80-4a57-93c8-051a9f6ea985",
         "type": 2
+      },
+      {
+        "bubbleId": "4db69d86-c288-4970-b034-cb0565fd5ddd",
+        "type": 1
+      },
+      {
+        "bubbleId": "c3900d3a-5adf-473a-8eca-b0dc694583b6",
+        "type": 2
+      },
+      {
+        "bubbleId": "d24d425a-83a5-4340-943f-db8c0ac9adf1",
+        "type": 2
+      },
+      {
+        "bubbleId": "62dd5d14-c2de-4a3e-b984-18d15ee8f855",
+        "type": 2
+      },
+      {
+        "bubbleId": "fe7e64d9-9bd2-4174-9a87-774712cdd73a",
+        "type": 2
+      },
+      {
+        "bubbleId": "9a83c449-7206-4afe-be6b-274539adb314",
+        "type": 2
+      },
+      {
+        "bubbleId": "e27db6fc-be12-44d6-99c0-446725d6c17f",
+        "type": 2
+      },
+      {
+        "bubbleId": "1799b6a1-2eaa-46d6-8569-c55b8d0db937",
+        "type": 2
+      },
+      {
+        "bubbleId": "5506c846-7830-4d40-82d6-1bc690d34698",
+        "type": 2
+      },
+      {
+        "bubbleId": "c0829eb4-42ff-47a0-9254-aaef7462d4ad",
+        "type": 2
+      },
+      {
+        "bubbleId": "370ad132-ab96-4568-b59c-26b698b5b212",
+        "type": 2
+      },
+      {
+        "bubbleId": "91ad2b80-eabc-42ec-b940-1c69ba1c082c",
+        "type": 2
+      },
+      {
+        "bubbleId": "0d6d4e35-c78e-43fc-935d-c0d86f918438",
+        "type": 2
+      },
+      {
+        "bubbleId": "2bb88909-5edf-4504-9beb-878b44d44261",
+        "type": 2
+      },
+      {
+        "bubbleId": "f85bea42-ac3f-47f4-8e31-7f7b56869926",
+        "type": 2
+      },
+      {
+        "bubbleId": "5059e870-c338-4f06-801f-42a8f691ee36",
+        "type": 2
+      },
+      {
+        "bubbleId": "f8794c34-a5d5-48b2-92cf-903b2e25c931",
+        "type": 2
+      },
+      {
+        "bubbleId": "834e1411-ed38-41ff-b382-d0a9a84d3f91",
+        "type": 2
+      },
+      {
+        "bubbleId": "2e8d33db-cb14-4c3c-9449-d4be49eb3ecf",
+        "type": 1
       }
     ],
     "conversationMap": {},
-    "status": "completed",
+    "status": "aborted",
     "context": {
       "composers": [],
       "selectedCommits": [],
@@ -145,7 +221,8 @@
         "fileSelections": {
           "file:///c%3A/Users/pc/Downloads/PCB%20IQC%20Result%20-%20Update%20PCB%20Ledger%20on%20Submit.txt": [],
           "file:///c%3A/Users/pc/Downloads/PCB%20IQC%20Result%20-%20After%20Save%20%28Submitted%29%20Update%20PCB%20Ledger.txt": [],
-          "file:///g%3A/frappe_docker-main/PCB%20IQC%20Result%20-%20Search%20and%20Update.js": []
+          "file:///g%3A/frappe_docker-main/PCB%20IQC%20Result%20-%20Search%20and%20Update.js": [],
+          "file:///c%3A/Users/pc/Downloads/libvlc-all-4.0.0-eap23.aar": []
         },
         "terminalFiles": {},
         "selections": {
@@ -190,14 +267,15 @@
       "quotes": []
     },
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "6ea4c609-c223-4bf4-b3ac-e1ccd914309a",
     "isReadingLongFile": false,
     "codeBlockData": {},
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1773314861239,
+    "lastUpdatedAt": 1773315728999,
     "createdAt": 1773314167621,
-    "hasChangedContext": false,
+    "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
       {
@@ -262,8 +340,8 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 22.177,
-    "contextTokensUsed": 44354,
+    "contextUsagePercent": 26.443499999999997,
+    "contextTokensUsed": 52887,
     "contextTokenLimit": 200000,
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
@@ -298,12 +376,12 @@
     "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
-    "conversationState": "~CiAt4B1lwybFNGLVXy5aJbvdP4OsAgNXyCAQ6f8xdYo0uQog+h3nxp6rBCCoXBnh00t0IAwJy79sEqF+Pjdy7rLcligKIEV5vkk8fpsvS5TeR4DDKXMM3AKHmFRPkHyQS0ZDXe09CiAL34PXLeOpQTz/lJxCXy80t9PwEMN9G1RaoU8jyk0lJAogLZZXegTI8uaNTsY/vDsyPMQ7Ymk5ghNEJ4BMI3adBGoKIGyBbtFqdNHr5spRav3fcS+LYq2hwGvXB83XdNgiU13OCiACcaZ8jd3qTfUpeWFlO3ATKm5r1XyY0kVPCC3f1ck0XwoghoOIlzfG9DQQ+96EEbtZ35QcnRfC6ldp6v+A+P/YjGYKIG8+X5qWDGg37FRkMcDXN3eDHG7eimZ7/zwsVgzx3fSCCiDqv/5cprTrvIAt0qYMKnPfZnC82rfi1/aKT/3BV5/N+wogzPtqBJEZxwqcIp0QP1iTPoCXr4AcS3MsPTuTCBQvVRoKIIt45uR5Ah13T7HlStlZxde8iJ0RG6I/blvyodnRy6+hCiB4tI9lavWiiD+Xm85vzo8stEfcTsJbO2oqJCpfM6dhSwogU6Os7mS9WPzFq3pk5xV5GEJVTlYzXzubs16Dr/Ysa4cKINJO6SWeKyG6c0tTCRJywgpe9yk7jJcAUlmA0A5wI/CRCiDzJsm2WXt8roDSKgDmqWfBrzbtoPqGmUeW1OsthwLiJwog8y1cyoE4ArpPVZHD7sFcJl2JX8aNuVO2JlM+dn7uMCAKICLMiceWWlKNJ8s0/7sgCQtNyrGbss5p/wWwhjO4WZNCCiDSnO7uYfNyZDIWzHIfTHZ8vxGurrU5ixJANfofKaambAogGm7+pqxzkHhUoVmAU3GHLWO5vFbQFbckLSntyLS/ssEKIIkMK4YMvHFFK8ILhIk6ovg/lMjUNuW4STL3ygZi5O20CiBG8rA5KIF7MDxLFlZQGH4hWFr72BFAVh+hpV1baamVYQoge3gT0vf1cIitrI8/ncY8sZSbmIgiOorWbzo8wvXLLyQKIGZHuNNVGMHX2AnLSjolt6ucknkMKRupiGi3XuP1LXd1CiDjWrlOwwTjqU+ZizZtDSWMn2nzmGjrtMI9Dodyc8B8qwogBNRkNZay5WfKsqbAvDAOFfNDaPRPXlKInypTFHgSRaAqCAjC2gIQwJoMQiD62XrFW7MGqgbAUkhrJ7m36w/jSzmRl+mbpSKrtndsGEIgPFNFwbhbb4cT5HVESbRSuitSeI6JczJQg9o/XzgpuElCIIID7YSpgjBckwGHTgv/AfoNwLwoILZ1CjyeBtHZhoxkQiAG+1RAVTaVmC/QyJXkOh+fsXxfgfF5BqjgOMTeJOk19ko0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFABkgFSSzpcRlFDLVRyYWNraW5nLUFwcFxhcHBcc3JjXG1haW5camF2YVxjb21cZXhhbXBsZVxmcWNhcHBcdXRpbHNcVkxDUGxheWVyTWFuYWdlci5rdJIBTUs6XEZRQy1UcmFja2luZy1BcHBcYXBwXHNyY1xtYWluXGphdmFcY29tXGV4YW1wbGVcZnFjYXBwXHVpXFRlc3RTb25nU2NyZWVuLmt0kgEoSzpcRlFDLVRyYWNraW5nLUFwcFxhcHBcYnVpbGQuZ3JhZGxlLmt0c5IBVEs6XEZRQy1UcmFja2luZy1BcHBcYXBwXHNyY1xtYWluXGphdmFcY29tXGV4YW1wbGVcZnFjYXBwXEZyZXF1ZW5jeUdlbmVyYXRvclNjcmVlbi5rdA==",
+    "conversationState": "~CiAt4B1lwybFNGLVXy5aJbvdP4OsAgNXyCAQ6f8xdYo0uQog+h3nxp6rBCCoXBnh00t0IAwJy79sEqF+Pjdy7rLcligKIEV5vkk8fpsvS5TeR4DDKXMM3AKHmFRPkHyQS0ZDXe09CiAL34PXLeOpQTz/lJxCXy80t9PwEMN9G1RaoU8jyk0lJAogLZZXegTI8uaNTsY/vDsyPMQ7Ymk5ghNEJ4BMI3adBGoKIGyBbtFqdNHr5spRav3fcS+LYq2hwGvXB83XdNgiU13OCiACcaZ8jd3qTfUpeWFlO3ATKm5r1XyY0kVPCC3f1ck0XwoghoOIlzfG9DQQ+96EEbtZ35QcnRfC6ldp6v+A+P/YjGYKIG8+X5qWDGg37FRkMcDXN3eDHG7eimZ7/zwsVgzx3fSCCiDqv/5cprTrvIAt0qYMKnPfZnC82rfi1/aKT/3BV5/N+wogzPtqBJEZxwqcIp0QP1iTPoCXr4AcS3MsPTuTCBQvVRoKIIt45uR5Ah13T7HlStlZxde8iJ0RG6I/blvyodnRy6+hCiB4tI9lavWiiD+Xm85vzo8stEfcTsJbO2oqJCpfM6dhSwogU6Os7mS9WPzFq3pk5xV5GEJVTlYzXzubs16Dr/Ysa4cKINJO6SWeKyG6c0tTCRJywgpe9yk7jJcAUlmA0A5wI/CRCiDzJsm2WXt8roDSKgDmqWfBrzbtoPqGmUeW1OsthwLiJwog8y1cyoE4ArpPVZHD7sFcJl2JX8aNuVO2JlM+dn7uMCAKICLMiceWWlKNJ8s0/7sgCQtNyrGbss5p/wWwhjO4WZNCCiDSnO7uYfNyZDIWzHIfTHZ8vxGurrU5ixJANfofKaambAogGm7+pqxzkHhUoVmAU3GHLWO5vFbQFbckLSntyLS/ssEKIIkMK4YMvHFFK8ILhIk6ovg/lMjUNuW4STL3ygZi5O20CiBG8rA5KIF7MDxLFlZQGH4hWFr72BFAVh+hpV1baamVYQoge3gT0vf1cIitrI8/ncY8sZSbmIgiOorWbzo8wvXLLyQKIGZHuNNVGMHX2AnLSjolt6ucknkMKRupiGi3XuP1LXd1CiDjWrlOwwTjqU+ZizZtDSWMn2nzmGjrtMI9Dodyc8B8qwogBNRkNZay5WfKsqbAvDAOFfNDaPRPXlKInypTFHgSRaAKIN4y3opc7Czlb5xg2QrO3Lv2relaRUB0wSw0HfkFzyCtCiAjHChyPbeFLBKNEOTa37edhKmFdIcpGeAdZoDpgzzPQAogdkfPnnr1c5F0YZaGfxN6QjjOYj2IwXEDNFwUnPWvGvEKIGPl0W2ISt5+Tb3+MPd4BJEAFajIAvay9KjDhzamsqchCiAacPaSIc5nNogP53+AYhJBLIQuWDuTft9fpbuE2hqKWwogcgUJbcYeA+Jf/uKBK83SV3w/dqRIIOqcBM16L8u0LpoKIOwN9rZiSC8+Chb+MHaVyphqi5FvdfCt1n4udCn38/OtCiBMB0TT5yWjQhwTEyHxHobhxIiboMHayRd9h0Z4/0Lgtgog+P/+hbBopCnb3vG43GFTDR+NO0KXRsGZ/+y8nQrPLVcKIHnmIodkQ/6VH3fJVWWiQmwJXITfpMCKHGjqN6x3Khm4CiAMAn9uy/b36Xj0PEMdgEx+gt6U0Pau2m26oF3BDZCzbgogrBRyFujUWLh3S08jMkKfrHtCIFKoQCQV5rltqY8d5NQKIKzM+PULt1EW0pjj9yDHOeiOEsYa4rhVOpjCPcxVw21LCiA7KnX3qjxVw9G3Z4SQBD3q/elEyqeaLc5QZ8LH423fPAogTbkWQjmtuJHpKNlrEBZX/DVe4AZyP4MSRT0WvRnkOOwKIE6cB/3DdUGbh+TFtPcm4KEl5d85qF9ycMbxSgNYbF+tCiCvNEpySAcf7SiV6smYAAWuAZkoLuiWJaTLnmlM/+vYOSoICJedAxDAmgxCIPrZesVbswaqBsBSSGsnubfrD+NLOZGX6ZulIqu2d2wYQiA8U0XBuFtvhxPkdURJtFK6K1J4jolzMlCD2j9fOCm4SUIgggPthKmCMFyTAYdOC/8B+g3AvCggtnUKPJ4G0dmGjGRCIAb7VEBVNpWYL9DIleQ6H5+xfF+B8XkGqOA4xN4k6TX2QiCOxfqlJ8YgS4Y0+8IDTWkclzW2f8XviUKD6U7hWKzo70o0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFABkgFSSzpcRlFDLVRyYWNraW5nLUFwcFxhcHBcc3JjXG1haW5camF2YVxjb21cZXhhbXBsZVxmcWNhcHBcdXRpbHNcVkxDUGxheWVyTWFuYWdlci5rdJIBTUs6XEZRQy1UcmFja2luZy1BcHBcYXBwXHNyY1xtYWluXGphdmFcY29tXGV4YW1wbGVcZnFjYXBwXHVpXFRlc3RTb25nU2NyZWVuLmt0kgEoSzpcRlFDLVRyYWNraW5nLUFwcFxhcHBcYnVpbGQuZ3JhZGxlLmt0c5IBVEs6XEZRQy1UcmFja2luZy1BcHBcYXBwXHNyY1xtYWluXGphdmFcY29tXGV4YW1wbGVcZnFjYXBwXEZyZXF1ZW5jeUdlbmVyYXRvclNjcmVlbi5rdA==",
     "queueItems": [],
-    "latestChatGenerationUUID": "786e1c90-31b9-439b-9546-8847f5d3db71",
+    "latestChatGenerationUUID": "6ea4c609-c223-4bf4-b3ac-e1ccd914309a",
     "isAgentic": true,
     "subtitle": "Read FrequencyGeneratorScreen.kt, build.gradle.kts, TestSongScreen.kt, VLCPlayerManager.kt",
     "filesChangedCount": 0
   },
-  "extracted_at": "2026-03-12T17:03:02.713791"
+  "extracted_at": "2026-03-12T17:13:03.620382"
 }
