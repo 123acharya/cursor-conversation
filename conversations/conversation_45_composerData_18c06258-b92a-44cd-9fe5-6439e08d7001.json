@@ -3,7 +3,7 @@
   "data": {
     "_v": 13,
     "composerId": "18c06258-b92a-44cd-9fe5-6439e08d7001",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
     "text": "",
     "fullConversationHeadersOnly": [
@@ -70,6 +70,610 @@
       {
         "bubbleId": "0e95065c-3886-44d3-bcfd-7baed90dc28e",
         "type": 2
+      },
+      {
+        "bubbleId": "46e18b50-3c83-462b-bc0c-6db46329fc4d",
+        "type": 1
+      },
+      {
+        "bubbleId": "a35e67ee-20c7-4c05-8d71-5809f7f1a217",
+        "type": 2
+      },
+      {
+        "bubbleId": "aca146af-b070-4653-a8e1-b365d46a4325",
+        "type": 2
+      },
+      {
+        "bubbleId": "f60722eb-010b-4c10-a47f-7bdb555f50fd",
+        "type": 2
+      },
+      {
+        "bubbleId": "fc2367a6-fecc-4d86-928b-020e4523d996",
+        "type": 2
+      },
+      {
+        "bubbleId": "e4e4ac0e-742b-4385-a166-a3aa542bc73d",
+        "type": 2
+      },
+      {
+        "bubbleId": "6151d0ce-617f-411d-8bcf-e32b382f489b",
+        "type": 2
+      },
+      {
+        "bubbleId": "62ab2d1e-4329-483d-bd47-7ba46c04372b",
+        "type": 2
+      },
+      {
+        "bubbleId": "d4956ee3-2f1d-4c4a-95e8-29e2cfdcedd2",
+        "type": 2
+      },
+      {
+        "bubbleId": "fcc087e6-0b58-412b-8b88-914ea150b7d8",
+        "type": 2
+      },
+      {
+        "bubbleId": "66f976bb-da49-49b5-8ddf-d0e251e0a950",
+        "type": 2
+      },
+      {
+        "bubbleId": "2c8d98a1-d24b-4bd7-bba7-c6b10c04cb1b",
+        "type": 2
+      },
+      {
+        "bubbleId": "85165a2f-a99a-49da-a343-b56a409a0cd9",
+        "type": 2
+      },
+      {
+        "bubbleId": "231ae9b9-27d1-4da4-b6e2-b519cc409843",
+        "type": 2
+      },
+      {
+        "bubbleId": "53e687e2-fc7c-4efa-9f6c-80eb1c552ccb",
+        "type": 2
+      },
+      {
+        "bubbleId": "a72223db-9612-4b5c-aa43-ca9c15ddc574",
+        "type": 2
+      },
+      {
+        "bubbleId": "d3718a76-a38c-4a57-9029-cda718e18b3d",
+        "type": 2
+      },
+      {
+        "bubbleId": "f1d071f6-7278-44d5-9b42-dab9c706ca2c",
+        "type": 2
+      },
+      {
+        "bubbleId": "4f555569-5c2f-4dd3-a1f5-052d4836743f",
+        "type": 2
+      },
+      {
+        "bubbleId": "1af77edb-4adc-4a63-9e4d-ddf2ecbe6988",
+        "type": 2
+      },
+      {
+        "bubbleId": "49d10b18-e941-421f-ac07-c3ab5daf676d",
+        "type": 2
+      },
+      {
+        "bubbleId": "1eb42ee4-2306-4b3b-aa24-900e5f3efd8c",
+        "type": 2
+      },
+      {
+        "bubbleId": "443d1d08-92cf-4013-9c0e-6d6fe3dd8e36",
+        "type": 2
+      },
+      {
+        "bubbleId": "9b4b61ff-4e28-4a81-9ed6-da1c337216c9",
+        "type": 1
+      },
+      {
+        "bubbleId": "e0d9f398-4037-4146-8ba3-9682dc3ce263",
+        "type": 2
+      },
+      {
+        "bubbleId": "0517e4c3-38a4-4db4-a8cf-15a36dcfc173",
+        "type": 2
+      },
+      {
+        "bubbleId": "c2d79368-1dbd-4a5f-9b50-3ac6adcf68a4",
+        "type": 2
+      },
+      {
+        "bubbleId": "85716333-9a11-44e5-975d-9833da9b8b50",
+        "type": 2
+      },
+      {
+        "bubbleId": "eeb759e5-eb52-40c8-b9b6-00d4a46c3e73",
+        "type": 2
+      },
+      {
+        "bubbleId": "e5f33e41-e43b-45d0-96c2-deec5a06ba74",
+        "type": 2
+      },
+      {
+        "bubbleId": "ff4f1e35-ed3d-4a01-b97e-ed5468b4dd6c",
+        "type": 2
+      },
+      {
+        "bubbleId": "6aa39ad2-ceb3-445e-bee7-e00518dd46fb",
+        "type": 2
+      },
+      {
+        "bubbleId": "a5442596-8242-460d-b7af-24f6208f9e10",
+        "type": 2
+      },
+      {
+        "bubbleId": "ee82d134-b554-4db0-bbb8-9ffe8532e056",
+        "type": 2
+      },
+      {
+        "bubbleId": "e9501286-1777-409f-b522-c4f0e777310a",
+        "type": 2
+      },
+      {
+        "bubbleId": "b2a43b06-0b67-4e70-92a5-37b08624bde5",
+        "type": 2
+      },
+      {
+        "bubbleId": "d4c7ff13-cf6e-46e8-bcb7-2a8e9d96c5ba",
+        "type": 2
+      },
+      {
+        "bubbleId": "60923f29-8113-445f-9e74-e68dc9afa120",
+        "type": 2
+      },
+      {
+        "bubbleId": "d48b6e53-1f5f-46c9-91b2-a1088b3345f2",
+        "type": 2
+      },
+      {
+        "bubbleId": "e0a1a884-f26a-4d0c-89e2-a878028a7ec9",
+        "type": 1
+      },
+      {
+        "bubbleId": "e8a183aa-8d07-42a8-aba5-6e9bc43a6755",
+        "type": 2
+      },
+      {
+        "bubbleId": "18d54126-648b-497b-82cd-a2054c72d6ac",
+        "type": 2
+      },
+      {
+        "bubbleId": "3d26dc63-ecf1-497b-b49e-ce1e23c18fce",
+        "type": 2
+      },
+      {
+        "bubbleId": "357cb627-ebe2-4845-9261-869bf3989459",
+        "type": 2
+      },
+      {
+        "bubbleId": "1319ffb8-ac63-4aee-ac20-73b380fbb3b2",
+        "type": 2
+      },
+      {
+        "bubbleId": "554e34cf-7720-4cc0-ba3f-e8423c20cc29",
+        "type": 2
+      },
+      {
+        "bubbleId": "24e58672-8026-4e29-b364-f349da8108cd",
+        "type": 2
+      },
+      {
+        "bubbleId": "66df5d4a-1f00-4bd1-a1dc-63241b8a5b75",
+        "type": 2
+      },
+      {
+        "bubbleId": "588c3c2a-3fa7-4f35-bd54-ec51936b8c22",
+        "type": 2
+      },
+      {
+        "bubbleId": "1a2dac3e-4297-400f-bbab-1b06a6864a4f",
+        "type": 2
+      },
+      {
+        "bubbleId": "96dff1c7-bc1c-4034-aabb-c6374a40f5b0",
+        "type": 2
+      },
+      {
+        "bubbleId": "2c9f0cba-19e1-48c0-aa9b-25a082182855",
+        "type": 2
+      },
+      {
+        "bubbleId": "b5bbfaee-da2d-4544-aeb5-9ee8a27569bb",
+        "type": 2
+      },
+      {
+        "bubbleId": "1aa53e03-af3b-45c5-af00-0ce978249f83",
+        "type": 2
+      },
+      {
+        "bubbleId": "7c662ce6-21ec-4901-934f-721c7a00efda",
+        "type": 2
+      },
+      {
+        "bubbleId": "185fc44c-9e01-4157-8d8c-8ce059bb7acc",
+        "type": 2
+      },
+      {
+        "bubbleId": "36fd6d47-5ca1-471e-b75a-f9baa0bf2d40",
+        "type": 2
+      },
+      {
+        "bubbleId": "e6703d0d-9535-4ebe-a127-930b2ee20d61",
+        "type": 2
+      },
+      {
+        "bubbleId": "b800f145-3220-48e9-a0be-39406b6d252e",
+        "type": 2
+      },
+      {
+        "bubbleId": "5099411c-3c2a-444b-a37c-0fc514c7d9ae",
+        "type": 2
+      },
+      {
+        "bubbleId": "3cd62c0d-2fb0-427a-8d13-726d037da646",
+        "type": 2
+      },
+      {
+        "bubbleId": "3dc1d429-5de5-4aed-9f97-d4ca2130b81a",
+        "type": 2
+      },
+      {
+        "bubbleId": "a500cf8f-1f2b-46dd-bc87-26006cf3fb1b",
+        "type": 2
+      },
+      {
+        "bubbleId": "8de0b618-f054-4424-91b0-ab5c5417ec75",
+        "type": 2
+      },
+      {
+        "bubbleId": "da77cdc7-8187-473a-a88b-32112ffb3d18",
+        "type": 2
+      },
+      {
+        "bubbleId": "7f5af761-9b66-4b0c-9c6c-c52cdccb3d14",
+        "type": 2
+      },
+      {
+        "bubbleId": "02ad2b3f-4e9f-445d-bdd0-0a0afb050666",
+        "type": 2
+      },
+      {
+        "bubbleId": "a3d4ec5b-e517-45c1-8a45-25637518598e",
+        "type": 2
+      },
+      {
+        "bubbleId": "cb790dc9-30c6-4a13-84a9-80acac958781",
+        "type": 2
+      },
+      {
+        "bubbleId": "27881da0-cc7d-401c-81d5-56f52939e8fb",
+        "type": 2
+      },
+      {
+        "bubbleId": "2da42b0b-68d7-4a74-bbe5-ebe8c5612b78",
+        "type": 2
+      },
+      {
+        "bubbleId": "36fbeff9-88c3-4fdc-a751-20394d742d27",
+        "type": 2
+      },
+      {
+        "bubbleId": "39a5d3c5-6237-487a-b11e-1f0c5a1790f9",
+        "type": 2
+      },
+      {
+        "bubbleId": "39736df4-622b-46d7-9301-3c85f2e52478",
+        "type": 2
+      },
+      {
+        "bubbleId": "0dc00d86-e28c-469d-9c28-03ff4bfcde88",
+        "type": 2
+      },
+      {
+        "bubbleId": "555649d6-adf8-4345-bc37-afb2fd1e8f46",
+        "type": 2
+      },
+      {
+        "bubbleId": "37ec005c-1613-409a-91d1-e1a984d85a96",
+        "type": 2
+      },
+      {
+        "bubbleId": "71f995ee-d832-46b8-b14e-c665238c75bc",
+        "type": 2
+      },
+      {
+        "bubbleId": "6aa95da2-55e6-4f49-8c36-d56897615a6c",
+        "type": 2
+      },
+      {
+        "bubbleId": "ae5aef3d-9c8d-4bd4-a01c-6fe98932727d",
+        "type": 2
+      },
+      {
+        "bubbleId": "e2944d75-a366-47ef-bc9f-6e842e11eaa9",
+        "type": 2
+      },
+      {
+        "bubbleId": "6d2af2dd-cfb7-4d4a-98dc-2668b40b8179",
+        "type": 2
+      },
+      {
+        "bubbleId": "69111bdb-5713-497d-b8b6-da91b0bcc18a",
+        "type": 2
+      },
+      {
+        "bubbleId": "b76dade8-e3c9-479f-a753-03851269beb3",
+        "type": 2
+      },
+      {
+        "bubbleId": "d40c7f5f-0be5-4471-a6e6-e237ef425fac",
+        "type": 2
+      },
+      {
+        "bubbleId": "ef14669f-596a-412e-8e3e-2c05a2fae447",
+        "type": 2
+      },
+      {
+        "bubbleId": "6ad8f665-6dba-41d7-96a2-d3e4f53f637d",
+        "type": 2
+      },
+      {
+        "bubbleId": "c98f705e-4730-482b-a941-4278e3923bcd",
+        "type": 2
+      },
+      {
+        "bubbleId": "c5d6c58d-7007-462f-bdec-44d4d88b8a11",
+        "type": 1
+      },
+      {
+        "bubbleId": "506f9d08-eeff-464d-aa80-ae605708b959",
+        "type": 2
+      },
+      {
+        "bubbleId": "37469027-1b7d-4bbd-b84a-3c193e062799",
+        "type": 2
+      },
+      {
+        "bubbleId": "91dfedc9-148c-41ed-b0fa-5f43b6bd5d01",
+        "type": 2
+      },
+      {
+        "bubbleId": "bf3610c8-1c99-4459-b450-d907970b8316",
+        "type": 2
+      },
+      {
+        "bubbleId": "d9097df5-5532-44fc-a9fc-ffb3b0d4eb24",
+        "type": 2
+      },
+      {
+        "bubbleId": "14ad9944-41ed-4914-9f41-7e3bfea133bc",
+        "type": 2
+      },
+      {
+        "bubbleId": "c50900d3-f60e-4905-b704-3d45146a6223",
+        "type": 2
+      },
+      {
+        "bubbleId": "8031cd81-6f56-4878-8fbc-8d42ef06209b",
+        "type": 2
+      },
+      {
+        "bubbleId": "f2dc40eb-4c27-43da-97e7-12d8b82c635d",
+        "type": 2
+      },
+      {
+        "bubbleId": "c8e9b9fe-414c-4808-a8b9-7e8ea81091e0",
+        "type": 2
+      },
+      {
+        "bubbleId": "8b29cf43-551d-4ccb-8835-b9eec470b1fe",
+        "type": 2
+      },
+      {
+        "bubbleId": "1a6ab715-c6ff-4424-b4ca-c58d855be6de",
+        "type": 2
+      },
+      {
+        "bubbleId": "5730c80d-552a-407d-8781-c4dc99d126a5",
+        "type": 2
+      },
+      {
+        "bubbleId": "df9a29dc-85f9-420d-9e0a-ed12367bdf06",
+        "type": 2
+      },
+      {
+        "bubbleId": "06d2dbec-a8d8-4c1a-bb21-9920015cf5af",
+        "type": 2
+      },
+      {
+        "bubbleId": "17c72acb-cf1c-4d34-be42-5b80ba01ed5f",
+        "type": 2
+      },
+      {
+        "bubbleId": "2dc0fe5d-429d-420d-bd79-0828f808bf7c",
+        "type": 2
+      },
+      {
+        "bubbleId": "c502ef67-8615-4100-a18c-e1f2f06a4c41",
+        "type": 2
+      },
+      {
+        "bubbleId": "bc62ef12-657a-49ac-9417-668342c6fe07",
+        "type": 2
+      },
+      {
+        "bubbleId": "499cec93-0f34-450c-b6f8-c1e9474a785b",
+        "type": 2
+      },
+      {
+        "bubbleId": "d880e7ec-7268-4b2a-80ee-72a8b507281a",
+        "type": 2
+      },
+      {
+        "bubbleId": "47d78b40-a562-4416-95d0-c8575f1de13b",
+        "type": 2
+      },
+      {
+        "bubbleId": "19a117a6-bb65-4c9d-a2df-f2b65005a93d",
+        "type": 2
+      },
+      {
+        "bubbleId": "5531c2e1-7676-421b-bd46-148a3ca29c0f",
+        "type": 2
+      },
+      {
+        "bubbleId": "6c1ada99-c63c-453d-97fc-5fde2c53144d",
+        "type": 2
+      },
+      {
+        "bubbleId": "d648a4ad-4efb-417e-81db-96f358dd8e46",
+        "type": 2
+      },
+      {
+        "bubbleId": "8a2ff15c-ac39-4b3f-84ea-c49d7c416854",
+        "type": 2
+      },
+      {
+        "bubbleId": "18eb4edb-1532-4dfe-84ca-1fceb0f92096",
+        "type": 2
+      },
+      {
+        "bubbleId": "e371eb9b-c4bd-4ce3-ae7b-23b007726bfe",
+        "type": 2
+      },
+      {
+        "bubbleId": "fa0b8b92-9529-4e03-8a24-b3e0b1136e5a",
+        "type": 2
+      },
+      {
+        "bubbleId": "3ff515e5-9e2a-4dbd-8171-79403ccd6175",
+        "type": 2
+      },
+      {
+        "bubbleId": "26ba5497-b46a-4781-9a18-a15982b6e1a7",
+        "type": 2
+      },
+      {
+        "bubbleId": "3710274f-90da-4cb7-8ada-6c10369dd596",
+        "type": 2
+      },
+      {
+        "bubbleId": "9fd6a411-4106-43d3-85ed-7d4e3697b4e2",
+        "type": 2
+      },
+      {
+        "bubbleId": "af099e7d-cc00-48de-8c9a-ab37a729f486",
+        "type": 2
+      },
+      {
+        "bubbleId": "d712cf79-d0c6-43e0-9087-c458d6087921",
+        "type": 2
+      },
+      {
+        "bubbleId": "43da9d05-fe87-40a2-9cd1-3687766ab538",
+        "type": 2
+      },
+      {
+        "bubbleId": "bbc68105-f464-4514-a54e-9b37ce521b03",
+        "type": 2
+      },
+      {
+        "bubbleId": "a80db44d-5332-48ef-8df8-25da3de5f2c8",
+        "type": 2
+      },
+      {
+        "bubbleId": "dcccaf02-8500-4000-8f0f-31985a19ba30",
+        "type": 2
+      },
+      {
+        "bubbleId": "d888af40-3bc9-47bd-b440-1602220fe7fa",
+        "type": 2
+      },
+      {
+        "bubbleId": "3fb05979-e828-4d81-a5ca-6b5f3270bf95",
+        "type": 2
+      },
+      {
+        "bubbleId": "2c81f1a2-9344-4b29-a78f-2fddaa53b761",
+        "type": 2
+      },
+      {
+        "bubbleId": "654bb3ed-d049-443e-9968-7faca7972057",
+        "type": 2
+      },
+      {
+        "bubbleId": "c3268dc6-c05f-4e16-8cea-7d142630a9ac",
+        "type": 2
+      },
+      {
+        "bubbleId": "593670b7-aa5a-4ccc-bbb1-97c483dd4680",
+        "type": 2
+      },
+      {
+        "bubbleId": "efb3d379-aa42-4bfa-80f9-df7867371f9f",
+        "type": 2
+      },
+      {
+        "bubbleId": "15b589a4-6608-4e50-af60-6907238b6d31",
+        "type": 2
+      },
+      {
+        "bubbleId": "87e4a83b-09fc-455e-99c2-e03dd5f5d808",
+        "type": 2
+      },
+      {
+        "bubbleId": "549ffe98-3d0f-4cec-8a05-95cabaf5d3e4",
+        "type": 2
+      },
+      {
+        "bubbleId": "ba0c6964-b7f3-4846-bd3f-a6d208349267",
+        "type": 2
+      },
+      {
+        "bubbleId": "5e077591-995e-4275-b690-cbb62c0b653c",
+        "type": 2
+      },
+      {
+        "bubbleId": "5380ba7c-cd09-4894-832f-95384dcf9b9b",
+        "type": 2
+      },
+      {
+        "bubbleId": "08203dc6-8e9b-42a9-974e-d6dadebc790d",
+        "type": 2
+      },
+      {
+        "bubbleId": "ded651e9-e507-4b06-b642-7b8d77b97cfa",
+        "type": 2
+      },
+      {
+        "bubbleId": "7145b463-af2b-420e-9ef5-c013a683b37f",
+        "type": 2
+      },
+      {
+        "bubbleId": "0f83446d-ad29-492a-aeaf-ea720d046af0",
+        "type": 2
+      },
+      {
+        "bubbleId": "f08b092b-b342-48b8-a631-8cdb4ea9379a",
+        "type": 2
+      },
+      {
+        "bubbleId": "6a6875a8-dd58-4542-a10a-28108262c1c8",
+        "type": 2
+      },
+      {
+        "bubbleId": "39258bcc-35d0-4b0d-85f8-30d877593ed5",
+        "type": 2
+      },
+      {
+        "bubbleId": "53698c77-d87a-4b79-8068-1a18939a2e9c",
+        "type": 2
+      },
+      {
+        "bubbleId": "33b09f08-088f-4445-9dce-950e8cfc9641",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -108,7 +712,15 @@
           "file:///g%3A/frappe_docker-main/PCB%20IQC%20Result%20-%20Search%20and%20Update.js": [],
           "file:///c%3A/Users/pc/Downloads/libvlc-all-4.0.0-eap23.aar": [],
           "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/AUTO_PTS3v16.py": [],
-          "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/Scope_header_v2.py": []
+          "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/Scope_header_v2.py": [],
+          "file:///c%3A/Users/pc/Downloads/01_PROJECT_CONTEXT.md": [],
+          "file:///c%3A/Users/pc/Downloads/02_CURRENT_PYTHON_BEHAVIOR.md": [],
+          "file:///c%3A/Users/pc/Downloads/03_TARGET_ERP_ARCHITECTURE.md": [],
+          "file:///c%3A/Users/pc/Downloads/04_EVENT_CONTRACT.md": [],
+          "file:///c%3A/Users/pc/Downloads/05_ERP_DOCTYPES.md": [],
+          "file:///c%3A/Users/pc/Downloads/06_CONNECTOR_FLOW.md": [],
+          "file:///c%3A/Users/pc/Downloads/07_ERP_UI_BEHAVIOR.md": [],
+          "file:///c%3A/Users/pc/Downloads/08_IMPLEMENTATION_PHASES.md": []
         },
         "terminalFiles": {},
         "selections": {
@@ -155,12 +767,160 @@
     "generatingBubbleIds": [],
     "isReadingLongFile": false,
     "codeBlockData": {},
-    "originalFileStates": {},
-    "newlyCreatedFiles": [],
+    "originalFileStates": {
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/09_CLI_SPEC.md": {
+        "content": "",
+        "firstEditBubbleId": "53e687e2-fc7c-4efa-9f6c-80eb1c552ccb",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/10_ERP_FIELD_SCHEMA.md": {
+        "content": "",
+        "firstEditBubbleId": "f1d071f6-7278-44d5-9b42-dab9c706ca2c",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/11_CONNECTOR_ENDPOINTS.md": {
+        "content": "",
+        "firstEditBubbleId": "4f555569-5c2f-4dd3-a1f5-052d4836743f",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/12_LIVE_UPDATE_FLOW.md": {
+        "content": "",
+        "firstEditBubbleId": "1af77edb-4adc-4a63-9e4d-ddf2ecbe6988",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/13_SPEC_RECONCILIATION.md": {
+        "content": "",
+        "firstEditBubbleId": "60923f29-8113-445f-9e74-e68dc9afa120",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/14_IMPLEMENTATION_PLAN.md": {
+        "content": "",
+        "firstEditBubbleId": "1aa53e03-af3b-45c5-af00-0ce978249f83",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_cli.py": {
+        "content": "",
+        "firstEditBubbleId": "36fd6d47-5ca1-471e-b75a-f9baa0bf2d40",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_api_server_script.py": {
+        "content": "",
+        "firstEditBubbleId": "3dc1d429-5de5-4aed-9f97-d4ca2130b81a",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/PTS3%20Station%20Connector.py": {
+        "content": "",
+        "firstEditBubbleId": "02ad2b3f-4e9f-445d-bdd0-0a0afb050666",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3%20client%20script.js": {
+        "content": "",
+        "firstEditBubbleId": "27881da0-cc7d-401c-81d5-56f52939e8fb",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/AUTO_PTS3v16.py": {
+        "content": "\n#!/usr/bin/env python3\n\"\"\"\nAUTO_PTS3v13_debug.py\n\nSingle-file, debug-hardened version of your PTS app, with the exact changes you requested:\n\nUI\n- Stop button restored (v10 behavior): sets stop_event, purges audio, re-enables actions.\n- Connect / BT UI removed.\n- Play → Play 80 Hz: plays Sine_80Hz.wav for exactly 60 s and logs scope data.\n- Step Sweep: unchanged capture; now updates two live plots (Diff vs Freq, L/R vs Freq).\n- Combined Mode chart (single widget) with fixed y scale 300–2500.\n\nExcel summary (local)\n- Tri-row summary at SUMMARY_START_ROW..+2: Left, Right, Diff.\n- Columns: Serial | Date | Status | Dominent channel | Max value | Channel | 40..80 Hz (2 Hz) | Mode1 | Mode2 | Mode3 | Mode0\n- Date set on Left row; Right row's Date column holds Time (HH:MM); Status editable later.\n- Per-frequency averages stored under 40..80 Hz columns.\n- Mode transforms: Mode1 & Mode2 store raw averages; Mode3 & Mode0 store avg/1000.\n- Two charts (openpyxl): ΔP vs Freq (±160 mV); L/R vs Freq (2000–3500 mV).\n\nUpload workflow (gspread)\n- Upload button opens modal with preview (Left/Right/Diff rows) + editable Status & Dominant.\n- Upload writes 3 rows to GSheet in the new formsat.\n- IMPORTANT (your last ask): Upload sends Mode2, Mode3, Mode0 (skip Mode1). Header supports either\n  \"Dominant channel\" or the misspelling \"Dominent channel\".\n\nSafety\n- No top-level win32com import (to avoid Python 3.13 free-threading crash).\n- Graceful degradation if openpyxl/gspread missing.\n\"\"\"\n\n# import os\n# from pathlib import Path\n\n# BASE_DIR = Path(__file__).resolve().parent\n# os.chdir(BASE_DIR)  # force working directory to script folder always\nimport os, sys\nfrom pathlib import Path\n\nif getattr(sys, \"frozen\", False):\n    # Running as EXE\n    BASE_DIR = Path(sys.executable).resolve().parent\nelse:\n    # Running as .py\n    BASE_DIR = Path(__file__).resolve().parent\n\nos.chdir(BASE_DIR)\n\n\n# ========================\n# Bootstrap & Debug helpers\n# ========================\nimport sys, os, traceback, faulthandler\n\n# ---- FIX for PyInstaller --noconsole: sys.stderr is None ----\n# if sys.stderr is None:\n#     log_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), \"PTS3_error.log\")\n#     sys.stderr = open(log_path, \"a\", encoding=\"utf-8\")\n#     sys.stdout = sys.stderr\nif sys.stderr is None:\n    log_path = os.path.join(BASE_DIR, \"PTS3_error.log\")\n    sys.stderr = open(log_path, \"a\", encoding=\"utf-8\")\n    sys.stdout = sys.stderr\n\nfaulthandler.enable(file=sys.stderr)\n\n\ndef _fatal(tag: str, exc: Exception):\n    print(f\"[FATAL@{tag}] {exc}\", file=sys.stderr, flush=True)\n    traceback.print_exc()\n\nprint(f\"START {os.path.basename(__file__)} | {sys.version}\", flush=True)\n\n# =============\n# Core imports\n# =============\nimport re\nimport time\nimport threading\nimport subprocess\nimport ctypes\nimport tkinter as tk\nfrom tkinter import messagebox\nfrom tkinter import ttk\nimport winsound\n# Optional imports\npyvisa = None\n_pyvisa_available = False\ntry:\n    import pyvisa\n    _pyvisa_available = True\nexcept Exception as e:\n    print(f\"[WARN] PyVISA not available: {e}\", flush=True)\n\n# openpyxl (xlsx IO and charts)\ntry:\n    from openpyxl import Workbook, load_workbook\n    from openpyxl.chart import LineChart, Reference\nexcept Exception as e:\n    print(f\"[WARN] openpyxl not available: {e}\", flush=True)\n    Workbook = load_workbook = LineChart = Reference = None\n\n# Ensure data folder exists\nos.makedirs('PCB_READINGS', exist_ok=True)\n\n# =====================================\n# Google Sheets (optional; non-fatal)\n# =====================================\nSHEET = None\ntry:\n    sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'libs'))\n    import gspread\n    from oauth2client.service_account import ServiceAccountCredentials\n    from gspread.utils import rowcol_to_a1\n\n    SCOPES = ['https://www.googleapis.com/auth/spreadsheets']\n    CREDS = ServiceAccountCredentials.from_json_keyfile_name(\n        'PCB_Test_results.json', SCOPES\n    )\n    GC = gspread.authorize(CREDS)\n    sh = GC.open_by_key('1QbnIRNYneSn9NrTMqOXaFQox4NaPW0AWtjzep6JlEhA')\n    SHEET = sh.worksheet('Master_PTS3')\n    print(\"[DEBUG] Google Sheets ready\", flush=True)\nexcept Exception as e:\n    SHEET = None\n    print(f\"[WARN] Google Sheets disabled: {e}\", flush=True)\n    rowcol_to_a1 = None\n\n# =====================\n# VISA / Scope handling\n# =====================\n\n# Make PyVISA ResourceManager.close a no-op to prevent 0x8001010e on shutdown\nif _pyvisa_available:\n    try:\n        from pyvisa.highlevel import ResourceManager as _RM\n        _RM.close = lambda self, *a, **kw: None   # never call viClose for RM\n        _RM.__del__ = lambda self: None           # GC won't auto-close either\n        print(\"[DEBUG] Patched PyVISA ResourceManager.close to no-op\", flush=True)\n    except Exception as e:\n        print(f\"[WARN] Could not patch PyVISA RM close: {e}\", flush=True)\n\n# Create the singleton RM on the main thread\nrm = None          # <-- singleton, owned by main thread\nscope_res = None\n\nif _pyvisa_available:\n    try:\n        rm = pyvisa.ResourceManager()            # created on main thread\n        resources = rm.list_resources()\n        print(f\"[DEBUG] VISA resources: {resources}\", flush=True)\n        # prefer USB instruments\n        scope_res = next((r for r in resources if 'USB' in r.upper()),\n                         (resources[0] if resources else None))\n        if scope_res:\n            print(f\"[DEBUG] Using VISA resource: {scope_res}\", flush=True)\n    except Exception as e:\n        print(f\"[WARN] VISA init/list failed: {e}\", flush=True)\n        rm = None\n        scope_res = None\n\n# Try to load local Scope_header_v2.Oscilloscope\nOscilloscope = None\ntry:\n    import importlib.util\n    header_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'Scope_header_v2.py')\n    if os.path.exists(header_path):\n        spec = importlib.util.spec_from_file_location('Scope_header_v2', header_path)\n        module = importlib.util.module_from_spec(spec)\n        spec.loader.exec_module(module)\n        Oscilloscope = getattr(module, 'Oscilloscope', None)\n        print(f\"[DEBUG] Scope_header_v2 loaded: {header_path}\", flush=True)\n    else:\n        print(\"[WARN] Scope_header_v2.py not found — scope features will be limited\", flush=True)\nexcept Exception as e:\n    print(f\"[WARN] Scope_header_v2 import failed: {e}\", flush=True)\n\n\n# ==========================\n# App constants / utilities\n# ==========================\nSAMPLE_INTERVAL = 0.1  # seconds\nSINE80_FILE = \"Sine_80Hz.wav\"\nFREQS = list(range(40, 81, 2))          # 40, 42, …, 80\nSUMMARY_START_ROW = 2                   # Left=2, Right=3, Diff=4\nHEADER_ROW = 1                          # header at row 1\n\n# Summary columns (keep exact spelling \"Dominent channel\")\nCOL_SERIAL   = 1\nCOL_DATE     = 2\nCOL_STATUS   = 3\nCOL_DOM      = 4    # \"Dominent channel\"\nCOL_MAX      = 5\nCOL_CHANNEL  = 6\nCOL_FREQ0    = COL_CHANNEL + 1          # 40hz starts here\n\n# Underscore gap column, then Mode1..Mode0\nCOL_GAP      = COL_FREQ0 + len(FREQS)   # header \"_\"\nCOL_MODE1    = COL_GAP + 1\nCOL_MODE2    = COL_MODE1 + 1\nCOL_MODE3    = COL_MODE2 + 1\nCOL_MODE0    = COL_MODE3 + 1\n\n\nstop_event = threading.Event()\nworker_threads = set()\n# =========================\nfrom datetime import datetime\n\ndef _now_date_time():\n    d = datetime.now()\n    return d.strftime(\"%d-%b-%Y\"), d.strftime(\"%H:%M\")\n\n# =========================\n# Google Sheet helpers\n# =========================\n\ndef stamp_sheet_timestamp(row):\n    # Stamp the provided row in Google Sheet with the current date/time.\n    # Adjust the target cell (column number) as needed.\n    from datetime import datetime\n    try:\n        SHEET.update_cell(row, 2, datetime.now().strftime(\"%d-%b-%Y %H:%M\"))\n    except Exception as e:\n        print(f\"[WARN] stamp_sheet_timestamp failed: {e}\", flush=True)\n\n# How many blank rows to leave between serial blocks\nGAP_BETWEEN_SERIALS = 3   # set to 5 if you prefer 5 rows\n# --- GSheet header helper (place after FREQS and after SHEET init) ---\ndef gsheet_get_header_map():\n    \"\"\"Return ({header: 1-based col}, headers_list). Validates required columns.\"\"\"\n    if SHEET is None:\n        raise RuntimeError(\"Google Sheet unavailable\")\n\n    headers = SHEET.row_values(1)\n    m = {h: i+1 for i, h in enumerate(headers)}\n\n    # Required columns (match exact spellings in your sheet)\n    required = [\n        \"Serial number\", \"Date\", \"Status\", \"Dominent channel\", \"Max value\", \"Channel\",\n        *[f\"{hz}hz\" for hz in FREQS],   # 40hz..80hz\n        \"Mode1\", \"Mode2\", \"Mode3\", \"Mode0\"\n    ]\n    missing = [h for h in required if h not in m]\n    if missing:\n        raise ValueError(f\"Missing GSheet headers: {missing}\")\n\n    return m, headers\n\n# Optional alias to tolerate old calls that used the wrong name\ngsheet_sget_header_map = gsheet_get_header_map\n\n\n\ndef ensure_summary_header(ws):\n    \"\"\"Write the header above the summary tri-row (row 1). Safe to call repeatedly.\"\"\"\n    hdr = [\n        \"Serial number\", \"Date\", \"Status\", \"Dominent channel\", \"Max value\", \"Channel\",\n        *[f\"{hz}hz\" for hz in FREQS],\n        \"\",  # blank gap\n        \"Mode1\", \"Mode2\", \"Mode3\", \"Mode0\",\n    ]\n    for j, val in enumerate(hdr, start=1):\n        ws.cell(row=HEADER_ROW, column=j, value=val)\n\n\n# KEEP THIS ONE — with GAP_BETWEEN_SERIALS applied\ndef get_or_create_serial_rows(serial: str):\n    if SHEET is None:\n        raise RuntimeError(\"Google Sheet unavailable\")\n    try:\n        m, headers = gsheet_get_header_map()\n        col_serial  = m[\"Serial number\"]\n        col_channel = m[\"Channel\"]\n\n        key = (serial or \"\").strip().lower()\n        col_vals = SHEET.col_values(col_serial)\n        col_norm = [(v or \"\").strip().lower() for v in col_vals]\n\n        if key in col_norm:\n            idx = col_norm.index(key)\n            row_left = idx + 1\n            return row_left, row_left + 1, row_left + 2\n\n        total_cols = len(headers)\n        def blank_row(): return [\"\"] * total_cols\n\n        # Insert GAP before new block\n        for _ in range(max(GAP_BETWEEN_SERIALS, 0)):\n            SHEET.append_row(blank_row(), value_input_option=\"USER_ENTERED\")\n\n        # Append the 3 rows\n        left_row  = blank_row()\n        right_row = blank_row()\n        diff_row  = blank_row()\n        left_row[col_serial - 1]  = serial\n        left_row[col_channel - 1] = \"Left\"\n        right_row[col_channel - 1] = \"Right\"\n        diff_row[col_channel - 1]  = \"Diff\"\n\n        start_row = len(col_vals) + GAP_BETWEEN_SERIALS + 1\n        SHEET.append_row(left_row,  value_input_option=\"USER_ENTERED\")\n        SHEET.append_row(right_row, value_input_option=\"USER_ENTERED\")\n        SHEET.append_row(diff_row,  value_input_option=\"USER_ENTERED\")\n\n        return start_row, start_row + 1, start_row + 2\n\n    except Exception as e:\n        _fatal(\"get_or_create_serial_rows\", e)\n        raise\n\n\ndef upload_summary_to_gsheet(serial: str, status: str, dominant: str, maxval: float,\n                             date_str: str, time_str: str,\n                             left_vals, right_vals, diff_vals, modes_dict):\n    \"\"\"\n    Pushes the 3 summary rows in the new layout.\n    Right row 'Date' column gets time_str (HH:MM).\n    \"\"\"\n    m, headers = gsheet_get_header_map()\n    row_left, row_right, row_diff = get_or_create_serial_rows(serial)\n\n    def build_row(channel_name: str, include_front: bool):\n        row = [\"\"] * len(headers)\n        if include_front:\n            # Front matter on Left row only\n            row[m[\"Serial number\"] - 1]    = serial\n            row[m[\"Date\"] - 1]             = date_str\n            row[m[\"Status\"] - 1]           = status\n            row[m[\"Dominent channel\"] - 1] = dominant\n            row[m[\"Max value\"] - 1]        = f\"{float(maxval):.2f}\"\n        else:\n            # Right row carries time in the 'Date' column\n            if channel_name == \"Right\" and \"Date\" in m:\n                row[m[\"Date\"] - 1] = time_str\n\n        row[m[\"Channel\"] - 1] = channel_name\n\n        # Frequencies\n        series = left_vals if channel_name == \"Left\" else right_vals if channel_name == \"Right\" else diff_vals\n        for hz, val in zip(FREQS, series):\n            if val is None: \n                continue\n            row[m[f\"{hz}hz\"] - 1] = f\"{float(val):.2f}\"\n\n        # Mode columns (Left→p1, Right→p2, Diff→diff)\n        pick_idx = {\"Left\": 0, \"Right\": 1, \"Diff\": 2}[channel_name]\n        for mode_name in (\"Mode1\", \"Mode2\", \"Mode3\", \"Mode0\"):\n            tup = modes_dict.get(mode_name)\n            if not tup: \n                continue\n            x = tup[pick_idx]\n            if x is None: \n                continue\n            row[m[mode_name] - 1] = f\"{float(x):.2f}\"\n        return row\n\n    left_row  = build_row(\"Left\",  include_front=True)\n    right_row = build_row(\"Right\", include_front=False)\n    diff_row  = build_row(\"Diff\",  include_front=False)\n\n    def a1(col_idx: int) -> str:\n        return rowcol_to_a1(1, col_idx).split(\"1\")[0]\n\n    if rowcol_to_a1:\n        last_col_letter = a1(len(headers))\n        SHEET.update(range_name=f\"A{row_left}:{last_col_letter}{row_left}\",   values=[left_row],  value_input_option=\"USER_ENTERED\")\n        SHEET.update(range_name=f\"A{row_right}:{last_col_letter}{row_right}\", values=[right_row], value_input_option=\"USER_ENTERED\")\n        SHEET.update(range_name=f\"A{row_diff}:{last_col_letter}{row_diff}\",   values=[diff_row],  value_input_option=\"USER_ENTERED\")\n\n    else:\n        for i, v in enumerate(left_row,  start=1): SHEET.update_cell(row_left,  i, v)\n        for i, v in enumerate(right_row, start=1): SHEET.update_cell(row_right, i, v)\n        for i, v in enumerate(diff_row,  start=1): SHEET.update_cell(row_diff,  i, v)\n\n    stamp_sheet_timestamp(row_left)\n\n# ==================\n# Local Excel helpers\n# ==================\n\ndef ensure_workbook(filename: str):\n    if Workbook is None:\n        raise RuntimeError(\"openpyxl not available\")\n    if os.path.exists(filename):\n        wb = load_workbook(filename)\n    else:\n        wb = Workbook()\n    ws = wb.active\n    return wb, ws\n\n\ndef _summary_rows():\n    rL = SUMMARY_START_ROW\n    return rL, rL+1, rL+2\n\n\ndef _freq_col(hz: int) -> int:\n    idx = FREQS.index(hz)\n    return COL_FREQ0 + idx\n\n\ndef _init_summary_block(ws, serial: str):\n    rL, rR, rD = _summary_rows()\n    if not ws.cell(row=rL, column=COL_SERIAL).value:\n        ws.cell(row=rL, column=COL_SERIAL, value=serial)\n    if ws.cell(row=rL, column=COL_CHANNEL).value != \"Left\":\n        ws.cell(row=rL, column=COL_CHANNEL, value=\"Left\")\n    if ws.cell(row=rR, column=COL_CHANNEL).value != \"Right\":\n        ws.cell(row=rR, column=COL_CHANNEL, value=\"Right\")\n    if ws.cell(row=rD, column=COL_CHANNEL).value != \"Diff\":\n        ws.cell(row=rD, column=COL_CHANNEL, value=\"Diff\")\n\n\ndef _compute_dominant(diff_values):\n    diffs = [v for v in diff_values if v is not None]\n    if not diffs:\n        return \"Unknown\"\n    neg = sum(1 for v in diffs if v < 0)\n    pos = sum(1 for v in diffs if v > 0)\n    n   = len(diffs)\n    neg_pct = 100.0*neg/n\n    pos_pct = 100.0*pos/n\n    rng = (max(diffs) - min(diffs)) if diffs else 0.0\n    if neg_pct >= 70.0: return \"Right\"\n    if pos_pct >= 70.0: return \"Left\"\n    if neg_pct >= 40.0 and pos_pct >= 40.0 and rng <= 40.0: return \"Balance\"\n    return \"Unknown\"\n\n\ndef _max_abs_diff(diff_values):\n    diffs = [abs(v) for v in diff_values if v is not None]\n    return max(diffs) if diffs else 0.0\n\n\n\ndef read_summary_for_upload(filename: str, serial: str):\n    wb, ws = ensure_workbook(filename)\n    rL, rR, rD = _summary_rows()\n\n    def _row_vals(row):\n        return [ws.cell(row=row, column=_freq_col(hz)).value for hz in FREQS]\n\n    serial_cell = str(ws.cell(row=rL, column=COL_SERIAL).value or serial)\n    date_cell   = str(ws.cell(row=rL, column=COL_DATE).value or \"\")\n    time_cell   = str(ws.cell(row=rR, column=COL_DATE).value or \"\")  # time stored here\n    status_cell = str(ws.cell(row=rL, column=COL_STATUS).value or \"\")\n    dom_cell    = str(ws.cell(row=rL, column=COL_DOM).value or \"\")\n    max_cell    = ws.cell(row=rL, column=COL_MAX).value\n    try:\n        max_cell = float(max_cell) if max_cell is not None else 0.0\n    except:\n        max_cell = 0.0\n\n    modes = {}\n    def _mode_val(row, col):\n        v = ws.cell(row=row, column=col).value\n        try: return float(v) if v is not None else None\n        except: return None\n    modes[\"Mode1\"] = (_mode_val(rL, COL_MODE1), _mode_val(rR, COL_MODE1), _mode_val(rD, COL_MODE1))\n    modes[\"Mode2\"] = (_mode_val(rL, COL_MODE2), _mode_val(rR, COL_MODE2), _mode_val(rD, COL_MODE2))\n    modes[\"Mode3\"] = (_mode_val(rL, COL_MODE3), _mode_val(rR, COL_MODE3), _mode_val(rD, COL_MODE3))\n    modes[\"Mode0\"] = (_mode_val(rL, COL_MODE0), _mode_val(rR, COL_MODE0), _mode_val(rD, COL_MODE0))\n\n    return {\n        'serial': serial_cell.strip(),\n        'date': date_cell.strip(),\n        'time': time_cell.strip(),\n        'status': status_cell.strip(),\n        'dominant': (dom_cell.strip() or \"Unknown\"),\n        'maxval': max_cell,\n        'left': _row_vals(rL),\n        'right': _row_vals(rR),\n        'diff': _row_vals(rD),\n        'modes': modes\n    }\n\n# ==================\n# Audio helpers\n# ==================\n\ndef force_full_volume():\n    try:\n        ctypes.windll.winmm.waveOutSetVolume(0, 0xFFFFFFFF)\n    except Exception:\n        pass\n\ndef play_wav(path: str):\n    if not os.path.exists(path):\n        messagebox.showerror(\"Missing file\", path)\n        return False\n    try:\n        force_full_volume()\n        winsound.PlaySound(path, winsound.SND_FILENAME | winsound.SND_ASYNC)\n        return True\n    except Exception as e:\n        print(f\"[WARN] PlaySound failed: {e}\", flush=True)\n        return False\n\ndef stop_wav():\n    try:\n        winsound.PlaySound(None, winsound.SND_PURGE)\n    except Exception:\n        pass\n\n# =====================\n# Tk UI + callbacks\n# =====================\n\nstatus_var = None\ndiff_canvas = None\nlr_canvas = None\nmode_canvas = None\nentry = None\ntimer_var = None\nmode_last = {0: None, 1: None, 2: None, 3: None}\n\n\ndef _countdown(duration_s: int):\n    stop_time = time.time() + duration_s\n    def _tick():\n        if stop_event.is_set():\n            timer_var.set(\"00:00\"); return\n        remaining = int(round(stop_time - time.time()))\n        if remaining < 0:\n            timer_var.set(\"00:00\"); return\n        m, s = divmod(remaining, 60)\n        timer_var.set(f\"{m:02d}:{s:02d}\")\n        root.after(200, _tick)\n    _tick()\n\ndef on_submit():\n\n\n    serial = entry.get().strip()\n    if not serial:\n        return messagebox.showerror('Error', 'Invalid Serial number')\n\n    status_var.set(f'Submitted {serial}')\n    start_keep_awake()  # keep your current behavior\n\n    # ---- Create header + seed summary tri-row ----\n    try:\n        # Decide file location (use your existing convention)\n        # If you always use PCB_READINGS/, keep that; otherwise drop the first path.\n        os.makedirs(\"PCB_READINGS\", exist_ok=True)\n        filename = os.path.join(\"PCB_READINGS\", f\"{serial}.xlsx\")\n\n        from openpyxl import load_workbook, Workbook\n\n        if os.path.exists(filename):\n            wb = load_workbook(filename)\n        else:\n            wb = Workbook()\n        ws = wb.active\n\n        # 2.1 Header (row 1), exact text & order you asked (with \"_\" gap)\n        header = [\n            \"Serial number\", \"Date\", \"Status\", \"Dominent channel\", \"Max value\", \"Channel\",\n            *[f\"{hz}hz\" for hz in FREQS],\n            \"_\",  # the gap column you requested\n            \"Mode1\", \"Mode2\", \"Mode3\", \"Mode0\"\n        ]\n        for j, val in enumerate(header, start=1):\n            ws.cell(row=HEADER_ROW, column=j, value=val)\n\n        # 2.2 Seed the three summary rows (2..4): Left / Right / Diff\n        rL, rR, rD = SUMMARY_START_ROW, SUMMARY_START_ROW + 1, SUMMARY_START_ROW + 2\n\n        # Left row: serial + Channel\n        ws.cell(row=rL, column=COL_SERIAL,  value=serial)\n        ws.cell(row=rL, column=COL_CHANNEL, value=\"Left\")\n\n        # Right row: Channel only (Date cell here will later hold Time HH:MM)\n        ws.cell(row=rR, column=COL_CHANNEL, value=\"Right\")\n\n        # Diff row: Channel only\n        ws.cell(row=rD, column=COL_CHANNEL, value=\"Diff\")\n\n        # Save immediately so later writers find a consistent layout\n        wb.save(filename)\n        # Refresh all plots from the (now-created) Excel file\n        root.after(0, refresh_all_plots_from_excel, serial)\n\n\n        status_var.set(f\"Header ready for {serial}: {filename}\")\n\n    except PermissionError:\n        messagebox.showerror(\"Excel in use\", f\"Close the workbook:\\n{filename}\")\n    except Exception as e:\n        messagebox.showerror(\"Header init failed\", f\"{e}\")\n\ndef refresh_all_plots_from_excel(serial: str):\n    \"\"\"\n    Re-draws the two sweep plots and the modes bar chart from the Excel summary.\n    Safe if the workbook is empty: plots will show axes with no lines.\n    \"\"\"\n    # 1) Modes bar chart\n    try:\n        update_modes_combined_chart_from_excel(serial)\n    except Exception:\n        pass\n\n    # 2) Sweep plots (Diff vs Freq, L/R vs Freq)\n    try:\n        filename = os.path.join(\"PCB_READINGS\", f\"{serial}.xlsx\")\n        if not os.path.exists(filename):\n            # draw empty axes\n            draw_diff_plot([])\n            draw_lr_plot([])\n            return\n\n        prev = read_summary_for_upload(filename, serial)\n        left  = prev.get(\"left\",  [])\n        right = prev.get(\"right\", [])\n        diff  = prev.get(\"diff\",  [])\n\n        data_points = []\n        for i, hz in enumerate(FREQS):\n            a1 = left[i]  if i < len(left)  else None\n            a2 = right[i] if i < len(right) else None\n            d  = diff[i]  if i < len(diff)  else None\n            data_points.append((hz, a1, a2, d))\n\n        draw_diff_plot(data_points)\n        draw_lr_plot(data_points)\n\n    except Exception:\n        # If anything goes wrong reading, at least draw empty axes\n        try:\n            draw_diff_plot([])\n            draw_lr_plot([])\n        except Exception:\n            pass\n\ndef start_keep_awake():\n    if os.path.exists(SINE80_FILE):\n        try:\n            winsound.PlaySound(SINE80_FILE, winsound.SND_FILENAME | winsound.SND_ASYNC | winsound.SND_LOOP)\n        except Exception:\n            pass\n\ndef on_play():\n    serial = entry.get().strip()\n    if not serial:\n        return messagebox.showerror('Error', 'Invalid serial number')\n    if Oscilloscope is None:\n        return messagebox.showerror('Error', 'Missing Scope_header_v2.py')\n    if not os.path.exists(SINE80_FILE):\n        return messagebox.showerror(\"Missing 80 Hz WAV\", f\"File not found: {SINE80_FILE}\")\n\n    play_btn.config(state=tk.DISABLED)\n    status_var.set('Playing 80 Hz for 1 minute & logging data…')\n\n    \"\"\"def worker():\n        stop_event.clear()\n        if not play_wav(SINE80_FILE):\n            status_var.set('Failed to play Sine_80Hz.wav')\n            play_btn.config(state=tk.NORMAL)\n            return\n        root.after(0, _countdown, 60)\n        try:\n            scope = Oscilloscope(resource_name=scope_res, rm=rm) if scope_res else Oscilloscope(rm=rm)\n        except Exception as e:\n            status_var.set(f'Scope init failed: {e}')\n            stop_wav()\n            play_btn.config(state=tk.NORMAL)\n            return\n        data = []\n        start = time.time()\n        while time.time() - start < 60 and not stop_event.is_set():\n            vals = scope.read_all()\n            if isinstance(vals, (list, tuple)) and len(vals) == 5:\n                f1, p1, f2, p2, diff = vals\n                data.append({'f1': f1, 'p1': p1, 'f2': f2, 'p2': p2, 'diff': diff})\n            time.sleep(SAMPLE_INTERVAL)\n        # write simple log (optional)\n        if Workbook is not None:\n            filename = os.path.join('PCB_READINGS', f\"{serial}.xlsx\")\n            wb, ws = ensure_workbook(filename)\n            keys = ['f1','p1','f2','p2','diff']\n            for i,k in enumerate(keys): ws.cell(row=1, column=1+i, value=k)\n            for r,row in enumerate(data, start=1):\n                for c,k in enumerate(keys): ws.cell(row=1+r, column=1+c, value=row[k])\n            wb.save(filename)\n        stop_wav()\n        play_btn.config(state=tk.NORMAL)\n    threading.Thread(target=worker, daemon=True).start()\"\"\"\n\n\n\ndef update_summary_from_sweep(filename: str, serial: str, sweep_averages):\n    \"\"\"Write per-frequency averages, compute dominant & max, date/time, and build charts.\"\"\"\n    wb, ws = ensure_workbook(filename)\n    _init_summary_block(ws, serial)\n\n    left_series, right_series, diff_series = [], [], []\n    for hz in FREQS:\n        found = next((t for t in sweep_averages if t[0]==hz), None)\n        if found:\n            _hz, a1, a2, ad = found\n        else:\n            a1 = a2 = ad = None\n        left_series.append(a1)\n        right_series.append(a2)\n        diff_series.append(ad)\n\n    rL, rR, rD = _summary_rows()\n\n    # Date on Left row; Time in Right row's Date column\n    dstr, tstr = _now_date_time()\n    ws.cell(row=rL, column=COL_DATE, value=dstr)\n    ws.cell(row=rR, column=COL_DATE, value=tstr)\n\n    # Fill averages under 40..80 Hz columns\n    for i, hz in enumerate(FREQS):\n        c = COL_FREQ0 + i\n        if left_series[i]  is not None: ws.cell(row=rL, column=c, value=left_series[i])\n        if right_series[i] is not None: ws.cell(row=rR, column=c, value=right_series[i])\n        if diff_series[i]  is not None: ws.cell(row=rD, column=c, value=diff_series[i])\n\n    # Dominant + Max on Left row\n    dom = _compute_dominant(diff_series)\n    mx  = _max_abs_diff(diff_series)\n    ws.cell(row=rL, column=COL_DOM, value=dom)\n    ws.cell(row=rL, column=COL_MAX, value=mx)\n\n    # SummarySeries block for charts (Hz, Left_mV, Right_mV, Diff_mV)\n    base_r = SUMMARY_START_ROW + 6\n    ws.cell(row=base_r,     column=1, value=\"Hz\")\n    ws.cell(row=base_r,     column=2, value=\"Left_mV\")\n    ws.cell(row=base_r,     column=3, value=\"Right_mV\")\n    ws.cell(row=base_r,     column=4, value=\"Diff_mV\")\n    for i, hz in enumerate(FREQS, start=1):\n        ws.cell(row=base_r+i, column=1, value=hz)\n        L = left_series[i-1]\n        R = right_series[i-1]\n        D = diff_series[i-1]\n        ws.cell(row=base_r+i, column=2, value=(L*1000.0 if (L is not None and L < 100) else L))\n        ws.cell(row=base_r+i, column=3, value=(R*1000.0 if (R is not None and R < 100) else R))\n        ws.cell(row=base_r+i, column=4, value=D)\n\n    # Charts\n    try:\n        if Reference is not None:\n            cats = Reference(ws, min_col=1, min_row=base_r+1, max_row=base_r+len(FREQS))\n\n            # ΔP vs Freq\n            chart1 = LineChart(); chart1.title = f\"Step Sweep ΔP — {serial}\"\n            chart1.x_axis.title = \"Hz\"; chart1.y_axis.title = \"ΔP (mV)\"\n            chart1.x_axis.scaling.min = 40; chart1.x_axis.scaling.max = 80\n            chart1.y_axis.scaling.min = -160; chart1.y_axis.scaling.max = 160\n            chart1.set_categories(cats)\n            chart1.add_data(Reference(ws, min_col=4, min_row=base_r, max_row=base_r+len(FREQS)), titles_from_data=True)\n            ws.add_chart(chart1, \"H2\")\n\n            # Left & Right vs Frequency (mV)\n            chart2 = LineChart(); chart2.title = f\"Avg Pk–Pk vs Freq (mV) — {serial}\"\n            chart2.x_axis.title = \"Hz\"; chart2.y_axis.title = \"mV\"\n            chart2.x_axis.scaling.min = 40; chart2.x_axis.scaling.max = 80\n            chart2.y_axis.scaling.min = 2000; chart2.y_axis.scaling.max = 3500\n            chart2.set_categories(cats)\n            chart2.add_data(Reference(ws, min_col=2, min_row=base_r, max_row=base_r+len(FREQS)), titles_from_data=True)\n            chart2.add_data(Reference(ws, min_col=3, min_row=base_r, max_row=base_r+len(FREQS)), titles_from_data=True)\n            ws.add_chart(chart2, \"H20\")\n    except Exception as e:\n        print(f\"[WARN] chart build failed: {e}\", flush=True)\n\n    wb.save(filename)\n\n\ndef update_summary_from_mode(filename: str, serial: str, mode: int, avg_p1: float, avg_p2: float, avg_diff: float):\n    wb, ws = ensure_workbook(filename)\n    _init_summary_block(ws, serial)\n    rL, rR, rD = _summary_rows()\n    dstr, tstr = _now_date_time()\n    ws.cell(row=rL, column=COL_DATE, value=dstr)\n    ws.cell(row=rR, column=COL_DATE, value=tstr)\n\n    col_map = {1: COL_MODE1, 2: COL_MODE2, 3: COL_MODE3, 0: COL_MODE0}\n    col = col_map.get(mode)\n    if col is None:\n        wb.save(filename)\n        return\n\n    # Mode3/Mode0 = avg/1000; Mode1/2 = raw\n    # scale = 0.001 if mode in (3, 0) else 1.0\n    scale = 1\n    ws.cell(row=rL, column=col, value=(avg_p1 * scale))\n    ws.cell(row=rR, column=col, value=(avg_p2 * scale))\n    ws.cell(row=rD, column=col, value=(avg_diff * scale))\n\n    wb.save(filename)\n\n\ndef on_mode(mode: int):\n    serial = entry.get().strip()\n    if not serial:\n        return messagebox.showerror(\"Error\", \"Invalid serial\")\n    if Oscilloscope is None:\n        return messagebox.showerror(\"Error\", \"Missing Scope_header_v2.py\")\n\n    # Disable while running\n    for btn in (mode1_btn, mode2_btn, mode3_btn, mode0_btn):\n        btn.config(state=\"disabled\")\n    status_var.set(f\"Mode {mode}: capturing…\")\n\n    def worker():\n        from datetime import datetime\n        from openpyxl import load_workbook, Workbook\n\n        # Workbook (no header writing here)\n        filename = os.path.join(\"PCB_READINGS\", f\"{serial}.xlsx\")\n        wb = load_workbook(filename) if os.path.exists(filename) else Workbook()\n        ws = wb.active\n\n        # Summary tri-rows (already created by on_submit)\n        rL, rR, rD = SUMMARY_START_ROW, SUMMARY_START_ROW + 1, SUMMARY_START_ROW + 2\n\n        # Acquire 5 s\n        stop_event.clear()\n        try:\n            with Oscilloscope(resource_name=scope_res, rm=rm) as scope:\n                data = []\n                start = time.time()\n                while time.time() - start < 5 and not stop_event.is_set():\n                    f1, p1, f2, p2, diff = scope.read_all()  # p1/p2/diff in mV\n                    data.append((f1, p1, f2, p2, diff))\n                    time.sleep(SAMPLE_INTERVAL)\n        except Exception as e:\n            status_var.set(f\"Scope init/read failed: {e}\")\n            for btn in (mode1_btn, mode2_btn, mode3_btn, mode0_btn):\n                btn.config(state=\"normal\")\n            return\n\n        # Averages\n        if data:\n            avg_p1 = sum(d[1] for d in data) / len(data)\n            avg_p2 = sum(d[3] for d in data) / len(data)\n            avg_d  = sum(d[4] for d in data) / len(data)\n        else:\n            avg_p1 = avg_p2 = avg_d = 0.0\n\n        status_var.set(f\"Mode {mode} done: Avg P1={avg_p1:.2f}, P2={avg_p2:.2f}, diff={avg_d:.2f}\")\n        print(f\"→ Mode {mode} averages: p1={avg_p1:.2f}, p2={avg_p2:.2f}, diff={avg_d:.2f}\")\n\n        # Raw block below summary\n        raw_top = SUMMARY_START_ROW + 6\n        startrow0 = raw_top + ((mode - 1) % 4) * 120\n        startcol0 = 10\n        startrow, startcol = startrow0 + 1, startcol0 + 1\n\n        ws.cell(row=startrow,     column=startcol,     value=f\"Mode {mode}\")\n        ws.cell(row=startrow,     column=startcol + 1, value=f\"Avg P1={avg_p1:.2f}\")\n        ws.cell(row=startrow,     column=startcol + 2, value=f\"Avg P2={avg_p2:.2f}\")\n        ws.cell(row=startrow,     column=startcol + 3, value=f\"Avg diff={avg_d:.2f}\")\n        for r, (f1, p1, f2, p2, d) in enumerate(data, start=1):\n            ws.cell(row=startrow + r, column=startcol,     value=f1)\n            ws.cell(row=startrow + r, column=startcol + 1, value=p1)\n            ws.cell(row=startrow + r, column=startcol + 2, value=f2)\n            ws.cell(row=startrow + r, column=startcol + 3, value=p2)\n            ws.cell(row=startrow + r, column=startcol + 4, value=d)\n\n        # Ensure summary labels exist (safe to re-assert)\n        if not ws.cell(row=rL, column=COL_SERIAL).value:\n            ws.cell(row=rL, column=COL_SERIAL, value=serial)\n        if ws.cell(row=rL, column=COL_CHANNEL).value != \"Left\":\n            ws.cell(row=rL, column=COL_CHANNEL, value=\"Left\")\n        if ws.cell(row=rR, column=COL_CHANNEL).value != \"Right\":\n            ws.cell(row=rR, column=COL_CHANNEL, value=\"Right\")\n        if ws.cell(row=rD, column=COL_CHANNEL).value != \"Diff\":\n            ws.cell(row=rD, column=COL_CHANNEL, value=\"Diff\")\n\n        # Stamp Date (Left row) and Time (Right row in Date column)\n        now = datetime.now()\n        ws.cell(row=rL, column=COL_DATE, value=now.strftime(\"%d-%b-%Y\"))\n        ws.cell(row=rR, column=COL_DATE, value=now.strftime(\"%H:%M\"))\n\n        # Write Mode column into summary\n        # Business rule: for Mode 3 & Mode 0, store avg/1000 in summary\n        #def _store_val(v: float) -> float:\n         #   return (v / 1000.0) if mode in (3, 0) else v\n\n        # mode_col = {1: COL_MODE1, 2: COL_MODE2, 3: COL_MODE3, 0: COL_MODE0}[mode]\n        # ws.cell(row=rL, column=mode_col, value=_store_val(avg_p1))  # Left → P1\n        # ws.cell(row=rR, column=mode_col, value=_store_val(avg_p2))  # Right → P2\n        # ws.cell(row=rD, column=mode_col, value=_store_val(avg_d))   # Diff → diff\n\n        # Write Mode column into summary — store raw mV for all modes\n        mode_col = {1: COL_MODE1, 2: COL_MODE2, 3: COL_MODE3, 0: COL_MODE0}[mode]\n        ws.cell(row=rL, column=mode_col, value=avg_p1)  # Left → P1 (mV)\n        ws.cell(row=rR, column=mode_col, value=avg_p2)  # Right → P2 (mV)\n        ws.cell(row=rD, column=mode_col, value=avg_d)   # Diff → Δ (mV)\n\n\n        # Recompute Dominant + Max from summary Diff row (if we already have sweep diffs)\n        diffs = []\n        for i in range(len(FREQS)):\n            v = ws.cell(row=rD, column=COL_FREQ0 + i).value\n            if v is not None:\n                try:\n                    diffs.append(float(v))\n                except:\n                    pass\n        if diffs:\n            neg = sum(1 for v in diffs if v < 0)\n            pos = sum(1 for v in diffs if v > 0)\n            n   = len(diffs)\n            rng = (max(diffs) - min(diffs)) if n else 0.0\n            if neg / n >= 0.70:\n                dom = \"Right\"\n            elif pos / n >= 0.70:\n                dom = \"Left\"\n            elif neg / n >= 0.40 and pos / n >= 0.40 and rng <= 40.0:\n                dom = \"Balance\"\n            else:\n                dom = \"Unknown\"\n            ws.cell(row=rL, column=COL_DOM, value=dom)\n            ws.cell(row=rL, column=COL_MAX, value=max(abs(v) for v in diffs))\n        else:\n            dom = str(ws.cell(row=rL, column=COL_DOM).value or \"Unknown\")\n\n        # Save\n        try:\n            wb.save(filename)\n            root.after(0, update_modes_combined_chart_from_excel, serial)\n            status_var.set(f\"Mode {mode} done: {filename}\")\n\n        except PermissionError:\n            status_var.set(f\"Cannot save. Close Excel: {filename}\")\n\n        # Upload to GSheet (summary format)\n        try:\n            if callable(globals().get(\"upload_summary_to_gsheet\", None)):\n                left_vals  = [ws.cell(row=rL, column=COL_FREQ0+i).value for i in range(len(FREQS))]\n                right_vals = [ws.cell(row=rR, column=COL_FREQ0+i).value for i in range(len(FREQS))]\n                diff_vals  = [ws.cell(row=rD, column=COL_FREQ0+i).value for i in range(len(FREQS))]\n                date_str   = str(ws.cell(row=rL, column=COL_DATE).value or \"\")\n                time_str   = str(ws.cell(row=rR, column=COL_DATE).value or \"\")  # time stored in Right row \"Date\" col\n                status_val = str(ws.cell(row=rL, column=COL_STATUS).value or \"\").strip()\n                modes_dict = {\n                    \"Mode1\": (ws.cell(row=rL, column=COL_MODE1).value, ws.cell(row=rR, column=COL_MODE1).value, ws.cell(row=rD, column=COL_MODE1).value),\n                    \"Mode2\": (ws.cell(row=rL, column=COL_MODE2).value, ws.cell(row=rR, column=COL_MODE2).value, ws.cell(row=rD, column=COL_MODE2).value),\n                    \"Mode3\": (ws.cell(row=rL, column=COL_MODE3).value, ws.cell(row=rR, column=COL_MODE3).value, ws.cell(row=rD, column=COL_MODE3).value),\n                    \"Mode0\": (ws.cell(row=rL, column=COL_MODE0).value, ws.cell(row=rR, column=COL_MODE0).value, ws.cell(row=rD, column=COL_MODE0).value),\n                }\n                upload_summary_to_gsheet(\n                    serial=serial,\n                    status=status_val,\n                    dominant=dom,\n                    maxval=(ws.cell(row=rL, column=COL_MAX).value or 0.0),\n                    date_str=date_str,\n                    time_str=time_str,\n                    left_vals=left_vals,\n                    right_vals=right_vals,\n                    diff_vals=diff_vals,\n                    modes_dict=modes_dict\n                )\n        except Exception as e:\n            print(\"[WARN] GSheet upload failed:\", e, file=sys.stderr)\n\n        # UI: refresh mini bars (if yours now reads from Excel, call that instead)\n        try:\n            update_modes_combined_chart()\n        except Exception:\n            pass\n\n        root.after(0, update_modes_combined_chart_from_excel, serial)\n\n\n        # Re-enable\n        for btn in (mode1_btn, mode2_btn, mode3_btn, mode0_btn):\n            btn.config(state=\"normal\")\n\n    t = threading.Thread(target=worker, daemon=True)\n    worker_threads.add(t)\n    t.start()\n\n\ndef update_modes_combined_chart_from_excel(serial: str):\n    if not serial or not mode_canvas:\n        return\n    filename = os.path.join(\"PCB_READINGS\", f\"{serial}.xlsx\")\n    if not os.path.exists(filename):\n        return\n\n    # --- read data from Excel ---\n    try:\n        from openpyxl import load_workbook\n        wb = load_workbook(filename, data_only=True, read_only=True)\n        ws = wb.active\n    except Exception:\n        return\n\n    rL, rR, rD = SUMMARY_START_ROW, SUMMARY_START_ROW + 1, SUMMARY_START_ROW + 2\n\n    def g(r, c):\n        v = ws.cell(row=r, column=c).value\n        try:\n            return float(v) if v is not None else None\n        except:\n            return None\n    import math\n\n    ANGLE = 60\n    PAD = 8\n    latest = {\n        1: (g(rL, COL_MODE1), g(rR, COL_MODE1), g(rD, COL_MODE1)),  # Mode1: stored in mV\n        2: (g(rL, COL_MODE2), g(rR, COL_MODE2), g(rD, COL_MODE2)),  # Mode2: stored in mV\n        3: (g(rL, COL_MODE3), g(rR, COL_MODE3), g(rD, COL_MODE3)),  # Mode3: stored in V  (avg/1000)\n        0: (g(rL, COL_MODE0), g(rR, COL_MODE0), g(rD, COL_MODE0)),  # Mode0: stored in V  (avg/1000)\n    }\n\n    # ---- FIX: scale by mode, not by value ----\n    # Modes 1 & 2 -> already mV; Modes 3 & 0 -> convert V -> mV\n    def scale_triplet(mode, triplet):\n        p1, p2, d = triplet\n        if mode in (3, 0):\n            # sc = lambda x: (float(x) * 1000.0) if (x is not None) else None\n            sc = lambda x: (float(x) if (x is not None) else None)\n        else:\n            sc = lambda x: (float(x) if (x is not None) else None)\n        return (sc(p1), sc(p2), sc(d))\n\n    for m in (1, 2, 3, 0):\n        latest[m] = scale_triplet(m, latest[m])\n\n    # --- drawing setup ---\n    cv = mode_canvas\n    cv.delete(\"all\")\n\n    # Canvas size as created in UI\n    W, H = 260, 600\n\n    cv.config(width=W, height=H)\n\n    # Margins & plot box so plot-height >= 80% of canvas\n    BOTTOM_MARGIN = 40\n    TARGET_FRAC = 0.80\n    plot_h = max(int(H * TARGET_FRAC), 1)\n    plot_bottom = H - BOTTOM_MARGIN\n    plot_top = max(50, plot_bottom - plot_h)\n    LEFT_MARGIN = 55\n    RIGHT_MARGIN = 16\n    plot_left = LEFT_MARGIN\n    plot_right = W - RIGHT_MARGIN\n    plot_width = max(plot_right - plot_left, 50)\n\n    # Axes scale (mV)\n    Y_MIN, Y_MAX = 0.0, 2500.0\n    Y_RANGE = max(Y_MAX - Y_MIN, 1.0)\n\n    def y_to_canvas(val):\n        v = 0.0 if val is None else float(val)\n        if v < Y_MIN: v = Y_MIN\n        if v > Y_MAX: v = Y_MAX\n        return plot_bottom - (v - Y_MIN) / Y_RANGE * plot_h\n\n    # Title\n    cv.create_text(W // 2, 20, text=\"Modes (P1 / P2 / Δ)\", font=(\"Segoe UI\", 11, \"bold\"))\n\n    # Axes\n    cv.create_line(plot_left, plot_top, plot_left, plot_bottom, fill=\"#444\")            # Y axis\n    cv.create_line(plot_left, plot_bottom, plot_right, plot_bottom, fill=\"#444\")        # X axis\n\n    # Y ticks/grid + axis name\n    for val in range(0, 2501, 500):\n        y = y_to_canvas(val)\n        cv.create_line(plot_left - 6, y, plot_left, y, fill=\"#444\")              # tick\n        cv.create_line(plot_left, y, plot_right, y, fill=\"#eee\")                        # grid\n        cv.create_text(plot_left - 10, y, text=str(val), anchor=\"e\", font=(\"Arial\", 9)) # label\n    try:\n        cv.create_text(plot_left - 35, (plot_top + plot_bottom) // 2, text=\"mV\", angle=90, font=(\"Segoe UI\", 10))\n    except Exception:\n        cv.create_text(plot_left - 25, plot_top - 12, text=\"mV\", font=(\"Segoe UI\", 10))\n\n    # --- per-mode cutoff bands with value labels above/below the line ---\n    segment_len = 40      # length in pixels of each cutoff segment\n    offset_step = 50      # how much to shift the start x for each subsequent mode\n\n    bands = {\n        1: (2100, 2150),  # Mode 1  (lo, hi)\n        2: (1450, 1500),  # Mode 2\n        3: (720,  760),   # Mode 3\n        0: (480,  520),   # Mode 0\n    }\n\n    mode_order  = [1, 2, 3, 0]\n    mode_colors = {1: \"#e74c3c\", 2: \"#f39c12\", 3: \"#3498db\", 0: \"#2ecc71\"}\n\n    # Small helpers to keep labels inside the plot area\n    def _clamp_y(y):\n        return max(plot_top + 2, min(y, plot_bottom - 2))\n\n    for idx, m in enumerate(mode_order):\n        color = mode_colors.get(m, \"#ff0000\")\n        x0 = plot_left + idx * offset_step\n        x1 = min(x0 + segment_len, plot_right)\n\n        lo, hi = bands.get(m, (None, None))\n\n        # Draw upper limit line + label ABOVE the line\n        if hi is not None:\n            y_hi = _clamp_y(y_to_canvas(hi))\n            cv.create_line(x0, y_hi, x1, y_hi, fill=color, width=2)\n            cv.create_text(x1 + 3, y_hi - 8,  # place text above the line\n                        text=str(int(hi)), anchor=\"w\",\n                        font=(\"Arial\", 8), fill=color)\n\n        # Draw lower limit line + label BELOW the line\n        if lo is not None:\n            y_lo = _clamp_y(y_to_canvas(lo))\n            cv.create_line(x0, y_lo, x1, y_lo, fill=color, width=2)\n            cv.create_text(x1 + 3, y_lo + 8,  # place text below the line\n                        text=str(int(lo)), anchor=\"w\",\n                        font=(\"Arial\", 8), fill=color)\n\n\n    # Layout for groups/bars\n    modes = [1, 2, 3, 0]\n    n_groups = len(modes)\n    inner_gap = 4\n    group_gap = 12\n    avail = plot_width - (n_groups - 1) * group_gap\n    bar_w = int(max(6, (avail / n_groups - 2 * inner_gap) / 3))\n    group_w = 3 * bar_w + 2 * inner_gap\n    total_groups_w = n_groups * group_w + (n_groups - 1) * group_gap\n    start_x = plot_left + max(0, (plot_width - total_groups_w) // 2)\n\n    # Colors and thresholds\n    normal_fill = \"#5bc0de\"\n    normal_outline = \"#2c3e50\"\n    alert_fill = \"#d9534f\"\n    alert_outline = \"#7f1d1d\"\n    DIFF_ALERT_THRESH = 40.0  # mV\n\n    # Bars + angled labels\n    for gi, m in enumerate(modes):\n        p1 = latest[m][0] or 0.0\n        p2 = latest[m][1] or 0.0\n        d_raw = latest[m][2]\n        d = abs(d_raw or 0.0)\n\n        # If |Δ| > 40 mV, make all three bars red\n        alert = d > DIFF_ALERT_THRESH\n        fill_for_bars = alert_fill if alert else normal_fill\n        outline_for_bars = alert_outline if alert else normal_outline\n\n        gx = start_x + gi * (group_w + group_gap)\n        values = (p1, p2, d)\n        for bi, val in enumerate(values):\n            x0 = gx + bi * (bar_w + inner_gap)\n            y_top = y_to_canvas(val)\n            y_top = min(y_top, plot_bottom - 1)  # ensure min visible height\n            # bar\n            cv.create_rectangle(x0, y_top, x0 + bar_w, plot_bottom,\n                                fill=fill_for_bars,\n                                outline=outline_for_bars)\n            # numeric label above bar, rotated 60°\n            disp = f\"{int(round(val))}\"\n            txt_x = x0 + bar_w // 2\n            txt_y = max(plot_top + 12, y_top - 6)\n            label_color = alert_fill if (alert and bi == 2) else \"#000\"\n            try:\n                cv.create_text(x0 + bar_w // 2 + 8, max(plot_top + 12, y_top - PAD),\n               text=disp, font=(\"Consolas\", 9), fill=label_color,\n               angle=ANGLE, anchor=\"s\")  # bottom-center\n\n            except Exception:\n                cv.create_text(txt_x, txt_y, text=disp, font=(\"Consolas\", 9),\n                               fill=label_color, anchor=\"s\")\n\n        # group caption\n        cv.create_text(gx + group_w // 2, plot_bottom + 14, text=f\"M{m}\", font=(\"Segoe UI\", 9))\n\n    # X-axis caption\n    cv.create_text((plot_left + plot_right) // 2, plot_bottom + 28, text=\"Modes\", font=(\"Segoe UI\", 9))\n\ndef on_step_sweep():\n\n\n    serial = entry.get().strip()\n    if not serial:\n        return messagebox.showerror(\"Error\", \"Invalid Serial number\")\n    if Oscilloscope is None:\n        return messagebox.showerror(\"Error\", \"Missing Scope_header_v2.py\")\n\n    step_btn.config(state=\"disabled\")\n    status_var.set(\"Step sweep: starting…\")\n\n    # Countdown (≈ 20 tones × 4 s)\n    total_time = 20 * 4\n    stop_event.clear()\n    def _tick(remaining):\n        if stop_event.is_set() or remaining < 0:\n            timer_var.set(\"00:00\"); return\n        m, s = divmod(remaining, 60)\n        timer_var.set(f\"{m:02d}:{s:02d}\")\n        root.after(1000, lambda: _tick(remaining - 1))\n    _tick(total_time)\n\n    def worker():\n        from datetime import datetime\n        from openpyxl import load_workbook, Workbook\n\n        # Workbook (no header writing here)\n        filename = os.path.join(\"PCB_READINGS\", f\"{serial}.xlsx\")\n        wb = load_workbook(filename) if os.path.exists(filename) else Workbook()\n        ws = wb.active\n\n        # Summary tri-rows (already created by on_submit)\n        rL, rR, rD = SUMMARY_START_ROW, SUMMARY_START_ROW + 1, SUMMARY_START_ROW + 2\n\n        # Ensure summary labels exist (safe to re-assert)\n        if not ws.cell(row=rL, column=COL_SERIAL).value:\n            ws.cell(row=rL, column=COL_SERIAL, value=serial)\n        if ws.cell(row=rL, column=COL_CHANNEL).value != \"Left\":\n            ws.cell(row=rL, column=COL_CHANNEL, value=\"Left\")\n        if ws.cell(row=rR, column=COL_CHANNEL).value != \"Right\":\n            ws.cell(row=rR, column=COL_CHANNEL, value=\"Right\")\n        if ws.cell(row=rD, column=COL_CHANNEL).value != \"Diff\":\n            ws.cell(row=rD, column=COL_CHANNEL, value=\"Diff\")\n\n        # Input folder\n        folder = \"Step_sweep\"\n\n\n\n        try:\n            files = sorted(os.listdir(folder), key=lambda f: int(re.findall(r'(\\d+)', f)[0]))\n        except Exception as e:\n            step_btn.config(state=\"normal\")\n            return messagebox.showerror(\"Error\", f\"Folder '{folder}' missing/bad filenames: {e}\")\n\n        sweep_averages = []  # (hz, a1, a2, adiff)\n\n        # Acquire per tone\n        stop_event.clear()\n        time.sleep(1)\n        try:\n            with Oscilloscope(resource_name=scope_res, rm=rm) as scope:\n                for idx, fn in enumerate(files):\n                    if stop_event.is_set():\n                        break\n\n                    hz_m = re.search(r'(\\d+)', fn)\n                    if not hz_m:\n                        continue\n                    hz = int(hz_m.group(1))\n                    if hz not in FREQS:\n                        continue\n\n                    path = os.path.join(folder, fn)\n                    \n                    \n\n                    # Play tone\n                    force_full_volume()\n                    winsound.PlaySound(path, winsound.SND_FILENAME | winsound.SND_ASYNC)\n                    time.sleep(1)\n\n                    # Collect ~4 s\n                    vals = []\n                    deadline = time.time() + 4\n                    while time.time() < deadline and not stop_event.is_set():\n                        f1, p1, f2, p2, diff = scope.read_all()  # mV\n                        vals.append((f1, p1, f2, p2, diff))\n                        time.sleep(SAMPLE_INTERVAL)\n                    winsound.PlaySound(None, winsound.SND_PURGE)\n\n                    # Averages for this Hz\n                    if vals:\n                        avg_p1 = sum(v[1] for v in vals) / len(vals)\n                        avg_p2 = sum(v[3] for v in vals) / len(vals)\n                        avg_d  = sum(v[4] for v in vals) / len(vals)\n                    else:\n                        avg_p1 = avg_p2 = avg_d = 0.0\n\n                    sweep_averages.append((hz, avg_p1, avg_p2, avg_d))\n\n                    # Live plots\n                    try:\n                        root.after(0, draw_diff_plot, list(sweep_averages))\n                        root.after(0, draw_lr_plot,   list(sweep_averages))\n                    except Exception:\n                        pass\n\n                    # Raw block (below summary)\n                    base_row = (SUMMARY_START_ROW + 6) + idx * 50\n                    ws.cell(row=base_row,   column=1, value=\"Hz\")\n                    ws.cell(row=base_row,   column=2, value=\"P1\")\n                    ws.cell(row=base_row,   column=3, value=\"P2\")\n                    ws.cell(row=base_row,   column=4, value=\"Diff\")\n                    for r, (f1, p1, f2, p2, d) in enumerate(vals, start=1):\n                        ws.cell(row=base_row + r, column=1, value=hz)\n                        ws.cell(row=base_row + r, column=2, value=p1)\n                        ws.cell(row=base_row + r, column=3, value=p2)\n                        ws.cell(row=base_row + r, column=4, value=d)\n\n                    status_var.set(f\"At {hz} Hz: Avg P1={avg_p1:.2f}, Avg P2={avg_p2:.2f}, Δ={avg_d:.2f}\")\n        except Exception as e:\n            status_var.set(f\"Scope init/read failed: {e}\")\n            step_btn.config(state=\"normal\")\n            return\n\n        # Fill summary tri-row (per-frequency avgs) + stamp Date/Time\n        now = datetime.now()\n        ws.cell(row=rL, column=COL_DATE, value=now.strftime(\"%d-%b-%Y\"))  # Left row → Date\n        ws.cell(row=rR, column=COL_DATE, value=now.strftime(\"%H:%M\"))     # Right row → Time\n\n        avg_map = {hz: (a1, a2, ad) for hz, a1, a2, ad in sweep_averages}\n        diffs_for_dom = []\n        for i, hz in enumerate(FREQS):\n            c = COL_FREQ0 + i\n            a1, a2, ad = avg_map.get(hz, (None, None, None))\n            if a1 is not None: ws.cell(row=rL, column=c, value=a1)\n            if a2 is not None: ws.cell(row=rR, column=c, value=a2)\n            if ad is not None:\n                ws.cell(row=rD, column=c, value=ad)\n                diffs_for_dom.append(ad)\n\n        # Dominant + Max value (from diffs)\n        dom = \"Unknown\"; max_abs = 0.0\n        if diffs_for_dom:\n            neg = sum(1 for v in diffs_for_dom if v < 0)\n            pos = sum(1 for v in diffs_for_dom if v > 0)\n            n = len(diffs_for_dom)\n            rng = (max(diffs_for_dom) - min(diffs_for_dom)) if n else 0.0\n            if neg / n >= 0.70:\n                dom = \"Right\"\n            elif pos / n >= 0.70:\n                dom = \"Left\"\n            elif neg / n >= 0.40 and pos / n >= 0.40 and rng <= 40.0:\n                dom = \"Balance\"\n            max_abs = max(abs(v) for v in diffs_for_dom)\n        ws.cell(row=rL, column=COL_DOM, value=dom)\n        ws.cell(row=rL, column=COL_MAX, value=max_abs)\n\n        # Save\n        try:\n            wb.save(filename)\n        except PermissionError:\n            status_var.set(f\"Cannot save. Close Excel: {filename}\")\n\n        root.after(0, update_modes_combined_chart_from_excel, serial)\n\n\n        # Upload summary (uses current Mode columns already in summary)\n        try:\n            if callable(globals().get(\"upload_summary_to_gsheet\", None)):\n                def _mode_tuple():\n                    def g(row, col):\n                        v = ws.cell(row=row, column=col).value\n                        try: return float(v) if v is not None else None\n                        except: return None\n                    return {\n                        \"Mode1\": (g(rL, COL_MODE1), g(rR, COL_MODE1), g(rD, COL_MODE1)),\n                        \"Mode2\": (g(rL, COL_MODE2), g(rR, COL_MODE2), g(rD, COL_MODE2)),\n                        \"Mode3\": (g(rL, COL_MODE3), g(rR, COL_MODE3), g(rD, COL_MODE3)),\n                        \"Mode0\": (g(rL, COL_MODE0), g(rR, COL_MODE0), g(rD, COL_MODE0)),\n                    }\n                left_vals  = [ws.cell(row=rL, column=COL_FREQ0+i).value for i in range(len(FREQS))]\n                right_vals = [ws.cell(row=rR, column=COL_FREQ0+i).value for i in range(len(FREQS))]\n                diff_vals  = [ws.cell(row=rD, column=COL_FREQ0+i).value for i in range(len(FREQS))]\n                status_val = str(ws.cell(row=rL, column=COL_STATUS).value or \"\").strip()\n                date_str   = str(ws.cell(row=rL, column=COL_DATE).value or \"\")\n                time_str   = str(ws.cell(row=rR, column=COL_DATE).value or \"\")\n                modes_dict = _mode_tuple()\n\n                upload_summary_to_gsheet(\n                    serial=serial,\n                    status=status_val,\n                    dominant=dom,\n                    maxval=max_abs,\n                    date_str=date_str,\n                    time_str=time_str,\n                    left_vals=left_vals,\n                    right_vals=right_vals,\n                    diff_vals=diff_vals,\n                    modes_dict=modes_dict\n                )\n        except Exception as e:\n            print(\"[WARN] GSheet upload failed:\", e, file=sys.stderr)\n\n        \n\n        status_var.set(\"Step sweep complete.\")\n        step_btn.config(state=\"normal\")\n\n    \n    worker_threads.discard(threading.current_thread())\n\n    t = threading.Thread(target=worker, daemon=True)\n    worker_threads.add(t)\n    t.start()\n\n\n\ndef _map(val, in_min, in_max, out_min, out_max):\n    return out_min + (val - in_min) * (out_max - out_min) / (in_max - in_min)\n\n\n\n\n# ========= Step-sweep plot layout control (size, position, margins) =========\n# Tweak these to control canvas size and the inner plot rectangle.\nPLOT_CFG = {\n    \"diff\": {  # ΔP vs Freq\n        \"width\": 585, \"height\": 600,                  # canvas size\n        \"margins\": {\"left\": 50, \"right\": 24, \"top\": 40, \"bottom\": 44},\n        \"title\": \"ΔP (Diff) vs Freq\",\n        \"x_min\": 40, \"x_max\": 80, \"x_tick\": 10,\n        \"y_min\": -160, \"y_max\": 160, \"y_tick\": 40,\n    },\n    \"lr\": {   # Left & Right vs Freq\n        \"width\": 585, \"height\": 600,\n        \"margins\": {\"left\": 50, \"right\": 24, \"top\": 40, \"bottom\": 44},\n        \"title\": \"Left & Right pk-pk vs Freq (mV)\",\n        \"x_min\": 40, \"x_max\": 80, \"x_tick\": 10,\n        \"y_min\": 2000, \"y_max\": 3500, \"y_tick\": 250,\n    },\n}\n\ndef place_step_sweep_canvases(diff_xywh=(0, 0, 600, 600),\n                              lr_xywh=(720, 0, 600, 600),\n                              parent=None):\n    \"\"\"\n    Absolute positioning for the two canvases. Call once after the UI is built.\n    - diff_xywh / lr_xywh are (x, y, w, h) in pixels.\n    - parent defaults to 'plots_frame' if not provided.\n    \"\"\"\n    container = parent or plots_frame\n    # Stop grid/pack controlling them.\n    try:\n        diff_canvas.grid_forget()\n        lr_canvas.grid_forget()\n    except Exception:\n        pass\n    try:\n        diff_canvas.pack_forget()\n        lr_canvas.pack_forget()\n    except Exception:\n        pass\n\n    # Prevent parent auto-resizing\n    try:\n        container.pack_propagate(False)\n        container.grid_propagate(False)\n        container.place_propagate(False)\n    except Exception:\n        pass\n\n    # Place with absolute geometry\n    x, y, w, h = diff_xywh\n    diff_canvas.place(x=x, y=y, width=w, height=h)\n    x, y, w, h = lr_xywh\n    lr_canvas.place(x=x, y=y, width=w, height=h)\n\n# (Optional) call right after building the UI, e.g.:\n# place_step_sweep_canvases(\n#     diff_xywh=(0, 0, 760, 380),\n#     lr_xywh=(780, 0, 760, 380),\n# )\n\n# ===================== helpers =====================\ndef _map_range(val, in_min, in_max, out_min, out_max):\n    if in_max == in_min:\n        return out_min\n    return out_min + (val - in_min) * (out_max - out_min) / (in_max - in_min)\n\ndef _draw_axes_and_grid(cv, W, H, margins, cfg):\n    left, right, top, bottom = margins[\"left\"], margins[\"right\"], margins[\"top\"], margins[\"bottom\"]\n    plot_left, plot_right = left, W - right\n    plot_top, base_y = top, H - bottom\n\n    # Frame and title\n    cv.create_rectangle(plot_left, plot_top, plot_right, base_y, outline=\"#bbb\")\n    cv.create_text(W // 2, plot_top - 18, text=cfg[\"title\"], font=(\"Segoe UI\", 11, \"bold\"))\n\n    # Axes lines\n    cv.create_line(plot_left, base_y, plot_right, base_y)   # x-axis\n    cv.create_line(plot_left, plot_top, plot_left, base_y)  # y-axis\n\n    # X grid + ticks\n    x = cfg[\"x_min\"]\n    while x <= cfg[\"x_max\"]:\n        X = _map_range(x, cfg[\"x_min\"], cfg[\"x_max\"], plot_left, plot_right)\n        cv.create_line(X, plot_top, X, base_y, dash=(2, 2), fill=\"#ddd\")\n        cv.create_text(X, base_y + 12, text=str(int(x)), font=(\"Arial\", 8))\n        x += cfg[\"x_tick\"]\n\n    # Y grid + ticks\n    y = cfg[\"y_min\"]\n    while y <= cfg[\"y_max\"]:\n        Y = _map_range(y, cfg[\"y_min\"], cfg[\"y_max\"], base_y, plot_top)\n        cv.create_line(plot_left, Y, plot_right, Y, dash=(2, 2), fill=\"#eee\")\n        cv.create_text(plot_left - 30, Y, text=str(int(y)), font=(\"Arial\", 8))\n        y += cfg[\"y_tick\"]\n\n    return plot_left, plot_right, plot_top, base_y\n\n# ===================== draw functions =====================\ndef draw_diff_plot(data_points):\n    if not diff_canvas:\n        return\n    cv = diff_canvas\n    cfg = PLOT_CFG[\"diff\"]\n    # Full control: set exact canvas size\n    W, H = int(cfg[\"width\"]), int(cfg[\"height\"])\n    cv.config(width=W, height=H)\n    cv.delete(\"all\")\n\n    plot_left, plot_right, plot_top, base_y = _draw_axes_and_grid(cv, W, H, cfg[\"margins\"], cfg)\n\n    # 0 baseline\n    y0 = _map_range(0, cfg[\"y_min\"], cfg[\"y_max\"], base_y, plot_top)\n    cv.create_line(plot_left, y0, plot_right, y0, fill=\"#888\")\n\n    # Line path\n    pts = []\n    for hz, _a1, _a2, d in sorted((dp for dp in data_points if dp is not None), key=lambda t: t[0]):\n        if d is None:\n            continue\n        X = _map_range(hz, cfg[\"x_min\"], cfg[\"x_max\"], plot_left, plot_right)\n        Y = _map_range(d,   cfg[\"y_min\"], cfg[\"y_max\"], base_y, plot_top)\n        pts.append((X, Y))\n    for i in range(len(pts) - 1):\n        cv.create_line(pts[i], pts[i + 1], fill=\"#c60\", width=2)\n\n\ndef draw_lr_plot(data_points):\n    if not lr_canvas:\n        return\n    cv = lr_canvas\n    cfg = PLOT_CFG[\"lr\"]\n    W, H = int(cfg[\"width\"]), int(cfg[\"height\"])\n    cv.config(width=W, height=H)\n    cv.delete(\"all\")\n\n    plot_left, plot_right, plot_top, base_y = _draw_axes_and_grid(cv, W, H, cfg[\"margins\"], cfg)\n\n    ptsL, ptsR = [], []\n    for hz, a1, a2, _d in sorted((dp for dp in data_points if dp is not None), key=lambda t: t[0]):\n        if a1 is None or a2 is None:\n            continue\n        # (Keep your original mV upscaling rule)\n        L = a1 * 1000.0 if a1 < 100 else a1\n        R = a2 * 1000.0 if a2 < 100 else a2\n        X  = _map_range(hz, cfg[\"x_min\"], cfg[\"x_max\"], plot_left, plot_right)\n        yL = _map_range(L,  cfg[\"y_min\"], cfg[\"y_max\"], base_y, plot_top)\n        yR = _map_range(R,  cfg[\"y_min\"], cfg[\"y_max\"], base_y, plot_top)\n        ptsL.append((X, yL))\n        ptsR.append((X, yR))\n\n    for i in range(len(ptsL) - 1):\n        cv.create_line(ptsL[i], ptsL[i + 1], fill=\"#a00\", width=2)\n    for i in range(len(ptsR) - 1):\n        cv.create_line(ptsR[i], ptsR[i + 1], fill=\"#006\", width=2)\n\n    # Simple legend (position is controllable via margins/title area)\n    cv.create_rectangle(plot_right - 150, plot_top + 10, plot_right - 20, plot_top + 72,\n                        fill=\"white\", outline=\"#ddd\")\n    cv.create_text(plot_right - 130, plot_top + 28, text=\"Left\",  fill=\"#a00\", anchor=\"w\")\n    cv.create_text(plot_right - 130, plot_top + 52, text=\"Right\", fill=\"#006\", anchor=\"w\")\n\n\n\ndef on_stop():\n    stop_event.set()\n    stop_wav()\n    status_var.set('Stopped. Await Submit...')\n    submit_btn.config(state=tk.NORMAL)\n    # play_btn.config(state=tk.NORMAL)\n    step_btn.config(state=tk.NORMAL)\n    upload_btn.config(state=tk.NORMAL)\n    for btn in (mode1_btn, mode2_btn, mode3_btn, mode0_btn):\n        btn.config(state=tk.NORMAL)\n\n# ========= Combined Mode Chart (single) =========\ndef update_modes_combined_chart(latest=None, cfg=None):\n    \"\"\"\n    Draw the Modes (P1/P2/Δ) bar plot with full layout control.\n\n    latest: optional dict {mode: (p1, p2, diff)}. If None, uses mode_last.\n    cfg: optional dict to override layout:\n        W, H                         -> canvas size\n        margins: dict left, top, right, bottom\n        y_min, y_max, y_tick         -> axis scale & tick step\n        title                        -> plot title\n        bar_w, bar_gap, group_gap    -> geometry (3 bars per group)\n        value_angle, value_offset    -> value label rotation (deg) & vertical offset\n        cutoff_bands                 -> {mode: (lo, hi)} upper/lower band per mode\n        cutoff_seg_len               -> length in px of band segment\n        cutoff_offset_step           -> x offset step between modes for band segments\n        colors: dict with keys 'bar', 'bar_edge', 'alert', 'grid', 'axis', 'label'\n        show_y_label                 -> draw \"mV\" on y axis\n        y_label                      -> text used for y label\n    \"\"\"\n    if not mode_canvas:\n        return\n\n    # -------- Data --------\n    if latest is None:\n        # pull from your cached values\n        latest = {\n            1: tuple(abs(x or 0.0) for x in (mode_last.get(1) or (0.0, 0.0, 0.0))),\n            2: tuple(abs(x or 0.0) for x in (mode_last.get(2) or (0.0, 0.0, 0.0))),\n            3: tuple(abs(x or 0.0) for x in (mode_last.get(3) or (0.0, 0.0, 0.0))),\n            0: tuple(abs(x or 0.0) for x in (mode_last.get(0) or (0.0, 0.0, 0.0))),\n        }\n\n    # -------- Defaults / Config --------\n    _cfg = {\n        \"W\": 360, \"H\": 440,\n        \"margins\": {\"left\": 60, \"top\": 10, \"right\": 20, \"bottom\": 80},\n        \"x_off\": 0,          # +right, -left\n        \"y_off\": 300, \n        \"y_min\": 0.0, \"y_max\": 2500.0, \"y_tick\": 500.0,\n        \"title\": \"Modes (P1 / P2 / Δ)\",\n        \"bar_w\": 14, \"bar_gap\": 6, \"group_gap\": 34,\n        \"value_angle\": 60, \"value_offset\": 8,\n        \"cutoff_bands\": {1: (2100, 2150), 2: (1450, 1500), 3: (720, 760), 0: (480, 520)},\n        \"cutoff_seg_len\": 60, \"cutoff_offset_step\": 60,\n        \"colors\": {\n            \"bar\": \"#5bc0de\",\n            \"bar_edge\": \"#2c3e50\",\n            \"alert\": \"#e74c3c\",\n            \"grid\": \"#e0e0e0\",\n            \"axis\": \"#999999\",\n            \"label\": \"#333333\",\n        },\n        \"show_y_label\": True,\n        \"y_label\": \"mV\",\n    }\n    if cfg:\n        # shallow update; nested dicts may be overridden wholly if provided\n        _cfg.update(cfg)\n        if \"margins\" in cfg:\n            _cfg[\"margins\"] = {**_cfg[\"margins\"], **cfg[\"margins\"]}\n        if \"colors\" in cfg:\n            _cfg[\"colors\"] = {**_cfg[\"colors\"], **cfg[\"colors\"]}\n\n    W, H = _cfg[\"W\"], _cfg[\"H\"]\n    ml = _cfg[\"margins\"][\"left\"]; mt = _cfg[\"margins\"][\"top\"]\n    mr = _cfg[\"margins\"][\"right\"]; mb = _cfg[\"margins\"][\"bottom\"]\n    x_off = _cfg.get(\"x_off\", 0);  y_off = _cfg.get(\"y_off\", 0)\n    y_min, y_max, y_tick = _cfg[\"y_min\"], _cfg[\"y_max\"], _cfg[\"y_tick\"]\n    bar_w, bar_gap, group_gap = _cfg[\"bar_w\"], _cfg[\"bar_gap\"], _cfg[\"group_gap\"]\n    val_angle, val_off = _cfg[\"value_angle\"], _cfg[\"value_offset\"]\n    bands = _cfg[\"cutoff_bands\"]\n    seg_len = _cfg[\"cutoff_seg_len\"]; seg_step = _cfg[\"cutoff_offset_step\"]\n    C = _cfg[\"colors\"]\n\n    # Canvas & region\n    cv = mode_canvas\n    cv.delete(\"all\")\n    cv.config(width=W, height=H)\n\n    plot_left   = ml + x_off\n    plot_right  = W - mr + x_off\n    plot_top    = mt + y_off\n    plot_bottom = H - mb + y_off\n    plot_w = max(1, plot_right - plot_left)\n    plot_h = max(1, plot_bottom - plot_top)\n\n    # Mapping\n    def y_to_canvas(y):\n        y = max(min(y, y_max), y_min)\n        r = (y - y_min) / max(1e-9, (y_max - y_min))\n        # top is max value visually at upwards\n        return plot_bottom - r * plot_h\n\n    # Title\n    cv.create_text((plot_left + plot_right)//2, mt - 18, text=_cfg[\"title\"],\n                   font=(\"Segoe UI\", 11, \"bold\"), fill=C[\"label\"])\n\n    # Axes\n    # Y axis\n    cv.create_line(plot_left, plot_top, plot_left, plot_bottom, fill=C[\"axis\"])\n    # X axis\n    cv.create_line(plot_left, plot_bottom, plot_right, plot_bottom, fill=C[\"axis\"])\n\n    # Y ticks/grid\n    t = y_min\n    while t <= y_max + 0.1:\n        y = y_to_canvas(t)\n        cv.create_line(plot_left, y, plot_right, y, fill=C[\"grid\"], dash=(2, 2))\n        cv.create_text(plot_left - 8, y, text=str(int(t)), anchor=\"e\",\n                       font=(\"Arial\", 8), fill=C[\"label\"])\n        t += y_tick\n\n    # Y label\n    if _cfg[\"show_y_label\"]:\n        cv.create_text(plot_left - 36, (plot_top + plot_bottom)//2, text=_cfg[\"y_label\"],\n                       angle=90, font=(\"Segoe UI\", 9), fill=C[\"label\"])\n\n    # Layout for 4 groups (M1, M2, M3, M0), each group has 3 bars (P1,P2,Δ)\n    modes = [1, 2, 3, 0]\n    bars_per_group = 3\n    group_w = bars_per_group * bar_w + (bars_per_group - 1) * bar_gap\n    total_w = len(modes) * group_w + (len(modes) - 1) * group_gap\n    start_x = plot_left + max(0, (plot_w - total_w) // 2)  # center groups\n\n    # Draw cutoff segments (upper/lower) for each mode\n    for idx, m in enumerate(modes):\n        x0 = start_x + idx * (group_w + group_gap)\n        # We'll draw segments spanning from the left edge of the group by default\n        seg_x0 = min(plot_right, x0 + idx * seg_step)  # optional stagger by mode\n        seg_x1 = min(seg_x0 + seg_len, plot_right)\n\n        lo, hi = bands.get(m, (None, None))\n        # Upper band line + label (above line)\n        if hi is not None:\n            y_hi = y_to_canvas(hi)\n            cv.create_line(seg_x0, y_hi, seg_x1, y_hi, fill=C[\"axis\"], width=2)\n            cv.create_text(seg_x1 + 4, y_hi - 10, text=f\"M{m} {int(hi)}\",\n                           anchor=\"w\", font=(\"Arial\", 8), fill=C[\"label\"])\n        # Lower band line + label (below line)\n        if lo is not None:\n            y_lo = y_to_canvas(lo)\n            cv.create_line(seg_x0, y_lo, seg_x1, y_lo, fill=C[\"axis\"], width=2)\n            cv.create_text(seg_x1 + 4, y_lo + 10, text=f\"M{m} {int(lo)}\",\n                           anchor=\"w\", font=(\"Arial\", 8), fill=C[\"label\"])\n\n    # Bars & values\n    for gi, m in enumerate(modes):\n        p1, p2, d = latest.get(m, (0.0, 0.0, 0.0))\n        group_x = start_x + gi * (group_w + group_gap)\n\n        # color whole group red if |Δ| > 40\n        group_color = C[\"alert\"] if abs(d) > 40.0 else C[\"bar\"]\n\n        for bi, v in enumerate((p1, p2, d)):\n            # clamp into scale and compute height\n            v_clamped = max(min(v, y_max), y_min)\n            y_val = y_to_canvas(v_clamped)\n            x0 = group_x + bi * (bar_w + bar_gap)\n            x1 = x0 + bar_w\n            cv.create_rectangle(x0, y_val, x1, plot_bottom,\n                                fill=group_color if bi == 2 or abs(d) > 40 else C[\"bar\"],\n                                outline=C[\"bar_edge\"])\n\n            # value label rotated\n            cv.create_text((x0 + x1)//2, y_val - val_off,\n                           text=f\"{v:.0f}\", angle=val_angle,\n                           font=(\"Consolas\", 9), fill=C[\"label\"])\n\n        # mode label under group\n        cv.create_text(group_x + group_w//2, plot_bottom + 14,\n                       text=f\"M{m}\", font=(\"Segoe UI\", 9), fill=C[\"label\"])\n\n\n# ===============\n# Upload Workflow\n# ===============\n# ---------- Reuse main canvases to render into arbitrary canvases ----------\n\n# Scale for plots drawn in the Upload window (0.95–0.98 works well)\nUPLOAD_PLOT_SCALE = .95\n\ndef _render_existing_plots_into(cv_diff, cv_lr, cv_mode, serial, data_points):\n    \"\"\"Render the SAME plots into canvases in the Upload window, then scale.\"\"\"\n    global diff_canvas, lr_canvas, mode_canvas\n    _old = (diff_canvas, lr_canvas, mode_canvas)\n    try:\n        # Draw at normal size\n        diff_canvas, lr_canvas, mode_canvas = cv_diff, cv_lr, cv_mode\n        cv_diff.config(width=480, height=320)\n        cv_lr.config(width=480, height=320)\n        cv_mode.config(width=320, height=320)\n\n        draw_diff_plot(list(data_points))\n        draw_lr_plot(list(data_points))\n        update_modes_combined_chart_from_excel(serial)\n\n        # Scale everything slightly to fit the Upload window better\n        s = float(UPLOAD_PLOT_SCALE)\n        if 0.5 < s < 1.0:\n            for cv in (cv_diff, cv_lr, cv_mode):\n                # scale about origin; then nudge a touch to keep margins nice\n                cv.scale(\"all\", 0, 0, s, s)\n                cv.move(\"all\", 4, 4)\n    finally:\n        diff_canvas, lr_canvas, mode_canvas = _old\n\n\n\n# ---------- Pure Win32 snapshot to PNG (no Pillow) ----------\ndef _save_window_snapshot_png(win, path_png):\n    \"\"\"\n    Captures a window to PNG using GDI+ (ctypes only). Returns True/False.\n    If PNG fails, returns False (caller can fallback to BMP if desired).\n    \"\"\"\n    import ctypes, struct, os\n    from ctypes import wintypes\n\n    user32  = ctypes.windll.user32\n    gdi32   = ctypes.windll.gdi32\n    gdip    = ctypes.windll.gdiplus\n\n    # Init GDI+\n    class GdiplusStartupInput(ctypes.Structure):\n        _fields_ = [(\"GdiplusVersion\", ctypes.c_uint32),\n                    (\"DebugEventCallback\", ctypes.c_void_p),\n                    (\"SuppressBackgroundThread\", ctypes.c_bool),\n                    (\"SuppressExternalCodecs\", ctypes.c_bool)]\n    token = ctypes.c_ulong()\n    si = GdiplusStartupInput(1, None, False, False)\n    if gdip.GdiplusStartup(ctypes.byref(token), ctypes.byref(si), None) != 0:\n        return False\n\n    hwnd = wintypes.HWND(win.winfo_id())\n    # Make sure layout is final\n    win.update_idletasks()\n    rect = wintypes.RECT()\n    user32.GetWindowRect(hwnd, ctypes.byref(rect))\n    left, top, right, bottom = rect.left, rect.top, rect.right, rect.bottom\n    width, height = right - left, bottom - top\n    if width <= 0 or height <= 0:\n        gdip.GdiplusShutdown(token)\n        return False\n\n    hwindc = user32.GetWindowDC(hwnd)\n    memdc  = gdi32.CreateCompatibleDC(hwindc)\n    hbmp   = gdi32.CreateCompatibleBitmap(hwindc, width, height)\n    gdi32.SelectObject(memdc, hbmp)\n    SRCCOPY = 0x00CC0020\n    # BitBlt the window into our bitmap\n    gdi32.BitBlt(memdc, 0, 0, width, height, hwindc, 0, 0, SRCCOPY)\n\n    # Convert HBITMAP -> GDI+ Bitmap\n    GpImagePtr = ctypes.c_void_p\n    gp_bitmap = GpImagePtr()\n    if gdip.GdipCreateBitmapFromHBITMAP(hbmp, 0, ctypes.byref(gp_bitmap)) != 0:\n        # Cleanup\n        gdi32.DeleteObject(hbmp)\n        gdi32.DeleteDC(memdc)\n        user32.ReleaseDC(hwnd, hwindc)\n        gdip.GdiplusShutdown(token)\n        return False\n\n    # PNG encoder CLSID: {557CF406-1A04-11D3-9A73-0000F81EF32E}\n    class GUID(ctypes.Structure):\n        _fields_ = [(\"Data1\", ctypes.c_uint32),\n                    (\"Data2\", ctypes.c_uint16),\n                    (\"Data3\", ctypes.c_uint16),\n                    (\"Data4\", ctypes.c_ubyte * 8)]\n    png_clsid = GUID(0x557CF406, 0x1A04, 0x11D3,\n                     (ctypes.c_ubyte * 8)(0x9A,0x73,0x00,0x00,0xF8,0x1E,0xF3,0x2E))\n\n    # Save\n    lpw = ctypes.c_wchar_p(os.path.abspath(path_png))\n    status = gdip.GdipSaveImageToFile(gp_bitmap, lpw, ctypes.byref(png_clsid), None)\n\n    # Cleanup\n    gdip.GdipDisposeImage(gp_bitmap)\n    gdi32.DeleteObject(hbmp)\n    gdi32.DeleteDC(memdc)\n    user32.ReleaseDC(hwnd, hwindc)\n    gdip.GdiplusShutdown(token)\n\n    return status == 0  # Ok\n\ndef on_upload():\n    serial = entry.get().strip()\n    if not serial:\n        return messagebox.showerror(\"Error\", \"Invalid Serial number\")\n\n    local_paths = [os.path.join('PCB_READINGS', f\"{serial}.xlsx\"), f\"{serial}.xlsx\"]\n    xl = next((p for p in local_paths if os.path.exists(p)), None)\n    if not xl:\n        return messagebox.showerror(\"Error\", f\"Local Excel not found for {serial}\")\n\n    try:\n        preview = read_summary_for_upload(xl, serial)\n    except Exception as e:\n        return messagebox.showerror(\"Error\", f\"Could not read summary from Excel:\\n{e}\")\n\n    win = tk.Toplevel(root)\n    win.title(f\"Upload Preview — {serial}\")\n    win.transient(root)       # keep above main\n    win.state('zoomed')       # start maximized\n    win.grab_set()            # modal\n\n    # --- make the OS minimize button work even with a grab ---\n    def _sync_grab(_evt=None):\n        try:\n            if win.state() == 'iconic':   # minimized\n                win.grab_release()\n            else:\n                win.grab_set()\n        except Exception:\n            pass\n\n    win.bind(\"<Unmap>\", _sync_grab)   # fired when minimized/hidden\n    win.bind(\"<Map>\", _sync_grab)     # fired when restored\n\n    # --- ensure Minimize/Maximize buttons are present on Windows ---\n    try:\n        import ctypes\n        GWL_STYLE = -16\n        WS_MINIMIZEBOX = 0x00020000\n        WS_MAXIMIZEBOX = 0x00010000\n        SWP_FRAMECHANGED = 0x0020\n\n        hwnd = win.winfo_id()\n        user32 = ctypes.windll.user32\n        GetWindowLong = user32.GetWindowLongW\n        SetWindowLong = user32.SetWindowLongW\n\n        style = GetWindowLong(hwnd, GWL_STYLE)\n        style |= (WS_MINIMIZEBOX | WS_MAXIMIZEBOX)   # make sure both are enabled\n        SetWindowLong(hwnd, GWL_STYLE, style)\n        user32.SetWindowPos(hwnd, 0, 0, 0, 0, 0, SWP_FRAMECHANGED)\n    except Exception:\n        pass\n\n\n\n    # ===== top info bar =====\n    info = tk.Frame(win, padx=10, pady=3); info.pack(fill=\"x\")\n    tk.Label(info, text=f\"Serial: {preview['serial']}\", font=(\"Segoe UI\", 11, \"bold\")).grid(row=0, column=0, sticky=\"w\", padx=4)\n    tk.Label(info, text=f\"Date: {preview['date']}\",   font=(\"Segoe UI\", 11)).grid(row=0, column=1, sticky=\"w\", padx=20)\n    tk.Label(info, text=f\"Time: {preview['time']}\",   font=(\"Segoe UI\", 11)).grid(row=0, column=2, sticky=\"w\", padx=20)\n    tk.Label(info, text=f\"Max value (mV): {preview['maxval']:.2f}\", font=(\"Segoe UI\", 11)).grid(row=0, column=3, sticky=\"w\", padx=20)\n\n    # ===== form row (Status / Dominant / Upload / Cancel on same line) =====\n    form = tk.Frame(win, padx=10, pady=3); form.pack(fill=\"x\")\n    tk.Label(form, text=\"Status:\", font=(\"Segoe UI\", 10)).grid(row=0, column=0, sticky=\"e\", padx=4)\n    status_cb = ttk.Combobox(form, values=[\"Pass\", \"Fail\"], state=\"readonly\", width=10)\n    status_cb.set(preview['status'] or \"Pass\"); status_cb.grid(row=0, column=1, sticky=\"w\", padx=6)\n\n    tk.Label(form, text=\"Dominant channel:\", font=(\"Segoe UI\", 10)).grid(row=0, column=2, sticky=\"e\", padx=20)\n    dom_cb = ttk.Combobox(form, values=[\"Left\", \"Right\", \"Balance\", \"Unknown\"], state=\"readonly\", width=12)\n    dom_cb.set(preview['dominant'] or \"Unknown\"); dom_cb.grid(row=0, column=3, sticky=\"w\", padx=6)\n\n    # Right-aligned buttons on the same row\n    btn_frame = tk.Frame(form)\n    btn_frame.grid(row=0, column=4, sticky=\"e\", padx=10)\n    def _do_upload():\n        # Save PNG snapshot of the entire upload window\n        png_path = os.path.join(\"PCB_READINGS\", f\"{serial}_upload.png\")\n        ok_png = _save_window_snapshot_png(win, png_path)\n\n        if SHEET is None:\n            msg = \"Google Sheet unavailable in this environment.\"\n            if ok_png:\n                msg += f\"\\nSnapshot saved:\\n{png_path}\"\n            return messagebox.showerror(\"Error\", msg)\n\n        try:\n            upload_summary_to_gsheet(\n                preview['serial'], status_cb.get(), dom_cb.get(), preview['maxval'],\n                preview['date'], preview['time'],\n                preview['left'], preview['right'], preview['diff'], preview['modes']\n            )\n            msg = \"Uploaded to Google Sheet.\"\n            if ok_png:\n                msg += f\"\\nSnapshot saved:\\n{png_path}\"\n            else:\n                msg += \"\\nSnapshot failed (PNG).\"\n            messagebox.showinfo(\"Success\", msg)\n            win.destroy()\n        except Exception as e:\n            messagebox.showerror(\"Upload Error\", str(e))\n    tk.Button(btn_frame, text=\"Upload\", command=_do_upload,\n              bg=\"#5cb85c\", fg=\"white\", width=12).pack(side=\"left\")\n    tk.Button(btn_frame, text=\"Cancel\", command=win.destroy,\n              bg=\"#6c757d\", fg=\"white\", width=10).pack(side=\"left\", padx=8)\n\n    # ===== data table =====\n    table = tk.Frame(win, padx=10, pady=3); table.pack(fill=\"x\", expand=False)\n    header = [\"Channel\"] + [f\"{hz}hz\" for hz in FREQS] + [\"Mode1\",\"Mode2\",\"Mode3\",\"Mode0\"]\n    for j, h in enumerate(header):\n        tk.Label(table, text=h, font=(\"Segoe UI\", 9, \"bold\"),\n                 borderwidth=1, relief=\"solid\", padx=4, pady=2).grid(row=0, column=j, sticky=\"nsew\")\n\n    def _cell_label(parent, r, c, text, bg=None, fg=None):\n        kw = dict(font=(\"Consolas\", 9), borderwidth=1, relief=\"solid\", padx=4, pady=1)\n        if bg: kw[\"bg\"] = bg\n        if fg: kw[\"fg\"] = fg\n        tk.Label(parent, text=text, **kw).grid(row=r, column=c, sticky=\"nsew\")\n\n    def _row(r, name, seq, modes_tuple):\n        tk.Label(table, text=name, font=(\"Segoe UI\", 9),\n                borderwidth=1, relief=\"solid\", padx=4, pady=2).grid(row=r, column=0, sticky=\"nsew\")\n        # frequency columns\n        for j, v in enumerate(seq, start=1):\n            txt = \"\" if v is None else f\"{float(v):.2f}\"\n            bg = fg = None\n            if name == \"Diff\" and v is not None:\n                val = abs(float(v))\n                if val > 40.0:\n                    bg, fg = \"#d9534f\", \"white\"   # red\n                elif val < 40.0:\n                    bg, fg = \"#28a745\", \"white\"   # green\n                # exactly 40 => no color\n            _cell_label(table, r, j, txt, bg=bg, fg=fg)\n\n        # mode columns\n        offs = 1 + len(FREQS)\n        for k, key in enumerate((\"Mode1\",\"Mode2\",\"Mode3\",\"Mode0\"), start=0):\n            mv = modes_tuple[k] if modes_tuple and k < len(modes_tuple) else None\n            txt = \"\" if mv is None else f\"{float(mv):.2f}\"\n            _cell_label(table, r, offs+k, txt)\n\n\n    _row(1, \"Left\",  preview[\"left\"],  (preview[\"modes\"][\"Mode1\"][0], preview[\"modes\"][\"Mode2\"][0], preview[\"modes\"][\"Mode3\"][0], preview[\"modes\"][\"Mode0\"][0]))\n    _row(2, \"Right\", preview[\"right\"], (preview[\"modes\"][\"Mode1\"][1], preview[\"modes\"][\"Mode2\"][1], preview[\"modes\"][\"Mode3\"][1], preview[\"modes\"][\"Mode0\"][1]))\n    _row(3, \"Diff\",  preview[\"diff\"],  (preview[\"modes\"][\"Mode1\"][2], preview[\"modes\"][\"Mode2\"][2], preview[\"modes\"][\"Mode3\"][2], preview[\"modes\"][\"Mode0\"][2]))\n\n    # ===== visualizations (IDENTICAL to main) =====\n    viz = tk.LabelFrame(win, text=\"Visualizations\", padx=10, pady=3)\n    viz.pack(fill=\"x\", padx=10, pady=(0,10))\n\n    # Build data_points from preview\n    data_points = []\n    for i, hz in enumerate(FREQS):\n        a1 = preview[\"left\"][i]  if i < len(preview[\"left\"])  else None\n        a2 = preview[\"right\"][i] if i < len(preview[\"right\"]) else None\n        d  = preview[\"diff\"][i]  if i < len(preview[\"diff\"])  else None\n        data_points.append((hz, a1, a2, d))\n\n    # Three canvases\n    c1 = tk.Canvas(viz, width=480, height=320, bg=\"white\", bd=1, relief=\"ridge\")\n    c2 = tk.Canvas(viz, width=480, height=320, bg=\"white\", bd=1, relief=\"ridge\")\n    c3 = tk.Canvas(viz, width=320, height=320, bg=\"white\", bd=1, relief=\"ridge\")\n    c1.grid(row=0, column=0, padx=6, pady=4, sticky=\"w\")\n    c2.grid(row=0, column=1, padx=6, pady=4, sticky=\"w\")\n    c3.grid(row=0, column=2, padx=6, pady=4, sticky=\"w\")\n\n    # Draw using the SAME functions you use in the main UI\n    _render_existing_plots_into(c1, c2, c3, serial, data_points)\n\n\n\n# ==================\n# Build the UI\n# ==================\nprint(\"[DEBUG] Building Tk UI…\", flush=True)\nroot = tk.Tk(); print(\"[DEBUG] Tk created\", flush=True)\nroot.title(\"PTS3 Controller v16\")\nroot.geometry(\"1400x720\")\n\n# Start maximized\ntry:\n    root.state('zoomed')\nexcept Exception:\n    pass\n\n\n# Keep a list of worker threads if you have them\ndef _on_close():\n    print(\"[DEBUG] mainloop closing\", flush=True)\n    try:\n        stop_event.set()\n        stop_wav()\n        winsound.PlaySound(None, winsound.SND_PURGE)\n    except Exception:\n        pass\n    # give workers time to run Oscilloscope.__exit__ (inst.close()) on THEIR thread\n    root.after(800, _final_shutdown)\n\ndef _final_shutdown():\n    # wait for workers to finish and close their instrument sessions\n    for t in list(worker_threads):\n        try:\n            t.join(timeout=1.0)\n        except Exception:\n            pass\n\n    # IMPORTANT: do NOT call rm.close() anywhere; it triggers 0x8001010e\n    # Just drop the reference if you want:\n    # global rm; rm = None\n\n    try:\n        root.destroy()\n    except Exception:\n        pass\n\nroot.protocol(\"WM_DELETE_WINDOW\", _on_close)\n\n\n\ndefault_font = (\"Segoe UI\", 12)\n\nctrl_frame = tk.Frame(root, pady=10); ctrl_frame.pack(side=\"top\", fill=\"x\")\n\ntk.Label(ctrl_frame, text=\"Serial Number:\", font=default_font).grid(row=0, column=0, padx=5, sticky=\"e\")\nentry = tk.Entry(ctrl_frame, width=25, font=default_font)\nentry.grid(row=0, column=1, padx=5); entry.focus_set(); entry.bind(\"<Return>\", lambda e: on_submit())\nroot.bind(\"<Button-1>\", lambda e: entry.focus_set())\nsubmit_btn = tk.Button(ctrl_frame, text=\"Submit\", command=on_submit,\n                       font=default_font, bg=\"#5cb85c\", fg=\"white\", width=12)\nsubmit_btn.grid(row=0, column=2, padx=5)\n\n# <<< Removed Play 80 Hz button >>>\n\n# Upload now occupies Play’s old position (column 3)\nupload_btn = tk.Button(ctrl_frame, text=\"Upload\", command=on_upload,\n                       font=default_font, bg=\"#0275d8\", fg=\"white\", width=12)\nupload_btn.grid(row=0, column=3, padx=5)\n\nstop_btn = tk.Button(ctrl_frame, text=\"Stop\", command=on_stop,\n                     font=default_font, bg=\"#6c757d\", fg=\"white\", width=10)\nstop_btn.grid(row=0, column=4, padx=5)\n\nstep_btn = tk.Button(ctrl_frame, text=\"Step Sweep\", command=on_step_sweep,\n                     font=default_font, bg=\"#d9534f\", fg=\"white\", width=12)\nstep_btn.grid(row=0, column=5, padx=5)\n\ntimer_var = tk.StringVar(value=\"00:00\")\ntk.Label(ctrl_frame, text=\"Timer:\", font=default_font).grid(row=0, column=7, padx=5, sticky=\"e\")\ntk.Label(ctrl_frame, textvariable=timer_var, font=default_font, fg=\"red\").grid(row=0, column=8, padx=5)\n\nmode1_btn = tk.Button(ctrl_frame, text=\"Mode 1\", font=default_font, bg=\"#f0ad4e\", fg=\"green\", width=10, command=lambda: on_mode(1))\nmode1_btn.grid(row=1, column=2, padx=5, pady=5)\nmode2_btn = tk.Button(ctrl_frame, text=\"Mode 2\", font=default_font, bg=\"#f0ad4e\", fg=\"green\", width=10, command=lambda: on_mode(2))\nmode2_btn.grid(row=1, column=3, padx=5, pady=5)\nmode3_btn = tk.Button(ctrl_frame, text=\"Mode 3\", font=default_font, bg=\"#f0ad4e\", fg=\"green\", width=10, command=lambda: on_mode(3))\nmode3_btn.grid(row=1, column=4, padx=5, pady=5)\nmode0_btn = tk.Button(ctrl_frame, text=\"Mode 0\", font=default_font, bg=\"#f0ad4e\", fg=\"green\", width=10, command=lambda: on_mode(0))\nmode0_btn.grid(row=1, column=5, padx=5, pady=5)\n\nstatus_var = tk.StringVar(value=\"Ready.\")\ntk.Label(root, textvariable=status_var, font=default_font, fg=\"blue\", anchor=\"w\").pack(fill=\"x\", padx=12)\n\nright_frame = tk.LabelFrame(root, text=\"Visualizations\", padx=10, pady=10, font=default_font)\nright_frame.pack(side=\"top\", fill=\"both\", expand=True, padx=10, pady=10)\n\ncontent_frame = tk.Frame(right_frame); content_frame.pack(fill=\"both\", expand=True)\n\nplots_frame = tk.Frame(content_frame); plots_frame.pack(side=\"left\", fill=\"both\", expand=True, padx=(0,10))\nplots_frame.grid_columnconfigure(0, weight=1); plots_frame.grid_columnconfigure(1, weight=1); plots_frame.grid_rowconfigure(0, weight=1)\n\ndiff_canvas = tk.Canvas(plots_frame, width=480, height=480, bg=\"white\", bd=1, relief=\"ridge\"); diff_canvas.grid(row=0, column=0, sticky=\"nsew\", padx=(0,5))\nlr_canvas   = tk.Canvas(plots_frame, width=480, height=480, bg=\"white\", bd=1, relief=\"ridge\"); lr_canvas.grid(row=0, column=1, sticky=\"nsew\", padx=(5,0))\n\nmode_canvas = tk.Canvas(content_frame, width=260, height=480, bg=\"white\", bd=1, relief=\"ridge\", highlightthickness=1)\nmode_canvas.pack(side=\"right\", fill=\"y\")\n\nupdate_modes_combined_chart()\n\n\nprint(\"[DEBUG] Entering mainloop…\", flush=True)\nroot.mainloop()\n",
+        "firstEditBubbleId": "e371eb9b-c4bd-4ce3-ae7b-23b007726bfe",
+        "isNewlyCreated": false,
+        "newlyCreatedFolders": []
+      }
+    },
+    "newlyCreatedFiles": [
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/09_CLI_SPEC.md",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/09_CLI_SPEC.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/10_ERP_FIELD_SCHEMA.md",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/10_ERP_FIELD_SCHEMA.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/11_CONNECTOR_ENDPOINTS.md",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/11_CONNECTOR_ENDPOINTS.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/12_LIVE_UPDATE_FLOW.md",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/12_LIVE_UPDATE_FLOW.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/13_SPEC_RECONCILIATION.md",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/13_SPEC_RECONCILIATION.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/14_IMPLEMENTATION_PLAN.md",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/14_IMPLEMENTATION_PLAN.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_cli.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/pts3_cli.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_api_server_script.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/pts3_api_server_script.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/PTS3%20Station%20Connector.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/PTS3 Station Connector.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3%20client%20script.js",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/pts3 client script.js",
+          "scheme": "file"
+        }
+      }
+    ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1773396008879,
+    "lastUpdatedAt": 1773396988610,
     "createdAt": 1773395733747,
-    "hasChangedContext": true,
+    "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
       {
@@ -222,11 +982,11 @@
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "plan",
-    "forceMode": "plan",
+    "unifiedMode": "agent",
+    "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 17.6965,
-    "contextTokensUsed": 35393,
+    "contextUsagePercent": 71.6725,
+    "contextTokensUsed": 143345,
     "contextTokenLimit": 200000,
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
@@ -235,11 +995,30 @@
     },
     "subComposerIds": [],
     "capabilityContexts": [],
-    "todos": [],
+    "todos": [
+      {
+        "id": "1",
+        "content": "Add CLI arg parse and entry point before GUI",
+        "status": "completed",
+        "dependencies": []
+      },
+      {
+        "id": "2",
+        "content": "Implement cli_submit, cli_step_sweep, cli_mode, cli_full_test",
+        "status": "completed",
+        "dependencies": []
+      },
+      {
+        "id": "3",
+        "content": "Add JSON event emission per event contract",
+        "status": "completed",
+        "dependencies": []
+      }
+    ],
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 0,
+    "totalLinesAdded": 2633,
     "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -261,12 +1040,13 @@
     "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
-    "conversationState": "~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R1BUICBUUklBTFxwdHMxIHRlc3RccHRzMSBjbGllbnQgc2NyaXB0LmpzkgFeYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxQVFMxX1Rlc3RfQ2xpZW50X1NjcmlwdC5qc5IBX2M6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcY3JlYXRlX3B0czFfbGFuZV9kb2N0eXBlLnB5kgFmYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxjcmVhdGVfcHRzMV9sYW5lX3Jlc3VsdF9kb2N0eXBlLnB5kgFnYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxzZXR1cF9wdHMxX3Rlc3RfbGFuZXNfYW5kX3NjcmlwdC5weZIBUmM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcYWN0dWFsX3Rlc3QucHmSAVljOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXFBUUzFfREVQTE9ZX05FV19VSS5tZJIBbmM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcVVBTRVJUX1BUUzFfVVBMT0FEX1JFU1VMVF9TRVJWRVJfU0NSSVBULnB5EOXRkbXOMxjl0ZG1zjMiAiIAkgFjYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxwdHMxIHRlc3RccHRzMSBjbGllbnQgc2NyaXB0LmpzkgFdYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxQVFMzIHRlc3RcQVVUT19QVFMzdjE2LnB5kgFgYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxQVFMzIHRlc3RcU2NvcGVfaGVhZGVyX3YyLnB5",
+    "conversationState": "~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SEFSR1BUICBUUklBTFxQVFMzIHRlc3RccHRzM19jbGkucHkSIgogMaeQk5PsDq1EDcV3Kd/N2l57dkaw2byp2qJWcBiaVTx6igEKZGM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcUFRTMyB0ZXN0XDEyX0xJVkVfVVBEQVRFX0ZMT1cubWQSIgoglp+rlGMrAnbI683wIGH3LMWccCJ0+hjofsbepGNadox6igEKZGM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcUFRTMyB0ZXN0XDEwX0VSUF9GSUVMRF9TQ0hFTUEubWQSIgog0clt1azUgi0yXaNNzLbc40I8zdH2mI9JwkbMK/qW5yt6jQEKZ2M6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcUFRTMyB0ZXN0XFBUUzMgU3RhdGlvbiBDb25uZWN0b3IucHkSIgogYOKTxeXYhnj0q99AjchmsyXMP0AX0NUDhxQfj3Wad1N6iQEKY2M6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcUFRTMyB0ZXN0XHB0czMgY2xpZW50IHNjcmlwdC5qcxIiCiCOn8vWNRcl1rgmAKycGPAr2MZatYmKj7gvfQFZXyMksnqNAQpnYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxQVFMzIHRlc3RcMTRfSU1QTEVNRU5UQVRJT05fUExBTi5tZBIiCiBP8V0Arf74swJzRT/lkM7E4lSB4HMafe3uiWMd/Lxa7HqCAQpcYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxQVFMzIHRlc3RcMDlfQ0xJX1NQRUMubWQSIgogwzpsy1jkLCdatIzFBl9M368d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QU1QTEVTXENIQVJHUFQgIFRSSUFMXHB0czEgdGVzdFxwdHMgYXBpIHNlcnZlciBzY3JpcHQgMDItMDMtMjAyNiAtIENvcHkucHmSAWNjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXHB0czEgdGVzdFxwdHMxIGNsaWVudCBzY3JpcHQuanOSAV5jOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXFBUUzFfVGVzdF9DbGllbnRfU2NyaXB0LmpzkgFfYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxjcmVhdGVfcHRzMV9sYW5lX2RvY3R5cGUucHmSAWZjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXGNyZWF0ZV9wdHMxX2xhbmVfcmVzdWx0X2RvY3R5cGUucHmSAWdjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXHNldHVwX3B0czFfdGVzdF9sYW5lc19hbmRfc2NyaXB0LnB5kgFSYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxhY3R1YWxfdGVzdC5weZIBWWM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcUFRTMV9ERVBMT1lfTkVXX1VJLm1kkgFuYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxVUFNFUlRfUFRTMV9VUExPQURfUkVTVUxUX1NFUlZFUl9TQ1JJUFQucHkQ5dGRtc4zGOXRkbXOMyICIgCSAWNjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXHB0czEgdGVzdFxwdHMxIGNsaWVudCBzY3JpcHQuanOSAV1jOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXFBUUzMgdGVzdFxBVVRPX1BUUzN2MTYucHmSAWBjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXFBUUzMgdGVzdFxTY29wZV9oZWFkZXJfdjIucHmSAStjOlxVc2Vyc1xwY1xEb3dubG9hZHNcMDFfUFJPSkVDVF9DT05URVhULm1kkgEqYzpcVXNlcnNccGNcRG93bmxvYWRzXDA0X0VWRU5UX0NPTlRSQUNULm1kkgEzYzpcVXNlcnNccGNcRG93bmxvYWRzXDAyX0NVUlJFTlRfUFlUSE9OX0JFSEFWSU9SLm1kkgEzYzpcVXNlcnNccGNcRG93bmxvYWRzXDAzX1RBUkdFVF9FUlBfQVJDSElURUNUVVJFLm1kkgEoYzpcVXNlcnNccGNcRG93bmxvYWRzXDA1X0VSUF9ET0NUWVBFUy5tZJIBKmM6XFVzZXJzXHBjXERvd25sb2Fkc1wwNl9DT05ORUNUT1JfRkxPVy5tZJIBK2M6XFVzZXJzXHBjXERvd25sb2Fkc1wwN19FUlBfVUlfQkVIQVZJT1IubWSSATFjOlxVc2Vyc1xwY1xEb3dubG9hZHNcMDhfSU1QTEVNRU5UQVRJT05fUEhBU0VTLm1kkgFcYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxQVFMzIHRlc3RcMDlfQ0xJX1NQRUMubWSSAWRjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXFBUUzMgdGVzdFwxMF9FUlBfRklFTERfU0NIRU1BLm1kkgFnYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxQVFMzIHRlc3RcMTFfQ09OTkVDVE9SX0VORFBPSU5UUy5tZJIBZGM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhBTVBMRVNcQ0hBUkdQVCAgVFJJQUxcUFRTMyB0ZXN0XDEyX0xJVkVfVVBEQVRFX0ZMT1cubWSSAWdjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXFBUUzMgdGVzdFwxM19TUEVDX1JFQ09OQ0lMSUFUSU9OLm1kkgF4YzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxwdHMxIHRlc3RccHRzIGFwaSBzZXJ2ZXIgc2NyaXB0IDAyLTAzLTIwMjYgLSBDb3B5LnB5kgFnYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxwdHMxIHRlc3RcUFRTMSBTdGF0aW9uIENvbm5lY3Rvci5weQ==",
     "queueItems": [],
-    "latestChatGenerationUUID": "32b1040b-13fa-4d37-ae8e-3e19ed2c803e",
-    "isAgentic": false,
-    "subtitle": "Read Scope_header_v2.py, AUTO_PTS3v16.py, pts1 client script.js",
-    "filesChangedCount": 0
+    "latestChatGenerationUUID": "489b24d9-716c-4d46-85a1-b831c7d98d33",
+    "isAgentic": true,
+    "subtitle": "Edited AUTO_PTS3v16.py, pts3_api_server_script.py, PTS3 Station Connector.py, 14_IMPLEMENTATION_PLAN.md, pts3 client script.js",
+    "filesChangedCount": 11,
+    "firstTodoWriteBubble": "231ae9b9-27d1-4da4-b6e2-b519cc409843"
   },
-  "extracted_at": "2026-03-13T15:33:04.188455"
+  "extracted_at": "2026-03-13T15:53:06.078156"
 }
