@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "18c06258-b92a-44cd-9fe5-6439e08d7001",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"why this form is only 50% of the screen \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"why this form is only 50% of the screen \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"also i want the connector programm to give \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "why this form is only 50% of the screen \n\n\n",
+    "text": "why this form is only 50% of the screen \n\n\nalso i want the connector programm to give ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "e2e4aa38-650a-4701-beb7-d3262df00ad5",
@@ -7025,5 +7025,5 @@
     "filesChangedCount": 63,
     "firstTodoWriteBubble": "4db534e2-1786-4d82-8388-80a120ef1633"
   },
-  "extracted_at": "2026-03-16T16:53:03.382472"
+  "extracted_at": "2026-03-16T17:03:03.494977"
 }
