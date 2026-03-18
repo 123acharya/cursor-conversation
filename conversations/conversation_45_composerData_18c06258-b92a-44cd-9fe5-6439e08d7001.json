@@ -5942,6 +5942,7 @@
     "createdAt": 1773395733747,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
+    "editingBubbleId": "6982ecb7-72ba-4738-a865-489c43b96438",
     "capabilities": [
       {
         "type": 30,
@@ -6068,9 +6069,9 @@
     "queueItems": [],
     "latestChatGenerationUUID": "e4d20251-c68e-4645-93ff-9b534ef2b1a3",
     "isAgentic": true,
-    "subtitle": "Edited PTS3_BOOK_DEPLOYMENT.md, pts3_book.js, pts3_api_server_script.py, PTS3_RUNNER_README.md, pts3_connector.py",
+    "subtitle": "Edited 13_SPEC_RECONCILIATION.md, 36_PTS3_LIVE_RUN_EXECUTION_GUIDE.md, 22_PTS3_API_HARDENING_REPORT.md, run_pts3_fix_then_open.bat, PTS3_RUNNER_README.md",
     "filesChangedCount": 68,
     "firstTodoWriteBubble": "db12d438-2f3e-474f-a44c-935a13852ca3"
   },
-  "extracted_at": "2026-03-18T13:43:03.076534"
+  "extracted_at": "2026-03-18T13:53:04.163622"
 }
