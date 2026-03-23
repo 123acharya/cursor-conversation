@@ -31005,7 +31005,7 @@
     "queueItems": [],
     "latestChatGenerationUUID": "f98ffdad-4ff4-452a-b331-1cf3b0e4b9c8",
     "isAgentic": true,
-    "subtitle": "Edited SIMPLEWALL_ERP_ACCESS_SETUP.md, DIAGNOSE_FIREWALL_TEST.ps1, TEST_FROM_CLIENT_PC.bat, FIX_CLIENT_ACCESS_192_168_1_50.bat, FIX_CLIENT_ACCESS_192_168_1_50.ps1",
+    "subtitle": "Edited _extract_script_for_restore.py, UPSERT_PCB_IQC_MASTER_LEDGER_UNIFIED_RACE_FIX.py, ENABLE_SE_1_2_3_4_6_DISABLE_5.py, ENABLE_ALL_STOCK_ENTRY_SCRIPTS_INCLUDING_5.py, ENABLE_SE_1_2_3_4_ONLY.py",
     "filesChangedCount": 58,
     "firstTodoWriteBubble": "51679749-85e6-4926-bdde-20040da1f1a2",
     "planEditSnapshots": {
@@ -32442,5 +32442,5 @@
       }
     }
   },
-  "extracted_at": "2026-03-23T11:33:06.065544"
+  "extracted_at": "2026-03-23T11:43:19.241603"
 }
