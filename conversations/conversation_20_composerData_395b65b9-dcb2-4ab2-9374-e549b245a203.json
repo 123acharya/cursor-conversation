@@ -8,42 +8,6 @@
     "text": "",
     "fullConversationHeadersOnly": [
       {
-        "bubbleId": "9dd43bfc-5afa-41e8-91b4-18d5fd28dee0",
-        "type": 1
-      },
-      {
-        "bubbleId": "c46d6f17-8892-4393-997a-8602418f8bbc",
-        "type": 2
-      },
-      {
-        "bubbleId": "f97611b6-ece6-4316-8e66-d9e791195091",
-        "type": 2
-      },
-      {
-        "bubbleId": "3a607898-61d3-47d1-8c8d-a9b3286f993b",
-        "type": 2
-      },
-      {
-        "bubbleId": "1ee8923f-4094-45c6-a9fa-dd3c2f6f0b16",
-        "type": 2
-      },
-      {
-        "bubbleId": "bb509405-a470-4704-9b31-84c9a5de112f",
-        "type": 2
-      },
-      {
-        "bubbleId": "2964cb8c-9859-4b6c-be9e-27f08119c7be",
-        "type": 2
-      },
-      {
-        "bubbleId": "d7f7dd5f-4ae3-49a9-b07b-1d6383cc5433",
-        "type": 2
-      },
-      {
-        "bubbleId": "26c1403b-9c5f-49b1-b647-1046b2cabdab",
-        "type": 2
-      },
-      {
         "bubbleId": "5a7e8ec9-d3c0-46e6-9c11-68d33d40e809",
         "type": 1
       },
@@ -31061,7 +31025,7 @@
     "queueItems": [],
     "latestChatGenerationUUID": "eab083cc-023e-475d-b7ed-7d834df0f8ca",
     "isAgentic": true,
-    "subtitle": "Edited GRANT_SYSTEM_MANAGER_ACHARYACGPT.py, SIMPLEWALL_ERP_ACCESS_SETUP.md, DIAGNOSE_FIREWALL_TEST.ps1, TEST_FROM_CLIENT_PC.bat, FIX_CLIENT_ACCESS_192_168_1_50.bat",
+    "subtitle": "Edited GRANT_SYSTEM_MANAGER_ACHARYACGPT.py",
     "filesChangedCount": 59,
     "firstTodoWriteBubble": "51679749-85e6-4926-bdde-20040da1f1a2",
     "planEditSnapshots": {
@@ -32498,5 +32462,5 @@
       }
     }
   },
-  "extracted_at": "2026-03-24T17:33:02.435087"
+  "extracted_at": "2026-03-24T17:53:06.035491"
 }
