@@ -11981,111 +11981,6 @@
         "bubbleId": "0a5bc13d-428c-48ff-a9dd-4f4f9ca30cf6",
         "type": 1,
         "serverBubbleId": "0a5bc13d-428c-48ff-a9dd-4f4f9ca30cf6"
-      },
-      {
-        "bubbleId": "38038f28-b38b-47c2-923d-50d0cd8a3297",
-        "type": 2,
-        "serverBubbleId": "5d5bf8ab-3300-5fd0-8ed0-32603410bd43"
-      },
-      {
-        "bubbleId": "3424bcd8-f6da-45f9-928e-3799949b18bb",
-        "type": 2,
-        "serverBubbleId": "0d1fd645-3c3a-5d46-95af-e43176da8d9b"
-      },
-      {
-        "bubbleId": "0bc0b6e5-c758-447c-ab0f-924e03d23342",
-        "type": 2,
-        "serverBubbleId": "116a9b36-08ef-5099-8743-627308651cba"
-      },
-      {
-        "bubbleId": "636a0e77-5dd6-442e-94f1-656c8bf3ef6d",
-        "type": 2,
-        "serverBubbleId": "346e4278-fd5a-5f4f-bd39-07a0a8c7de13"
-      },
-      {
-        "bubbleId": "082b6f61-50a7-4216-8bc8-041bb463890f",
-        "type": 2,
-        "serverBubbleId": "12591149-f171-529e-a1c6-bad70b4e7bec"
-      },
-      {
-        "bubbleId": "3601c3d7-c7d7-4f76-b760-bf2f77888993",
-        "type": 2,
-        "serverBubbleId": "16818e50-765b-5deb-85ed-7c82550aee0a"
-      },
-      {
-        "bubbleId": "dfcc09cd-353c-4e07-bcc9-42d88263b807",
-        "type": 2,
-        "serverBubbleId": "9fdb80c5-c92f-5e0c-97dd-d4eda72e3b07"
-      },
-      {
-        "bubbleId": "8f7fbf3b-ddcc-4a00-80d9-9da7f8ca7690",
-        "type": 2,
-        "serverBubbleId": "e4b07808-150b-5d19-94ca-cad91c2f75fd"
-      },
-      {
-        "bubbleId": "187ca47e-f9e9-48a6-a447-d76f8c744507",
-        "type": 2,
-        "serverBubbleId": "002e3b03-cb1b-53b5-9909-3b6a234f73f4"
-      },
-      {
-        "bubbleId": "dbea2c3e-454b-4a9e-9d98-24eaae7f915e",
-        "type": 2,
-        "serverBubbleId": "734945c2-3f28-50ff-a8b5-726bc8bb4725"
-      },
-      {
-        "bubbleId": "7075ba96-3d29-48f6-b0b9-594e2b3a1666",
-        "type": 2,
-        "serverBubbleId": "2fd1508a-d0b8-51c9-8be1-2a91de0215ca"
-      },
-      {
-        "bubbleId": "41300414-bb61-4484-accb-90065716b3ed",
-        "type": 2,
-        "serverBubbleId": "f9cb7f04-7202-52ad-92cd-a6f736179ebe"
-      },
-      {
-        "bubbleId": "09ec567b-49b1-47da-b114-bd563d8c7810",
-        "type": 2,
-        "serverBubbleId": "cd0a4adc-cd3b-5f58-a43f-465d01627c2f"
-      },
-      {
-        "bubbleId": "b7b5dcfc-2d6a-4c59-9b61-e490d9acaf9e",
-        "type": 2,
-        "serverBubbleId": "14459215-b0e9-526d-9263-268257d454a5"
-      },
-      {
-        "bubbleId": "84e4d903-c94d-44be-a28a-42e87f243393",
-        "type": 2,
-        "serverBubbleId": "7ba199f8-fc8d-5bb2-9ebe-df5eb2141c9a"
-      },
-      {
-        "bubbleId": "0b88f3aa-c754-4351-806d-2773bcb75e97",
-        "type": 2,
-        "serverBubbleId": "d6513770-46b9-5dfe-be20-91a0c71eb03b"
-      },
-      {
-        "bubbleId": "417b428b-541a-4a0c-a7db-414a0d5211b4",
-        "type": 2,
-        "serverBubbleId": "c5335939-35c4-54b6-be10-5b6aea2bad64"
-      },
-      {
-        "bubbleId": "554b5879-2194-48bc-8637-86c81bb28146",
-        "type": 2,
-        "serverBubbleId": "cf7dfb50-1c55-5585-a149-f5ca3fbe41d4"
-      },
-      {
-        "bubbleId": "2e9b3509-5b50-47d7-8053-2aa36f20799a",
-        "type": 2,
-        "serverBubbleId": "4857441a-fbf1-5fb6-954f-31328d7e1bc2"
-      },
-      {
-        "bubbleId": "f11663c7-a061-401c-b564-3b4efe6978b1",
-        "type": 2,
-        "serverBubbleId": "61e8c080-6aaf-5e07-93f5-1d1502b2e976"
-      },
-      {
-        "bubbleId": "9f7cf84d-777a-475f-9cbf-5c3e2148d31b",
-        "type": 2,
-        "serverBubbleId": "764dffba-c488-5ae8-82db-bd23946e79dd"
       }
     ],
     "conversationMap": {},
@@ -12540,8 +12435,8 @@
     ],
     "latestChatGenerationUUID": "f8049752-721d-4e48-9a15-c37a6a698872",
     "isAgentic": true,
-    "subtitle": "Edited pts1 client script.js, pts api server script 02-03-2026 - Copy.py, PTS1 Station Connector.py, com_scan_headless.py, ERP_PTS-1.py",
+    "subtitle": "Edited pts api server script 02-03-2026 - Copy.py, pts1 client script.js, PTS1 Station Connector.py, com_scan_headless.py, ERP_PTS-1.py",
     "filesChangedCount": 11
   },
-  "extracted_at": "2026-03-24T19:23:01.562049"
+  "extracted_at": "2026-03-24T19:33:25.937419"
 }
