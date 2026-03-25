@@ -32003,7 +32003,7 @@
     "queueItems": [],
     "latestChatGenerationUUID": "e978e1a3-f012-487e-8248-4b01792b8472",
     "isAgentic": true,
-    "subtitle": "Edited ENSURE_ACCOUNTS_RAPTURE_STOCK_COMPLETE.py, FIX_STOCK_MODULE_VISIBILITY_ACCOUNTS_RAPTURE.py, DIAGNOSE_STOCK_VISIBILITY_RAPTURE.py, DEDICATED_ROLE_PROFILE_ACCOUNTS_RAPTURE.py",
+    "subtitle": "Edited DIAGNOSE_STOCK_VISIBILITY_RAPTURE.py, DIAGNOSE_USER_ROLES_ACCOUNTS2.py, DIAGNOSE_USER_ROLES_ACCOUNTS.py, _extract_script_for_restore.py, UPSERT_PCB_IQC_MASTER_LEDGER_UNIFIED_RACE_FIX.py",
     "filesChangedCount": 63,
     "planEditSnapshots": {
       "19": {
@@ -33588,5 +33588,5 @@
       }
     }
   },
-  "extracted_at": "2026-03-25T17:33:03.008936"
+  "extracted_at": "2026-03-25T17:43:02.957452"
 }
