@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "395b65b9-dcb2-4ab2-9374-e549b245a203",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"RIGHT NOW ITS VISIBLE TO HIM NOW WE HAVE GIVE HIM ACCESS TO EXPORT AND DOWNLOAD THE PR\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "RIGHT NOW ITS VISIBLE TO HIM NOW WE HAVE GIVE HIM ACCESS TO EXPORT AND DOWNLOAD THE PR",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "be727735-9b7b-4baf-829b-26b576771605",
@@ -33588,5 +33588,5 @@
       }
     }
   },
-  "extracted_at": "2026-03-25T19:23:03.039902"
+  "extracted_at": "2026-03-25T19:33:02.973257"
 }
