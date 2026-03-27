@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "395b65b9-dcb2-4ab2-9374-e549b245a203",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"nice now i need somthing else \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"in warehouse under assembly main -r i have added new warehouse call Driver line-R \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so in stock entry for material trasfer for manufactureing purpose rig\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "nice now i need somthing else \nin warehouse under assembly main -r i have added new warehouse call Driver line-R \nso in stock entry for material trasfer for manufactureing purpose rig",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "dc022e71-9b70-4ab2-a22b-ded86b4223f8",
@@ -33566,5 +33566,5 @@
       }
     }
   },
-  "extracted_at": "2026-03-27T18:13:02.507573"
+  "extracted_at": "2026-03-27T18:23:01.959748"
 }
