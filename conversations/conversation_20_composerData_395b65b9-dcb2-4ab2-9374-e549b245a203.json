@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "395b65b9-dcb2-4ab2-9374-e549b245a203",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"STILL I CANNOT SEE THE DRIVERLINE \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"ALSO THERE ARE SO MAY SERVERSECRIPT JUST FOR SETCO IN \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "STILL I CANNOT SEE THE DRIVERLINE \nALSO THERE ARE SO MAY SERVERSECRIPT JUST FOR SETCO IN ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "dc022e71-9b70-4ab2-a22b-ded86b4223f8",
@@ -5088,7 +5088,18 @@
       "composers": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [],
+      "selectedImages": [
+        {
+          "uuid": "5d5e46cb-fb72-4cff-ab84-a23cdf2935a3",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-b0f352dc-1801-4917-b2a6-645f2e357342.png",
+          "dimension": {
+            "width": 2344,
+            "height": 912
+          },
+          "loadedAt": 1774617710140,
+          "addedWithoutMention": true
+        }
+      ],
       "folderSelections": [],
       "fileSelections": [],
       "selections": [],
@@ -32061,7 +32072,7 @@
     "newlyCreatedFolders": [],
     "lastUpdatedAt": 1774616201607,
     "createdAt": 1769835758710,
-    "hasChangedContext": false,
+    "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
       {
@@ -33972,5 +33983,5 @@
       }
     }
   },
-  "extracted_at": "2026-03-27T18:43:02.280264"
+  "extracted_at": "2026-03-27T18:53:02.202227"
 }
