@@ -31896,7 +31896,7 @@
     "queueItems": [],
     "latestChatGenerationUUID": "d8a183bf-500a-4fff-97dd-86d5455d1551",
     "isAgentic": true,
-    "subtitle": "Edited PATCH_BOM_FILTER_SKIP_SUBCONTRACTING_TYPES.py, DRIVER_LINE_WAREHOUSE_WHY_NOT_VISIBLE.txt, ENSURE_DRIVER_LINE_WAREHOUSE_FOR_MTFM.py, WHERE_TO_UPLOAD_DRIVER_LINE_SCRIPTS.txt, PATCH_PCB_SCAN_ASSEMBLY_MAIN_PARENT_FILTER.py",
+    "subtitle": "Edited PATCH_BOM_FILTER_SKIP_SUBCONTRACTING_TYPES.py, _DUMP_PCB_SCAN_FULL.py, _DUMP_PCB_SCAN_SNIP.py, DIAGNOSE_STOCK_VISIBILITY_RAPTURE.py, DIAGNOSE_USER_ROLES_ACCOUNTS2.py",
     "filesChangedCount": 70,
     "planEditSnapshots": {
       "19": {
@@ -33630,5 +33630,5 @@
       }
     }
   },
-  "extracted_at": "2026-03-28T16:23:55.964973"
+  "extracted_at": "2026-03-28T16:33:03.266584"
 }
