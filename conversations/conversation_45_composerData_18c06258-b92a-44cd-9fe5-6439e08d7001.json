@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "18c06258-b92a-44cd-9fe5-6439e08d7001",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"its been almost a week i forgot wher\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "its been almost a week i forgot wher",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "7099c78a-d071-41d6-b085-e3fcc7a519fa",
@@ -6072,5 +6072,5 @@
     "filesChangedCount": 68,
     "firstTodoWriteBubble": "db12d438-2f3e-474f-a44c-935a13852ca3"
   },
-  "extracted_at": "2026-03-28T16:03:03.520775"
+  "extracted_at": "2026-03-28T16:23:55.997031"
 }
