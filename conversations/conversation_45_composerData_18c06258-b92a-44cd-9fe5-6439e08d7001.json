@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "18c06258-b92a-44cd-9fe5-6439e08d7001",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"when we open the pts3 book and selec a serial number it should first show latest the right left channel output  \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"when we open the pts3 book and selec a serial number it should first show latest the right left channel output VS HZ GRAPH THEN DIFFVS HZ GRAPH THEN LATEST MODE\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "when we open the pts3 book and selec a serial number it should first show latest the right left channel output  ",
+    "text": "when we open the pts3 book and selec a serial number it should first show latest the right left channel output VS HZ GRAPH THEN DIFFVS HZ GRAPH THEN LATEST MODE",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "865c9453-10ca-4d86-903c-75ebcb80ecf0",
@@ -6199,5 +6199,5 @@
     "subtitle": "Edited pts3_book.js, pts3_api_server_script.py, pts3_connector.py, pts3_runner_daemon.py, pts3_result_client_script.js",
     "filesChangedCount": 73
   },
-  "extracted_at": "2026-04-02T13:33:02.235104"
+  "extracted_at": "2026-04-02T13:43:03.691919"
 }
