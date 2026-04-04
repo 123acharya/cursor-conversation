@@ -5707,7 +5707,7 @@
     "contextUsagePercent": 51.00955882352941,
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
-      "modelName": "default",
+      "modelName": "composer-2-fast",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -5742,8 +5742,8 @@
     "queueItems": [],
     "latestChatGenerationUUID": "1a2c9b45-7d40-4b23-82cd-abc48f6bd9d2",
     "isAgentic": true,
-    "subtitle": "Edited pts3_connector.py, pts3_api_server_script.py",
+    "subtitle": "Edited 20_DOCTYPE_VERIFICATION_REPORT.md, run_create_pts3_doctypes.bat, 10_ERP_FIELD_SCHEMA.md, pts3_cli.py, pts3_client_script.js",
     "filesChangedCount": 76
   },
-  "extracted_at": "2026-04-04T09:43:10.772738"
+  "extracted_at": "2026-04-04T09:53:02.539866"
 }
