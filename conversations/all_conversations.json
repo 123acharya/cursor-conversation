@@ -44013,7 +44013,7 @@
       "filesChangedCount": 545,
       "firstTodoWriteBubble": "829423d0-71ad-40ac-9549-6be619b5f672"
     },
-    "extracted_at": "2026-04-04T17:03:17.682220"
+    "extracted_at": "2026-04-04T17:13:03.630820"
   },
   {
     "key": "composerData:11b622ee-1cd8-478e-89c0-a5e470f25415",
@@ -45933,10 +45933,290 @@
         {
           "bubbleId": "de14666b-c7f0-4c14-8249-1ba09b10fcf9",
           "type": 2
+        },
+        {
+          "bubbleId": "99dc8df5-cbb6-4c7f-9926-0e3b5e4eacd2",
+          "type": 1
+        },
+        {
+          "bubbleId": "043183b7-51bc-40cc-886e-71e554ba03b9",
+          "type": 2
+        },
+        {
+          "bubbleId": "de2ece4e-ca03-4524-92a3-2d19bb470800",
+          "type": 2
+        },
+        {
+          "bubbleId": "c31a5bce-2252-4283-8a40-12188cf4cb48",
+          "type": 2
+        },
+        {
+          "bubbleId": "9d1846c0-34cf-407b-a934-79471c815f1d",
+          "type": 2
+        },
+        {
+          "bubbleId": "a809aad2-bd27-41e4-bc16-c0e384961ca2",
+          "type": 2
+        },
+        {
+          "bubbleId": "29482194-c976-4ce1-b69d-abb6360fffe7",
+          "type": 2
+        },
+        {
+          "bubbleId": "195b5697-b026-44e2-8f42-1fc0e9efd9ea",
+          "type": 2
+        },
+        {
+          "bubbleId": "2f31d15d-3368-49cc-93cb-7f6d801644e4",
+          "type": 2
+        },
+        {
+          "bubbleId": "bb5c26be-3e49-47d9-8636-7ec903d0899c",
+          "type": 2
+        },
+        {
+          "bubbleId": "9ec92535-72e7-4613-8a58-68659119828c",
+          "type": 2
+        },
+        {
+          "bubbleId": "38e36549-70e7-47fc-b023-1df4a9e0414d",
+          "type": 2
+        },
+        {
+          "bubbleId": "b88e4daf-cd3c-49a5-a350-8667e3b4fc5e",
+          "type": 2
+        },
+        {
+          "bubbleId": "ddb2d0a7-e9fa-4de9-8107-34e99e772087",
+          "type": 2
+        },
+        {
+          "bubbleId": "44984bd4-1675-4a7d-a9ff-dc6df9feaac2",
+          "type": 2
+        },
+        {
+          "bubbleId": "39c07a95-022a-4ea4-a4b5-c540a65d3d4a",
+          "type": 2
+        },
+        {
+          "bubbleId": "0e26386b-e6bb-4772-a211-edbc476adc69",
+          "type": 2
+        },
+        {
+          "bubbleId": "05bf5f00-3af7-4413-bd7d-1cb273565fda",
+          "type": 2
+        },
+        {
+          "bubbleId": "91e481b2-6c0d-4a7c-b570-571fb28ea32a",
+          "type": 2
+        },
+        {
+          "bubbleId": "3bc1e03e-d90d-4beb-a390-40ade0b925f7",
+          "type": 2
+        },
+        {
+          "bubbleId": "d05db4a5-9775-4be8-b98c-494bf8e1cd2d",
+          "type": 2
+        },
+        {
+          "bubbleId": "0d08261f-f01a-422e-8316-65375321d62a",
+          "type": 2
+        },
+        {
+          "bubbleId": "6266b8b9-d944-4274-8c7b-d4f1caa2f533",
+          "type": 2
+        },
+        {
+          "bubbleId": "4dc31869-60c3-4c40-9e04-1f44cc97c9ac",
+          "type": 2
+        },
+        {
+          "bubbleId": "3e859d5e-385d-47c1-9164-cfc8247e8dc0",
+          "type": 2
+        },
+        {
+          "bubbleId": "d9d26df5-03c6-4911-94c4-8561e1134d41",
+          "type": 2
+        },
+        {
+          "bubbleId": "e298d933-2393-4815-a7a8-1019a2639ed1",
+          "type": 2
+        },
+        {
+          "bubbleId": "7111d58c-a185-4052-8720-552f9df10b4c",
+          "type": 2
+        },
+        {
+          "bubbleId": "5d6f1dc6-b535-4daa-ad93-1e73b30a509d",
+          "type": 2
+        },
+        {
+          "bubbleId": "adfce933-a64f-4261-8291-57f21971069a",
+          "type": 2
+        },
+        {
+          "bubbleId": "86002bd4-e7da-427b-9c68-ded9c6d4cb5c",
+          "type": 2
+        },
+        {
+          "bubbleId": "b4f8c826-867c-44b6-92bf-e93aac88dd27",
+          "type": 2
+        },
+        {
+          "bubbleId": "fce6c18d-8da8-42a7-90e8-a5bcd95e129a",
+          "type": 2
+        },
+        {
+          "bubbleId": "a5124108-8f7a-46a7-ba63-12d5875e463e",
+          "type": 2
+        },
+        {
+          "bubbleId": "ff3eaecf-5844-4861-a3b2-04d1a4cd0616",
+          "type": 2
+        },
+        {
+          "bubbleId": "e801d3d8-7a49-48b8-bb4a-0e346cecdada",
+          "type": 2
+        },
+        {
+          "bubbleId": "72760ca2-da59-4a7f-a3b3-ab77564d73dd",
+          "type": 2
+        },
+        {
+          "bubbleId": "92c94e8f-da64-4f5d-a908-cabdcb383222",
+          "type": 2
+        },
+        {
+          "bubbleId": "47f79f0d-0c6b-4c46-a5ac-3416ea03e324",
+          "type": 2
+        },
+        {
+          "bubbleId": "f3ffbf9a-1ff2-4d61-8b69-10ed4f0b57c5",
+          "type": 2
+        },
+        {
+          "bubbleId": "3ef3afd6-2101-411b-aa12-1000eb80a2bc",
+          "type": 2
+        },
+        {
+          "bubbleId": "54d93114-cc40-45f3-8d78-d4df4688ece9",
+          "type": 2
+        },
+        {
+          "bubbleId": "12109b87-687e-4f99-89a4-9dde090b89d1",
+          "type": 2
+        },
+        {
+          "bubbleId": "51f7e3cc-7a19-491a-9eb5-3fac28e38116",
+          "type": 2
+        },
+        {
+          "bubbleId": "ef1c4e57-4dfe-4486-9071-3b9332d1ba7f",
+          "type": 2
+        },
+        {
+          "bubbleId": "e5c2a9e0-f8ff-4995-90b1-cbc38a1d2562",
+          "type": 2
+        },
+        {
+          "bubbleId": "16174ebe-a860-4cb0-ba0d-90c89bc87fc1",
+          "type": 2
+        },
+        {
+          "bubbleId": "a91affeb-1e20-4898-9aa2-9d548975d547",
+          "type": 2
+        },
+        {
+          "bubbleId": "9448671b-b19e-490e-93a4-801c16cb135b",
+          "type": 2
+        },
+        {
+          "bubbleId": "44cfeb1b-cfb0-4e32-97b2-0ba1808517d0",
+          "type": 2
+        },
+        {
+          "bubbleId": "ae052d08-9553-4e29-97f4-fa5cbf569bd6",
+          "type": 2
+        },
+        {
+          "bubbleId": "f24ee01e-d122-4ad1-b6d8-a2ee15e9f861",
+          "type": 2
+        },
+        {
+          "bubbleId": "3400fcf5-582b-440c-8791-1fa09552aeb3",
+          "type": 2
+        },
+        {
+          "bubbleId": "f71adbdc-5d0e-48d3-aa07-886a2bfa9f25",
+          "type": 2
+        },
+        {
+          "bubbleId": "8e07cf21-a4f9-4aa0-940f-2a369a2926b9",
+          "type": 2
+        },
+        {
+          "bubbleId": "190b6108-e5f9-4752-b432-7d1370506596",
+          "type": 2
+        },
+        {
+          "bubbleId": "4e574a1e-1b60-4a31-acda-a952e46d4265",
+          "type": 2
+        },
+        {
+          "bubbleId": "a9d5dea9-c8d0-4775-8c0b-75a8133b11ad",
+          "type": 1
+        },
+        {
+          "bubbleId": "dddd5c9e-1745-4938-91a2-52f3d8c94fe6",
+          "type": 2
+        },
+        {
+          "bubbleId": "3b1b5aad-fb50-404b-bf48-d7117e15ca56",
+          "type": 2
+        },
+        {
+          "bubbleId": "de86295d-fe53-4197-95b0-0cb49f6be2f7",
+          "type": 2
+        },
+        {
+          "bubbleId": "45d15dd3-df92-4491-93e7-a321e04785a2",
+          "type": 2
+        },
+        {
+          "bubbleId": "ea9fd6b6-18ea-4cd7-a87b-8589751ed139",
+          "type": 2
+        },
+        {
+          "bubbleId": "4acb3c0c-dd45-4b50-b3df-6c0275d9ea30",
+          "type": 2
+        },
+        {
+          "bubbleId": "d929bb73-d03e-4978-a158-e328464ebc6b",
+          "type": 2
+        },
+        {
+          "bubbleId": "3c0a2334-bb2f-4e2a-a4e7-b0d559c0a14c",
+          "type": 2
+        },
+        {
+          "bubbleId": "22a44ce3-10d9-4c0e-bacc-6770e274f944",
+          "type": 2
+        },
+        {
+          "bubbleId": "08338475-945b-44f0-845e-a6e5c1bf2ace",
+          "type": 2
+        },
+        {
+          "bubbleId": "e86c4582-5f71-403d-9bd2-37e89fe5db37",
+          "type": 2
+        },
+        {
+          "bubbleId": "8fed89b5-e378-4909-a00e-1e0e56aee2a3",
+          "type": 2
         }
       ],
       "conversationMap": {},
-      "status": "completed",
+      "status": "aborted",
       "context": {
         "composers": [],
         "selectedCommits": [],
@@ -45996,6 +46276,7 @@
         "quotes": []
       },
       "generatingBubbleIds": [],
+      "chatGenerationUUID": "ee59b3c4-d145-4577-ac58-75062f61e520",
       "isReadingLongFile": false,
       "codeBlockData": {
         "file:///c%3A/Users/pc/Desktop/recover_cursor_chats.py": {
@@ -47657,6 +47938,18 @@
           "firstEditBubbleId": "8f670128-73b6-46c9-bd44-2039b9b31e42",
           "isNewlyCreated": true,
           "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_result_client_script.js": {
+          "content": "// ============================================================\n// PTS3 Result - Client Script (Visual Inspection)\n// DocType: PTS3 Result\n// Renders: Summary, Step Sweep (chart + table), Mode (chart + table), Left/Right/Diff, Artifacts\n// Uses final_graph_json, mode_values_json, left_right_diff_summary_json, artifact_paths\n// ============================================================\n\n(function () {\n  /** F12 console: filter by [PTS3] */\n  function pts3Dbg() {\n    try {\n      if (typeof console !== \"undefined\" && console.info) {\n        var a = Array.prototype.slice.call(arguments);\n        console.info.apply(console, [\"[PTS3]\"].concat(a));\n      }\n    } catch (e) {}\n  }\n\n  // Chart styling - theme-aware (light/dark mode compatible)\n  var CHART = {\n    width: 1000,\n    height: 500,\n    padding: { top: 20, right: 20, bottom: 40, left: 102 },\n    fontSize: 10,        // Axis and label font size (e.g. 8, 10, 12)\n    lineLeft: \"#E53935\",   // Red for Left\n    lineRight: \"#2196F3\",  // Blue for Right\n    lineDiff: \"#4CAF50\",   // Green for Diff\n    barP1: \"#E53935\",      // Red for P1 (Left)\n    barP2: \"#2196F3\",      // Blue for P2 (Right)\n    barDiff: \"#4CAF50\",    // Green for Diff\n    axisColor: \"var(--text-muted, #6c7680)\",\n    gridColor: \"var(--border-color, #d1d8dd)\"\n  };\n\n  /**\n   * Step Sweep + Diff vs Hz share font, grid/axis widths, tick size, xTickHz.\n   * yTickStep: Diff vs Hz Y grid step. yTickStepSweep: Step Sweep Y grid step (e.g. 250).\n   * yAxisTitleSweep / yAxisTitleDiff: Y-axis label (\"\" to hide).\n   * gridOpacity / gridStrokeWidth: major grid lines (both Step Sweep + Diff vs Hz).\n   * yAxisTitleGapPx: horizontal space from plot Y-axis to rotated title (larger = title further left).\n   */\n  var PTS3_SHARED_AXIS = {\n    fontSize: 20,\n    yAxisTitleGapPx: 96,\n    gridStrokeWidth: 2,\n    gridOpacity: 1,\n    axisStrokeWidth: 1,\n    tickLength: 4,\n    xTickHz: 2,\n    yTickStep: 40,\n    yTickStepSweep: 250,\n    maxYTicks: 16,\n    yAxisTitleSweep: \"Voltage in mV\",\n    yAxisTitleDiff: \"Difference\"\n  };\n\n  // Step Sweep Y-axis: both yMin and yMax set => fixed range (Left/Right scale; Diff is clipped in plot).\n  // One or both null => auto from Left+Right only (Diff does not shrink the axis).\n  var SWEEP_CHART = {\n    yMin: 1500,\n    yMax: 4000,\n    lineWidth: 2,\n    diffLineWidth: 1.5,\n    fontSize: null\n  };\n\n  // Mode bar chart + Diff vs frequency (Hz) line chart share these Y limits when set.\n  // Both yMin and yMax set => fixed axis for those charts (no auto expand). One or both null => auto from data where needed.\n  var MODE_CHART = {\n    yMin: -120,\n    yMax: 120,\n    fontSize: null\n  };\n\n  /**\n   * Mode Results horizontal bar chart only (X = value). Does not affect Diff vs Hz (uses MODE_CHART.yMin/yMax).\n   * plotWidth: SVG viewBox width (larger = wider graph). rowBand / innerGap: thicker bars when rowBand ↑ or innerGap ↓.\n   */\n  var MODE_HBAR = {\n    valueMin: 0,\n    valueMax: 3500,\n    tickStep: 250,\n    plotWidth: 1280,\n    rowBand: 78,\n    innerGap: 3,\n    labelColW: 108,\n    xTickFontShrink: 5,\n    /** Left / Right / Difference row only (px). Set null to match chart axis font (pts3_axis_font / MODE_CHART.fontSize). */\n    legendFontPx: 12\n  };\n\n  /** Sans stack for mode SVG text (matches legend; single-quoted names safe inside style=\"...\"). */\n  var PTS3_SANS_FONT_STACK_CSS = \"system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif\";\n\n  // Key/Left/Right/Diff vertical table from left_right_diff_summary_json (duplicate of Step Sweep channel table).\n  // Set true to show it again under result_inspection HTML.\n  var SHOW_LEFT_RIGHT_DIFF_SUMMARY_SECTION = false;\n\n  // Match Desk user menu \"Toggle Full Width\" (uses localStorage + body.full-width). Set false to leave desk width unchanged.\n  var PTS3_ENABLE_DESK_FULL_WIDTH_ON_LOAD = true;\n\n  var HTML2CANVAS_CDN = \"https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js\";\n  var INSPECTION_PNG_SCALE = 2.5;\n\n  if (document.getElementById(\"pts3-result-style-v9\") == null) {\n    [\"pts3-result-style\", \"pts3-result-style-v4\", \"pts3-result-style-v5\", \"pts3-result-style-v6\", \"pts3-result-style-v7\", \"pts3-result-style-v8\"].forEach(function (rid) {\n      var old = document.getElementById(rid);\n      if (old && old.parentNode) {\n        old.parentNode.removeChild(old);\n      }\n    });\n    var style = document.createElement(\"style\");\n    style.id = \"pts3-result-style-v9\";\n    style.textContent =\n      \".pts3-result-table td.pts3-diff-ok,.pts3-mode-step-table td.pts3-diff-ok{background:#d4edda!important;color:#1b5e20!important;font-weight:500;}.pts3-inspection-capture-root{width:100%;max-width:100%;box-sizing:border-box;margin:0;display:block;}.pts3-inspection-capture-body{width:100%;max-width:100%;box-sizing:border-box;position:relative;}.pts3-summary-mode-row{display:flex;flex-wrap:wrap;gap:1rem;align-items:stretch;width:100%;box-sizing:border-box;}.pts3-summary-mode-row>.pts3-result-section{flex:1 1 360px;min-width:min(100%,240px);margin:1rem 0;box-sizing:border-box;}.pts3-result-section{margin:1rem 0;padding:0.75rem;border:1px solid var(--border-color,#d1d8dd);border-radius:4px;}.pts3-result-section h4{margin:0 0 0.5rem 0;font-size:1rem;color:var(--text-color,#36414c);}.pts3-result-table{width:100%;max-width:100%;border-collapse:collapse;font-size:0.85em;}.pts3-result-table th,.pts3-result-table td{border:1px solid var(--border-color,#d1d8dd);padding:4px 8px;text-align:left;color:var(--text-color,#36414c);}.pts3-result-table th{background:var(--control-bg,#f5f7fa);}.pts3-result-artifact{margin:0.25rem 0;font-size:0.9em;}.pts3-result-no-data{color:var(--text-muted,#8d99a6);font-style:italic;}.pts3-result-pass{color:#27ae60;}.pts3-result-fail{color:#e74c3c;}.pts3-chart-wrap{margin:0.5rem 0;overflow:hidden;width:100%;max-width:100%;min-width:0;box-sizing:border-box;}.pts3-chart-wrap svg.pts3-chart-svg,.pts3-sweep-chart-container svg.pts3-chart-svg{display:block;width:100%;max-width:100%;height:auto;vertical-align:top;}.pts3-sweep-diff-row{display:flex;flex-wrap:wrap;gap:1rem;align-items:flex-start;margin:0.5rem 0;width:100%;max-width:100%;box-sizing:border-box;}.pts3-sweep-diff-col{flex:1 1 420px;min-width:min(100%,320px);box-sizing:border-box;}.pts3-sweep-diff-col .pts3-chart-wrap{margin:0;}.pts3-mode-layout{display:flex;flex-wrap:wrap;gap:1rem;align-items:stretch;}.pts3-mode-legend{width:100%;margin-bottom:0.25rem;font-family:system-ui,-apple-system,BlinkMacSystemFont,\\\"Segoe UI\\\",Roboto,\\\"Helvetica Neue\\\",Arial,sans-serif;}.pts3-mode-chart{flex:1 1 720px;min-width:min(100%,520px);}.pts3-mode-chart-only{flex:1 1 100%;min-width:0;}.pts3-sweep-chart-container{position:relative;display:block;cursor:crosshair;min-width:0;min-height:260px;width:100%;max-width:100%;}.pts3-sweep-tooltip{position:absolute;display:none;background:var(--gray-900,#36414c);color:var(--gray-100,#fff);padding:6px 10px;border-radius:4px;font-size:11px;font-family:monospace;white-space:nowrap;pointer-events:none;z-index:1000;box-shadow:0 2px 8px rgba(0,0,0,0.2);}.pts3-sweep-tooltip.visible{display:block;}.pts3-inspection-toolbar{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:0.65rem;padding-bottom:0.5rem;border-bottom:1px solid var(--border-color,#d1d8dd);}.pts3-mode-under-step{margin-top:1rem;padding-top:0.85rem;border-top:1px solid var(--border-color,#e2e8f0);}.pts3-mode-under-step-title{margin:0 0 0.5rem 0;font-size:0.95rem;font-weight:600;color:var(--text-color,#36414c);}.pts3-mode-step-table{font-size:0.9em;}.pts3-mode-step-table thead th{background:#f8f9fa!important;font-weight:700;color:#212529;border:1px solid #dee2e6!important;padding:8px 10px;}.pts3-mode-step-table tbody td{border:1px solid #dee2e6!important;padding:8px 10px;background:#fff;color:#212529;}.pts3-mode-step-table tbody td.pts3-mode-step-name{color:#1976d2;font-weight:500;}\";\n    document.head.appendChild(style);\n  }\n\n  /** Accepts JSON string or already-parsed object (some Frappe/API paths deserialize Code fields). */\n  function safe_json(val, fallback) {\n    if (val == null || val === \"\") return fallback || {};\n    if (typeof val === \"object\" && val !== null && !Array.isArray(val)) {\n      return val;\n    }\n    if (typeof val === \"string\") {\n      try {\n        var o = JSON.parse(val);\n        return o && typeof o === \"object\" && !Array.isArray(o) ? o : (fallback || {});\n      } catch (e) {\n        return fallback || {};\n      }\n    }\n    return fallback || {};\n  }\n\n  function escape_html(s) {\n    if (s == null || s === undefined) return \"\";\n    var t = String(s);\n    return t.replace(/&/g, \"&amp;\").replace(/</g, \"&lt;\").replace(/>/g, \"&gt;\").replace(/\"/g, \"&quot;\");\n  }\n\n  function render_summary(frm) {\n    var d = frm.doc;\n    var html = '<div class=\"pts3-result-section\"><h4>Summary</h4><table class=\"pts3-result-table\"><tbody>';\n    html += \"<tr><th>PCB Serial No</th><td>\" + escape_html(d.pcb_serial_no || \"\") + \"</td></tr>\";\n    html += \"<tr><th>Run ID</th><td>\" + escape_html(d.run_id || \"\") + \"</td></tr>\";\n    html += \"<tr><th>Operation</th><td>\" + escape_html(d.operation || \"\") + \"</td></tr>\";\n    html += \"<tr><th>Datetime</th><td>\" + escape_html(d.datetime || \"\") + \"</td></tr>\";\n    var pf = (d.pass_fail || \"\").trim();\n    var pfClass = pf === \"Pass\" ? \"pts3-result-pass\" : pf === \"Fail\" ? \"pts3-result-fail\" : \"\";\n    html += \"<tr><th>Pass/Fail</th><td class=\\\"\" + pfClass + \"\\\">\" + escape_html(pf || \"-\") + \"</td></tr>\";\n    html += \"<tr><th>Dominant Channel</th><td>\" + escape_html(d.dominant_channel || \"\") + \"</td></tr>\";\n    html += \"<tr><th>Max Value</th><td>\" + escape_html(d.max_value != null ? d.max_value : \"\") + \"</td></tr>\";\n    html += \"</tbody></table></div>\";\n    return html;\n  }\n\n  function format_num(v) {\n    if (v == null || isNaN(v)) return \"\";\n    var n = Number(v);\n    return n % 1 === 0 ? String(n) : n.toFixed(2);\n  }\n\n  /** HTML tables: green Difference/Diff cell when |value| <= this (edit to change tolerance). */\n  var PTS3_DIFF_OK_ABS_MAX = 40;\n\n  function pts3_is_diff_within_tolerance(v) {\n    if (v == null || v === \"\") return false;\n    var n = Number(v);\n    if (isNaN(n)) return false;\n    return Math.abs(n) <= PTS3_DIFF_OK_ABS_MAX;\n  }\n\n  function pts3_diff_td_open(v) {\n    return pts3_is_diff_within_tolerance(v) ? '<td class=\"pts3-diff-ok\">' : \"<td>\";\n  }\n\n  function pts3_axis_font() {\n    if (SWEEP_CHART.fontSize != null) {\n      return SWEEP_CHART.fontSize;\n    }\n    return PTS3_SHARED_AXIS.fontSize != null ? PTS3_SHARED_AXIS.fontSize : (CHART.fontSize || 10);\n  }\n\n  function pts3_x_tick_hz() {\n    return PTS3_SHARED_AXIS.xTickHz > 0 ? PTS3_SHARED_AXIS.xTickHz : 2;\n  }\n\n  function pts3_y_step_for_range(vMin, vMax, baseStep) {\n    var step;\n    if (baseStep != null && baseStep > 0) {\n      step = baseStep;\n    } else {\n      step = PTS3_SHARED_AXIS.yTickStep > 0 ? PTS3_SHARED_AXIS.yTickStep : 40;\n    }\n    var span = Math.max(vMax - vMin, 1e-9);\n    var maxT = PTS3_SHARED_AXIS.maxYTicks > 0 ? PTS3_SHARED_AXIS.maxYTicks : 16;\n    while (span / step > maxT) {\n      step *= 2;\n    }\n    return step;\n  }\n\n  function pts3_snap_bounds(vMin, vMax, step) {\n    var lo = Math.floor(vMin / step) * step;\n    var hi = Math.ceil(vMax / step) * step;\n    if (hi <= lo) {\n      hi = lo + step;\n    }\n    return { min: lo, max: hi };\n  }\n\n  function pts3_grid_line_style(gridClr) {\n    var gsw = PTS3_SHARED_AXIS.gridStrokeWidth > 0 ? PTS3_SHARED_AXIS.gridStrokeWidth : 1;\n    var go = PTS3_SHARED_AXIS.gridOpacity != null ? PTS3_SHARED_AXIS.gridOpacity : 0.72;\n    return (\n      ' stroke=\"' +\n      gridClr +\n      '\" stroke-width=\"' +\n      gsw +\n      '\" stroke-opacity=\"' +\n      go +\n      '\" shape-rendering=\"crispEdges\"'\n    );\n  }\n\n  function pts3_append_x_grid(svg, gx, gy, gw, gh, labelY, freqMin, freqMax, axisClr, gridClr, fs) {\n    var freqRange = freqMax - freqMin || 1;\n    var xHz = pts3_x_tick_hz();\n    var tickLen = PTS3_SHARED_AXIS.tickLength;\n    var asw = PTS3_SHARED_AXIS.axisStrokeWidth;\n    function xFromFreq(f) {\n      return gx + ((Number(f) - freqMin) / freqRange) * gw;\n    }\n    for (var tickFreq = freqMin; tickFreq <= freqMax + 1e-9; tickFreq += xHz) {\n      var xx = xFromFreq(tickFreq);\n      if (xx < gx - 1 || xx > gx + gw + 1) {\n        continue;\n      }\n      svg += '<line x1=\"' + xx + '\" y1=\"' + (gy + gh) + '\" x2=\"' + xx + '\" y2=\"' + gy + '\"' + pts3_grid_line_style(gridClr) + \"/>\";\n      if (tickFreq > freqMin && tickFreq < freqMax) {\n        svg += '<line x1=\"' + xx + '\" y1=\"' + (gy + gh) + '\" x2=\"' + xx + '\" y2=\"' + (gy + gh + tickLen) + '\" stroke=\"' + axisClr + '\" stroke-width=\"' + asw + '\"/>';\n      }\n      svg += '<text x=\"' + xx + '\" y=\"' + labelY + '\" text-anchor=\"middle\" font-size=\"' + fs + '\" fill=\"' + axisClr + '\">' + tickFreq + \"</text>\";\n    }\n    return svg;\n  }\n\n  function pts3_append_y_grid(svg, gx, gy, gw, gh, vMin, vMax, yStep, axisClr, gridClr, fs) {\n    var vRange = vMax - vMin || 1;\n    var tickLen = PTS3_SHARED_AXIS.tickLength;\n    var asw = PTS3_SHARED_AXIS.axisStrokeWidth;\n    var startTick = Math.floor(vMin / yStep + 1e-12) * yStep;\n    for (var tv = startTick; tv <= vMax + 1e-9; tv += yStep) {\n      if (tv < vMin - 1e-9) {\n        continue;\n      }\n      var yy = gy + gh - ((tv - vMin) / vRange) * gh;\n      svg += '<line x1=\"' + gx + '\" y1=\"' + yy + '\" x2=\"' + (gx + gw) + '\" y2=\"' + yy + '\"' + pts3_grid_line_style(gridClr) + \"/>\";\n      svg += '<line x1=\"' + (gx - tickLen) + '\" y1=\"' + yy + '\" x2=\"' + gx + '\" y2=\"' + yy + '\" stroke=\"' + axisClr + '\" stroke-width=\"' + asw + '\"/>';\n      svg += '<text x=\"' + (gx - 6) + '\" y=\"' + (yy + 3) + '\" text-anchor=\"end\" font-size=\"' + fs + '\" fill=\"' + axisClr + '\">' + format_num(tv) + \"</text>\";\n    }\n    return svg;\n  }\n\n  function pts3_append_y_axis_title(svg, titleText, gx, gy, gh, axisClr, fs) {\n    if (titleText == null || String(titleText).trim() === \"\") {\n      return svg;\n    }\n    var mid = gy + gh / 2;\n    var titleGap = PTS3_SHARED_AXIS.yAxisTitleGapPx != null ? PTS3_SHARED_AXIS.yAxisTitleGapPx : 96;\n    var lx = Math.max(12, gx - titleGap);\n    svg +=\n      '<text transform=\"translate(' +\n      lx +\n      \",\" +\n      mid +\n      ') rotate(-90)\" text-anchor=\"middle\" dominant-baseline=\"middle\" font-size=\"' +\n      fs +\n      '\" fill=\"' +\n      axisClr +\n      '\">' +\n      escape_html(String(titleText).trim()) +\n      \"</text>\";\n    return svg;\n  }\n\n  function render_sweep_chart_svg(freqs, left, right, diff) {\n    if (!freqs || freqs.length < 2) return { svg: \"\", coords: null };\n    var pw = CHART.width;\n    var ph = CHART.height;\n    var pad = CHART.padding;\n    var gx = pad.left;\n    var gy = pad.top;\n    var gw = pw - pad.left - pad.right;\n    var gh = ph - pad.top - pad.bottom;\n    var axisClr = CHART.axisColor;\n    var gridClr = CHART.gridColor;\n    var fs = pts3_axis_font();\n    var asw = PTS3_SHARED_AXIS.axisStrokeWidth;\n\n    var lrVals = [];\n    for (var i = 0; i < left.length; i++) {\n      if (left[i] != null) lrVals.push(Number(left[i]));\n    }\n    for (var j = 0; j < right.length; j++) {\n      if (right[j] != null) lrVals.push(Number(right[j]));\n    }\n    var lrMin = lrVals.length ? Math.min.apply(null, lrVals) : 0;\n    var lrMax = lrVals.length ? Math.max.apply(null, lrVals) : 1;\n    var yminC = SWEEP_CHART.yMin;\n    var ymaxC = SWEEP_CHART.yMax;\n    var vMin;\n    var vMax;\n    var sweepSnap;\n    if (yminC != null && ymaxC != null) {\n      vMin = Number(yminC);\n      vMax = Number(ymaxC);\n      sweepSnap = false;\n    } else if (yminC == null && ymaxC == null) {\n      vMin = lrMin;\n      vMax = lrMax;\n      sweepSnap = true;\n    } else if (yminC != null) {\n      vMin = Number(yminC);\n      vMax = ymaxC != null ? Number(ymaxC) : lrMax;\n      if (ymaxC == null) {\n        vMax = Math.max(vMax, lrMax);\n      }\n      sweepSnap = true;\n    } else {\n      vMin = lrMin;\n      vMax = Number(ymaxC);\n      vMax = Math.max(vMax, lrMax);\n      sweepSnap = true;\n    }\n    var sweepStepBase = PTS3_SHARED_AXIS.yTickStepSweep > 0 ? PTS3_SHARED_AXIS.yTickStepSweep : PTS3_SHARED_AXIS.yTickStep;\n    var yStep = pts3_y_step_for_range(vMin, vMax, sweepStepBase);\n    if (sweepSnap) {\n      var snapped = pts3_snap_bounds(vMin, vMax, yStep);\n      vMin = snapped.min;\n      vMax = snapped.max;\n    }\n    var vRange = vMax - vMin || 1;\n\n    function x(i) {\n      return gx + (i / Math.max(freqs.length - 1, 1)) * gw;\n    }\n    function y(v) {\n      return gy + gh - ((Number(v) - vMin) / vRange) * gh;\n    }\n\n    function path(arr) {\n      var pts = [];\n      for (var ii = 0; ii < arr.length; ii++) {\n        if (arr[ii] != null && !isNaN(Number(arr[ii]))) {\n          pts.push(x(ii) + \",\" + y(arr[ii]));\n        }\n      }\n      return pts.length ? \"M\" + pts.join(\" L\") : \"\";\n    }\n\n    var pLeft = path(left);\n    var pRight = path(right);\n    var pDiff = path(diff);\n\n    var freqMin = Number(freqs[0]) || 0;\n    var freqMax = Number(freqs[freqs.length - 1]) || 1;\n    var freqRange = freqMax - freqMin || 1;\n\n    var clipId = \"pts3_sw_\" + String(Date.now()) + \"_\" + String(Math.floor(Math.random() * 1e9));\n    var svg =\n      '<svg class=\"pts3-chart-svg\" width=\"' +\n      pw +\n      '\" height=\"' +\n      ph +\n      '\" viewBox=\"0 0 ' +\n      pw +\n      \" \" +\n      ph +\n      '\" preserveAspectRatio=\"xMidYMid meet\" style=\"max-width:100%;height:auto;display:block;\">' +\n      \"<defs><clipPath id=\\\"\" +\n      clipId +\n      '\"><rect x=\"' +\n      gx +\n      '\" y=\"' +\n      gy +\n      '\" width=\"' +\n      gw +\n      '\" height=\"' +\n      gh +\n      '\"/></clipPath></defs><g>';\n    svg = pts3_append_x_grid(svg, gx, gy, gw, gh, ph - 2, freqMin, freqMax, axisClr, gridClr, fs);\n    svg = pts3_append_y_grid(svg, gx, gy, gw, gh, vMin, vMax, yStep, axisClr, gridClr, fs);\n    svg = pts3_append_y_axis_title(svg, PTS3_SHARED_AXIS.yAxisTitleSweep, gx, gy, gh, axisClr, fs);\n    svg += '<line x1=\"' + gx + '\" y1=\"' + (gy + gh) + '\" x2=\"' + (gx + gw) + '\" y2=\"' + (gy + gh) + '\" stroke=\"' + axisClr + '\" stroke-width=\"' + asw + '\"/>';\n    svg += '<line x1=\"' + gx + '\" y1=\"' + gy + '\" x2=\"' + gx + '\" y2=\"' + (gy + gh) + '\" stroke=\"' + axisClr + '\" stroke-width=\"' + asw + '\"/>';\n    var lw = SWEEP_CHART.lineWidth > 0 ? SWEEP_CHART.lineWidth : 2;\n    var dlw = SWEEP_CHART.diffLineWidth != null ? SWEEP_CHART.diffLineWidth : lw;\n    svg += '<g clip-path=\"url(#' + clipId + ')\">';\n    if (pLeft) svg += '<path d=\"' + pLeft + '\" fill=\"none\" stroke=\"' + CHART.lineLeft + '\" stroke-width=\"' + lw + '\"/>';\n    if (pRight) svg += '<path d=\"' + pRight + '\" fill=\"none\" stroke=\"' + CHART.lineRight + '\" stroke-width=\"' + lw + '\"/>';\n    if (pDiff) svg += '<path d=\"' + pDiff + '\" fill=\"none\" stroke=\"' + CHART.lineDiff + '\" stroke-width=\"' + dlw + '\" stroke-dasharray=\"4,2\"/>';\n    svg += \"</g></g></svg>\";\n    var coords = { freqMin: freqMin, freqMax: freqMax, freqRange: freqRange, vMin: vMin, vMax: vMax, vRange: vRange, gx: gx, gy: gy, gw: gw, gh: gh, pw: pw, ph: ph };\n    return { svg: svg, coords: coords };\n  }\n\n  /** Line chart: Diff (Y) vs index-aligned Hz (X). Y-scale uses diff values only. */\n  function render_diff_vs_hz_svg(freqs, diff) {\n    if (!freqs || freqs.length < 2 || !diff || diff.length < 2) {\n      return \"\";\n    }\n    var diffs = [];\n    for (var i = 0; i < diff.length; i++) {\n      if (diff[i] != null && !isNaN(Number(diff[i]))) {\n        diffs.push(Number(diff[i]));\n      }\n    }\n    if (diffs.length < 2) {\n      return \"\";\n    }\n\n    var pw = CHART.width;\n    var ph = CHART.height;\n    var pad = CHART.padding;\n    var gx = pad.left;\n    var gy = pad.top;\n    var gw = pw - pad.left - pad.right;\n    var gh = ph - pad.top - pad.bottom;\n    var axisClr = CHART.axisColor;\n    var gridClr = CHART.gridColor;\n    var fs = pts3_axis_font();\n    var asw = PTS3_SHARED_AXIS.axisStrokeWidth;\n\n    var rawMin = Math.min.apply(null, diffs);\n    var rawMax = Math.max.apply(null, diffs);\n    var span = rawMax - rawMin;\n    var padY = span > 0 ? span * 0.1 : Math.max(Math.abs(rawMin), Math.abs(rawMax), 1) * 0.1;\n    var dymin = MODE_CHART.yMin;\n    var dymax = MODE_CHART.yMax;\n    var vMin;\n    var vMax;\n    var diffSnap;\n    if (dymin != null && dymax != null) {\n      vMin = Number(dymin);\n      vMax = Number(dymax);\n      diffSnap = false;\n    } else if (dymin == null && dymax == null) {\n      vMin = rawMin - padY;\n      vMax = rawMax + padY;\n      if (vMin === vMax) {\n        vMin -= 1;\n        vMax += 1;\n      }\n      diffSnap = true;\n    } else if (dymin != null) {\n      vMin = Number(dymin);\n      vMax = dymax != null ? Number(dymax) : rawMax + padY;\n      if (dymax == null) {\n        vMax = Math.max(vMax, rawMax + padY);\n      }\n      diffSnap = true;\n    } else {\n      vMax = Math.max(Number(dymax), rawMax + padY);\n      vMin = rawMin - padY;\n      if (vMin >= vMax) {\n        vMin = vMax - 1;\n      }\n      diffSnap = true;\n    }\n    var yStep = pts3_y_step_for_range(vMin, vMax);\n    if (diffSnap) {\n      var snappedD = pts3_snap_bounds(vMin, vMax, yStep);\n      vMin = snappedD.min;\n      vMax = snappedD.max;\n    }\n    var vRange = vMax - vMin || 1;\n\n    var freqMin = Number(freqs[0]) || 0;\n    var freqMax = Number(freqs[freqs.length - 1]) || 1;\n\n    function x(i) {\n      return gx + (i / Math.max(freqs.length - 1, 1)) * gw;\n    }\n    function y(v) {\n      return gy + gh - ((Number(v) - vMin) / vRange) * gh;\n    }\n\n    var pts = [];\n    for (var pi = 0; pi < diff.length; pi++) {\n      if (diff[pi] != null && !isNaN(Number(diff[pi]))) {\n        pts.push(x(pi) + \",\" + y(diff[pi]));\n      }\n    }\n    var pathD = pts.length ? \"M\" + pts.join(\" L\") : \"\";\n\n    var svg = '<svg class=\"pts3-chart-svg pts3-diff-hz-chart\" width=\"' + pw + '\" height=\"' + ph + '\" viewBox=\"0 0 ' + pw + \" \" + ph + '\" preserveAspectRatio=\"xMidYMid meet\" style=\"max-width:100%;height:auto;display:block;\"><g>';\n    svg = pts3_append_x_grid(svg, gx, gy, gw, gh, ph - 2, freqMin, freqMax, axisClr, gridClr, fs);\n    svg = pts3_append_y_grid(svg, gx, gy, gw, gh, vMin, vMax, yStep, axisClr, gridClr, fs);\n    svg = pts3_append_y_axis_title(svg, PTS3_SHARED_AXIS.yAxisTitleDiff, gx, gy, gh, axisClr, fs);\n\n    if (vMin <= 0 && vMax >= 0) {\n      var y0 = y(0);\n      if (y0 >= gy && y0 <= gy + gh) {\n        svg += '<line x1=\"' + gx + '\" y1=\"' + y0 + '\" x2=\"' + (gx + gw) + '\" y2=\"' + y0 + '\" stroke=\"' + axisClr + '\" stroke-width=\"' + asw + '\" stroke-dasharray=\"3,3\" opacity=\"0.7\"/>';\n      }\n    }\n\n    svg += '<line x1=\"' + gx + '\" y1=\"' + (gy + gh) + '\" x2=\"' + (gx + gw) + '\" y2=\"' + (gy + gh) + '\" stroke=\"' + axisClr + '\" stroke-width=\"' + asw + '\"/>';\n    svg += '<line x1=\"' + gx + '\" y1=\"' + gy + '\" x2=\"' + gx + '\" y2=\"' + (gy + gh) + '\" stroke=\"' + axisClr + '\" stroke-width=\"' + asw + '\"/>';\n\n    var lw = SWEEP_CHART.lineWidth > 0 ? SWEEP_CHART.lineWidth : 2;\n    if (pathD) {\n      svg += '<path d=\"' + pathD + '\" fill=\"none\" stroke=\"' + CHART.lineDiff + '\" stroke-width=\"' + lw + '\"/>';\n    }\n\n    svg += \"</g></svg>\";\n    return svg;\n  }\n\n  function build_sweep_from_lrd(t) {\n    if (!t || typeof t !== \"object\") return null;\n    var left = t.left || {};\n    var right = t.right || {};\n    var diff = t.diff || {};\n    var keys = Object.keys(left).concat(Object.keys(right)).concat(Object.keys(diff));\n    keys = keys.filter(function (k, i, a) { return a.indexOf(k) === i; }).sort(function (a, b) {\n      var na = parseInt(String(a).replace(/[^0-9]/g, \"\"), 10) || 0;\n      var nb = parseInt(String(b).replace(/[^0-9]/g, \"\"), 10) || 0;\n      return na - nb;\n    });\n    if (keys.length < 2) return null;\n    var freqs = [];\n    var leftArr = [];\n    var rightArr = [];\n    var diffArr = [];\n    for (var i = 0; i < keys.length; i++) {\n      var k = keys[i];\n      var hz = parseInt(String(k).replace(/[^0-9]/g, \"\"), 10);\n      if (!isNaN(hz)) {\n        freqs.push(hz);\n        leftArr.push(left[k] != null ? left[k] : null);\n        rightArr.push(right[k] != null ? right[k] : null);\n        diffArr.push(diff[k] != null ? diff[k] : null);\n      }\n    }\n    return freqs.length >= 2 ? { freqs: freqs, left: leftArr, right: rightArr, diff: diffArr } : null;\n  }\n\n  /** Mode L/R/Diff table for placement under the Step Sweep frequency table (uses mode_values_json). */\n  function render_mode_table_under_step(frm) {\n    var m = safe_json(frm.doc.mode_values_json, null);\n    if (!m || typeof m !== \"object\") return \"\";\n    var order = [\"Mode1\", \"Mode2\", \"Mode3\", \"Mode0\"];\n    var body = \"\";\n    var any = false;\n    for (var i = 0; i < order.length; i++) {\n      var k = order[i];\n      var v = get_mode_value(m, k);\n      if (v && typeof v === \"object\") {\n        any = true;\n        body +=\n          \"<tr><td class=\\\"pts3-mode-step-name\\\">\" +\n          escape_html(k) +\n          \"</td><td>\" +\n          escape_html(v.p1 != null ? format_num(v.p1) : \"\") +\n          \"</td><td>\" +\n          escape_html(v.p2 != null ? format_num(v.p2) : \"\") +\n          \"</td>\" +\n          pts3_diff_td_open(v.diff) +\n          escape_html(v.diff != null ? format_num(v.diff) : \"\") +\n          \"</td></tr>\";\n      }\n    }\n    if (!any) return \"\";\n    return (\n      '<div class=\"pts3-mode-under-step\">' +\n      '<p class=\"pts3-mode-under-step-title\">Mode</p>' +\n      '<table class=\"pts3-result-table pts3-mode-step-table\"><thead><tr><th>Mode</th><th>Left</th><th>Right</th><th>Difference</th></tr></thead><tbody>' +\n      body +\n      \"</tbody></table></div>\"\n    );\n  }\n\n  function render_step_sweep(frm) {\n    var g = safe_json(frm.doc.final_graph_json, null);\n    var isSweep = g && (g.type === \"sweep\" || g.type === \"step_sweep\") && (g.freqs || []).length >= 2;\n    if (!isSweep) {\n      var lrd = safe_json(frm.doc.left_right_diff_summary_json, null);\n      g = build_sweep_from_lrd(lrd);\n    }\n    if (!g || !g.freqs || g.freqs.length < 2) {\n      return '<div class=\"pts3-result-section\"><h4>Step Sweep</h4><p class=\"pts3-result-no-data\">No sweep data</p></div>';\n    }\n    var freqs = g.freqs || [];\n    var left = g.left || [];\n    var right = g.right || [];\n    var diff = g.diff || [];\n    var html = '<div class=\"pts3-result-section\"><h4>Step Sweep</h4>';\n    if (freqs.length >= 2) {\n      var sweepFs = pts3_axis_font();\n      var sweepAxis = CHART.axisColor;\n      var chartResult = render_sweep_chart_svg(freqs, left, right, diff);\n      var sweepData = JSON.stringify({ freqs: freqs, left: left, right: right, diff: diff, coords: chartResult.coords });\n      var diffHzSvg = render_diff_vs_hz_svg(freqs, diff);\n      var sweepLegend = '<p style=\"font-size:' + sweepFs + 'px;margin:0 0 4px 0;\"><span style=\"color:' + CHART.lineLeft + '\">—</span> Left &nbsp; <span style=\"color:' + CHART.lineRight + '\">—</span> Right &nbsp; <span style=\"color:' + CHART.lineDiff + '\">- -</span> Diff</p>';\n      var sweepBlock = sweepLegend + '<div class=\"pts3-sweep-chart-container\" data-sweep=\"' + escape_html(sweepData) + '\"><div class=\"pts3-sweep-tooltip\" id=\"pts3-sweep-tooltip\"></div>' + chartResult.svg + \"</div>\";\n      if (diffHzSvg) {\n        html += '<div class=\"pts3-sweep-diff-row\">';\n        html += '<div class=\"pts3-sweep-diff-col\"><div class=\"pts3-chart-wrap\">' + sweepBlock + \"</div></div>\";\n        html += '<div class=\"pts3-sweep-diff-col\"><div class=\"pts3-chart-wrap pts3-diff-hz-wrap\"><p style=\"font-size:' + sweepFs + 'px;margin:0 0 4px 0;color:' + sweepAxis + ';\">Diff vs frequency (Hz)</p>' + diffHzSvg + \"</div></div>\";\n        html += \"</div>\";\n      } else {\n        html += '<div class=\"pts3-chart-wrap\">' + sweepBlock + \"</div>\";\n      }\n    }\n    html += '<table class=\"pts3-result-table\"><thead><tr><th>Channel</th>';\n    for (var h = 0; h < freqs.length; h++) {\n      html += '<th>' + escape_html(freqs[h]) + 'hz</th>';\n    }\n    html += '</tr></thead><tbody>';\n    html += '<tr><td>Left</td>';\n    for (var a = 0; a < freqs.length; a++) {\n      html += '<td>' + escape_html(format_num(left[a])) + '</td>';\n    }\n    html += '</tr><tr><td>Right</td>';\n    for (var b = 0; b < freqs.length; b++) {\n      html += '<td>' + escape_html(format_num(right[b])) + '</td>';\n    }\n    html += '</tr><tr><td>Diff</td>';\n    for (var c = 0; c < freqs.length; c++) {\n      html += pts3_diff_td_open(diff[c]) + escape_html(format_num(diff[c])) + \"</td>\";\n    }\n    html += '</tr></tbody></table>';\n    html += render_mode_table_under_step(frm);\n    html += \"</div>\";\n    return html;\n  }\n\n  function get_mode_value(m, key) {\n    if (m[key]) return m[key];\n    var lower = key.toLowerCase();\n    if (m[lower]) return m[lower];\n    return null;\n  }\n\n  function render_mode_chart_svg(modeData) {\n    var order = [\"Mode1\", \"Mode2\", \"Mode3\", \"Mode0\"];\n    var rows = [];\n    for (var i = 0; i < order.length; i++) {\n      var v = get_mode_value(modeData, order[i]);\n      if (v && typeof v === \"object\") {\n        rows.push({\n          label: order[i],\n          left: v.p1 != null ? Number(v.p1) : 0,\n          right: v.p2 != null ? Number(v.p2) : 0,\n          diff: v.diff != null ? Number(v.diff) : 0\n        });\n      }\n    }\n    if (rows.length === 0) return \"\";\n\n    var pw = MODE_HBAR.plotWidth > 0 ? MODE_HBAR.plotWidth : CHART.width;\n    var rowBand = MODE_HBAR.rowBand > 0 ? MODE_HBAR.rowBand : 56;\n    var innerGapCfg = MODE_HBAR.innerGap != null ? MODE_HBAR.innerGap : 4;\n    var pad = { top: 38, right: 32, bottom: 58, left: 14 };\n    var labelColW = MODE_HBAR.labelColW > 0 ? MODE_HBAR.labelColW : 100;\n    var ph = pad.top + pad.bottom + rows.length * rowBand;\n\n    var plotLeft = pad.left + labelColW;\n    var plotRight = pw - pad.right;\n    var plotW = Math.max(plotRight - plotLeft, 1);\n    var plotTop = pad.top;\n    var plotBottom = ph - pad.bottom;\n    var plotH = plotBottom - plotTop;\n\n    var minVal;\n    var maxVal;\n    if (MODE_HBAR.valueMin != null && MODE_HBAR.valueMax != null) {\n      minVal = Number(MODE_HBAR.valueMin);\n      maxVal = Number(MODE_HBAR.valueMax);\n    } else {\n      minVal = Infinity;\n      maxVal = -Infinity;\n      for (var r0 = 0; r0 < rows.length; r0++) {\n        minVal = Math.min(minVal, rows[r0].left, rows[r0].right, rows[r0].diff);\n        maxVal = Math.max(maxVal, rows[r0].left, rows[r0].right, rows[r0].diff);\n      }\n      if (!isFinite(minVal) || !isFinite(maxVal)) {\n        minVal = 0;\n        maxVal = 1;\n      }\n      if (minVal === maxVal) {\n        minVal -= 1;\n        maxVal += 1;\n      }\n    }\n    if (!isFinite(minVal) || !isFinite(maxVal) || minVal >= maxVal) {\n      minVal = 0;\n      maxVal = 3500;\n    }\n    var valRange = Math.max(maxVal - minVal, 1e-9);\n\n    function xAt(val) {\n      return plotLeft + ((Number(val) - minVal) / valRange) * plotW;\n    }\n\n    function hBarGeom(val) {\n      var baseVal = minVal < 0 && maxVal > 0 ? 0 : minVal;\n      var xb = xAt(baseVal);\n      var xv = xAt(val);\n      xb = Math.max(plotLeft, Math.min(plotRight, xb));\n      xv = Math.max(plotLeft, Math.min(plotRight, xv));\n      var bx = Math.min(xb, xv);\n      var bw = Math.max(Math.abs(xv - xb), 1);\n      if (bx + bw > plotRight) {\n        bw = plotRight - bx;\n      }\n      return { x: bx, w: Math.max(bw, 0.75) };\n    }\n\n    var axisClr = CHART.axisColor;\n    var gridClr = CHART.gridColor;\n    var fs = MODE_CHART.fontSize != null ? MODE_CHART.fontSize : pts3_axis_font();\n    var fsSmall = Math.max(6, fs - 2);\n    var barStroke = \"rgba(0,0,0,0.35)\";\n    var svgFontStyle =\n      \"max-width:100%;height:auto;display:block;font-family:\" + PTS3_SANS_FONT_STACK_CSS + \";\";\n    var svg =\n      '<svg class=\"pts3-chart-svg pts3-mode-bar-chart pts3-mode-hbar-chart\" viewBox=\"0 0 ' +\n      pw +\n      \" \" +\n      ph +\n      '\" preserveAspectRatio=\"xMidYMid meet\" style=\"' +\n      svgFontStyle +\n      '\"><g>';\n\n    var tickStep = MODE_HBAR.tickStep > 0 ? MODE_HBAR.tickStep : 250;\n    var xfs = Math.max(7, fs - (MODE_HBAR.xTickFontShrink > 0 ? MODE_HBAR.xTickFontShrink : 5));\n    for (var xVal = minVal; xVal <= maxVal + tickStep * 1e-6; xVal += tickStep) {\n      var xx = xAt(xVal);\n      svg +=\n        '<line x1=\"' +\n        xx +\n        '\" y1=\"' +\n        plotTop +\n        '\" x2=\"' +\n        xx +\n        '\" y2=\"' +\n        plotBottom +\n        '\" stroke=\"' +\n        gridClr +\n        '\" stroke-width=\"0.5\" stroke-opacity=\"0.45\" shape-rendering=\"crispEdges\"/>';\n      svg +=\n        '<text x=\"' +\n        xx +\n        '\" y=\"' +\n        (ph - 12) +\n        '\" text-anchor=\"middle\" font-size=\"' +\n        xfs +\n        '\" fill=\"' +\n        axisClr +\n        '\">' +\n        format_num(xVal) +\n        \"</text>\";\n    }\n\n    if (minVal < 0 && maxVal > 0) {\n      var xz = xAt(0);\n      if (xz >= plotLeft && xz <= plotRight) {\n        svg +=\n          '<line x1=\"' +\n          xz +\n          '\" y1=\"' +\n          plotTop +\n          '\" x2=\"' +\n          xz +\n          '\" y2=\"' +\n          plotBottom +\n          '\" stroke=\"' +\n          axisClr +\n          '\" stroke-width=\"1\" stroke-dasharray=\"4,3\" opacity=\"0.85\"/>';\n      }\n    }\n\n    svg +=\n      '<line x1=\"' +\n      plotLeft +\n      '\" y1=\"' +\n      plotBottom +\n      '\" x2=\"' +\n      plotRight +\n      '\" y2=\"' +\n      plotBottom +\n      '\" stroke=\"' +\n      axisClr +\n      '\" stroke-width=\"1\"/>';\n    svg +=\n      '<line x1=\"' +\n      plotLeft +\n      '\" y1=\"' +\n      plotTop +\n      '\" x2=\"' +\n      plotLeft +\n      '\" y2=\"' +\n      plotBottom +\n      '\" stroke=\"' +\n      axisClr +\n      '\" stroke-width=\"1\"/>';\n\n    var innerGap = innerGapCfg;\n    var nBars = 3;\n    var barH = Math.max(10, (rowBand - innerGap * (nBars + 1)) / nBars);\n    var fills = [CHART.barP1, CHART.barP2, CHART.barDiff];\n    var baseValForBar = minVal < 0 && maxVal > 0 ? 0 : minVal;\n\n    for (var ri = 0; ri < rows.length; ri++) {\n      var yRowTop = plotTop + ri * rowBand;\n      svg +=\n        '<text x=\"' +\n        (pad.left + labelColW - 10) +\n        '\" y=\"' +\n        (yRowTop + rowBand / 2 + fs * 0.35) +\n        '\" text-anchor=\"end\" font-size=\"' +\n        fs +\n        '\" fill=\"' +\n        axisClr +\n        '\">' +\n        escape_html(rows[ri].label) +\n        \"</text>\";\n\n      var vals = [rows[ri].left, rows[ri].right, rows[ri].diff];\n      for (var k = 0; k < 3; k++) {\n        var yb = yRowTop + innerGap + k * (barH + innerGap);\n        var hg = hBarGeom(vals[k]);\n        svg +=\n          '<rect x=\"' +\n          hg.x +\n          '\" y=\"' +\n          yb +\n          '\" width=\"' +\n          hg.w +\n          '\" height=\"' +\n          barH +\n          '\" fill=\"' +\n          fills[k] +\n          '\" stroke=\"' +\n          barStroke +\n          '\" stroke-width=\"0.65\" shape-rendering=\"crispEdges\"/>';\n        var midX = hg.x + hg.w / 2;\n        var inside = hg.w > fs * 3.2;\n        var tx;\n        var tAnchor;\n        var tFill;\n        var tWeight;\n        if (inside) {\n          tx = midX;\n          tAnchor = \"middle\";\n          tFill = \"#fff\";\n          tWeight = \"600\";\n        } else if (Number(vals[k]) >= baseValForBar) {\n          tx = hg.x + hg.w + 5;\n          tAnchor = \"start\";\n          tFill = axisClr;\n          tWeight = \"400\";\n        } else {\n          tx = hg.x - 5;\n          tAnchor = \"end\";\n          tFill = axisClr;\n          tWeight = \"400\";\n        }\n        svg +=\n          '<text x=\"' +\n          tx +\n          '\" y=\"' +\n          (yb + barH * 0.72) +\n          '\" text-anchor=\"' +\n          tAnchor +\n          '\" font-size=\"' +\n          fsSmall +\n          '\" fill=\"' +\n          tFill +\n          '\" font-weight=\"' +\n          tWeight +\n          '\">' +\n          format_num(vals[k]) +\n          \"</text>\";\n      }\n    }\n\n    svg +=\n      '<text x=\"' +\n      (plotLeft + plotW / 2) +\n      '\" y=\"22\" text-anchor=\"middle\" font-size=\"' +\n      (fs + 1) +\n      '\" font-weight=\"600\" fill=\"' +\n      axisClr +\n      '\">Mode: Left / Right / Difference</text>';\n    svg +=\n      '<text x=\"' +\n      (plotLeft + plotW / 2) +\n      '\" y=\"' +\n      (ph - 2) +\n      '\" text-anchor=\"middle\" font-size=\"' +\n      Math.max(9, fs - 2) +\n      '\" fill=\"' +\n      axisClr +\n      '\">Value</text>';\n    svg += \"</g></svg>\";\n    return svg;\n  }\n\n  function render_mode(frm) {\n    var m = safe_json(frm.doc.mode_values_json, null);\n    if (!m || typeof m !== \"object\") {\n      return '<div class=\"pts3-result-section\"><h4>Mode Results</h4><p class=\"pts3-result-no-data\">No mode data</p></div>';\n    }\n    var order = [\"Mode1\", \"Mode2\", \"Mode3\", \"Mode0\"];\n    var html = '<div class=\"pts3-result-section\"><h4>Mode Results</h4>';\n    if (Object.keys(m).length) {\n      var legendPx =\n        MODE_HBAR.legendFontPx != null && MODE_HBAR.legendFontPx > 0\n          ? MODE_HBAR.legendFontPx\n          : MODE_CHART.fontSize != null\n            ? MODE_CHART.fontSize\n            : pts3_axis_font();\n      html +=\n        '<div class=\"pts3-mode-legend\" style=\"font-size:' +\n        legendPx +\n        \"px;font-family:\" +\n        PTS3_SANS_FONT_STACK_CSS +\n        ';\"><span style=\"color:' +\n        CHART.barP1 +\n        '\">■</span> Left &nbsp; <span style=\"color:' +\n        CHART.barP2 +\n        '\">■</span> Right &nbsp; <span style=\"color:' +\n        CHART.barDiff +\n        '\">■</span> Difference</div>';\n      html += '<div class=\"pts3-mode-layout\">';\n      html += '<div class=\"pts3-mode-chart pts3-mode-chart-only\"><div class=\"pts3-chart-wrap\">' + render_mode_chart_svg(m) + \"</div></div>\";\n      html += \"</div>\";\n    }\n    html += \"</div>\";\n    return html;\n  }\n\n  function render_lrd_summary(frm) {\n    var t = safe_json(frm.doc.left_right_diff_summary_json, null);\n    if (!t || typeof t !== \"object\") {\n      return '<div class=\"pts3-result-section\"><h4>Left / Right / Diff Summary</h4><p class=\"pts3-result-no-data\">No data</p></div>';\n    }\n    var meta = t.metadata || {};\n    var left = t.left || {};\n    var right = t.right || {};\n    var diff = t.diff || {};\n    var keys = Object.keys(left).concat(Object.keys(right)).concat(Object.keys(diff));\n    keys = keys.filter(function (k, i, a) { return a.indexOf(k) === i; }).sort();\n    var html = '<div class=\"pts3-result-section\"><h4>Left / Right / Diff Summary</h4>';\n    if (Object.keys(meta).length) {\n      html += \"<p><strong>Metadata:</strong> \" + escape_html(JSON.stringify(meta)) + \"</p>\";\n    }\n    html += \"<table class=\\\"pts3-result-table\\\"><thead><tr><th>Key</th><th>Left</th><th>Right</th><th>Diff</th></tr></thead><tbody>\";\n    for (var i = 0; i < keys.length; i++) {\n      var k = keys[i];\n      html +=\n        \"<tr><td>\" +\n        escape_html(k) +\n        \"</td><td>\" +\n        escape_html(left[k] != null ? left[k] : \"\") +\n        \"</td><td>\" +\n        escape_html(right[k] != null ? right[k] : \"\") +\n        \"</td>\" +\n        pts3_diff_td_open(diff[k]) +\n        escape_html(diff[k] != null ? diff[k] : \"\") +\n        \"</td></tr>\";\n    }\n    html += \"</tbody></table></div>\";\n    return html;\n  }\n\n  function render_artifacts(frm) {\n    var ap = frm.doc.artifact_paths || \"\";\n    var html = '<div class=\"pts3-result-section\"><h4>Artifacts</h4>';\n    var obj = null;\n    if (typeof ap === \"string\" && ap.trim()) {\n      try {\n        obj = JSON.parse(ap);\n      } catch (e) {\n        obj = null;\n      }\n    }\n    if (obj && typeof obj === \"object\") {\n      var pc = obj.pc_name || \"\";\n      var excel = obj.excel_path || \"\";\n      var log = obj.log_path || \"\";\n      var plot = obj.plot_path || \"\";\n      html += \"<div class=\\\"pts3-result-artifact\\\"><strong>PC:</strong> \" + escape_html(pc || \"(not set)\") + \"</div>\";\n      html += \"<div class=\\\"pts3-result-artifact\\\"><strong>Excel:</strong> \" + escape_html(excel || \"-\") + \"</div>\";\n      html += \"<div class=\\\"pts3-result-artifact\\\"><strong>Log:</strong> \" + escape_html(log || \"-\") + \"</div>\";\n      html += \"<div class=\\\"pts3-result-artifact\\\"><strong>Plot:</strong> \" + escape_html(plot || \"-\") + \"</div>\";\n    } else if (ap && typeof ap === \"string\") {\n      html += \"<div class=\\\"pts3-result-artifact\\\"><strong>Legacy path:</strong> \" + escape_html(ap) + \"</div>\";\n    } else {\n      html += \"<p class=\\\"pts3-result-no-data\\\">No artifact paths</p>\";\n    }\n    html += \"</div>\";\n    return html;\n  }\n\n  function load_html2canvas(done) {\n    if (typeof window.html2canvas === \"function\") {\n      done();\n      return;\n    }\n    if (window.__pts3_h2c_loading) {\n      window.__pts3_h2c_queue = window.__pts3_h2c_queue || [];\n      window.__pts3_h2c_queue.push(done);\n      return;\n    }\n    window.__pts3_h2c_loading = true;\n    var sc = document.createElement(\"script\");\n    sc.src = HTML2CANVAS_CDN;\n    sc.crossOrigin = \"anonymous\";\n    sc.onload = function () {\n      window.__pts3_h2c_loading = false;\n      done();\n      var q = window.__pts3_h2c_queue || [];\n      window.__pts3_h2c_queue = [];\n      for (var qi = 0; qi < q.length; qi++) {\n        q[qi]();\n      }\n    };\n    sc.onerror = function () {\n      window.__pts3_h2c_loading = false;\n      frappe.msgprint(__(\"Could not load html2canvas (CDN blocked or offline).\"));\n    };\n    document.head.appendChild(sc);\n  }\n\n  function bind_inspection_download(frm, $wrapper) {\n    $wrapper.find(\".pts3-download-inspection-png\").off(\"click.pts3cap\");\n    $wrapper.find(\".pts3-download-inspection-png\").on(\"click.pts3cap\", function () {\n      var root = $wrapper.find(\".pts3-inspection-capture-body\")[0];\n      if (!root) {\n        frappe.msgprint(__(\"Nothing to capture.\"));\n        return;\n      }\n      load_html2canvas(function () {\n        frappe.show_alert({ message: __(\"Rendering PNG…\"), indicator: \"blue\" });\n        var bg = \"#ffffff\";\n        try {\n          var b = getComputedStyle(document.body);\n          if (b && b.backgroundColor && b.backgroundColor !== \"rgba(0, 0, 0, 0)\" && b.backgroundColor !== \"transparent\") {\n            bg = b.backgroundColor;\n          }\n        } catch (e0) {}\n        window\n          .html2canvas(root, {\n            scale: INSPECTION_PNG_SCALE,\n            useCORS: true,\n            allowTaint: true,\n            logging: false,\n            backgroundColor: bg,\n            ignoreElements: function (el) {\n              return el.classList && el.classList.contains(\"pts3-inspection-toolbar\");\n            },\n          })\n          .then(function (canvas) {\n            canvas.toBlob(\n              function (blob) {\n                if (!blob) {\n                  frappe.msgprint(__(\"PNG export failed.\"));\n                  return;\n                }\n                var name = (frm.doc.name || \"PTS3_Result\").replace(/[^\\w.-]+/g, \"_\");\n                var a = document.createElement(\"a\");\n                a.href = URL.createObjectURL(blob);\n                a.download = name + \"_inspection.png\";\n                document.body.appendChild(a);\n                a.click();\n                document.body.removeChild(a);\n                URL.revokeObjectURL(a.href);\n                frappe.show_alert({ message: __(\"Download started\"), indicator: \"green\" });\n              },\n              \"image/png\",\n              0.98\n            );\n          })\n          .catch(function (err) {\n            frappe.msgprint(__(\"Capture error: \") + (err && err.message ? err.message : String(err)));\n          });\n      });\n    });\n  }\n\n  function render_inspection(frm) {\n    if (!frm.doc.name) return \"\";\n    var inner =\n      '<div class=\"pts3-summary-mode-row\">' +\n      render_summary(frm) +\n      render_mode(frm) +\n      \"</div>\" +\n      render_step_sweep(frm);\n    if (SHOW_LEFT_RIGHT_DIFF_SUMMARY_SECTION) {\n      inner += render_lrd_summary(frm);\n    }\n    inner += render_artifacts(frm);\n    return (\n      '<div class=\"pts3-inspection-capture-root\" style=\"width:100%;max-width:100%;box-sizing:border-box;margin:0;display:block;\">' +\n      '<table role=\"presentation\" style=\"width:100%;max-width:100%;border-collapse:collapse;margin:0;padding:0;border:none;\"><tr><td style=\"padding:0;border:none;vertical-align:top;width:100%;\">' +\n      '<div class=\"pts3-inspection-toolbar\">' +\n      '<button type=\"button\" class=\"btn btn-default btn-sm pts3-download-inspection-png\">' +\n      __(\"Download inspection as PNG\") +\n      \"</button>\" +\n      '<span class=\"text-muted small\">' +\n      __(\"Uses html2canvas from CDN; scale \") +\n      String(INSPECTION_PNG_SCALE) +\n      \"×</span></div>\" +\n      '<div class=\"pts3-inspection-capture-body\" style=\"width:100%;max-width:100%;box-sizing:border-box;\">' +\n      inner +\n      \"</div></td></tr></table></div>\"\n    );\n  }\n\n  function setup_sweep_hover() {\n    $(document).off(\"mousemove.pts3sweep mouseleave.pts3sweep\");\n    $(document).on(\"mousemove.pts3sweep\", \".pts3-sweep-chart-container\", function (e) {\n      var $c = $(this);\n      var dataStr = $c.attr(\"data-sweep\");\n      if (!dataStr) return;\n      var data;\n      try {\n        data = JSON.parse(dataStr);\n      } catch (err) {\n        return;\n      }\n      var coords = data.coords;\n      var freqs = data.freqs || [];\n      var left = data.left || [];\n      var right = data.right || [];\n      var diff = data.diff || [];\n      if (!coords || !freqs.length) return;\n      var svg = $c.find(\"svg\")[0];\n      if (!svg) return;\n      var rect = svg.getBoundingClientRect();\n      var vx = ((e.clientX - rect.left) / rect.width) * coords.pw;\n      var vy = ((e.clientY - rect.top) / rect.height) * coords.ph;\n      if (vx < coords.gx || vx > coords.gx + coords.gw || vy < coords.gy || vy > coords.gy + coords.gh) {\n        $c.find(\".pts3-sweep-tooltip\").removeClass(\"visible\");\n        return;\n      }\n      var freq = coords.freqMin + ((vx - coords.gx) / coords.gw) * coords.freqRange;\n      var idx = Math.round(((vx - coords.gx) / coords.gw) * (freqs.length - 1));\n      idx = Math.max(0, Math.min(idx, freqs.length - 1));\n      var f = Number(freqs[idx]);\n      var l = left[idx] != null ? format_num(left[idx]) : \"-\";\n      var r = right[idx] != null ? format_num(right[idx]) : \"-\";\n      var d = diff[idx] != null ? format_num(diff[idx]) : \"-\";\n      var $tip = $c.find(\".pts3-sweep-tooltip\");\n      var cRect = $c[0].getBoundingClientRect();\n      $tip.html(\"<strong>\" + f + \" Hz</strong><br>Left: \" + l + \" &nbsp; Right: \" + r + \" &nbsp; Diff: \" + d);\n      $tip.css({ left: (e.clientX - cRect.left + 12) + \"px\", top: (e.clientY - cRect.top + 12) + \"px\" });\n      $tip.addClass(\"visible\");\n    });\n    $(document).on(\"mouseleave.pts3sweep\", \".pts3-sweep-chart-container\", function () {\n      $(this).find(\".pts3-sweep-tooltip\").removeClass(\"visible\");\n    });\n  }\n\n  /** Same as Desk → user menu → Toggle Full Width (ON). Persists in localStorage like the built-in toggle. */\n  function pts3_ensure_desk_full_width() {\n    if (!PTS3_ENABLE_DESK_FULL_WIDTH_ON_LOAD) return;\n    try {\n      if (typeof localStorage !== \"undefined\") {\n        localStorage.setItem(\"container_fullwidth\", \"true\");\n      }\n      if (typeof frappe !== \"undefined\" && frappe.ui && frappe.ui.toolbar && typeof frappe.ui.toolbar.set_fullwidth_if_enabled === \"function\") {\n        frappe.ui.toolbar.set_fullwidth_if_enabled();\n      } else if (typeof $ !== \"undefined\" && $(document.body).length) {\n        $(document.body).addClass(\"full-width\");\n      }\n      if (typeof $ !== \"undefined\") {\n        $(document.body).trigger(\"toggleFullWidth\");\n      }\n    } catch (e) {}\n  }\n\n  frappe.ui.form.on(\"PTS3 Result\", {\n    onload: function () {\n      setTimeout(pts3_ensure_desk_full_width, 0);\n    },\n    refresh: function (frm) {\n      pts3_ensure_desk_full_width();\n      pts3Dbg(\n        \"PTS3 Result refresh\",\n        frm.doc.name,\n        \"run_id=\" + (frm.doc.run_id || \"\"),\n        \"op=\" + (frm.doc.operation || \"\"),\n        \"final_graph_json len=\" + String(frm.doc.final_graph_json || \"\").length,\n        \"left_right_diff_summary_json len=\" + String(frm.doc.left_right_diff_summary_json || \"\").length,\n        \"mode_values_json len=\" + String(frm.doc.mode_values_json || \"\").length\n      );\n      var field = frm.get_field(\"result_inspection\");\n      if (field && field.$wrapper) {\n        field.$wrapper.html(render_inspection(frm));\n        setup_sweep_hover();\n        bind_inspection_download(frm, field.$wrapper);\n      }\n    }\n  });\n})();\n",
+          "firstEditBubbleId": "05bf5f00-3af7-4413-bd7d-1cb273565fda",
+          "isNewlyCreated": false,
+          "newlyCreatedFolders": []
+        },
+        "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/PTS3%20test/pts3_result_client_script.js": {
+          "content": "// ============================================================\n// PTS3 Result - Client Script (Visual Inspection)\n// DocType: PTS3 Result\n// Renders: Summary, Step Sweep (chart + table), Mode (chart + table), Left/Right/Diff, Artifacts\n// Uses final_graph_json, mode_values_json, left_right_diff_summary_json, artifact_paths\n// ============================================================\n\n(function () {\n  // Chart styling - theme-aware (light/dark mode compatible)\n  var CHART = {\n    width: 1000,\n    height: 500,\n    padding: { top: 20, right: 20, bottom: 40, left: 65 },\n    fontSize: 10,        // Axis and label font size (e.g. 8, 10, 12)\n    lineLeft: \"#E53935\",   // Red for Left\n    lineRight: \"#2196F3\",  // Blue for Right\n    lineDiff: \"#4CAF50\",   // Green for Diff\n    barP1: \"#E53935\",      // Red for P1 (Left)\n    barP2: \"#2196F3\",      // Blue for P2 (Right)\n    barDiff: \"#4CAF50\",    // Green for Diff\n    axisColor: \"var(--text-muted, #6c7680)\",\n    gridColor: \"var(--border-color, #d1d8dd)\"\n  };\n\n  // Step Sweep chart - manual axis adjustments (edit these values)\n  var SWEEP_CHART = {\n    yMin: 1500,      // e.g. 1500 - set to fix Y-axis minimum (null = auto from data)\n    yMax: 2500,      // e.g. 2500 - set to fix Y-axis maximum (null = auto from data)\n    xTickHz: 2,      // X-axis tick interval in Hz (e.g. 2 = every 2Hz: 40,42,44...; 10 = 40,50,60...)\n    lineWidth: 2,    // Line thickness for Left/Right (e.g. 1, 2, 3)\n    diffLineWidth: 1.5,  // Line thickness for Diff (null = uses lineWidth)\n    fontSize: null   // Override font size for this chart (null = use CHART.fontSize)\n  };\n\n  // Mode chart - manual axis adjustments (edit these values)\n  var MODE_CHART = {\n    yMin: null,    // e.g. 0 - set to fix Y-axis minimum (null = auto from data)\n    yMax: null,    // e.g. 150 - set to fix Y-axis maximum (null = auto from data)\n    fontSize: null // Override font size for this chart (null = use CHART.fontSize)\n  };\n\n  if (document.getElementById(\"pts3-result-style\") == null) {\n    var style = document.createElement(\"style\");\n    style.id = \"pts3-result-style\";\n    style.textContent = \".pts3-result-section{margin:1rem 0;padding:0.75rem;border:1px solid var(--border-color,#d1d8dd);border-radius:4px;}.pts3-result-section h4{margin:0 0 0.5rem 0;font-size:1rem;color:var(--text-color,#36414c);}.pts3-result-table{font-size:0.85em;border-collapse:collapse;}.pts3-result-table th,.pts3-result-table td{border:1px solid var(--border-color,#d1d8dd);padding:4px 8px;text-align:left;color:var(--text-color,#36414c);}.pts3-result-table th{background:var(--control-bg,#f5f7fa);}.pts3-result-artifact{margin:0.25rem 0;font-size:0.9em;}.pts3-result-no-data{color:var(--text-muted,#8d99a6);font-style:italic;}.pts3-result-pass{color:#27ae60;}.pts3-result-fail{color:#e74c3c;}.pts3-chart-wrap{margin:0.5rem 0;overflow-x:auto;}.pts3-mode-layout{display:flex;flex-wrap:wrap;gap:1rem;align-items:stretch;}.pts3-mode-legend{width:100%;margin-bottom:0.25rem;}.pts3-mode-table{flex:0 0 auto;min-width:180px;}.pts3-mode-chart{flex:1 1 350px;min-width:320px;}.pts3-sweep-chart-container{position:relative;display:block;cursor:crosshair;min-width:400px;min-height:260px;}.pts3-sweep-tooltip{position:absolute;display:none;background:var(--gray-900,#36414c);color:var(--gray-100,#fff);padding:6px 10px;border-radius:4px;font-size:11px;font-family:monospace;white-space:nowrap;pointer-events:none;z-index:1000;box-shadow:0 2px 8px rgba(0,0,0,0.2);}.pts3-sweep-tooltip.visible{display:block;}\";\n    document.head.appendChild(style);\n  }\n\n  /** Accepts JSON string or already-parsed object (some Frappe/API paths deserialize Code fields). */\n  function safe_json(val, fallback) {\n    if (val == null || val === \"\") return fallback || {};\n    if (typeof val === \"object\" && val !== null && !Array.isArray(val)) {\n      return val;\n    }\n    if (typeof val === \"string\") {\n      try {\n        var o = JSON.parse(val);\n        return o && typeof o === \"object\" && !Array.isArray(o) ? o : (fallback || {});\n      } catch (e) {\n        return fallback || {};\n      }\n    }\n    return fallback || {};\n  }\n\n  function escape_html(s) {\n    if (s == null || s === undefined) return \"\";\n    var t = String(s);\n    return t.replace(/&/g, \"&amp;\").replace(/</g, \"&lt;\").replace(/>/g, \"&gt;\").replace(/\"/g, \"&quot;\");\n  }\n\n  function render_summary(frm) {\n    var d = frm.doc;\n    var html = '<div class=\"pts3-result-section\"><h4>Summary</h4><table class=\"pts3-result-table\"><tbody>';\n    html += \"<tr><th>PCB Serial No</th><td>\" + escape_html(d.pcb_serial_no || \"\") + \"</td></tr>\";\n    html += \"<tr><th>Run ID</th><td>\" + escape_html(d.run_id || \"\") + \"</td></tr>\";\n    html += \"<tr><th>Operation</th><td>\" + escape_html(d.operation || \"\") + \"</td></tr>\";\n    html += \"<tr><th>Datetime</th><td>\" + escape_html(d.datetime || \"\") + \"</td></tr>\";\n    var pf = (d.pass_fail || \"\").trim();\n    var pfClass = pf === \"Pass\" ? \"pts3-result-pass\" : pf === \"Fail\" ? \"pts3-result-fail\" : \"\";\n    html += \"<tr><th>Pass/Fail</th><td class=\\\"\" + pfClass + \"\\\">\" + escape_html(pf || \"-\") + \"</td></tr>\";\n    html += \"<tr><th>Dominant Channel</th><td>\" + escape_html(d.dominant_channel || \"\") + \"</td></tr>\";\n    html += \"<tr><th>Max Value</th><td>\" + escape_html(d.max_value != null ? d.max_value : \"\") + \"</td></tr>\";\n    html += \"</tbody></table></div>\";\n    return html;\n  }\n\n  function format_num(v) {\n    if (v == null || isNaN(v)) return \"\";\n    var n = Number(v);\n    return n % 1 === 0 ? String(n) : n.toFixed(2);\n  }\n\n  function render_sweep_chart_svg(freqs, left, right, diff) {\n    if (!freqs || freqs.length < 2) return { svg: \"\", coords: null };\n    var pw = CHART.width;\n    var ph = CHART.height;\n    var pad = CHART.padding;\n    var gx = pad.left;\n    var gy = pad.top;\n    var gw = pw - pad.left - pad.right;\n    var gh = ph - pad.top - pad.bottom;\n    var axisClr = CHART.axisColor;\n    var gridClr = CHART.gridColor;\n    var fs = SWEEP_CHART.fontSize != null ? SWEEP_CHART.fontSize : (CHART.fontSize || 10);\n\n    var allVals = [];\n    for (var i = 0; i < left.length; i++) { if (left[i] != null) allVals.push(Number(left[i])); }\n    for (var j = 0; j < right.length; j++) { if (right[j] != null) allVals.push(Number(right[j])); }\n    for (var k = 0; k < diff.length; k++) { if (diff[k] != null) allVals.push(Number(diff[k])); }\n    var vMin = SWEEP_CHART.yMin != null ? Number(SWEEP_CHART.yMin) : (allVals.length ? Math.min.apply(null, allVals) : 0);\n    var vMax = SWEEP_CHART.yMax != null ? Number(SWEEP_CHART.yMax) : (allVals.length ? Math.max.apply(null, allVals) : 1);\n    var vRange = vMax - vMin || 1;\n\n    function x(i) { return gx + (i / Math.max(freqs.length - 1, 1)) * gw; }\n    function y(v) { return gy + gh - ((Number(v) - vMin) / vRange) * gh; }\n\n    function path(arr) {\n      var pts = [];\n      for (var i = 0; i < arr.length; i++) {\n        if (arr[i] != null && !isNaN(Number(arr[i]))) {\n          pts.push(x(i) + \",\" + y(arr[i]));\n        }\n      }\n      return pts.length ? \"M\" + pts.join(\" L\") : \"\";\n    }\n\n    var pLeft = path(left);\n    var pRight = path(right);\n    var pDiff = path(diff);\n\n    var freqMin = Number(freqs[0]) || 0;\n    var freqMax = Number(freqs[freqs.length - 1]) || 1;\n    var freqRange = freqMax - freqMin || 1;\n    var xTickHz = SWEEP_CHART.xTickHz > 0 ? SWEEP_CHART.xTickHz : 2;\n    function xFromFreq(f) { return gx + ((Number(f) - freqMin) / freqRange) * gw; }\n\n    var svg = '<svg class=\"pts3-chart-svg\" width=\"' + pw + '\" height=\"' + ph + '\" viewBox=\"0 0 ' + pw + ' ' + ph + '\" preserveAspectRatio=\"xMidYMid meet\" style=\"max-width:100%;height:auto;display:block;\"><g>';\n    var yticks = 5;\n    for (var tickFreq = freqMin; tickFreq <= freqMax; tickFreq += xTickHz) {\n      var xx = xFromFreq(tickFreq);\n      if (xx < gx - 1 || xx > gx + gw + 1) continue;\n      svg += '<line x1=\"' + xx + '\" y1=\"' + (gy + gh) + '\" x2=\"' + xx + '\" y2=\"' + gy + '\" stroke=\"' + gridClr + '\" stroke-width=\"0.5\" opacity=\"0.5\"/>';\n      if (tickFreq > freqMin && tickFreq < freqMax) svg += '<line x1=\"' + xx + '\" y1=\"' + (gy + gh) + '\" x2=\"' + xx + '\" y2=\"' + (gy + gh + 4) + '\" stroke=\"' + axisClr + '\" stroke-width=\"1\"/>';\n      svg += '<text x=\"' + xx + '\" y=\"' + (ph - 2) + '\" text-anchor=\"middle\" font-size=\"' + fs + '\" fill=\"' + axisClr + '\">' + tickFreq + '</text>';\n    }\n    for (var yi = 0; yi <= yticks; yi++) {\n      var yy = gy + gh - (yi / yticks) * gh;\n      svg += '<line x1=\"' + gx + '\" y1=\"' + yy + '\" x2=\"' + (gx + gw) + '\" y2=\"' + yy + '\" stroke=\"' + gridClr + '\" stroke-width=\"0.5\" opacity=\"0.5\"/>';\n      if (yi > 0 && yi < yticks) svg += '<line x1=\"' + (gx - 4) + '\" y1=\"' + yy + '\" x2=\"' + gx + '\" y2=\"' + yy + '\" stroke=\"' + axisClr + '\" stroke-width=\"1\"/>';\n      var v = vMin + (yi / yticks) * vRange;\n      svg += '<text x=\"' + (gx - 6) + '\" y=\"' + (yy + 3) + '\" text-anchor=\"end\" font-size=\"' + fs + '\" fill=\"' + axisClr + '\">' + format_num(v) + '</text>';\n    }\n    svg += '<line x1=\"' + gx + '\" y1=\"' + (gy + gh) + '\" x2=\"' + (gx + gw) + '\" y2=\"' + (gy + gh) + '\" stroke=\"' + axisClr + '\" stroke-width=\"1\"/>';\n    svg += '<line x1=\"' + gx + '\" y1=\"' + gy + '\" x2=\"' + gx + '\" y2=\"' + (gy + gh) + '\" stroke=\"' + axisClr + '\" stroke-width=\"1\"/>';\n    var lw = SWEEP_CHART.lineWidth > 0 ? SWEEP_CHART.lineWidth : 2;\n    var dlw = SWEEP_CHART.diffLineWidth != null ? SWEEP_CHART.diffLineWidth : lw;\n    if (pLeft) svg += '<path d=\"' + pLeft + '\" fill=\"none\" stroke=\"' + CHART.lineLeft + '\" stroke-width=\"' + lw + '\"/>';\n    if (pRight) svg += '<path d=\"' + pRight + '\" fill=\"none\" stroke=\"' + CHART.lineRight + '\" stroke-width=\"' + lw + '\"/>';\n    if (pDiff) svg += '<path d=\"' + pDiff + '\" fill=\"none\" stroke=\"' + CHART.lineDiff + '\" stroke-width=\"' + dlw + '\" stroke-dasharray=\"4,2\"/>';\n    svg += '</g></svg>';\n    var coords = { freqMin: freqMin, freqMax: freqMax, freqRange: freqRange, vMin: vMin, vMax: vMax, vRange: vRange, gx: gx, gy: gy, gw: gw, gh: gh, pw: pw, ph: ph };\n    return { svg: svg, coords: coords };\n  }\n\n  function build_sweep_from_lrd(t) {\n    if (!t || typeof t !== \"object\") return null;\n    var left = t.left || {};\n    var right = t.right || {};\n    var diff = t.diff || {};\n    var keys = Object.keys(left).concat(Object.keys(right)).concat(Object.keys(diff));\n    keys = keys.filter(function (k, i, a) { return a.indexOf(k) === i; }).sort(function (a, b) {\n      var na = parseInt(String(a).replace(/[^0-9]/g, \"\"), 10) || 0;\n      var nb = parseInt(String(b).replace(/[^0-9]/g, \"\"), 10) || 0;\n      return na - nb;\n    });\n    if (keys.length < 2) return null;\n    var freqs = [];\n    var leftArr = [];\n    var rightArr = [];\n    var diffArr = [];\n    for (var i = 0; i < keys.length; i++) {\n      var k = keys[i];\n      var hz = parseInt(String(k).replace(/[^0-9]/g, \"\"), 10);\n      if (!isNaN(hz)) {\n        freqs.push(hz);\n        leftArr.push(left[k] != null ? left[k] : null);\n        rightArr.push(right[k] != null ? right[k] : null);\n        diffArr.push(diff[k] != null ? diff[k] : null);\n      }\n    }\n    return freqs.length >= 2 ? { freqs: freqs, left: leftArr, right: rightArr, diff: diffArr } : null;\n  }\n\n  function render_step_sweep(frm) {\n    var g = safe_json(frm.doc.final_graph_json, null);\n    var isSweep = g && (g.type === \"sweep\" || g.type === \"step_sweep\") && (g.freqs || []).length >= 2;\n    if (!isSweep) {\n      var lrd = safe_json(frm.doc.left_right_diff_summary_json, null);\n      g = build_sweep_from_lrd(lrd);\n    }\n    if (!g || !g.freqs || g.freqs.length < 2) {\n      return '<div class=\"pts3-result-section\"><h4>Step Sweep</h4><p class=\"pts3-result-no-data\">No sweep data</p></div>';\n    }\n    var freqs = g.freqs || [];\n    var left = g.left || [];\n    var right = g.right || [];\n    var diff = g.diff || [];\n    var html = '<div class=\"pts3-result-section\"><h4>Step Sweep</h4>';\n    if (freqs.length >= 2) {\n      var chartResult = render_sweep_chart_svg(freqs, left, right, diff);\n      var sweepData = JSON.stringify({ freqs: freqs, left: left, right: right, diff: diff, coords: chartResult.coords });\n      html += '<div class=\"pts3-chart-wrap\"><p style=\"font-size:' + (SWEEP_CHART.fontSize != null ? SWEEP_CHART.fontSize : CHART.fontSize || 10) + 'px;margin:0 0 4px 0;\"><span style=\"color:' + CHART.lineLeft + '\">—</span> Left &nbsp; <span style=\"color:' + CHART.lineRight + '\">—</span> Right &nbsp; <span style=\"color:' + CHART.lineDiff + '\">- -</span> Diff</p>';\n      html += '<div class=\"pts3-sweep-chart-container\" data-sweep=\"' + escape_html(sweepData) + '\"><div class=\"pts3-sweep-tooltip\" id=\"pts3-sweep-tooltip\"></div>' + chartResult.svg + '</div></div>';\n    }\n    html += '<table class=\"pts3-result-table\"><thead><tr><th>Channel</th>';\n    for (var h = 0; h < freqs.length; h++) {\n      html += '<th>' + escape_html(freqs[h]) + 'hz</th>';\n    }\n    html += '</tr></thead><tbody>';\n    html += '<tr><td>Left</td>';\n    for (var a = 0; a < freqs.length; a++) {\n      html += '<td>' + escape_html(format_num(left[a])) + '</td>';\n    }\n    html += '</tr><tr><td>Right</td>';\n    for (var b = 0; b < freqs.length; b++) {\n      html += '<td>' + escape_html(format_num(right[b])) + '</td>';\n    }\n    html += '</tr><tr><td>Diff</td>';\n    for (var c = 0; c < freqs.length; c++) {\n      html += '<td>' + escape_html(format_num(diff[c])) + '</td>';\n    }\n    html += '</tr></tbody></table></div>';\n    return html;\n  }\n\n  function get_mode_value(m, key) {\n    if (m[key]) return m[key];\n    var lower = key.toLowerCase();\n    if (m[lower]) return m[lower];\n    return null;\n  }\n\n  function render_mode_chart_svg(modeData) {\n    var order = [\"Mode1\", \"Mode2\", \"Mode3\", \"Mode0\"];\n    var rows = [];\n    for (var i = 0; i < order.length; i++) {\n      var v = get_mode_value(modeData, order[i]);\n      if (v && typeof v === \"object\") {\n        rows.push({\n          label: order[i],\n          p1: v.p1 != null ? Number(v.p1) : 0,\n          p2: v.p2 != null ? Number(v.p2) : 0,\n          diff: v.diff != null ? Number(v.diff) : 0\n        });\n      }\n    }\n    if (rows.length === 0) return \"\";\n\n    var pw = CHART.width;\n    var ph = 220;\n    var pad = { top: 25, right: 20, bottom: 40, left: 52 };\n    var gw = pw - pad.left - pad.right;\n    var gh = ph - pad.top - pad.bottom;\n\n    var maxVal = 0;\n    for (var r = 0; r < rows.length; r++) {\n      if (rows[r].p1 > maxVal) maxVal = rows[r].p1;\n      if (rows[r].p2 > maxVal) maxVal = rows[r].p2;\n      if (rows[r].diff > maxVal) maxVal = rows[r].diff;\n    }\n    maxVal = MODE_CHART.yMax != null ? Number(MODE_CHART.yMax) : (maxVal || 1);\n    var minVal = MODE_CHART.yMin != null ? Number(MODE_CHART.yMin) : 0;\n    var valRange = Math.max(maxVal - minVal, 0.001);\n\n    var groupW = gw / Math.max(rows.length, 1);\n    var barW = groupW / 5;\n    var gap = barW * 0.3;\n    var totalBars = 3 * barW + 2 * gap;\n\n    function barX(idx, offset) {\n      var groupCenter = pad.left + (idx + 0.5) * groupW;\n      var startX = groupCenter - totalBars / 2;\n      return startX + offset * (barW + gap);\n    }\n    function barH(v) {\n      var val = Number(v) || 0;\n      return Math.max(0, ((val - minVal) / valRange) * gh);\n    }\n\n    var axisClr = CHART.axisColor;\n    var gridClr = CHART.gridColor;\n    var fs = MODE_CHART.fontSize != null ? MODE_CHART.fontSize : (CHART.fontSize || 10);\n    var fsSmall = Math.max(6, fs - 2);\n    var svg = '<svg class=\"pts3-chart-svg\" viewBox=\"0 0 ' + pw + ' ' + ph + '\" preserveAspectRatio=\"xMidYMid meet\" style=\"max-width:100%;height:auto;\"><g>';\n    for (var yi = 0; yi <= 4; yi++) {\n      var yy = pad.top + gh - (yi / 4) * gh;\n      svg += '<line x1=\"' + pad.left + '\" y1=\"' + yy + '\" x2=\"' + (pw - pad.right) + '\" y2=\"' + yy + '\" stroke=\"' + gridClr + '\" stroke-width=\"0.5\" opacity=\"0.5\"/>';\n      var yVal = minVal + (yi / 4) * valRange;\n      svg += '<line x1=\"' + (pad.left - 4) + '\" y1=\"' + yy + '\" x2=\"' + pad.left + '\" y2=\"' + yy + '\" stroke=\"' + axisClr + '\" stroke-width=\"1\"/>';\n      svg += '<text x=\"' + (pad.left - 6) + '\" y=\"' + (yy + 3) + '\" text-anchor=\"end\" font-size=\"' + fs + '\" fill=\"' + axisClr + '\">' + format_num(yVal) + '</text>';\n    }\n    svg += '<line x1=\"' + pad.left + '\" y1=\"' + (pad.top + gh) + '\" x2=\"' + (pw - pad.right) + '\" y2=\"' + (pad.top + gh) + '\" stroke=\"' + axisClr + '\" stroke-width=\"1\"/>';\n    for (var i = 0; i < rows.length; i++) {\n      var x0 = barX(i, 0);\n      var x1 = barX(i, 1);\n      var x2 = barX(i, 2);\n      var baseY = pad.top + gh;\n      var h1 = barH(rows[i].p1);\n      var h2 = barH(rows[i].p2);\n      var hd = barH(Math.abs(rows[i].diff));\n      var cx0 = x0 + barW / 2;\n      var cx1 = x1 + barW / 2;\n      var cx2 = x2 + barW / 2;\n      svg += '<rect x=\"' + x0 + '\" y=\"' + (baseY - h1) + '\" width=\"' + barW + '\" height=\"' + h1 + '\" fill=\"' + CHART.barP1 + '\"/>';\n      svg += '<rect x=\"' + x1 + '\" y=\"' + (baseY - h2) + '\" width=\"' + barW + '\" height=\"' + h2 + '\" fill=\"' + CHART.barP2 + '\"/>';\n      svg += '<rect x=\"' + x2 + '\" y=\"' + (baseY - hd) + '\" width=\"' + barW + '\" height=\"' + hd + '\" fill=\"' + CHART.barDiff + '\"/>';\n      if (rows[i].p1 > 0) svg += '<text x=\"' + cx0 + '\" y=\"' + (baseY - h1 - 3) + '\" text-anchor=\"middle\" font-size=\"' + fsSmall + '\" fill=\"' + axisClr + '\">' + format_num(rows[i].p1) + '</text>';\n      if (rows[i].p2 > 0) svg += '<text x=\"' + cx1 + '\" y=\"' + (baseY - h2 - 3) + '\" text-anchor=\"middle\" font-size=\"' + fsSmall + '\" fill=\"' + axisClr + '\">' + format_num(rows[i].p2) + '</text>';\n      if (rows[i].diff !== 0) svg += '<text x=\"' + cx2 + '\" y=\"' + (baseY - hd - 3) + '\" text-anchor=\"middle\" font-size=\"' + fsSmall + '\" fill=\"' + axisClr + '\">' + format_num(rows[i].diff) + '</text>';\n      svg += '<text x=\"' + (pad.left + i * groupW + groupW / 2) + '\" y=\"' + (ph - 8) + '\" text-anchor=\"middle\" font-size=\"' + fs + '\" fill=\"' + axisClr + '\">' + escape_html(rows[i].label) + '</text>';\n    }\n    svg += '</g></svg>';\n    return svg;\n  }\n\n  function render_mode(frm) {\n    var m = safe_json(frm.doc.mode_values_json, null);\n    if (!m || typeof m !== \"object\") {\n      return '<div class=\"pts3-result-section\"><h4>Mode Results</h4><p class=\"pts3-result-no-data\">No mode data</p></div>';\n    }\n    var order = [\"Mode1\", \"Mode2\", \"Mode3\", \"Mode0\"];\n    var html = '<div class=\"pts3-result-section\"><h4>Mode Results</h4>';\n    if (Object.keys(m).length) {\n      html += '<div class=\"pts3-mode-legend\" style=\"font-size:' + (MODE_CHART.fontSize != null ? MODE_CHART.fontSize : CHART.fontSize || 10) + 'px;\"><span style=\"color:' + CHART.barP1 + '\">■</span> P1 &nbsp; <span style=\"color:' + CHART.barP2 + '\">■</span> P2 &nbsp; <span style=\"color:' + CHART.barDiff + '\">■</span> Diff</div>';\n      html += '<div class=\"pts3-mode-layout\">';\n      html += '<div class=\"pts3-mode-table\"><table class=\"pts3-result-table\"><thead><tr><th>Mode</th><th>P1</th><th>P2</th><th>Diff</th></tr></thead><tbody>';\n      for (var i = 0; i < order.length; i++) {\n        var k = order[i];\n        var v = get_mode_value(m, k);\n        if (v && typeof v === \"object\") {\n          html += \"<tr><td>\" + escape_html(k) + \"</td><td>\" + escape_html(v.p1 != null ? v.p1 : \"\") + \"</td><td>\" + escape_html(v.p2 != null ? v.p2 : \"\") + \"</td><td>\" + escape_html(v.diff != null ? v.diff : \"\") + \"</td></tr>\";\n        }\n      }\n      html += \"</tbody></table></div>\";\n      html += '<div class=\"pts3-mode-chart\"><div class=\"pts3-chart-wrap\">' + render_mode_chart_svg(m) + '</div></div>';\n      html += '</div>';\n    }\n    html += \"</div>\";\n    return html;\n  }\n\n  function render_lrd_summary(frm) {\n    var t = safe_json(frm.doc.left_right_diff_summary_json, null);\n    if (!t || typeof t !== \"object\") {\n      return '<div class=\"pts3-result-section\"><h4>Left / Right / Diff Summary</h4><p class=\"pts3-result-no-data\">No data</p></div>';\n    }\n    var meta = t.metadata || {};\n    var left = t.left || {};\n    var right = t.right || {};\n    var diff = t.diff || {};\n    var keys = Object.keys(left).concat(Object.keys(right)).concat(Object.keys(diff));\n    keys = keys.filter(function (k, i, a) { return a.indexOf(k) === i; }).sort();\n    var html = '<div class=\"pts3-result-section\"><h4>Left / Right / Diff Summary</h4>';\n    if (Object.keys(meta).length) {\n      html += \"<p><strong>Metadata:</strong> \" + escape_html(JSON.stringify(meta)) + \"</p>\";\n    }\n    html += \"<table class=\\\"pts3-result-table\\\"><thead><tr><th>Key</th><th>Left</th><th>Right</th><th>Diff</th></tr></thead><tbody>\";\n    for (var i = 0; i < keys.length; i++) {\n      var k = keys[i];\n      html += \"<tr><td>\" + escape_html(k) + \"</td><td>\" + escape_html(left[k] != null ? left[k] : \"\") + \"</td><td>\" + escape_html(right[k] != null ? right[k] : \"\") + \"</td><td>\" + escape_html(diff[k] != null ? diff[k] : \"\") + \"</td></tr>\";\n    }\n    html += \"</tbody></table></div>\";\n    return html;\n  }\n\n  function render_artifacts(frm) {\n    var ap = frm.doc.artifact_paths || \"\";\n    var html = '<div class=\"pts3-result-section\"><h4>Artifacts</h4>';\n    var obj = null;\n    if (typeof ap === \"string\" && ap.trim()) {\n      try {\n        obj = JSON.parse(ap);\n      } catch (e) {\n        obj = null;\n      }\n    }\n    if (obj && typeof obj === \"object\") {\n      var pc = obj.pc_name || \"\";\n      var excel = obj.excel_path || \"\";\n      var log = obj.log_path || \"\";\n      var plot = obj.plot_path || \"\";\n      html += \"<div class=\\\"pts3-result-artifact\\\"><strong>PC:</strong> \" + escape_html(pc || \"(not set)\") + \"</div>\";\n      html += \"<div class=\\\"pts3-result-artifact\\\"><strong>Excel:</strong> \" + escape_html(excel || \"-\") + \"</div>\";\n      html += \"<div class=\\\"pts3-result-artifact\\\"><strong>Log:</strong> \" + escape_html(log || \"-\") + \"</div>\";\n      html += \"<div class=\\\"pts3-result-artifact\\\"><strong>Plot:</strong> \" + escape_html(plot || \"-\") + \"</div>\";\n    } else if (ap && typeof ap === \"string\") {\n      html += \"<div class=\\\"pts3-result-artifact\\\"><strong>Legacy path:</strong> \" + escape_html(ap) + \"</div>\";\n    } else {\n      html += \"<p class=\\\"pts3-result-no-data\\\">No artifact paths</p>\";\n    }\n    html += \"</div>\";\n    return html;\n  }\n\n  function render_inspection(frm) {\n    if (!frm.doc.name) return \"\";\n    var html = render_summary(frm) + render_step_sweep(frm) + render_mode(frm) + render_lrd_summary(frm) + render_artifacts(frm);\n    return html;\n  }\n\n  function setup_sweep_hover() {\n    $(document).off(\"mousemove.pts3sweep mouseleave.pts3sweep\");\n    $(document).on(\"mousemove.pts3sweep\", \".pts3-sweep-chart-container\", function (e) {\n      var $c = $(this);\n      var dataStr = $c.attr(\"data-sweep\");\n      if (!dataStr) return;\n      var data;\n      try {\n        data = JSON.parse(dataStr);\n      } catch (err) {\n        return;\n      }\n      var coords = data.coords;\n      var freqs = data.freqs || [];\n      var left = data.left || [];\n      var right = data.right || [];\n      var diff = data.diff || [];\n      if (!coords || !freqs.length) return;\n      var svg = $c.find(\"svg\")[0];\n      if (!svg) return;\n      var rect = svg.getBoundingClientRect();\n      var vx = ((e.clientX - rect.left) / rect.width) * coords.pw;\n      var vy = ((e.clientY - rect.top) / rect.height) * coords.ph;\n      if (vx < coords.gx || vx > coords.gx + coords.gw || vy < coords.gy || vy > coords.gy + coords.gh) {\n        $c.find(\".pts3-sweep-tooltip\").removeClass(\"visible\");\n        return;\n      }\n      var freq = coords.freqMin + ((vx - coords.gx) / coords.gw) * coords.freqRange;\n      var idx = Math.round(((vx - coords.gx) / coords.gw) * (freqs.length - 1));\n      idx = Math.max(0, Math.min(idx, freqs.length - 1));\n      var f = Number(freqs[idx]);\n      var l = left[idx] != null ? format_num(left[idx]) : \"-\";\n      var r = right[idx] != null ? format_num(right[idx]) : \"-\";\n      var d = diff[idx] != null ? format_num(diff[idx]) : \"-\";\n      var $tip = $c.find(\".pts3-sweep-tooltip\");\n      var cRect = $c[0].getBoundingClientRect();\n      $tip.html(\"<strong>\" + f + \" Hz</strong><br>Left: \" + l + \" &nbsp; Right: \" + r + \" &nbsp; Diff: \" + d);\n      $tip.css({ left: (e.clientX - cRect.left + 12) + \"px\", top: (e.clientY - cRect.top + 12) + \"px\" });\n      $tip.addClass(\"visible\");\n    });\n    $(document).on(\"mouseleave.pts3sweep\", \".pts3-sweep-chart-container\", function () {\n      $(this).find(\".pts3-sweep-tooltip\").removeClass(\"visible\");\n    });\n  }\n\n  frappe.ui.form.on(\"PTS3 Result\", {\n    refresh: function (frm) {\n      var field = frm.get_field(\"result_inspection\");\n      if (field && field.$wrapper) {\n        field.$wrapper.html(render_inspection(frm));\n        setup_sweep_hover();\n      }\n    }\n  });\n})();\n",
+          "firstEditBubbleId": "a5124108-8f7a-46a7-ba63-12d5875e463e",
+          "isNewlyCreated": false,
+          "newlyCreatedFolders": []
         }
       },
       "newlyCreatedFiles": [
@@ -48140,7 +48433,7 @@
         }
       ],
       "newlyCreatedFolders": [],
-      "lastUpdatedAt": 1775302123834,
+      "lastUpdatedAt": 1775302880049,
       "createdAt": 1767854262948,
       "hasChangedContext": true,
       "activeTabsShouldBeReactive": true,
@@ -48207,7 +48500,7 @@
       "unifiedMode": "agent",
       "forceMode": "edit",
       "usageData": {},
-      "contextUsagePercent": 14.01,
+      "contextUsagePercent": 32.931,
       "allAttachedFileCodeChunksUris": [
         "file:///c%3A/Users/pc/Downloads/conversation_6_composerData_d9ab2c61-7e99-4761-80f2-8e0ac9842c55.json",
         "file:///c%3A/Users/pc/Desktop/cursor-chat-backups/extract_conversations.py",
@@ -48228,8 +48521,8 @@
       "isQueueExpanded": true,
       "hasUnreadMessages": false,
       "gitHubPromptDismissed": false,
-      "totalLinesAdded": 3800,
-      "totalLinesRemoved": 0,
+      "totalLinesAdded": 3877,
+      "totalLinesRemoved": 42,
       "addedFiles": 0,
       "removedFiles": 0,
       "isDraft": false,
@@ -48249,14 +48542,14 @@
       "isNAL": true,
       "planModeSuggestionUsed": false,
       "debugModeSuggestionUsed": false,
-      "conversationState": "~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aGF0cy5weRIAejMKL2M6XFVzZXJzXHBjXERlc2t0b3BccmVjb3Zlcl9hbGxfY3Vyc29yX2RhdGEuYmF0EgB6MQotYzpcVXNlcnNccGNcRGVza3RvcFxleHRyYWN0X3NwZWNpZmljX2NoYXRzLnB5EgB6MQotYzpcVXNlcnNccGNcRGVza3RvcFxyZWNvdmVyX3NwZWNpZmljX2NoYXRzLnB5EgB6NwozYzpcVXNlcnNccGNcRGVza3RvcFxmaW5kX2FsbF9jb252ZXJzYXRpb25fdGl0bGVzLnB5EgB6Pgo6YzpcVXNlcnNccGNcRGVza3RvcFxleHRyYWN0X2FsbF93b3Jrc3BhY2VfY29udmVyc2F0aW9ucy5weRIAei4KKmM6XFVzZXJzXHBjXERlc2t0b3BccmVjb3Zlcl9mcmFwcGVfZnFjNS5weRIAejEKLWM6XFVzZXJzXHBjXERlc2t0b3BcZmluYWxfcmVjb3ZlcnlfYXR0ZW1wdC5weRIAejcKM2M6XFVzZXJzXHBjXERlc2t0b3BcUkVDT1ZFUllfU1VNTUFSWV9GUkFQUEVfRlFDNS5tZBIAejQKMGM6XFVzZXJzXHBjXERlc2t0b3BcZXhwb3J0X2Z1bGxfY29udmVyc2F0aW9ucy5weRIAejgKNGM6XFVzZXJzXHBjXERlc2t0b3BcZXhwb3J0X2NvbXBsZXRlX2Zyb21fZGF0YWJhc2UucHkSAHoyCi5jOlxVc2Vyc1xwY1xEZXNrdG9wXEVYUE9SVF9DT01QTEVURV9TVU1NQVJZLm1kEgB6MgouYzpcVXNlcnNccGNcRGVza3RvcFxleHRyYWN0X3Rvb2xmb3JtZXJfZGF0YS5weRIAejoKNmM6XFVzZXJzXHBjXERlc2t0b3Bcc2V0dXBfYXV0b19iYWNrdXBfY3Vyc29yX2NoYXRzLmJhdBIAeiwKKGM6XFVzZXJzXHBjXERlc2t0b3BcSU5TVEFMTF9TUEVDU1RPUlkubWQSAHoyCi5jOlxVc2Vyc1xwY1xEZXNrdG9wXEFVVE9fQkFDS1VQX1NFVFVQX0dVSURFLm1kEgB6MwovYzpcVXNlcnNccGNcRGVza3RvcFxRVUlDS19TRVRVUF9BVVRPX0JBQ0tVUC5iYXQSAHowCixjOlxVc2Vyc1xwY1xEZXNrdG9wXHZlcmlmeV9iYWNrdXBfc3lzdGVtLmJhdBIAejEKLWM6XFVzZXJzXHBjXERlc2t0b3BcZml4X2FuZF92ZXJpZnlfYmFja3VwLmJhdBIAejUKMWM6XFVzZXJzXHBjXERlc2t0b3BcY3JlYXRlX2F1dG9fYmFja3VwX3NjcmlwdC5iYXQSAHoxCi1jOlxVc2Vyc1xwY1xEZXNrdG9wXHZlcmlmeV9hbGxfY29tcG9uZW50cy5wczESAHovCitjOlxVc2Vyc1xwY1xEZXNrdG9wXENIRUNLX0JBQ0tVUF9TVEFUVVMuYmF0EgB6MQotYzpcVXNlcnNccGNcRGVza3RvcFxjcmVhdGVfc2NoZWR1bGVkX3Rhc2suYmF0EgB6LgoqYzpcVXNlcnNccGNcRGVza3RvcFxGSU5BTF9TVEFUVVNfUkVQT1JULm1kEgB6KAokYzpcVXNlcnNccGNcRGVza3RvcFxRVUlDS19WRVJJRlkuYmF0EgB6MQotYzpcVXNlcnNccGNcRGVza3RvcFxCQUNLVVBfU1lTVEVNX0NPTVBMRVRFLm1kEgB6JwojYzpcVXNlcnNccGNcRGVza3RvcFxGSU5BTF9TVEFUVVMubWQSAHpSCixjOlxVc2Vyc1xwY1xEZXNrdG9wXFZFUklGSUNBVElPTl9DT01QTEVURS5tZBIiCiANS9nuxnPKMHQ0xSc8LtKDb1KDJ48uFVwP/6eeYQ077HpLCiVjOlxVc2Vyc1xwY1xEZXNrdG9wXFNFVFVQX0NPTVBMRVRFLm1kEiIKIB1fm1FiIT+L30m3cdWiduf9UZOkD4JQ9aigCGges92bemgKQkM6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1x1cGRhdGVfYmFja3VwX2ludGVydmFsLmJhdBIiCiDMb5NXPMWEc8JaucrAk5OT/GWMQmXlzYq1HyUNdR8OanpQCipjOlxVc2Vyc1xwY1xEZXNrdG9wXFNZU1RFTV9TVEFUVVNfRklOQUwubWQSIgogFhFOXKfamBBNcG8+yRelWUIZva3eIQP/wgieq06wBpx6TQonYzpcVXNlcnNccGNcRGVza3RvcFxFVkVSWVRISU5HX1JFQURZLm1kEiIKIObtVnmybGxBY+85rv2NXy33G7FpE35Du6G0WUI8bBFAelIKLGM6XFVzZXJzXHBjXERlc2t0b3BcQ0hBVF9SRUNPVkVSWV9TVU1NQVJZLm1kEiIKIOUPb6kWTjA9XKuuw9YWpqRW6T3Y9odatrqKfOppD7BbemkKQ2M6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xTT0xVVElPTl9GT1JfTElNSVRBVElPTlMubWQSIgogyp+qMJGxfyfEV8IT9eZ/nEj7e2QvTfHVdMGxT13jbkl6TgooYzpcVXNlcnNccGNcRGVza3RvcFxpbnNwZWN0X2N1cnNvcl9kYi5weRIiCiBqwir8SwVxk22LiGk3YIBW6lIr5pvDaos3aYOu7Zk+wHpTCi1jOlxVc2Vyc1xwY1xEZXNrdG9wXFNUQVJUX0hFUkVfQVVUT19CQUNLVVAubWQSIgogKAZMtXvfvq1JO4ZR7HpeMIxIVQgv0+QHzi+vASBjrLd6agpEYzpcVXNlcnNccGNcRGVza3RvcFxjdXJzb3ItY2hhdC1iYWNrdXBzXENPTVBMRVRFX1NPTFVUSU9OX1NVTU1BUlkubWQSIgogqqZsmSFsPJrGb30zoBihV8HQVi3N4bxklMsfN1HSCFp6SQojYzpcVXNlcnNccGNcRGVza3RvcFxTWVNURU1fUkVBRFkubWQSIgogqU2AD7BHzvS2E8FcBf8wPC6a7EIA8fSxqK0FEBHanmh6Xwo5YzpcVXNlcnNccGNcRGVza3RvcFxjdXJzb3ItY2hhdC1iYWNrdXBzXFJFQ09WRVJZX0dVSURFLm1kEiIKIHXwPrxInthhHhWZih2l2J5AY+Z9UngSUeYJw29CBay/emIKPGM6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xyZWNvdmVyX2Zyb21fanNvbi5weRIiCiDz03M//MWLO70Z516IoOEpybRlfOaRrPNonumssI7WYXpmCkBjOlxVc2Vyc1xwY1xEZXNrdG9wXGN1cnNvci1jaGF0LWJhY2t1cHNcZXh0cmFjdF9jb252ZXJzYXRpb25zLnB5EiIKIGCT+YnPXahoA5hNzj9alDl1x8w6zVr36lYCsNSAu9U6emgKQmM6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xleHRyYWN0X3Byb2plY3RfY29udGV4dC5weRIiCiDGm+oKbVaLqQMuKemFwJwSKLbbxp7NcRde5faPx09SxHpRCitjOlxVc2Vyc1xwY1xEZXNrdG9wXE9QRU5fUkVDT1ZFUkVEX0NIQVRTLm1kEiIKIAKZ+8ftN0DYiM1Ac1sgj0/1Geaz6147PSLBctmMFdolen8KN0M6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xhdXRvLWJhY2t1cC5iYXQSRAogNuMmfO+ieg2cFpLDrgQaG5c4WDydckXJ8yGp29MP17ESINKKbNjFp5p2C95//UDZVf16xg0cU4ZRx/cIkmV8tgOJelMKLWM6XFVzZXJzXHBjXERlc2t0b3Bcc2V0dXBfZ2l0X2F1dG9fYmFja3VwLnBzMRIiCiBOOSEWOvnYv5evVd8kUptp19fwiNBqYJDfUiA8jsipi3pYCjJjOlxVc2Vyc1xwY1xEZXNrdG9wXGN1cnNvci1jaGF0LWJhY2t1cHNcLmdpdGlnbm9yZRIiCiCsh0Z7YbWbhypproAighDF94qA/X+A3zQHILo4iwnYBHpWCjBjOlxVc2Vyc1xwY1xEZXNrdG9wXHJlY29uc3RydWN0X2NvbnZlcnNhdGlvbnMucHkSIgog8YFKBnUhwgX/NTJE5f8QFRVtYZrf/e0G4zibGnWmFxt6XQo3YzpcVXNlcnNccGNcRGVza3RvcFxjdXJzb3ItY2hhdC1iYWNrdXBzXGF1dG8tYmFja3VwLmJhdBIiCiCPLNujScQ1I+wsFbPOBz9uH6P1xzzc56SzUPwb2AjOYXprCkVjOlxVc2Vyc1xwY1xEZXNrdG9wXGN1cnNvci1jaGF0LWJhY2t1cHNcZXh0cmFjdF9mdWxsX2NvbnZlcnNhdGlvbnMucHkSIgogvVtx17rPUg75hqCrVYfABDnzTJOPAFjYgIaUbr7GlDx6hQEKX2M6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xwcm9qZWN0X3JlY292ZXJ5X2RvY3NcQ09NUExFVEVfUFJPSkVDVF9VTkRFUlNUQU5ESU5HLm1kEiIKIPfOjYG/bdgVV1k2g66aqZRFsnTprP9qx+x6jojk8DDlkgE3QzpcVXNlcnNccGNcRGVza3RvcFxjdXJzb3ItY2hhdC1iYWNrdXBzXGF1dG8tYmFja3VwLmJhdKoBGAoLQzovVXNlcnMvcGMSCWNvZGV4LXRyebIBA2lkZQ==",
+      "conversationState": "~CiAzS/UdUoIjL8KL2hhlrfVXttpSQDmpifFr6nJCi99b+gog+jijgztYTk4nmiCAx5SdAHm34ErYk0sWxkxGR93j/HwKIFRGKKyCQ+vL3rVyqGHUAaaqYnLV462hbUj6FaoMXSuPCiBwTRw+pp9BowUcJKYI2ey4wtEeNsevHaRMUtElpQ9vewogHnP5EeBfyeqeK9v9dd6EIs10LkGLCMEy1RboDjWnw3sKIEZqgqplN4vyT53jp0aW/Z/cWCWA7JhQlAqgXpnFrx38CiDUQuXGPCVsZOeJJIPbYJLuZfjCIK96+En0pkDPfadO0gogLbL3WbpM5f0k6WATwxbEwoIwusYPJGk5i2oXZvxkqXIKIJdbJcPqZO+0hFqadb052VC5BXdPkZLUndIEhEoqFO2fCiBRDInuXoVcKNoCgwpaijcOzUnQTHvddS1BcyrSxNUVSwogph+8jzaXTHDUu1FOitbTGlkR0A+6N85PF43wfJbHjyMKINpWUhnH7VvVQWbvf90EcI13mhwYkdcnzolSM/RvKTg0CiA5joewv0yNCY73woOFY2DE58A5Vd11Cc41Tc4TGgYwlQogqus80nYbGNvV/q7oDY1LO3MHiFOcUl6yuaeIKquRBH0KIKN0sgdIboylKAvCHJ4AJ/aSGvr7ZpD+LHFvAlSDL+8uCiB40pbIAZ6oqbAQIb7wufbPPWLJE7eB/+/DPt630vybPAogWLS8G1V4GpfQJr13pHXThW1fqEymrUR082X2CNlHOfYKIAGpOwfmCCUBpK6JHmauJx1bYS0s3gUWkH8AVwWBb9/GCiBwhWOTUFCgfCg14HkbNa+pq5n1ROAE4WGsmYvOI78ZkAog3mG4LUejP3b9/LrvezNGY1JhQDpSDJ7oq1SBB2g2VvwKIBxMJpuz1TlA7Qff2vPfEzqi52B5qAn6mATxqG3EopQJCiBmcr3HFG5t2MQLS3kFupixUTa4l5tYUgPqQ9ulVJsdPQogD3cZlH6UMCUnPf30HJ1F5yar/z2HIHyTsG7oKIgFHN4KIGOtKOG44dGCuSklPaH/2q8lS+x3GgItTSsOfXilO/ChCiDowXE8FsDA6PQlMOb7f6eC+SC8mawOwHa6Gb97X5HD+AogNXkqZyq9eQMxv1K+EAqyxPQUkBoylDb3NbkyVdf8TYgKIEnFIK4UN+GrpezWtqI+kecbmHy0SuRF5DcY0Q5cNHucCiAQ+smNiHROiNbT+WBESygUAXZvnJSWYNKIHIsfhcBasgogP11/eatvGeetM1RaTFdtOfNw0L7/OHtelxhf+djkaGoKIIvD1jTr24oOZoDqO0dpZt/mvSxB3TCxD/71hz2GPtRDCiADaq3Ng+Gjlt5LiWE1iGkZK3dYX9yVevddMiKarb6scgogHX/oXvIkAdn7m0+UO9pZzb+IBPAt6v2cbK6kFSx9pKAKIFlsxrRQJoPbmV/iYHwnvwf55r302vzq9htdU5sVro3iCiAxP1RpDtLL34B+n3aKGVut4qUWnkNs5eVkOukg8XW6Zwogg8vH65TWOkr0aKhhlPrnJaS199gzMqkC48gMTMmzx8IKIOfakTFDwUcpe6xAxdnutuZbLgjIoH7fauWq+7VRafsaCiCywc5ICtlvitd6hyE8tDcD4X0f9sSVt10OZD4XQq/A9QogrESiJI3mC2T+brqkb8BGh70t2TXBdRY5hKhbFD+UAr4KIFcnPOeQtu4GbTAQ/vuWzA6cV8nt+munJ5MYJn0cwVEoCiCwjUL/CHDgCSPVJpdPR6hvvIWkDsvSiJnyMH2buihbRgogQw47WF9vrG4/ng0DBFU+EQ3xv1a8sm3E7O+va33EbHwKIFqAoTRRgv4vHWzKIsHXdBirtm5gLcxAYwnxNANq+yK6CiBrLrBVN+A+avAExUx57YZKai5ZwZmWZ7ROKw8Qvb37yAogCcmiZLQIpI1tUshK00nTZQw5IY2aNpajsLQfgtbOeuoKIOfITmfexlTJmrTasni4PC6B0qZ2q9MnVczKcwKnMZO4CiB3Glsu1QvK0QjoLaU3jqI3G5kv6BUeZsCWeBgPg3+2fgog4Z+RhwOcJenoDETBcquV72b989rBKdD9fnYqPAZhBhwKIBr2NPklXVw2Nz/Z69USd8JFuoudFyI24UKsrwNdBzMlCiBmPt+8fetKyb1rITTJxgW/op0azs4SljqH+LIAUtiIBAogsFscMx73jtyGDyM9qWVZBnklP7TAaVr5anpOHS/m7EsKIFTitLkM4teepONYSzL8+nOHbCN2UDGreFqpQbjMiJbRCiDkbQZXtq4qhX8tPXP2j8O37GJDXatTE+FZoW9GPTGTjgogqM2Xlp0/Vec1YMg4BZ/vkqQYfmFprBarpTBa+3ejq1YKIGdKhDlpFiL9+Bp3O2GCm5fo4plKZmLuJbPdmWVRiAanCiBwKAu0C4Zdt5LZclOMGoQWZUFj9sE0SlLa3juKcs4/ZwogWB3oKZLWHHr9BaFKuyEmL1M5Igo1XklP91EDiveIj4UKILqLCC3sy2ThO3mDqRsH8oqshxhXMBBPj9uG88pxSOpmCiATlGalAOtlQ3bQsMvWcwYpb6Nkuio1zoX0ju6igCMzFgogYljgUcGpdobINdRb7c/qJrcna9F/vYpMID7h+tN7xpQKIGX715T+M3+ZQlNXcGjVt+xrxR1L1pNgc/7NqqXXFs8qCiCYGmHwOY5bkRRdWA7EBVGCJ0pzhMzXY/zpFyyFyfLQ5QogqNm1rVc8ltam6SSEl6PBj1xDOMQxB/fEvUUKqccSkukKIHTTgYT3dIUMy6RLEeUpCRj3bsECypnAKLRlvjYZJdATCiDMkY+gyw38LTSY1rhMUrqeJ8aLqooMKFVgOAPPR178NQogR5xPRw50GPyk7C513yAmEvtKnzoUndViTKphO9Oc2zIKID5e1b8FYPMYad+7hO2zI7CL/iLHcYRufTFvaUckpss4CiDXAbMOZ5aV9wnKQvLfQXXmkTqnVD1WFzT0pBTlUCNVSAogJFJlnHm1OSdJCXKSlEHiPS4o3T9wfTJ+evC/TByrbo8KIOvcAlpYb9QKl0MiBxo8ELYta5hDrb4t2oLDt9caEGZZCiDHWLqfLNwuk7GVbvCJAnzIbewqLWJxcvSdBBf1hG3RzAogb7gv9/9aq4vgpNRdWOAU/mizBUtU4D7dD9ZzXZOV5PUKIAy2vo2HiPEfr3iH8uTtNuEHen7xJhV6hy/FJ1lovJwBCiBa2+N8LQJic/RMwI3BUaeGUHxJMsnPXK0+1PxMGgSi7QogZxHN/47ddCKX2vrceI2pQIwkU7SlYBZlC/f4oMcBzfMKIFmVBj4Bq3kRGEss2VhoT8PdZJd6/Ye6msoksRsK2qv5CiDO8bsN2+daIYLogMEcwQXxYhRT+Kxfmt0oRu0jiunJigogNF70FMzVsYZVYdrFTAaejrMN8deRxfg9ES5EUn2m+O4KIAvTPIauM57ZPhAWKzZ8V7gJ17um+vcto87YTUPAnKavCiClalRWphFalQHG1c1jiw9rhbaVAkUeIUvdauDF9EsnSgogk5djZdRLPOT4pK2VXLf1+5O0XjsM2aYN0zq7mo4byW4KICXppcNI68Lykb4+WxSBrlzj+fleuHxW4cxETGwWtGpOCiCW1XvMF5z/FWnL1CLP1f4By/cvf5aDF1t/Oanm8eyzYgog3lRmKEVex7jwfbKsR20qmvMGo+kkgM0J1CsYihL3980KIFKLitFyhatJHzkaS/Vqh5yBMKN0xXQkP9GZJAknhZEbCiD9FVdbpjhIgi/aVIXBg69755WX5O5IWLap1VW9Zo2TEgoge/tdVhbDJ53PTveOXtskzApdGf9fB6QXW9iOHTk51IAqCAjGggQQwJoMQiBCCn1ZTGaQiJYWnhRRJOGh29naXbdZDcCYLTJYMFkGJ0IgvxY4ekI7IB9p4uBvs/KTtmKjbnQ2Wck9rSBiwCIGHsFCIIBzlcW4P5u+zPnl5kAyWcXYSRNEClFFHV06fdI4o43CQiCqZlgnDEwyr47AnAdXAG0/HBQSdGEVby/PGCARZiy7ukIgGBy6Y8RHzLK+t+st9xg9Nr8kIVgu8No6nUssqciQ6ZtCIDxFPDI2l0Jxbw5UibRYSE4eL9YX9zA9O8M0rCmcQx8MQiCYk/yCHjNPqmsBRVgMSamie0xj1jMoB6vY3OEHHdIGREIg2aFaZkwYaKC1n6AGd+Xjv8EkTkBbClhXr7jyx0fLT0RCIC/QdBCSBbsycoO0FlubvrXBnRjm0Y/FYG9JBKWz1TFvQiB+dC0rAx4Ts2TcMhajz2rQq6Acdaa9cPtUg363g1MfUEIgv/Tmf5+nz5p6FVcOmGGkXD+ABbQFiGLnrClAoD/ykPhCILn4c8J+uvU7oIruerVVmA2FvccXkRQjtD/+51bPO6YJQiAnkEy/8mnQV74JJaYTPxck7XqKGXUpf10I0t8CJa6x40Ig+Xd+zx8Dc9zbAuIBGVMhba04lCzOz0laK4L8rS7GUABCIMBGq+vMeeFEUDETXpechNXewncByzT0I6MAtDsZ24CvQiDsfp+C5qbYMq0XteXuQliN2/8cTlUtHzNSwS5cAHB5ZEIgv6fH8TVyl9NciPTxvUlnIO48PCcXpD30Gf24m2p2QPNCICCb6IRmZB6BEOdU8sVr1MeyMDqa6oesoTI3jVSURwr2QiAsA5jMqkm36i5BgrOInM+V9TDmISrfWob1Q7/bxy5EDEIgv8wBvRBBRDB1P4FwY3LDT1hVJygl0cBz8/s6qUyN6txCIPqTvaaEabR1WUOoUbXnbY5B0p9lnSe5YelJ/zOJFc7ZSjRmaWxlOi8vL2FwcC9iYWNrZW5kL3NlcnZlci9jOiU1Q1VzZXJzJTVDcGMlNUNEZXNrdG9wUAFqIBom9CalvvygPOiTmh5qse/FlkxzWCBzrbnO50G/9TPWei8KK2M6XFVzZXJzXHBjXERlc2t0b3BccmVjb3Zlcl9jdXJzb3JfY2hhdHMucHkSAHovCitjOlxVc2Vyc1xwY1xEZXNrdG9wXGV4dHJhY3RfY3Vyc29yX2NoYXRzLnB5EgB6LQopYzpcVXNlcnNccGNcRGVza3RvcFxkZWVwX2V4dHJhY3RfY2hhdHMucHkSAHozCi9jOlxVc2Vyc1xwY1xEZXNrdG9wXHJlY292ZXJfYWxsX2N1cnNvcl9kYXRhLmJhdBIAejEKLWM6XFVzZXJzXHBjXERlc2t0b3BcZXh0cmFjdF9zcGVjaWZpY19jaGF0cy5weRIAejEKLWM6XFVzZXJzXHBjXERlc2t0b3BccmVjb3Zlcl9zcGVjaWZpY19jaGF0cy5weRIAejcKM2M6XFVzZXJzXHBjXERlc2t0b3BcZmluZF9hbGxfY29udmVyc2F0aW9uX3RpdGxlcy5weRIAej4KOmM6XFVzZXJzXHBjXERlc2t0b3BcZXh0cmFjdF9hbGxfd29ya3NwYWNlX2NvbnZlcnNhdGlvbnMucHkSAHouCipjOlxVc2Vyc1xwY1xEZXNrdG9wXHJlY292ZXJfZnJhcHBlX2ZxYzUucHkSAHoxCi1jOlxVc2Vyc1xwY1xEZXNrdG9wXGZpbmFsX3JlY292ZXJ5X2F0dGVtcHQucHkSAHo3CjNjOlxVc2Vyc1xwY1xEZXNrdG9wXFJFQ09WRVJZX1NVTU1BUllfRlJBUFBFX0ZRQzUubWQSAHo0CjBjOlxVc2Vyc1xwY1xEZXNrdG9wXGV4cG9ydF9mdWxsX2NvbnZlcnNhdGlvbnMucHkSAHo4CjRjOlxVc2Vyc1xwY1xEZXNrdG9wXGV4cG9ydF9jb21wbGV0ZV9mcm9tX2RhdGFiYXNlLnB5EgB6MgouYzpcVXNlcnNccGNcRGVza3RvcFxFWFBPUlRfQ09NUExFVEVfU1VNTUFSWS5tZBIAejIKLmM6XFVzZXJzXHBjXERlc2t0b3BcZXh0cmFjdF90b29sZm9ybWVyX2RhdGEucHkSAHo6CjZjOlxVc2Vyc1xwY1xEZXNrdG9wXHNldHVwX2F1dG9fYmFja3VwX2N1cnNvcl9jaGF0cy5iYXQSAHosCihjOlxVc2Vyc1xwY1xEZXNrdG9wXElOU1RBTExfU1BFQ1NUT1JZLm1kEgB6MgouYzpcVXNlcnNccGNcRGVza3RvcFxBVVRPX0JBQ0tVUF9TRVRVUF9HVUlERS5tZBIAejMKL2M6XFVzZXJzXHBjXERlc2t0b3BcUVVJQ0tfU0VUVVBfQVVUT19CQUNLVVAuYmF0EgB6MAosYzpcVXNlcnNccGNcRGVza3RvcFx2ZXJpZnlfYmFja3VwX3N5c3RlbS5iYXQSAHoxCi1jOlxVc2Vyc1xwY1xEZXNrdG9wXGZpeF9hbmRfdmVyaWZ5X2JhY2t1cC5iYXQSAHo1CjFjOlxVc2Vyc1xwY1xEZXNrdG9wXGNyZWF0ZV9hdXRvX2JhY2t1cF9zY3JpcHQuYmF0EgB6MQotYzpcVXNlcnNccGNcRGVza3RvcFx2ZXJpZnlfYWxsX2NvbXBvbmVudHMucHMxEgB6LworYzpcVXNlcnNccGNcRGVza3RvcFxDSEVDS19CQUNLVVBfU1RBVFVTLmJhdBIAejEKLWM6XFVzZXJzXHBjXERlc2t0b3BcY3JlYXRlX3NjaGVkdWxlZF90YXNrLmJhdBIAei4KKmM6XFVzZXJzXHBjXERlc2t0b3BcRklOQUxfU1RBVFVTX1JFUE9SVC5tZBIAeigKJGM6XFVzZXJzXHBjXERlc2t0b3BcUVVJQ0tfVkVSSUZZLmJhdBIAejEKLWM6XFVzZXJzXHBjXERlc2t0b3BcQkFDS1VQX1NZU1RFTV9DT01QTEVURS5tZBIAeicKI2M6XFVzZXJzXHBjXERlc2t0b3BcRklOQUxfU1RBVFVTLm1kEgB6UwotYzpcVXNlcnNccGNcRGVza3RvcFxzZXR1cF9naXRfYXV0b19iYWNrdXAucHMxEiIKIE45IRY6+di/l69V3yRSm2nX1/CI0GpgkN9SIDyOyKmLeksKJWM6XFVzZXJzXHBjXERlc2t0b3BcU0VUVVBfQ09NUExFVEUubWQSIgogHV+bUWIhP4vfSbdx1aJ25/1Rk6QPglD1qKAIaB6z3Zt6TQonYzpc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b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xyZWNvdmVyX2Zyb21fanNvbi5weRIiCiDz03M//MWLO70Z516IoOEpybRlfOaRrPNonumssI7WYXpdCjdjOlxVc2Vyc1xwY1xEZXNrdG9wXGN1cnNvci1jaGF0LWJhY2t1cHNcYXV0by1iYWNrdXAuYmF0EiIKII8s26NJxDUj7CwVs84HP24fo/XHPNznpLNQ/BvYCM5helEKK2M6XFVzZXJzXHBjXERlc2t0b3BcT1BFTl9SRUNPVkVSRURfQ0hBVFMubWQSIgogApn7x+03QNiIzUBzWyCPT/UZ5rPrXjs9IsFy2YwV2iV6Xwo5YzpcVXNlcnNccGNcRGVza3RvcFxjdXJzb3ItY2hhdC1iYWNrdXBzXFJFQ09WRVJZX0dVSURFLm1kEiIKIHXwPrxInthhHhWZih2l2J5AY+Z9UngSUeYJw29CBay/en8KN0M6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xhdXRvLWJhY2t1cC5iYXQSRAogNuMmfO+ieg2cFpLDrgQaG5c4WDydckXJ8yGp29MP17ESINKKbNjFp5p2C95//UDZVf16xg0cU4ZRx/cIkmV8tgOJemsKRWM6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xleHRyYWN0X2Z1bGxfY29udmVyc2F0aW9ucy5weRIiCiC9W3HXus9SDvmGoKtVh8AEOfNMk48AWNiAhpRuvsaUPJIBN0M6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xhdXRvLWJhY2t1cC5iYXSSAWpjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXFBUUzMgdGVzdFxwdHMzX3Jlc3VsdF9jbGllbnRfc2NyaXB0LmpzkgF0YzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxQVFMzIHRlc3RcUFRTMyB0ZXN0XHB0czNfcmVzdWx0X2NsaWVudF9zY3JpcHQuanOqARgKC0M6L1VzZXJzL3BjEgljb2RleC10cnmyAQNpZGU=",
       "queueItems": [],
-      "latestChatGenerationUUID": "9bd3a8ee-5387-4fd4-aac3-1469e466a09e",
+      "latestChatGenerationUUID": "ee59b3c4-d145-4577-ac58-75062f61e520",
       "isAgentic": true,
-      "subtitle": "Edited update_backup_interval.bat, auto-backup.bat, COMPLETE_PROJECT_UNDERSTANDING.md, extract_project_context.py",
-      "filesChangedCount": 23
+      "subtitle": "Edited pts3_result_client_script.js, pts3_result_client_script.js, update_backup_interval.bat, auto-backup.bat, COMPLETE_PROJECT_UNDERSTANDING.md",
+      "filesChangedCount": 25
     },
-    "extracted_at": "2026-04-04T17:03:17.684220"
+    "extracted_at": "2026-04-04T17:13:03.630820"
   },
   {
     "key": "composerData:e7cd62a7-a012-4a0b-a586-fda8d7ca96cb",
@@ -56768,7 +57061,7 @@
       "selectedSubComposerId": "d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
       "initialBestOfNAgentRequestId": "577e61e0-e40a-4771-b40b-2b4e8642cb85"
     },
-    "extracted_at": "2026-04-04T17:03:17.687239"
+    "extracted_at": "2026-04-04T17:13:03.640948"
   },
   {
     "key": "composerData:bbfda600-fe93-4052-a4df-3f2ea3cabbea",
@@ -56986,7 +57279,7 @@
       "subtitle": "Read COMPLETE_DATA_FLOW_DOCUMENTATION.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.687239"
+    "extracted_at": "2026-04-04T17:13:03.640948"
   },
   {
     "key": "composerData:d45ae0b4-5f83-4d7e-8a51-f532dbba8198",
@@ -57163,7 +57456,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.687239"
+    "extracted_at": "2026-04-04T17:13:03.640948"
   },
   {
     "key": "composerData:d9ab2c61-7e99-4761-80f2-8e0ac9842c55",
@@ -67214,12 +67507,12 @@
         "conversationLengthAtSpawn": 861
       }
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.640948"
   },
   {
     "key": "composer.autoAccept.lastSeenHeadTimestamp",
     "data": 1768202436000,
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.640948"
   },
   {
     "key": "composerData:60bd3346-e308-45b5-b00f-f24b4281493d",
@@ -67398,7 +67691,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.640948"
   },
   {
     "key": "composerData:40c3238e-9290-4c15-b4b4-14d3f7651247",
@@ -67572,7 +67865,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.640948"
   },
   {
     "key": "composerData:842169da-0a70-49ac-a2d0-7cf9409a2f08",
@@ -67683,7 +67976,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.640948"
   },
   {
     "key": "composerData:e8d48cac-ca38-4719-b62f-395758f05174",
@@ -67857,7 +68150,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.640948"
   },
   {
     "key": "composerData:6afdc338-e6ca-4338-82e7-be278b231592",
@@ -67968,7 +68261,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.640948"
   },
   {
     "key": "composerData:bedbc2a3-6db6-4e15-8f64-cd2294495832",
@@ -70513,7 +70806,7 @@
       "subtitle": "cursor_auto_accept.ahk, CURSOR_AUTO_ACCEPT_README.md, start_cursor_auto_accept.bat, install_autohotkey.ps1, test_cursor_detection.ahk",
       "filesChangedCount": 24
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.651028"
   },
   {
     "key": "composerData:f69725e8-01bb-4d53-8f4e-287a321776e7",
@@ -70687,7 +70980,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.651028"
   },
   {
     "key": "composerData:f640be18-f22f-402f-b9af-3c832eed7b5c",
@@ -70798,7 +71091,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.651028"
   },
   {
     "key": "composerData:e2baad6c-fc4b-485e-8d7b-5122ad090688",
@@ -72042,7 +72335,7 @@
       "subtitle": "sentence_typer.py, SentenceTyper.spec",
       "filesChangedCount": 2
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.651028"
   },
   {
     "key": "composerData:b78f7a66-0f67-464f-b658-a46828691cea",
@@ -78931,7 +79224,7 @@
       "subtitle": "voice_typer_whisper.py",
       "filesChangedCount": 43
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.651028"
   },
   {
     "key": "composerData:dc37eb2f-9a4b-421d-ab38-0c159b3a55bf",
@@ -80563,7 +80856,7 @@
       "filesChangedCount": 12,
       "firstTodoWriteBubble": "88ad99a1-28d5-48d6-b778-32dfecdaa119"
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.651028"
   },
   {
     "key": "composerData:389e6e9f-1cc6-4d36-925a-a69b2b12ab9e",
@@ -85260,7 +85553,7 @@
       "subtitle": "Edited ARCHIVE_OLD_SCRIPTS.ps1, CLEANUP_PROJECT.md, .cursorignore, REDUCE_CURSOR_CONTEXT_COST.md, RESTORATION_COMPLETE.md",
       "filesChangedCount": 58
     },
-    "extracted_at": "2026-04-04T17:03:17.695203"
+    "extracted_at": "2026-04-04T17:13:03.651028"
   },
   {
     "key": "composerData:395b65b9-dcb2-4ab2-9374-e549b245a203",
@@ -119012,7 +119305,7 @@
         }
       }
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.661593"
   },
   {
     "key": "composerData:13098874-ef00-4b56-8a83-b36b8433b911",
@@ -119193,7 +119486,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.661593"
   },
   {
     "key": "composerData:79b21fa2-ddc2-4f2d-96a8-d60ab1df35d4",
@@ -119370,7 +119663,7 @@
       "subtitle": "New chat",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.661593"
   },
   {
     "key": "composerData:c04735c7-1fb3-4a83-b120-1c97d308d405",
@@ -119481,7 +119774,7 @@
       "conversationState": "",
       "isAgentic": true
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.661593"
   },
   {
     "key": "composerData:e0c0c1ae-c762-40f2-a50d-75ee13aaad40",
@@ -119592,7 +119885,7 @@
       "conversationState": "",
       "isAgentic": false
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.661593"
   },
   {
     "key": "composerData:e47c3854-28ac-4abe-ae19-fb3023216c56",
@@ -121693,7 +121986,7 @@
       "filesChangedCount": 2,
       "firstTodoWriteBubble": "0aeaaa4c-f4e6-4c3b-acce-f09311592a00"
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.661593"
   },
   {
     "key": "composerData:a629dcd7-6eb8-4905-9126-c45da5ca7dcb",
@@ -127632,7 +127925,7 @@
       "subtitle": "Edited grant_system_manager_user.py",
       "filesChangedCount": 1
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:5588c989-a208-4857-b087-9f29ac8b4528",
@@ -129745,7 +130038,7 @@
       "subtitle": "Edited voice-to-text-demo.html, test-speech-api.html",
       "filesChangedCount": 2
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:df043ce8-b6a7-404f-880b-3d3337944557",
@@ -130137,7 +130430,7 @@
       "filesChangedCount": 1,
       "firstTodoWriteBubble": "079cfcd9-c0e8-4659-b622-bc0382638cfb"
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:52bf78e1-449d-401d-9bc7-85c2b58f5fa9",
@@ -135074,7 +135367,7 @@
       "filesChangedCount": 24,
       "firstTodoWriteBubble": "dbc98c01-0aab-4500-8de8-0e041bc0dfca"
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:a4005a49-a905-4cbd-bdea-f27a9e2f0576",
@@ -135278,7 +135571,7 @@
       "subtitle": "@c:\\Users\\pc\\Downloads\\cursorerpv9 19-02-2026 12pm.md unders…",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:04ea9b9c-0bec-4dbb-acdd-7c7390c9b9fb",
@@ -135482,7 +135775,7 @@
       "subtitle": "@c:\\Users\\pc\\Downloads\\cursorerpv9 19-02-2026 12pm.md canb y…",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:0eca5f4c-0c4a-4611-87e6-f8fcc8dde084",
@@ -135643,7 +135936,7 @@
       "queueItems": [],
       "isAgentic": true
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:cf711e49-659c-45f4-9aeb-e47b999047d6",
@@ -135749,7 +136042,7 @@
       "queueItems": [],
       "isAgentic": false
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:cc76ec81-62e8-40df-918c-dbd5a7e13189",
@@ -135855,7 +136148,7 @@
       "queueItems": [],
       "isAgentic": true
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:f915e04d-0195-4587-9776-ae780e8f26b4",
@@ -135961,7 +136254,7 @@
       "queueItems": [],
       "isAgentic": false
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:a66a774d-8dcb-453e-ba52-d4fcb4b65b9b",
@@ -136122,7 +136415,7 @@
       "queueItems": [],
       "isAgentic": true
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:eee84404-8903-4f87-a2f5-0250bf6e26b1",
@@ -136228,7 +136521,7 @@
       "queueItems": [],
       "isAgentic": false
     },
-    "extracted_at": "2026-04-04T17:03:17.715135"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:45d89c34-578f-4857-8f50-5f6fb20addf5",
@@ -136553,7 +136846,7 @@
       "subtitle": "Read CHECK_ERRORS.md, TELESCOPE_SETUP.md, cursor_fqc_page_4 (1).md, COMPLETE_IMPLEMENTATION_SUMMARY.md, QUICK_FIX_ACTION_ERROR.md",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.726221"
+    "extracted_at": "2026-04-04T17:13:03.671698"
   },
   {
     "key": "composerData:fa68f7b3-8054-4c93-8928-5f285714a7f7",
@@ -136714,7 +137007,7 @@
       "queueItems": [],
       "isAgentic": true
     },
-    "extracted_at": "2026-04-04T17:03:17.726221"
+    "extracted_at": "2026-04-04T17:13:03.681713"
   },
   {
     "key": "composerData:e9fbfbf2-055b-4d1a-a1e7-e2fd8ed99795",
@@ -136820,7 +137113,7 @@
       "queueItems": [],
       "isAgentic": false
     },
-    "extracted_at": "2026-04-04T17:03:17.726221"
+    "extracted_at": "2026-04-04T17:13:03.681713"
   },
   {
     "key": "composerData:18131fef-25b0-403f-b7be-5ba2c429552c",
@@ -141981,7 +142274,7 @@
       "subtitle": "Edited pts1 client script.js, ERP_PTS-1.py, PTS1_FEEDBACK_TECHNICAL_ASSESSMENT.md, PTS1_ENGINEERING_ROADMAP.md",
       "filesChangedCount": 15
     },
-    "extracted_at": "2026-04-04T17:03:17.727220"
+    "extracted_at": "2026-04-04T17:13:03.684465"
   },
   {
     "key": "composerData:d2514c40-d468-4616-8a65-80d0568748d1",
@@ -142142,7 +142435,7 @@
       "queueItems": [],
       "isAgentic": true
     },
-    "extracted_at": "2026-04-04T17:03:17.730220"
+    "extracted_at": "2026-04-04T17:13:03.686464"
   },
   {
     "key": "composerData:712bb434-657e-4694-a002-b62a984cca67",
@@ -142248,7 +142541,7 @@
       "queueItems": [],
       "isAgentic": false
     },
-    "extracted_at": "2026-04-04T17:03:17.730220"
+    "extracted_at": "2026-04-04T17:13:03.686464"
   },
   {
     "key": "composerData:6c30728e-3dc4-402d-bf8c-01ceafc84b32",
@@ -144278,7 +144571,7 @@
       "filesChangedCount": 8,
       "firstTodoWriteBubble": "0bdc47da-4ca4-40b2-9366-a5c769559242"
     },
-    "extracted_at": "2026-04-04T17:03:17.733220"
+    "extracted_at": "2026-04-04T17:13:03.689464"
   },
   {
     "key": "composerData:18c06258-b92a-44cd-9fe5-6439e08d7001",
@@ -152931,7 +153224,7 @@
       "subtitle": "Edited pts3_result_client_script.js, Desk_Collapse_Sidebar_Snippets.js, INSTALL_PCB_LEDGER_PTS1_PTS3_JUMP_BUTTONS.py, UPSERT_PCB_LEDGER_VISUAL_TIMELINE_DISPLAY_RIGHT_COLUMN.py, CREATE_VISUAL_TIMELINE_CLIENT_SCRIPT.js",
       "filesChangedCount": 82
     },
-    "extracted_at": "2026-04-04T17:03:17.737257"
+    "extracted_at": "2026-04-04T17:13:03.694270"
   },
   {
     "key": "composerData:ac7255a5-d418-447d-817c-9c239d67c384",
@@ -153423,7 +153716,7 @@
       "filesChangedCount": 5,
       "firstTodoWriteBubble": "8ba1c80e-df5e-41f9-8f55-aa4b66bd5247"
     },
-    "extracted_at": "2026-04-04T17:03:17.737257"
+    "extracted_at": "2026-04-04T17:13:03.696270"
   },
   {
     "key": "composerData:c853e239-e9c3-41b2-9378-d462dd75ba0e",
@@ -153624,7 +153917,7 @@
       "subtitle": "im working on erpnext where im creating doctype and using names",
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.737257"
+    "extracted_at": "2026-04-04T17:13:03.697270"
   },
   {
     "key": "composerData:f8de40d7-92ba-4c46-9d31-6f489b8eedb2",
@@ -153832,7 +154125,7 @@
       "isAgentic": true,
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.768021"
+    "extracted_at": "2026-04-04T17:13:03.699272"
   },
   {
     "key": "composerData:451b612a-8309-4bb3-9ce6-9a3d74b5398c",
@@ -154040,7 +154333,7 @@
       "isAgentic": true,
       "filesChangedCount": 0
     },
-    "extracted_at": "2026-04-04T17:03:17.773574"
+    "extracted_at": "2026-04-04T17:13:03.699272"
   },
   {
     "key": "composerData:bd42590c-d102-452a-97ff-53c5698075e5",
@@ -155558,6 +155851,6 @@
       "subtitle": "Edited build_exe.bat, QRLabelGenerator.spec, generate_qr_labels.py, create_sample_excel.py, requirements.txt",
       "filesChangedCount": 5
     },
-    "extracted_at": "2026-04-04T17:03:17.777681"
+    "extracted_at": "2026-04-04T17:13:03.705267"
   }
 ]
