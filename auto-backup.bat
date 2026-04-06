@@ -1,9 +1,17 @@
 @echo off
-REM Auto-backup Cursor chats to Git — runs from THIS folder (works on any drive after you move it).
-cd /d "%~dp0"
+REM Cursor chat backup — default recovery folder: I:\cursor database
+REM Override: create backup_config.bat with set "BACKUP_ROOT=your\path"
 
-REM Optional: backup_config.bat sets SPECSTORY_ROOT, SPECSTORY_ROOT2, SPECSTORY_ROOT3 for .specstory scan paths
+set "BACKUP_ROOT=I:\cursor database"
 if exist "%~dp0backup_config.bat" call "%~dp0backup_config.bat"
+if not defined BACKUP_ROOT set "BACKUP_ROOT=I:\cursor database"
+
+if exist "%BACKUP_ROOT%\extract_conversations.py" (
+  cd /d "%BACKUP_ROOT%"
+) else (
+  cd /d "%~dp0"
+)
+
 if not defined SPECSTORY_ROOT set "SPECSTORY_ROOT=%USERPROFILE%\Desktop"
 
 REM Extract conversations from Cursor database (safe JSON files, no secrets)
@@ -62,7 +70,7 @@ git commit -m "Auto-backup: %date% %time%" --allow-empty >nul 2>&1
 
 git push origin main >nul 2>&1 || git push origin master >nul 2>&1
 
-REM Mirror to OneDrive (folder = wherever this script lives)
+REM Mirror to OneDrive (current backup folder)
 if exist "%USERPROFILE%\OneDrive" (
     if not exist "%USERPROFILE%\OneDrive\Cursor-Chat-Backups" mkdir "%USERPROFILE%\OneDrive\Cursor-Chat-Backups"
     xcopy /E /I /Y "%CD%" "%USERPROFILE%\OneDrive\Cursor-Chat-Backups\" >nul 2>&1

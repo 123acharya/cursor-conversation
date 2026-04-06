@@ -1,7 +1,13 @@
-Cursor chat backup / "lost recovery" folder — use any drive
-==============================================================
+Cursor chat backup / "lost recovery" folder
+============================================
 
-1) Move the whole folder
+Default recovery location (this PC):  I:\cursor database
+
+1) First-time setup to I: drive
+   Double-click setup_recovery_drive_I.bat (copies this folder to I:\cursor database).
+   Or manually copy the whole "cursor-chat-backups" folder to I:\cursor database.
+
+2) Move the whole folder (any other drive)
    Copy or move the entire folder "cursor-chat-backups" to where you want, for example:
    D:\Backups\cursor-chat-backups
    E:\cursor-chat-backups
