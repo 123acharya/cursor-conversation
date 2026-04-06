@@ -11,3 +11,6 @@ workspace-storage/
 
 # Keep only conversation text files
 !conversations/
+
+# Local paths (optional copy of backup_config.example.bat)
+backup_config.bat

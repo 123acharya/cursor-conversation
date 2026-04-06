@@ -1,0 +1,29 @@
+Cursor chat backup / "lost recovery" folder — use any drive
+==============================================================
+
+1) Move the whole folder
+   Copy or move the entire folder "cursor-chat-backups" to where you want, for example:
+   D:\Backups\cursor-chat-backups
+   E:\cursor-chat-backups
+
+2) Scripts use the folder they live in
+   auto-backup.bat starts with: cd to this folder (%~dp0).
+   You do NOT need to edit paths inside auto-backup.bat when you move the folder.
+
+3) SpecStory projects (optional)
+   By default, SpecStory is searched under your Desktop only.
+   To also search Documents or D:\Dev, copy backup_config.example.bat to backup_config.bat
+   and set SPECSTORY_ROOT / SPECSTORY_ROOT2 / SPECSTORY_ROOT3 there.
+
+4) Scheduled task (must point to the new path)
+   After moving, run install_scheduled_task.bat from the NEW folder (as Administrator if needed).
+   Or in Task Scheduler, edit "CursorChatAutoBackup" so "Program/script" is:
+   D:\Backups\cursor-chat-backups\auto-backup.bat
+   (your actual path)
+
+5) OneDrive mirror
+   The script copies the backup folder to OneDrive\Cursor-Chat-Backups using the current folder
+   after cd (the folder where auto-backup.bat lives).
+
+6) Git remote
+   If you use Git, the repo moves with the folder. Open a terminal in the new folder and use git as usual.

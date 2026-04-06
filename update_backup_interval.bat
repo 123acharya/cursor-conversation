@@ -1,15 +1,21 @@
 @echo off
-REM Update backup interval to 10 minutes
-REM This script must be run as Administrator
+REM Update backup interval to 10 minutes (task points to auto-backup.bat in THIS folder)
+REM Run from the cursor-chat-backups folder. Administrator may be required.
 
-echo Updating CursorChatAutoBackup scheduled task to run every 10 minutes...
+cd /d "%~dp0"
+set "BAT=%~dp0auto-backup.bat"
+if not exist "%BAT%" (
+  echo ERROR: auto-backup.bat not found.
+  pause
+  exit /b 1
+)
+
+echo Updating CursorChatAutoBackup -^> "%BAT%"
 echo.
 
-REM Delete existing task
 schtasks /delete /tn "CursorChatAutoBackup" /F >nul 2>&1
 
-REM Recreate task with 10-minute interval
-schtasks /create /tn "CursorChatAutoBackup" /tr "C:\Users\pc\Desktop\cursor-chat-backups\auto-backup.bat" /sc minute /mo 10 /ru "%USERNAME%" /f
+schtasks /create /tn "CursorChatAutoBackup" /tr "\"%BAT%\"" /sc minute /mo 10 /ru "%USERNAME%" /f
 
 if %ERRORLEVEL% EQU 0 (
     echo.
