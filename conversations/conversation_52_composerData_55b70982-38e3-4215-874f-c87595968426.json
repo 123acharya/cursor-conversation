@@ -1,8 +1,8 @@
 {
-  "key": "composerData:f915e04d-0195-4587-9776-ae780e8f26b4",
+  "key": "composerData:55b70982-38e3-4215-874f-c87595968426",
   "data": {
     "_v": 13,
-    "composerId": "f915e04d-0195-4587-9776-ae780e8f26b4",
+    "composerId": "55b70982-38e3-4215-874f-c87595968426",
     "richText": "",
     "hasLoaded": true,
     "text": "",
@@ -56,19 +56,74 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1772003225820,
+    "createdAt": 1775653188518,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
-    "capabilities": [],
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "chat",
-    "forceMode": "chat",
+    "unifiedMode": "agent",
+    "forceMode": "edit",
     "usageData": {},
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
-      "modelName": "composer-1.5",
+      "modelName": "default",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -94,13 +149,13 @@
     "isProject": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "98QzuNgMybHUjL46Eul3QGR0AGdX/1FMVo3cDysdHUQ=",
+    "speculativeSummarizationEncryptionKey": "uUwS+rg8i9Eu5c5pYGKc61qI8RXgeDQWL+83o+rtVp4=",
     "isNAL": true,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "~",
     "queueItems": [],
-    "isAgentic": false
+    "isAgentic": true
   },
-  "extracted_at": "2026-04-08T18:33:05.256266"
+  "extracted_at": "2026-04-08T18:33:05.297937"
 }
