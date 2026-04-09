@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "18c06258-b92a-44cd-9fe5-6439e08d7001",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"NOW THIS IS WORKING FINE BUT IM NOT ABLE TO TAKE READINGS OF \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "NOW THIS IS WORKING FINE BUT IM NOT ABLE TO TAKE READINGS OF ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "f1cf3526-8a5f-48a0-a1e0-439960a2912b",
@@ -7522,5 +7522,5 @@
     "subtitle": "Edited pts3_api_server_script.py, pts3_api_server_script.py, PTS3_Test_Client_Script.js, PTS3_Test_Client_Script.js, pts3_connector.py",
     "filesChangedCount": 100
   },
-  "extracted_at": "2026-04-09T19:23:03.963606"
+  "extracted_at": "2026-04-09T19:33:04.013757"
 }
