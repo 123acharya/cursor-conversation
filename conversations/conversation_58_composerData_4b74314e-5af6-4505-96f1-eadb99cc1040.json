@@ -3,12 +3,269 @@
   "data": {
     "_v": 13,
     "composerId": "4b74314e-5af6-4505-96f1-eadb99cc1040",
-    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"/create-skill\",\"type\":\"mention\",\"version\":1,\"mentionName\":\"create-skill\",\"typeaheadType\":\"cursor_skill\",\"storedKey\":\"769b7fed-70c0-4d76-ba5a-aac823b47cc1\"},{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" Help me create this skill for Cursor: \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "/create-skill  Help me create this skill for Cursor: ",
-    "fullConversationHeadersOnly": [],
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "fde8e174-78aa-4f92-9336-7697350ab8df",
+        "type": 1
+      },
+      {
+        "bubbleId": "ad39c174-db09-4cc7-b9e7-8b81349955c3",
+        "type": 2
+      },
+      {
+        "bubbleId": "432bdcea-5e72-4ec3-ad31-751d60981bc8",
+        "type": 2
+      },
+      {
+        "bubbleId": "fba2493c-de01-49ac-9c89-2c3f1fcb52e2",
+        "type": 2
+      },
+      {
+        "bubbleId": "30e80964-c410-4ad3-969c-e255aa1f105c",
+        "type": 2
+      },
+      {
+        "bubbleId": "d1f4d040-c9b4-46d9-986e-030584eb27a0",
+        "type": 2
+      },
+      {
+        "bubbleId": "c866a3ad-a4db-46c0-b581-58b6784d2a17",
+        "type": 2
+      },
+      {
+        "bubbleId": "edbf2e70-5113-4c3e-8126-b8dfb71cb87d",
+        "type": 2
+      },
+      {
+        "bubbleId": "9a2e79fc-1e2a-4d40-a403-e9aacb4a1da4",
+        "type": 2
+      },
+      {
+        "bubbleId": "dcf3b618-84ec-4009-bdad-0e93a511abbf",
+        "type": 2
+      },
+      {
+        "bubbleId": "ee5e9783-1bfd-4e4a-a7a4-f5930aa7ec76",
+        "type": 2
+      },
+      {
+        "bubbleId": "0120fb30-4f2f-45c5-ad6c-0d2b5d8ecb48",
+        "type": 1
+      },
+      {
+        "bubbleId": "2e9414fc-7164-4118-ac54-1cee5eae525f",
+        "type": 2
+      },
+      {
+        "bubbleId": "6e62dad6-802e-45a3-977f-a79eafa0e8d6",
+        "type": 2
+      },
+      {
+        "bubbleId": "f0e00c93-b188-42e9-8d53-82985361255a",
+        "type": 2
+      },
+      {
+        "bubbleId": "2f32876d-d959-4421-a5f8-1b4074f23023",
+        "type": 2
+      },
+      {
+        "bubbleId": "67221ac9-f3eb-470e-805d-a81f9268231e",
+        "type": 2
+      },
+      {
+        "bubbleId": "340a2961-b905-4948-a21f-b57f822a726d",
+        "type": 2
+      },
+      {
+        "bubbleId": "d17b754a-76c0-41d7-ae31-2607da829a08",
+        "type": 2
+      },
+      {
+        "bubbleId": "60c1fbe3-bd10-4374-9fc6-35807fbf9806",
+        "type": 2
+      },
+      {
+        "bubbleId": "cad659cb-869b-4b43-876f-d874573d590d",
+        "type": 2
+      },
+      {
+        "bubbleId": "a0829bf5-cf08-43da-a97e-7624805a5267",
+        "type": 2
+      },
+      {
+        "bubbleId": "8e2011bd-ad17-416d-af06-6b104f9b8a14",
+        "type": 2
+      },
+      {
+        "bubbleId": "677e447e-edfe-43bf-bc41-c80bca4a63c5",
+        "type": 2
+      },
+      {
+        "bubbleId": "7dd3623a-236b-4846-9efe-18bd00668baa",
+        "type": 2
+      },
+      {
+        "bubbleId": "726c714e-f8f5-4fa5-85fa-f3f736976b54",
+        "type": 2
+      },
+      {
+        "bubbleId": "ef234bcc-f3d8-4d90-a2bc-87424b5d0615",
+        "type": 2
+      },
+      {
+        "bubbleId": "e62c8348-8ca7-4af7-bc61-2e4448d1d7e1",
+        "type": 2
+      },
+      {
+        "bubbleId": "162a78a4-e8f2-4e3a-93e5-a5d35bb849e3",
+        "type": 2
+      },
+      {
+        "bubbleId": "4939af88-ee67-420f-b2b5-5063de1934a1",
+        "type": 2
+      },
+      {
+        "bubbleId": "2ec3f374-db72-4939-99b0-d604aa117a62",
+        "type": 2
+      },
+      {
+        "bubbleId": "ff04d3d3-0f8b-4f5b-9723-0296d8ebd809",
+        "type": 2
+      },
+      {
+        "bubbleId": "3b3c3017-2ecd-4481-95f3-d786a9d51857",
+        "type": 2
+      },
+      {
+        "bubbleId": "26a1ae6d-1390-4849-8717-964ea5329f1f",
+        "type": 2
+      },
+      {
+        "bubbleId": "b2408d78-a0b2-4b9a-95a3-7730d103a883",
+        "type": 2
+      },
+      {
+        "bubbleId": "fa454f94-fe45-4759-a66b-a16533d9eca4",
+        "type": 2
+      },
+      {
+        "bubbleId": "4259fb07-87f5-4b69-8467-d6ce3d79ebd6",
+        "type": 2
+      },
+      {
+        "bubbleId": "447163e6-3cd7-4dd7-8add-d304ff8cef3b",
+        "type": 2
+      },
+      {
+        "bubbleId": "50ce4819-5685-4a4b-bab6-e63256118f87",
+        "type": 2
+      },
+      {
+        "bubbleId": "fb22d02a-86c0-4c3f-bddc-e90344d53096",
+        "type": 2
+      },
+      {
+        "bubbleId": "3f2c7a90-71fe-49b9-88c4-ceea46dcd587",
+        "type": 2
+      },
+      {
+        "bubbleId": "8d80013b-3f4f-4b58-a455-f90540624ea6",
+        "type": 2
+      },
+      {
+        "bubbleId": "c39174e8-0f6b-4c45-a615-4586405b80cd",
+        "type": 2
+      },
+      {
+        "bubbleId": "eb6a0b13-b804-4b5f-8787-2afea71db0d1",
+        "type": 2
+      },
+      {
+        "bubbleId": "2ae553d7-1599-4a0c-acc7-24feae8cb914",
+        "type": 2
+      },
+      {
+        "bubbleId": "914b3088-df44-4359-8548-b2d0368ec593",
+        "type": 2
+      },
+      {
+        "bubbleId": "bf2aa51d-bf95-462a-bcc6-8403463e9f95",
+        "type": 2
+      },
+      {
+        "bubbleId": "274e99ae-b05a-41e2-817b-16d3487d43f6",
+        "type": 2
+      },
+      {
+        "bubbleId": "011068c2-c1e9-4c01-a90a-ae715d60da36",
+        "type": 2
+      },
+      {
+        "bubbleId": "dab6f1da-9b2d-418c-a57f-9211ff12f155",
+        "type": 2
+      },
+      {
+        "bubbleId": "d9730788-a185-488b-a10c-4453140eb246",
+        "type": 2
+      },
+      {
+        "bubbleId": "366b27ea-2b9e-45f9-9fcd-77d9d0919b0e",
+        "type": 2
+      },
+      {
+        "bubbleId": "b82886d8-1a16-4859-ab09-c58ed64c4b9b",
+        "type": 2
+      },
+      {
+        "bubbleId": "dd1973ad-0cd1-4760-ada0-f2259dd93c37",
+        "type": 2
+      },
+      {
+        "bubbleId": "841dbcf8-5761-41c1-bd57-554f39a2e1be",
+        "type": 2
+      },
+      {
+        "bubbleId": "b4074368-075a-4828-b4b7-d08b18372e90",
+        "type": 2
+      },
+      {
+        "bubbleId": "f516beb0-8743-46e3-b100-f1fd84ecee13",
+        "type": 2
+      },
+      {
+        "bubbleId": "5cb843d7-ff71-4498-855c-83a6d02cfd0c",
+        "type": 2
+      },
+      {
+        "bubbleId": "4b370fb2-ccf0-466d-b2eb-1dddfb369ff8",
+        "type": 2
+      },
+      {
+        "bubbleId": "cb685c0c-724a-4c02-a0fd-f675b8465547",
+        "type": 2
+      },
+      {
+        "bubbleId": "6117aecc-cd80-4aca-8219-c5a6b2a7064b",
+        "type": 2
+      },
+      {
+        "bubbleId": "8bbf1866-c9e6-4091-b8fa-9b0eadae8e74",
+        "type": 2
+      },
+      {
+        "bubbleId": "2bd233ed-72e5-4ea0-a01f-bec305342c4d",
+        "type": 2
+      },
+      {
+        "bubbleId": "7b4c7ef7-9c7e-4240-a6a1-1d3b2a39a732",
+        "type": 2
+      }
+    ],
     "conversationMap": {},
-    "status": "none",
+    "status": "aborted",
     "context": {
       "composers": [],
       "selectedCommits": [],
@@ -20,12 +277,7 @@
       "terminalSelections": [],
       "selectedDocs": [],
       "externalLinks": [],
-      "cursorRules": [
-        {
-          "filename": "create-skill/SKILL.md",
-          "addedWithoutMention": false
-        }
-      ],
+      "cursorRules": [],
       "cursorCommands": [],
       "gitPRDiffSelections": [],
       "subagentSelections": [],
@@ -46,11 +298,7 @@
         "externalLinks": {},
         "diffHistory": [],
         "cursorRules": {
-          "create-skill/SKILL.md": [
-            {
-              "uuid": "769b7fed-70c0-4d76-ba5a-aac823b47cc1"
-            }
-          ]
+          "create-skill/SKILL.md": []
         },
         "cursorCommands": {},
         "uiElementSelections": [],
@@ -62,11 +310,103 @@
       }
     },
     "generatingBubbleIds": [],
+    "chatGenerationUUID": "d68e0dd4-0987-4464-9455-5482d2c54dcb",
     "isReadingLongFile": false,
     "codeBlockData": {},
-    "originalFileStates": {},
-    "newlyCreatedFiles": [],
+    "originalFileStates": {
+      "file:///c%3A/Users/pc/.cursor/skills/local-erp-knowledge-base/SKILL.md": {
+        "content": "",
+        "firstEditBubbleId": "9a2e79fc-1e2a-4d40-a403-e9aacb4a1da4",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/.cursor/skills/local-erp-knowledge-base/reference.md": {
+        "content": "",
+        "firstEditBubbleId": "dcf3b618-84ec-4009-bdad-0e93a511abbf",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/docs/knowledge-base/META.md": {
+        "content": "",
+        "firstEditBubbleId": "366b27ea-2b9e-45f9-9fcd-77d9d0919b0e",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/docs/knowledge-base/INDEX.md": {
+        "content": "",
+        "firstEditBubbleId": "b82886d8-1a16-4859-ab09-c58ed64c4b9b",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/docs/knowledge-base/CUSTOM_PROTOCOLS_INVENTORY.md": {
+        "content": "",
+        "firstEditBubbleId": "dd1973ad-0cd1-4760-ada0-f2259dd93c37",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXPORT_FRAPPE_CUSTOMIZATIONS_SNAPSHOT.py": {
+        "content": "",
+        "firstEditBubbleId": "b4074368-075a-4828-b4b7-d08b18372e90",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      }
+    },
+    "newlyCreatedFiles": [
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\.cursor\\skills\\local-erp-knowledge-base\\SKILL.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/.cursor/skills/local-erp-knowledge-base/SKILL.md",
+          "path": "/C:/Users/pc/.cursor/skills/local-erp-knowledge-base/SKILL.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\.cursor\\skills\\local-erp-knowledge-base\\reference.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/.cursor/skills/local-erp-knowledge-base/reference.md",
+          "path": "/C:/Users/pc/.cursor/skills/local-erp-knowledge-base/reference.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/docs/knowledge-base/INDEX.md",
+          "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/docs/knowledge-base/INDEX.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/docs/knowledge-base/META.md",
+          "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/docs/knowledge-base/META.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/docs/knowledge-base/CUSTOM_PROTOCOLS_INVENTORY.md",
+          "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/docs/knowledge-base/CUSTOM_PROTOCOLS_INVENTORY.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXPORT_FRAPPE_CUSTOMIZATIONS_SNAPSHOT.py",
+          "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXPORT_FRAPPE_CUSTOMIZATIONS_SNAPSHOT.py",
+          "scheme": "file"
+        }
+      }
+    ],
     "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1775731060974,
     "createdAt": 1775730764615,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -126,12 +466,16 @@
         "data": {}
       }
     ],
+    "name": "Knowledge base for ERP system",
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
+    "contextUsagePercent": 25.745,
+    "contextTokensUsed": 51490,
+    "contextTokenLimit": 200000,
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
       "modelName": "composer-2-fast",
@@ -143,7 +487,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 0,
+    "totalLinesAdded": 578,
     "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -165,9 +509,12 @@
     "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
-    "conversationState": "~",
+    "conversationState": "~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/h0ivgZ7ImlkIjoiMSIsInJvbGUiOiJhc3Npc3RhbnQiLCJjb250ZW50IjpbeyJ0eXBlIjoicmVkYWN0ZWQtcmVhc29uaW5nIiwiZGF0YSI6IjZHVVZISmY4bDNJbjd3QUhOR2h4Y0k2b3dRdVBNbUFReDVqUnhqb3pwTjgtVjFnX2RRQ2g1WTYwNTktZ21LVkwyT0Q2YTBlNnVmVTMyU2s0cW9hdXA5UmJ4d1p3RXFQYkkycTRwRi1YUXVpbnhua25OOGJSanVfUVZaM3hKQTUyMGJlcGF3VVFETG5IZnFMRlVEcWwwd2JPd2JBaTcxc1g4QmMyS2Z1YVNVbWNPdUpPWDNxSktvc042LWx1Zm1zdnRnVmhkaTZWT0hPUktzTmhHZWphZF9jUSJ9LHsidHlwZSI6InRleHQiLCJ0ZXh0IjoiXG5cblxuIn0seyJ0eXBlIjoidG9vbC1jYWxsIiwidG9vbENhbGxJZCI6InRvb2xfMGFlOWIxZDktNTBhNS00YzVmLWFiNTktNGM2NGJjMzE3MjkiLCJ0b29sTmFtZSI6IldyaXRlIiwiYXJncyI6eyJwYXRoIjoiQzpcXFVzZXJzXFxwY1xcRGVza3RvcFxcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcXGRvY3NcXGtub3dsZWRnZS1iYXNlXFxfZXhwb3J0c1xcLmdpdGtlZXAiLCJjb250ZW50cyI6IiJ9fSx7InR5cGUiOiJ0b29sLWNhbGwiLCJ0b29sQ2FsbElkIjoidG9vbF9mZjAyNDY1Yy1mYjE3LTQxMWEtYWQyZS1lYWJjOWM1YzYyNCIsInRvb2xOYW1lIjoiU2hlbGwiLCJhcmdzIjp7ImNvbW1hbmQiOiJweXRob24gLW0gcHlfY29tcGlsZSBcIkM6XFxVc2Vyc1xccGNcXERlc2t0b3BcXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XFxFWFBPUlRfRlJBUFBFX0NVU1RPTUlaQVRJT05TX1NOQVBTSE9ULnB5XCIiLCJkZXNjcmlwdGlvbiI6IlZlcmlmeSBleHBvcnQgc2NyaXB0IFB5dGhvbiBzeW50YXgifX1dfSoICKKSAxDAmgxCIAiBpWget8GkT572EIMeamfKx5RQ6evGvxypkeW81RdVQiD8kXlSOfSjEgrppELnIVbbmIZbbQZ/j/iMWjzpJLzAtUo0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFABenoKVEM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVhQT1JUX0ZSQVBQRV9DVVNUT01JWkFUSU9OU19TTkFQU0hPVC5weRIiCiDKSl2hzqstwBYig4vPkqfn+a102PGSsOWmWBTVYAe0H3qDAQpdQzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxkb2NzXGtub3dsZWRnZS1iYXNlXENVU1RPTV9QUk9UT0NPTFNfSU5WRU5UT1JZLm1kEiIKICjdhQZV9+BqySTyLknVyx2E1loVd2gqfmx2/feBIg0eem0KR0M6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcZG9jc1xrbm93bGVkZ2UtYmFzZVxNRVRBLm1kEiIKID6GJCj5a95es0IoK2U76wpmfgJsjq0qEhDuFRJKWTEIem4KSEM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcZG9jc1xrbm93bGVkZ2UtYmFzZVxJTkRFWC5tZBIiCiAByXRaLbERFnhiE3+QocoDlVMOiQvCUFgCqHB5c+IKD3pmCkBDOlxVc2Vyc1xwY1wuY3Vyc29yXHNraWxsc1xsb2NhbC1lcnAta25vd2xlZGdlLWJhc2VccmVmZXJlbmNlLm1kEiIKIAxTZGblLHJYQwbW5mA5t/rYQkvbAXMvbJIy85mTUKvHemIKPEM6XFVzZXJzXHBjXC5jdXJzb3Jcc2tpbGxzXGxvY2FsLWVycC1rbm93bGVkZ2UtYmFzZVxTS0lMTC5tZBIiCiCgjRzWfJ7B8vpti3GGFYegvriu+zl9DrdwOGTlXidu1pIBN0M6XFVzZXJzXHBjXC5jdXJzb3Jcc2tpbGxzLWN1cnNvclxjcmVhdGUtc2tpbGxcU0tJTEwubWSSAU1DOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XExJU1RfUENCX0xFREdFUl9TRVJWRVJfU0NSSVBUUy5weZIBT0M6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcR1JBTlRfUFJfRVhQT1JUX0FDQ09VTlRTX1JBUFRVUkUucHmSAVpDOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XElOU1RBTExfUFRTM19CT09LX0FORF9BUElfVklBX0FVVE9fRVhFQ1VUT1IucHmSAUtDOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XF9saXN0X3BjYl9pcWNfY2xpZW50X3NjcmlwdHMucHmSAVVDOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XENSRUFURV9QVFMzX0RPQ1RZUEVTX1ZJQV9BVVRPX0VYRUNVVE9SLnB5kgFKQzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxBVVRPX0VYRUNVVEVfRlJBUFBFX0NPTlNPTEUucHmSAVpDOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XFVQU0VSVF9TVE9DS19FTlRSWV9QQ0JfTEVER0VSX1NFUlZFUl9TQ1JJUFQucHmSAVRDOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XERJU0FCTEVfUENCX0lRQ19MRURHRVJfU0VSVkVSX1NDUklQVFMucHmSAWRDOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XFVQU0VSVF9QUl9QUkVWRU5UX0RVUExJQ0FURV9QQ0JfU0VSSUFMU19TRVJWRVJfU0NSSVBULnB5kgFUQzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWFBPUlRfRlJBUFBFX0NVU1RPTUlaQVRJT05TX1NOQVBTSE9ULnB5qgEYCgtDOi9Vc2Vycy9wYxIJY29kZXgtdHJ5sgEDaWRl",
     "queueItems": [],
-    "isAgentic": true
+    "latestChatGenerationUUID": "d68e0dd4-0987-4464-9455-5482d2c54dcb",
+    "isAgentic": true,
+    "subtitle": "Edited .gitkeep, EXPORT_FRAPPE_CUSTOMIZATIONS_SNAPSHOT.py, CUSTOM_PROTOCOLS_INVENTORY.md, INDEX.md, META.md",
+    "filesChangedCount": 6
   },
-  "extracted_at": "2026-04-09T16:03:05.850938"
+  "extracted_at": "2026-04-09T16:13:04.465295"
 }
