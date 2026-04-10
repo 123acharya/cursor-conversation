@@ -1,9 +1,9 @@
 {
-  "key": "composerData:13098874-ef00-4b56-8a83-b36b8433b911",
+  "key": "composerData:0fea7d3a-6fba-4f9f-a74a-ec20362a216d",
   "data": {
-    "_v": 11,
-    "composerId": "13098874-ef00-4b56-8a83-b36b8433b911",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "_v": 13,
+    "composerId": "0fea7d3a-6fba-4f9f-a74a-ec20362a216d",
+    "richText": "",
     "hasLoaded": true,
     "text": "",
     "fullConversationHeadersOnly": [],
@@ -11,7 +11,6 @@
     "status": "none",
     "context": {
       "composers": [],
-      "quotes": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
       "selectedImages": [],
@@ -24,59 +23,45 @@
       "cursorRules": [],
       "cursorCommands": [],
       "gitPRDiffSelections": [],
+      "subagentSelections": [],
+      "browserSelections": [],
       "mentions": {
         "composers": {},
-        "quotes": {},
         "selectedCommits": {},
         "selectedPullRequests": {},
         "gitDiff": [],
         "gitDiffFromBranchToMain": [],
         "selectedImages": {},
-        "useWeb": [],
         "folderSelections": {},
-        "fileSelections": {
-          "file:///c%3A/Users/pc/Desktop/create_auto_backup_script.bat": [],
-          "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/BACKUP_SUMMARY_2026-01-25.md": [],
-          "file:///g%3A/frappe_docker-main/backup_erpnext_complete.bat": []
-        },
+        "fileSelections": {},
         "terminalFiles": {},
         "selections": {},
         "terminalSelections": {},
         "selectedDocs": {},
         "externalLinks": {},
-        "useLinterErrors": [],
-        "useDiffReview": [],
-        "useGenerateRules": [],
-        "useContextPicking": [],
-        "useRememberThis": [],
         "diffHistory": [],
         "cursorRules": {},
         "cursorCommands": {},
-        "autoContext": [],
         "uiElementSelections": [],
         "consoleLogs": [],
         "ideEditorsState": [],
-        "gitPRDiffSelections": {}
-      },
-      "ideEditorsState": true
+        "gitPRDiffSelections": {},
+        "subagentSelections": {},
+        "browserSelections": {}
+      }
     },
-    "gitGraphFileSuggestions": [],
     "generatingBubbleIds": [],
     "isReadingLongFile": false,
     "codeBlockData": {},
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1769858232859,
+    "createdAt": 1775802065650,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
       {
         "type": 30,
-        "data": {}
-      },
-      {
-        "type": 34,
         "data": {}
       },
       {
@@ -118,10 +103,6 @@
         "data": {}
       },
       {
-        "type": 25,
-        "data": {}
-      },
-      {
         "type": 21,
         "data": {}
       },
@@ -142,7 +123,7 @@
     "usageData": {},
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
-      "modelName": "composer-1",
+      "modelName": "composer-2-fast",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -155,7 +136,6 @@
     "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
-    "isArchived": false,
     "isDraft": false,
     "isCreatingWorktree": false,
     "isApplyingWorktree": false,
@@ -166,16 +146,16 @@
     "isBestOfNParent": false,
     "bestOfNJudgeWinner": false,
     "isSpec": false,
+    "isProject": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "DPEiuK+qMwFG5YmeqZ0ekNFH/BApz9PYmPEaBWeoCyQ=",
-    "isNAL": false,
+    "speculativeSummarizationEncryptionKey": "XNMlm7WP0i7jCN1dUvj+vFiPqxdiz6EGdfjNPEvHh3c=",
+    "isNAL": true,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
-    "conversationState": "",
-    "isAgentic": true,
-    "subtitle": "New chat",
-    "filesChangedCount": 0
+    "conversationState": "~",
+    "queueItems": [],
+    "isAgentic": true
   },
-  "extracted_at": "2026-04-10T11:53:03.592233"
+  "extracted_at": "2026-04-10T11:53:03.627780"
 }
