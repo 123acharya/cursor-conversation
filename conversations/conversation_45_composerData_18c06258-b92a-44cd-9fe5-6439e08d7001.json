@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "18c06258-b92a-44cd-9fe5-6439e08d7001",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" i dont want it exactly like v 16 i want the fundamentals to be like v16 \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"so when ever the connector program starts the deamon should be on and connect any tectronic ossiloscope in the the python programm \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"now when we enter the serial number and press enter in erp next the connector should get this msg and play 80hz or whenever the connector is running we can keep 80hz running and when we need to do test like step sweep or mode 1 2 3 0 we can pause this and continue the test once that is done we can again un pause this and run 80hz again \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"rest steo sweep working remains uncahnged \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"right now this is my v17 code \",\"type\":\"text\",\"version\":1},{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/AUTO_PTS3v17.py\",\"type\":\"mention\",\"version\":1,\"mentionName\":\"AUTO_PTS3v17.py\",\"typeaheadType\":\"file\",\"storedKey\":\"1167\",\"metadata\":{\"selection\":{\"type\":2,\"selectionWithoutUuid\":{\"uri\":{\"scheme\":\"file\",\"authority\":\"\",\"path\":\"/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/AUTO_PTS3v17.py\",\"query\":\"\",\"fragment\":\"\",\"_formatted\":\"file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/AUTO_PTS3v17.py\",\"_fsPath\":\"c:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project\\\\EXAMPLES\\\\CHARGPT  TRIAL\\\\PTS3 test\\\\AUTO_PTS3v17.py\"}}},\"selectedOption\":{\"key\":\"AUTO_PTS3v17.py\",\"type\":\"file\",\"selectionPrecursor\":{\"uri\":{\"scheme\":\"file\",\"authority\":\"\",\"path\":\"/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/AUTO_PTS3v17.py\",\"query\":\"\",\"fragment\":\"\",\"_formatted\":\"file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/AUTO_PTS3v17.py\",\"_fsPath\":\"c:\\\\Users\\\\pc\\\\Desktop\\\\PCB_IQC_ERPNext_Project\\\\EXAMPLES\\\\CHARGPT  TRIAL\\\\PTS3 test\\\\AUTO_PTS3v17.py\"}},\"secondaryText\":\"PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/AUTO_PTS3v17.py\",\"id\":\"9e0b62bf-6aad-4333-a202-0511755bbdae\",\"name\":\"AUTO_PTS3v17.py\",\"_score\":0,\"isSlash\":false},\"iconClasses\":[\"file-icon\",\"pts3/test-name-dir-icon\",\"auto_pts3v17.py-name-file-icon\",\"name-file-icon\",\"py-ext-file-icon\",\"ext-file-icon\",\"python-lang-file-icon\"]},\"source\":\"chat\"},{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1},{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"MouseWithoutBorders/pts3_runner_daemon.py\",\"type\":\"mention\",\"version\":1,\"mentionName\":\"pts3_runner_daemon.py\",\"typeaheadType\":\"file\",\"storedKey\":\"1173\",\"metadata\":{\"selection\":{\"type\":2,\"selectionWithoutUuid\":{\"uri\":{\"scheme\":\"file\",\"authority\":\"\",\"path\":\"/C:/Users/pc/Desktop/MouseWithoutBorders/pts3_runner_daemon.py\",\"query\":\"\",\"fragment\":\"\",\"_formatted\":\"file:///c%3A/Users/pc/Desktop/MouseWithoutBorders/pts3_runner_daemon.py\",\"_fsPath\":\"c:\\\\Users\\\\pc\\\\Desktop\\\\MouseWithoutBorders\\\\pts3_runner_daemon.py\"}}},\"selectedOption\":{\"key\":\"pts3_runner_daemon.py\",\"type\":\"file\",\"selectionPrecursor\":{\"uri\":{\"scheme\":\"file\",\"authority\":\"\",\"path\":\"/C:/Users/pc/Desktop/MouseWithoutBorders/pts3_runner_daemon.py\",\"query\":\"\",\"fragment\":\"\",\"_formatted\":\"file:///c%3A/Users/pc/Desktop/MouseWithoutBorders/pts3_runner_daemon.py\",\"_fsPath\":\"c:\\\\Users\\\\pc\\\\Desktop\\\\MouseWithoutBorders\\\\pts3_runner_daemon.py\"}},\"secondaryText\":\"MouseWithoutBorders/pts3_runner_daemon.py\",\"id\":\"68bc88af-bbc4-44fe-84c0-bc7f0281efef\",\"name\":\"pts3_runner_daemon.py\",\"_score\":0,\"isSlash\":false},\"iconClasses\":[\"file-icon\",\"mousewithoutborders-name-dir-icon\",\"pts3_runner_daemon.py-name-file-icon\",\"name-file-icon\",\"py-ext-file-icon\",\"ext-file-icon\",\"python-lang-file-icon\"]},\"source\":\"chat\"},{\"detail\":1,\"format\":0,\"mode\":\"segmented\",\"style\":\"\",\"text\":\"\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": " i dont want it exactly like v 16 i want the fundamentals to be like v16 \nso when ever the connector program starts the deamon should be on and connect any tectronic ossiloscope in the the python programm \n\nnow when we enter the serial number and press enter in erp next the connector should get this msg and play 80hz or whenever the connector is running we can keep 80hz running and when we need to do test like step sweep or mode 1 2 3 0 we can pause this and continue the test once that is done we can again un pause this and run 80hz again \n\nrest steo sweep working remains uncahnged \n\nright now this is my v17 code @PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/AUTO_PTS3v17.py @MouseWithoutBorders/pts3_runner_daemon.py ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "01fd8ae8-afa2-481e-a5f0-9b47fe9ed8dd",
@@ -29889,7 +29889,34 @@
       "selectedPullRequests": [],
       "selectedImages": [],
       "folderSelections": [],
-      "fileSelections": [],
+      "fileSelections": [
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\EXAMPLES\\CHARGPT  TRIAL\\PTS3 test\\AUTO_PTS3v17.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/AUTO_PTS3v17.py",
+            "path": "/C:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/AUTO_PTS3v17.py",
+            "scheme": "file"
+          },
+          "uuid": "1167",
+          "collapseByDefault": false,
+          "addedWithoutMention": false
+        },
+        {
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\MouseWithoutBorders\\pts3_runner_daemon.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/MouseWithoutBorders/pts3_runner_daemon.py",
+            "path": "/C:/Users/pc/Desktop/MouseWithoutBorders/pts3_runner_daemon.py",
+            "scheme": "file"
+          },
+          "uuid": "1170",
+          "collapseByDefault": false,
+          "addedWithoutMention": false
+        }
+      ],
       "selections": [],
       "terminalSelections": [],
       "selectedDocs": [],
@@ -29932,9 +29959,21 @@
           "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_api_server_script.py": [],
           "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_result_client_script.js": [],
           "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/PTS3%20test/pts3_connector.py": [],
-          "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/AUTO_PTS3v17.py": [],
+          "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/AUTO_PTS3v17.py": [
+            {
+              "uuid": "1167"
+            }
+          ],
           "file:///c%3A/Users/pc/Desktop/MouseWithoutBorders/AUTO_PTS3v16.py": [],
-          "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/PTS3%20Station%20Connector.py": []
+          "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/PTS3%20Station%20Connector.py": [],
+          "file:///c%3A/Users/pc/Desktop/MouseWithoutBorders/pts3_runner_daemon.py": [
+            {
+              "uuid": "1170"
+            },
+            {
+              "uuid": "1173"
+            }
+          ]
         },
         "terminalFiles": {},
         "selections": {
@@ -31389,5 +31428,5 @@
     "subtitle": "Edited AUTO_PTS3v17.py, PTS3_Test_Client_Script.js, PTS3_VISA_RESOURCE.txt.example, pts3_connector.py, start_pts3_connector.bat",
     "filesChangedCount": 107
   },
-  "extracted_at": "2026-04-13T13:33:03.813010"
+  "extracted_at": "2026-04-13T13:43:03.973240"
 }
