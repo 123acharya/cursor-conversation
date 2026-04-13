@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "18c06258-b92a-44cd-9fe5-6439e08d7001",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"what is this \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"there is only one lane not 4 \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"rn i want \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "what is this \nthere is only one lane not 4 \n\nrn i want ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "01fd8ae8-afa2-481e-a5f0-9b47fe9ed8dd",
@@ -30067,7 +30067,18 @@
       "composers": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [],
+      "selectedImages": [
+        {
+          "uuid": "ab846519-aee5-4e98-9e06-d4f90381c6a4",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-7f2ac0a5-905b-40df-9316-2fdb321fc79c.png",
+          "dimension": {
+            "width": 2379,
+            "height": 979
+          },
+          "loadedAt": 1776078563120,
+          "addedWithoutMention": true
+        }
+      ],
       "folderSelections": [],
       "fileSelections": [],
       "selections": [],
@@ -31466,9 +31477,8 @@
     "newlyCreatedFolders": [],
     "lastUpdatedAt": 1776077885598,
     "createdAt": 1773395733747,
-    "hasChangedContext": false,
+    "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
-    "editingBubbleId": "a40e3595-45e7-4304-b0b9-2592d78796ba",
     "capabilities": [
       {
         "type": 30,
@@ -31575,5 +31585,5 @@
     "subtitle": "Edited AUTO_PTS3v17.py, PTS3_Test_Client_Script.js, PTS3_VISA_RESOURCE.txt.example, pts3_connector.py, start_pts3_connector.bat",
     "filesChangedCount": 107
   },
-  "extracted_at": "2026-04-13T16:33:06.783845"
+  "extracted_at": "2026-04-13T16:43:05.499934"
 }
