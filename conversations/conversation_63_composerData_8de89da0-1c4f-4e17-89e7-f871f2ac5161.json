@@ -1,8 +1,8 @@
 {
-  "key": "composerData:55b70982-38e3-4215-874f-c87595968426",
+  "key": "composerData:8de89da0-1c4f-4e17-89e7-f871f2ac5161",
   "data": {
     "_v": 13,
-    "composerId": "55b70982-38e3-4215-874f-c87595968426",
+    "composerId": "8de89da0-1c4f-4e17-89e7-f871f2ac5161",
     "richText": "",
     "hasLoaded": true,
     "text": "",
@@ -56,65 +56,10 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1775653188518,
+    "createdAt": 1776060125578,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
-    "capabilities": [
-      {
-        "type": 30,
-        "data": {}
-      },
-      {
-        "type": 15,
-        "data": {
-          "bubbleDataMap": "{}"
-        }
-      },
-      {
-        "type": 22,
-        "data": {}
-      },
-      {
-        "type": 18,
-        "data": {}
-      },
-      {
-        "type": 19,
-        "data": {}
-      },
-      {
-        "type": 33,
-        "data": {}
-      },
-      {
-        "type": 32,
-        "data": {}
-      },
-      {
-        "type": 23,
-        "data": {}
-      },
-      {
-        "type": 16,
-        "data": {}
-      },
-      {
-        "type": 24,
-        "data": {}
-      },
-      {
-        "type": 21,
-        "data": {}
-      },
-      {
-        "type": 31,
-        "data": {}
-      },
-      {
-        "type": 29,
-        "data": {}
-      }
-    ],
+    "capabilities": [],
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
@@ -123,7 +68,7 @@
     "usageData": {},
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
-      "modelName": "default",
+      "modelName": "composer-2-fast",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -149,7 +94,7 @@
     "isProject": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "uUwS+rg8i9Eu5c5pYGKc61qI8RXgeDQWL+83o+rtVp4=",
+    "speculativeSummarizationEncryptionKey": "w0hNy8PhBDRAaZLtX3d6ESLFr7ekWHG7qDjZ/OFgEbI=",
     "isNAL": true,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
