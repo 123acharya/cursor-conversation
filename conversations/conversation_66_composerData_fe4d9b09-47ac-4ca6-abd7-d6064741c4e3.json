@@ -1,8 +1,8 @@
 {
-  "key": "composerData:eee84404-8903-4f87-a2f5-0250bf6e26b1",
+  "key": "composerData:fe4d9b09-47ac-4ca6-abd7-d6064741c4e3",
   "data": {
     "_v": 13,
-    "composerId": "eee84404-8903-4f87-a2f5-0250bf6e26b1",
+    "composerId": "fe4d9b09-47ac-4ca6-abd7-d6064741c4e3",
     "richText": "",
     "hasLoaded": true,
     "text": "",
@@ -56,7 +56,7 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1772175777532,
+    "createdAt": 1776089108403,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [],
@@ -68,7 +68,7 @@
     "usageData": {},
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
-      "modelName": "composer-1.5",
+      "modelName": "composer-2",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -94,7 +94,7 @@
     "isProject": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "rc8zKyHhtF9yvIBGykTBDN360NG/XVueQ1vHpMvDsdo=",
+    "speculativeSummarizationEncryptionKey": "Evo3Fwa7YE9Cgw7Y1z2NTku4C31GK2CJNdtw8gLAO7k=",
     "isNAL": true,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
@@ -102,5 +102,5 @@
     "queueItems": [],
     "isAgentic": false
   },
-  "extracted_at": "2026-04-13T19:43:11.419992"
+  "extracted_at": "2026-04-13T19:43:11.471011"
 }
