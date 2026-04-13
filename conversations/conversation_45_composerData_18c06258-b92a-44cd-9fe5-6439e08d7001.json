@@ -5009,7 +5009,8 @@
             }
           ],
           "{\"uri\":\"file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_result_client_script.js\",\"range\":{\"selectionStartLineNumber\":25,\"selectionStartColumn\":1,\"positionLineNumber\":29,\"positionColumn\":5},\"text\":\"```javascript\\nvar SWEEP_CHART = {\\r\\n  yMin: 2500,      // e.g. 1500 - set to fix Y-axis minimum (null = auto from data)\\r\\n  yMax: null,      // e.g. 2500 - set to fix Y-axis maximum (null = auto from data)\\r\\n  xTickHz: 2       // X-axis tick interval in Hz (e.g. 2 = every 2Hz: 40,42,44...; 10 = 40,50,60...)\\r\\n};\\n```\"}": [],
-          "{\"uri\":\"file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_result_client_script.js\",\"range\":{\"selectionStartLineNumber\":26,\"selectionStartColumn\":1,\"positionLineNumber\":41,\"positionColumn\":1},\"text\":\"```javascript\\nvar SWEEP_CHART = {\\r\\n  yMin: 1500,      // e.g. 1500 - set to fix Y-axis minimum (null = auto from data)\\r\\n  yMax: 2500,      // e.g. 2500 - set to fix Y-axis maximum (null = auto from data)\\r\\n  xTickHz: 2,      // X-axis tick interval in Hz (e.g. 2 = every 2Hz: 40,42,44...; 10 = 40,50,60...)\\r\\n  lineWidth: 2,    // Line thickness for Left/Right (e.g. 1, 2, 3)\\r\\n  diffLineWidth: 1.5,  // Line thickness for Diff (null = uses lineWidth)\\r\\n  fontSize: null   // Override font size for this chart (null = use CHART.fontSize)\\r\\n};\\r\\n\\r\\n// Mode chart - manual axis adjustments (edit these values)\\r\\nvar MODE_CHART = {\\r\\n  yMin: null,    // e.g. 0 - set to fix Y-axis minimum (null = auto from data)\\r\\n  yMax: null,    // e.g. 150 - set to fix Y-axis maximum (null = auto from data)\\r\\n  fontSize: null // Override font size for this chart (null = use CHART.fontSize)\\r\\n};\\r\\n\\n```\"}": []
+          "{\"uri\":\"file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_result_client_script.js\",\"range\":{\"selectionStartLineNumber\":26,\"selectionStartColumn\":1,\"positionLineNumber\":41,\"positionColumn\":1},\"text\":\"```javascript\\nvar SWEEP_CHART = {\\r\\n  yMin: 1500,      // e.g. 1500 - set to fix Y-axis minimum (null = auto from data)\\r\\n  yMax: 2500,      // e.g. 2500 - set to fix Y-axis maximum (null = auto from data)\\r\\n  xTickHz: 2,      // X-axis tick interval in Hz (e.g. 2 = every 2Hz: 40,42,44...; 10 = 40,50,60...)\\r\\n  lineWidth: 2,    // Line thickness for Left/Right (e.g. 1, 2, 3)\\r\\n  diffLineWidth: 1.5,  // Line thickness for Diff (null = uses lineWidth)\\r\\n  fontSize: null   // Override font size for this chart (null = use CHART.fontSize)\\r\\n};\\r\\n\\r\\n// Mode chart - manual axis adjustments (edit these values)\\r\\nvar MODE_CHART = {\\r\\n  yMin: null,    // e.g. 0 - set to fix Y-axis minimum (null = auto from data)\\r\\n  yMax: null,    // e.g. 150 - set to fix Y-axis maximum (null = auto from data)\\r\\n  fontSize: null // Override font size for this chart (null = use CHART.fontSize)\\r\\n};\\r\\n\\n```\"}": [],
+          "{\"uri\":\"file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/AUTO_PTS3v17.py\",\"range\":{\"selectionStartLineNumber\":14,\"selectionStartColumn\":1,\"positionLineNumber\":22,\"positionColumn\":1},\"text\":\"```python\\n\\nExcel summary (local)\\n- Tri-row summary at SUMMARY_START_ROW..+2: Left, Right, Diff.\\n- Columns: Serial | Date | Status | Dominent channel | Max value | Channel | 40..80 Hz (2 Hz) | Mode1 | Mode2 | Mode3 | Mode0\\n- Date set on Left row; Right row's Date column holds Time (HH:MM); Status editable later.\\n- Per-frequency averages stored under 40..80 Hz columns.\\n- Mode transforms: Mode1 & Mode2 store raw averages; Mode3 & Mode0 store avg/1000.\\n- Two charts (openpyxl): ΔP vs Freq (±160 mV); L/R vs Freq (2000–3500 mV).\\n\\n```\"}": []
         },
         "terminalSelections": {},
         "selectedDocs": {},
@@ -5749,14 +5750,6 @@
       {
         "uri": {
           "$mid": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_api_server_script.py",
-          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/pts3_api_server_script.py",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
           "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/PTS3%20Station%20Connector.py",
           "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/PTS3 Station Connector.py",
           "scheme": "file"
@@ -5855,14 +5848,6 @@
           "$mid": 1,
           "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/22_PTS3_API_HARDENING_REPORT.md",
           "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/22_PTS3_API_HARDENING_REPORT.md",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_connector.py",
-          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/pts3_connector.py",
           "scheme": "file"
         }
       },
@@ -5991,14 +5976,6 @@
           "$mid": 1,
           "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/31_PTS3_RESULT_RENDER_FIX.md",
           "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/31_PTS3_RESULT_RENDER_FIX.md",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/PTS3_Test_Client_Script.js",
-          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/PTS3_Test_Client_Script.js",
           "scheme": "file"
         }
       },
@@ -6151,14 +6128,6 @@
           "$mid": 1,
           "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/41_PTS3_CONNECTOR_NO_DATA_TROUBLESHOOTING.md",
           "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/41_PTS3_CONNECTOR_NO_DATA_TROUBLESHOOTING.md",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/pts3_runner_daemon.py",
-          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/pts3_runner_daemon.py",
           "scheme": "file"
         }
       },
@@ -6345,48 +6314,8 @@
       {
         "uri": {
           "$mid": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PTS3_TEST_TARGET_PC_BENCH.py",
-          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PTS3_TEST_TARGET_PC_BENCH.py",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
           "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/PRERANA_STATION_SETUP.md",
           "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/PRERANA_STATION_SETUP.md",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/run_pts3_connector_Prerana.bat",
-          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/run_pts3_connector_Prerana.bat",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/PTS3_VISA_RESOURCE.txt.example",
-          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/PTS3_VISA_RESOURCE.txt.example",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/discover_pts3_visa.py",
-          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/discover_pts3_visa.py",
-          "scheme": "file"
-        }
-      },
-      {
-        "uri": {
-          "$mid": 1,
-          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/start_pts3_connector.bat",
-          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT  TRIAL/PTS3 test/start_pts3_connector.bat",
           "scheme": "file"
         }
       }
@@ -6524,8 +6453,8 @@
     "queueItems": [],
     "latestChatGenerationUUID": "d906fb45-2dfb-4130-b254-3ce3fa32a94f",
     "isAgentic": true,
-    "subtitle": "Edited pts3_connector.py, AUTO_PTS3v17.py, start_pts3_connector.bat, discover_pts3_visa.py, PTS3_VISA_RESOURCE.txt.example",
+    "subtitle": "Edited pts3_connector.py",
     "filesChangedCount": 107
   },
-  "extracted_at": "2026-04-13T11:33:05.537408"
+  "extracted_at": "2026-04-13T11:43:04.883815"
 }
