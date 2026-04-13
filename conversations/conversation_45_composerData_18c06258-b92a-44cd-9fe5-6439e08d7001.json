@@ -31731,7 +31731,7 @@
     "contextTokenLimit": 272000,
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
-      "modelName": "gpt-5.1-high",
+      "modelName": "composer-2",
       "maxMode": false
     },
     "subComposerIds": [],
@@ -31769,5 +31769,5 @@
     "subtitle": "Edited AUTO_PTS3v17.py, PTS3_Test_Client_Script.js, PTS3_VISA_RESOURCE.txt.example, pts3_connector.py, start_pts3_connector.bat",
     "filesChangedCount": 107
   },
-  "extracted_at": "2026-04-13T18:03:04.491009"
+  "extracted_at": "2026-04-13T18:13:07.441356"
 }
