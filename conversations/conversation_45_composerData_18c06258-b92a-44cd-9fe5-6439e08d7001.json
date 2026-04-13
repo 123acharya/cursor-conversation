@@ -3,9 +3,9 @@
   "data": {
     "_v": 13,
     "composerId": "18c06258-b92a-44cd-9fe5-6439e08d7001",
-    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "richText": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"ok now when i runned my program it played sweep and recorded the values just how we wanted but after sweep i pressed on mode 1 which was supposed to play 80 Hz and record the peak to peak voltage when i did this , it did get some values but my previous values of step sweep in the result went away i cant see that result \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
-    "text": "",
+    "text": "ok now when i runned my program it played sweep and recorded the values just how we wanted but after sweep i pressed on mode 1 which was supposed to play 80 Hz and record the peak to peak voltage when i did this , it did get some values but my previous values of step sweep in the result went away i cant see that result ",
     "fullConversationHeadersOnly": [
       {
         "bubbleId": "01fd8ae8-afa2-481e-a5f0-9b47fe9ed8dd",
@@ -29931,7 +29931,38 @@
       "composers": [],
       "selectedCommits": [],
       "selectedPullRequests": [],
-      "selectedImages": [],
+      "selectedImages": [
+        {
+          "uuid": "677f79c2-6daa-4392-925d-65f3b6c50f61",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-20336370-3506-4ad3-bf02-09899cc25285.png",
+          "dimension": {
+            "width": 1607,
+            "height": 826
+          },
+          "loadedAt": 1776074509832,
+          "addedWithoutMention": true
+        },
+        {
+          "uuid": "598f6c2e-b502-449b-a6cb-073d576d14fa",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-514d517c-fb81-4d11-8e0f-8894f18f0b8f.png",
+          "dimension": {
+            "width": 1807,
+            "height": 870
+          },
+          "loadedAt": 1776074535502,
+          "addedWithoutMention": true
+        },
+        {
+          "uuid": "87c9032b-b1d1-4a5f-958f-529e6123ae7f",
+          "path": "c:\\Users\\pc\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\a60624e847c59a61babc2873b5877c96\\images\\image-f7cbc6b8-63df-48dc-b0a4-3301fdab6c51.png",
+          "dimension": {
+            "width": 1416,
+            "height": 663
+          },
+          "loadedAt": 1776074549899,
+          "addedWithoutMention": true
+        }
+      ],
       "folderSelections": [],
       "fileSelections": [
         {
@@ -31452,5 +31483,5 @@
     "subtitle": "Edited AUTO_PTS3v17.py, PTS3_Test_Client_Script.js, PTS3_VISA_RESOURCE.txt.example, pts3_connector.py, start_pts3_connector.bat",
     "filesChangedCount": 107
   },
-  "extracted_at": "2026-04-13T15:23:04.710754"
+  "extracted_at": "2026-04-13T15:33:06.147744"
 }
