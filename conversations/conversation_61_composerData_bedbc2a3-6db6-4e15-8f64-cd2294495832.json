@@ -1,0 +1,2545 @@
+{
+  "key": "composerData:bedbc2a3-6db6-4e15-8f64-cd2294495832",
+  "data": {
+    "_v": 11,
+    "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "d0d89e3d-7d80-4696-9a17-6d403ba8aaa1",
+        "type": 1
+      },
+      {
+        "bubbleId": "8788559a-f64f-41cb-adc8-c6c13d7c3bb2",
+        "type": 2,
+        "serverBubbleId": "0f11bae4-e346-4808-956f-2467a73e50fd"
+      },
+      {
+        "bubbleId": "f0850575-577f-42d9-9892-ae5b15b3a70c",
+        "type": 2
+      },
+      {
+        "bubbleId": "e4bd60e8-d4ef-49fb-ab42-b455369ca66a",
+        "type": 2
+      },
+      {
+        "bubbleId": "b927c54b-8ca0-43a1-bf9b-a6037d9168cb",
+        "type": 2
+      },
+      {
+        "bubbleId": "5f6da464-b9c8-4704-b23d-fcd05c446f58",
+        "type": 2
+      },
+      {
+        "bubbleId": "de254feb-64a7-4175-8e3f-a6e88b0a1d25",
+        "type": 2
+      },
+      {
+        "bubbleId": "b39dca52-69b0-4f84-9e4d-ca957ebad2d0",
+        "type": 2,
+        "serverBubbleId": "948c7168-70aa-4143-8ff9-321a4755f119"
+      },
+      {
+        "bubbleId": "d715d74e-e8e6-4fc4-acbf-9041f24e1d47",
+        "type": 2
+      },
+      {
+        "bubbleId": "a4f49926-846a-4fef-9b38-111ebc071ca1",
+        "type": 2
+      },
+      {
+        "bubbleId": "8b4df45e-effb-4242-a9c1-2e88d5437d9f",
+        "type": 2
+      },
+      {
+        "bubbleId": "ca05f66d-212a-46b7-8275-ad87d969a202",
+        "type": 2
+      },
+      {
+        "bubbleId": "8bc33807-10af-4a89-8600-9a12f59180bc",
+        "type": 2,
+        "serverBubbleId": "37ce4a9b-1c7a-4ed7-a74f-ddcde10a62bb"
+      },
+      {
+        "bubbleId": "56899820-323e-4c0e-aa0d-3265068b230e",
+        "type": 2
+      },
+      {
+        "bubbleId": "9ef74d17-7060-4f9e-9d53-d8739847a802",
+        "type": 2
+      },
+      {
+        "bubbleId": "4b2f3dbb-1042-4ba5-b973-4d22e028110e",
+        "type": 2
+      },
+      {
+        "bubbleId": "6c9773a1-0ac0-4486-a518-adaca7f0a676",
+        "type": 2,
+        "serverBubbleId": "d988938e-c7bc-4937-87bd-c989ca1f9578"
+      },
+      {
+        "bubbleId": "41b9a521-cf9c-48f6-b784-fda32cfaeb01",
+        "type": 2
+      },
+      {
+        "bubbleId": "24450e62-19f9-4b81-a672-4010631ac7ae",
+        "type": 2
+      },
+      {
+        "bubbleId": "edd0e2a5-b38c-4614-82c1-de94b96a3582",
+        "type": 2
+      },
+      {
+        "bubbleId": "56874b15-ba86-4578-9cc3-9afebe9e7739",
+        "type": 2,
+        "serverBubbleId": "159ff121-0d40-4c87-b337-3d845f7fc1d0"
+      },
+      {
+        "bubbleId": "1a2e6b83-9684-426f-a560-f83bfea8cf90",
+        "type": 2
+      },
+      {
+        "bubbleId": "835acf37-b204-4685-ac86-734d9f7d4eca",
+        "type": 2
+      },
+      {
+        "bubbleId": "1563580e-ca29-465c-bef6-940902d136a7",
+        "type": 2
+      },
+      {
+        "bubbleId": "91fa11b0-7e99-4ec7-877b-c7df922b4183",
+        "type": 2,
+        "serverBubbleId": "87680187-1dc7-4bf6-a7b5-9afbcc901060"
+      },
+      {
+        "bubbleId": "6bb5cf9b-ff35-4427-8251-6f6bfb9dfdaa",
+        "type": 2
+      },
+      {
+        "bubbleId": "d9a688d0-3955-466a-8437-0e67797574ac",
+        "type": 1
+      },
+      {
+        "bubbleId": "d46f9ca5-a443-44e9-a9fa-eee553a6caf5",
+        "type": 2,
+        "serverBubbleId": "a761657f-4c2a-480d-b727-1a8f58aeb21c"
+      },
+      {
+        "bubbleId": "70fc44b5-b6f6-45a9-b99a-90443378ab40",
+        "type": 2
+      },
+      {
+        "bubbleId": "b36e6a35-3e8e-46e7-b5b9-62017c0544be",
+        "type": 2
+      },
+      {
+        "bubbleId": "f76814a8-8b39-403c-9d39-016649d37913",
+        "type": 2
+      },
+      {
+        "bubbleId": "92a7744a-8eda-4589-99a0-e86ed4d08696",
+        "type": 2,
+        "serverBubbleId": "f750f9cf-1597-4700-a888-88b193298725"
+      },
+      {
+        "bubbleId": "561cc14e-d627-4a08-9457-22f5bb96de0d",
+        "type": 2
+      },
+      {
+        "bubbleId": "ffa3ca46-07d9-484d-b0e8-9a03fb155eaa",
+        "type": 2
+      },
+      {
+        "bubbleId": "315a0f7d-d41e-4be9-b267-6c24d1aa3907",
+        "type": 2
+      },
+      {
+        "bubbleId": "bb4ecf4e-4f12-48ab-9aac-2f1cb075608d",
+        "type": 2,
+        "serverBubbleId": "7f872cab-8e8c-4d4c-b112-be913b862a96"
+      },
+      {
+        "bubbleId": "6027dc1f-8f91-4f2f-9a64-56dc5e460b5c",
+        "type": 2
+      },
+      {
+        "bubbleId": "a21a37e6-e785-402b-aaa3-8be454a68146",
+        "type": 2
+      },
+      {
+        "bubbleId": "f6d2ee28-7c3f-4976-802a-562e60d1b669",
+        "type": 2,
+        "serverBubbleId": "e4c2583c-01c1-4a1c-85bd-5187d1f46076"
+      },
+      {
+        "bubbleId": "3f9a6cf8-4a58-4e8b-922f-7844cf9d3254",
+        "type": 2
+      },
+      {
+        "bubbleId": "583d625d-a627-4bdd-a0bb-9dd7b1db576e",
+        "type": 1
+      },
+      {
+        "bubbleId": "fc9cc9a3-b468-4e71-abf2-62d738b53fca",
+        "type": 2,
+        "serverBubbleId": "793389aa-2b8d-48e3-8f5e-351245a11b89"
+      },
+      {
+        "bubbleId": "e60d55b9-bf19-4b36-a324-a740ae0a2d66",
+        "type": 2
+      },
+      {
+        "bubbleId": "f01ad2d3-f2ab-44ac-846c-91ef54edd897",
+        "type": 2
+      },
+      {
+        "bubbleId": "017c93ff-ce9b-491b-b8d9-b1a6eda66d69",
+        "type": 2,
+        "serverBubbleId": "6527551c-dfc2-4412-ac3a-073e9c90b852"
+      },
+      {
+        "bubbleId": "18cd501c-059c-4a7c-a8a5-70ed3a053919",
+        "type": 2
+      },
+      {
+        "bubbleId": "3c5f4838-5a29-4af3-bc75-17fb0fe2bd88",
+        "type": 2
+      },
+      {
+        "bubbleId": "eb349f6b-916d-491c-b992-22b866895605",
+        "type": 2,
+        "serverBubbleId": "cbf96505-62af-4411-b6a5-13cc1628b596"
+      },
+      {
+        "bubbleId": "6fdd6140-6f66-4421-b3b2-bae5d45bdf05",
+        "type": 2
+      },
+      {
+        "bubbleId": "c5506e91-2c1d-4493-b02b-8471dd6ea469",
+        "type": 2
+      },
+      {
+        "bubbleId": "fb5cd695-4bc4-4eb3-b226-ac03ea9747d2",
+        "type": 2
+      },
+      {
+        "bubbleId": "4718ad02-f3e8-4202-8b8e-83a5e644a1b8",
+        "type": 2,
+        "serverBubbleId": "e9144c0d-cb93-4aec-9eed-8e1039e83c89"
+      },
+      {
+        "bubbleId": "ebb6a4d9-1710-4471-8a19-904165c4b599",
+        "type": 2
+      },
+      {
+        "bubbleId": "c3ce9b3b-85b3-45bc-a955-8725c463b4e2",
+        "type": 1
+      },
+      {
+        "bubbleId": "ec45b7a0-cdaf-4026-82a2-7cdd18234730",
+        "type": 2,
+        "serverBubbleId": "1072c32c-9b90-4668-8ab0-e9b903bc3e2c"
+      },
+      {
+        "bubbleId": "b6f53b36-e4cc-445b-81c6-3ca55c893ce0",
+        "type": 2
+      },
+      {
+        "bubbleId": "55f4884e-e4d1-47d4-ad34-780963e09539",
+        "type": 2
+      },
+      {
+        "bubbleId": "09e3bcc1-3331-4d2e-ab73-ea54ee7c606b",
+        "type": 2
+      },
+      {
+        "bubbleId": "266e317c-9a84-4d03-a73a-fb0342415e46",
+        "type": 2,
+        "serverBubbleId": "9d12021e-f211-4712-afd4-01a5d0cfced1"
+      },
+      {
+        "bubbleId": "431421e9-5916-4d0d-bd91-45d5babb3faf",
+        "type": 2
+      },
+      {
+        "bubbleId": "f948249b-b99b-4102-8661-a51d47adf947",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f008151-0bdd-4536-80fb-fb1a2e2a1ffd",
+        "type": 2
+      },
+      {
+        "bubbleId": "23342002-6029-4491-8395-1b9379854ffb",
+        "type": 2,
+        "serverBubbleId": "2dbb6cef-1631-4c2a-a275-ad084f658e7a"
+      },
+      {
+        "bubbleId": "6e462d20-64d6-4dfa-ba50-150414bd9304",
+        "type": 2
+      },
+      {
+        "bubbleId": "3ee7766d-2d36-4947-b07d-334ad4d1b927",
+        "type": 2
+      },
+      {
+        "bubbleId": "6a7ded81-a6b6-46c2-8398-04ddd3bc2ff9",
+        "type": 2
+      },
+      {
+        "bubbleId": "9e5bd731-df52-4761-a8df-dc0221772054",
+        "type": 2,
+        "serverBubbleId": "19f3dff5-7823-4cef-ad8e-8bc7a1151de4"
+      },
+      {
+        "bubbleId": "b5961539-e789-4a3f-a9e8-227e404f6a0b",
+        "type": 2
+      },
+      {
+        "bubbleId": "6681d55a-e423-4fe6-91d8-35fe3d0f94e3",
+        "type": 2
+      },
+      {
+        "bubbleId": "4a83b611-0945-4e5b-bc56-fa6143e20d23",
+        "type": 2,
+        "serverBubbleId": "ae2453e4-7ba1-4fe6-8aaf-204d8b621d51"
+      },
+      {
+        "bubbleId": "0aa770e1-0d9a-4c36-9332-7a66d5bbb2f5",
+        "type": 2
+      },
+      {
+        "bubbleId": "8d50bd91-c80b-4bf4-bfd0-aa2a027dba29",
+        "type": 1
+      },
+      {
+        "bubbleId": "26875280-cc4f-4507-b371-575fca0cbc98",
+        "type": 2,
+        "serverBubbleId": "2e3a7a73-36ef-42e3-b279-2660b0170d2b"
+      },
+      {
+        "bubbleId": "67b75ae4-14f6-41e9-9c57-a26820426e65",
+        "type": 2
+      },
+      {
+        "bubbleId": "a47c104b-3b18-4a47-a6e2-2b52d4c3ffbb",
+        "type": 2
+      },
+      {
+        "bubbleId": "88801df3-fd3d-465a-9979-67bbea82e56a",
+        "type": 2
+      },
+      {
+        "bubbleId": "b2e309c6-6e4d-40f5-aaec-72a7d4336bea",
+        "type": 2,
+        "serverBubbleId": "98cf62e4-11ee-4fe2-9ce9-3c1185cef317"
+      },
+      {
+        "bubbleId": "45657007-09b9-4b2f-8bf0-d4cad67d93b9",
+        "type": 2
+      },
+      {
+        "bubbleId": "1e1526ba-8eee-46da-a9c7-be4ec8f2eb69",
+        "type": 2
+      },
+      {
+        "bubbleId": "2223e7fc-06f0-4731-834a-4c1f263d0412",
+        "type": 2
+      },
+      {
+        "bubbleId": "ee5501bb-1319-48da-91ac-54c307ed1d9a",
+        "type": 2,
+        "serverBubbleId": "25b826e3-1f98-4d53-a30c-43eeb8d60cf2"
+      },
+      {
+        "bubbleId": "11095ac2-6436-4cb5-98c2-38874f982762",
+        "type": 2
+      },
+      {
+        "bubbleId": "70e44f05-2f6b-4f6b-ade2-e6e572ce2a38",
+        "type": 2
+      },
+      {
+        "bubbleId": "500ca01e-bf2a-4868-8301-a286e64e152c",
+        "type": 2
+      },
+      {
+        "bubbleId": "aeee6796-47ec-4f8f-ac4c-636ec927b899",
+        "type": 2
+      },
+      {
+        "bubbleId": "12666b01-39bc-4c84-a0a1-d381bba84acf",
+        "type": 2,
+        "serverBubbleId": "727db080-27df-4544-8169-1b0308d14989"
+      },
+      {
+        "bubbleId": "fa055614-c52d-491e-ae3f-8e187192964b",
+        "type": 2
+      },
+      {
+        "bubbleId": "bb86fe5e-d8f0-4056-b021-16e4563a756a",
+        "type": 2
+      },
+      {
+        "bubbleId": "41f9b379-305f-4711-ac48-8ddc8af9ed2b",
+        "type": 2
+      },
+      {
+        "bubbleId": "6736c545-8346-470b-8999-d40a7290e3d4",
+        "type": 2
+      },
+      {
+        "bubbleId": "90e07390-4cc1-4ec9-a94b-a2dad40ea07d",
+        "type": 2,
+        "serverBubbleId": "0b54acf7-3e28-4c68-ad56-b501ab11578a"
+      },
+      {
+        "bubbleId": "a05b50ca-16e5-4e9d-aae3-d38b23fcf166",
+        "type": 2
+      },
+      {
+        "bubbleId": "234570c8-1d77-49ab-8313-37d76049640d",
+        "type": 2
+      },
+      {
+        "bubbleId": "0889e57e-909e-4dce-9ac9-7d87d4b1a9ef",
+        "type": 2
+      },
+      {
+        "bubbleId": "8e9e0d87-f284-4d4e-bbdb-ecfdd33f6527",
+        "type": 2
+      },
+      {
+        "bubbleId": "21d8a7ef-c617-4126-a1a5-5aded0df4cef",
+        "type": 2,
+        "serverBubbleId": "981b59a7-bca9-4e1a-80d6-3635e11b6ddc"
+      },
+      {
+        "bubbleId": "cd4d5327-66a7-4c8b-8ac6-58d1928a9f45",
+        "type": 2
+      },
+      {
+        "bubbleId": "b0105ed4-4f76-4970-b6e6-1199fca85a73",
+        "type": 2
+      },
+      {
+        "bubbleId": "5dda2af5-df40-40d9-9fa9-47fbf16259c5",
+        "type": 2
+      },
+      {
+        "bubbleId": "1411d283-9a1e-4a4a-8736-c135452afdbb",
+        "type": 2,
+        "serverBubbleId": "4b8bef88-4491-44c7-9548-6b9164fc1017"
+      },
+      {
+        "bubbleId": "40edbf5e-d597-4cbf-8a46-7bc17b527e3f",
+        "type": 2
+      },
+      {
+        "bubbleId": "84c3a7ba-da53-43d7-9882-b7f061879c70",
+        "type": 2
+      },
+      {
+        "bubbleId": "a26aaf9e-1b21-4a83-b351-98cc936dea54",
+        "type": 2,
+        "serverBubbleId": "d151b874-18c8-47c1-a221-460e4332a5a8"
+      },
+      {
+        "bubbleId": "0055e5be-67ab-48bf-b45a-3555b1d9a4b1",
+        "type": 2
+      },
+      {
+        "bubbleId": "cf9c42d6-67ac-47b2-8cb0-36d722b8fd37",
+        "type": 1
+      },
+      {
+        "bubbleId": "04dec02c-fabb-4092-96bd-50557e4ba37f",
+        "type": 2,
+        "serverBubbleId": "57d76b76-81a1-4067-9a27-23916d81cea6"
+      },
+      {
+        "bubbleId": "ce246f10-768e-425a-9a89-03d9fced04cc",
+        "type": 2
+      },
+      {
+        "bubbleId": "1ce5d580-9a8e-477d-b9e5-013df0480fc9",
+        "type": 2
+      },
+      {
+        "bubbleId": "8fb2189d-c5bd-43b7-aeeb-ff5209736373",
+        "type": 2,
+        "serverBubbleId": "c6f39eb3-9faf-42c1-8a03-2603501823cb"
+      },
+      {
+        "bubbleId": "e402b229-32e2-44bc-8713-ddf1673002f6",
+        "type": 2
+      },
+      {
+        "bubbleId": "a9bfe7d5-896e-49ba-aaea-d2a100832370",
+        "type": 2
+      },
+      {
+        "bubbleId": "35472023-b2f2-4341-8309-ca3f913b081b",
+        "type": 2
+      },
+      {
+        "bubbleId": "7bf4a0e6-a11f-4ade-ae8b-6ee7f26c0c23",
+        "type": 2
+      },
+      {
+        "bubbleId": "98c771c2-d976-44a1-bea8-82ba17d9fa45",
+        "type": 2
+      },
+      {
+        "bubbleId": "6e5329c0-4d18-4267-8d1a-b10b6d5a5baa",
+        "type": 2,
+        "serverBubbleId": "3c887ca9-4aa5-4b77-8f17-665c83bea87b"
+      },
+      {
+        "bubbleId": "47000f2c-7770-4992-8907-746c5bf8173a",
+        "type": 2
+      },
+      {
+        "bubbleId": "f8f41307-e6ba-4817-b504-48f5215e56b9",
+        "type": 2
+      },
+      {
+        "bubbleId": "3ee14c83-dac2-422e-a308-6b108082707d",
+        "type": 2
+      },
+      {
+        "bubbleId": "ed5f16a6-fcb0-4fac-8a6b-2892ba37cc41",
+        "type": 2,
+        "serverBubbleId": "4fcdfd45-f12b-4958-8a73-d6f7b28ba369"
+      },
+      {
+        "bubbleId": "31bcd670-7251-49d5-adc2-890a74f3a031",
+        "type": 2
+      },
+      {
+        "bubbleId": "ca660d7a-9817-4200-91be-8de1c4558a61",
+        "type": 1
+      },
+      {
+        "bubbleId": "086e2ba3-e17e-4ee8-a8cb-89e8c7e08bc6",
+        "type": 2,
+        "serverBubbleId": "1525befc-5e27-432e-9875-99665905971d"
+      },
+      {
+        "bubbleId": "b8b7023f-c211-4742-bc6b-9aca3af2fda8",
+        "type": 2
+      },
+      {
+        "bubbleId": "60a0f286-9282-449e-93d4-beea0be263b2",
+        "type": 2
+      },
+      {
+        "bubbleId": "57e4f30b-fe29-42be-9089-2b4094aee396",
+        "type": 2
+      },
+      {
+        "bubbleId": "92c47c7e-ef42-4af6-8aaf-b6b8df1d9b93",
+        "type": 2,
+        "serverBubbleId": "e1d4edfb-56b8-452f-8407-37e9b6fbffe5"
+      },
+      {
+        "bubbleId": "b89fa5db-e25e-4359-9615-71a144b2f554",
+        "type": 2
+      },
+      {
+        "bubbleId": "15c3689c-dd93-4870-9d2a-02e3f047ae8a",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f0487e5-ae74-4943-9d8f-93b933fcd491",
+        "type": 2
+      },
+      {
+        "bubbleId": "0d369020-c5f5-4131-8bac-1468a9eacd44",
+        "type": 2,
+        "serverBubbleId": "57d89075-8cd2-4ea1-9ddd-d2fb0a5a8d1f"
+      },
+      {
+        "bubbleId": "41fa14c8-0b35-4e44-a2d5-fe38208ca9c7",
+        "type": 2
+      },
+      {
+        "bubbleId": "28f5eac7-9b48-4b21-b3dc-6cd3e3440406",
+        "type": 1
+      },
+      {
+        "bubbleId": "06c81e79-d8e0-4285-8010-07992b1f6d4e",
+        "type": 2,
+        "serverBubbleId": "8baee8ef-359d-4eb7-b8ec-924afa010d16"
+      },
+      {
+        "bubbleId": "a2902a28-e0d7-4c5a-b9c9-c11691a44e6e",
+        "type": 2
+      },
+      {
+        "bubbleId": "1d1c0f8c-a977-4ff7-b354-affbda281409",
+        "type": 2
+      },
+      {
+        "bubbleId": "765f95a7-0bf4-4532-ae84-ecf9df831685",
+        "type": 2
+      },
+      {
+        "bubbleId": "c2d726fe-9d44-4784-b218-1f26514356a0",
+        "type": 2,
+        "serverBubbleId": "515b6668-ff26-4de0-b0a8-13195013a23a"
+      },
+      {
+        "bubbleId": "b1082e62-795a-4d79-b484-12636cb17db8",
+        "type": 2
+      },
+      {
+        "bubbleId": "b121fc8c-c2ed-45ea-abdd-87032282dc42",
+        "type": 2
+      },
+      {
+        "bubbleId": "f24ceae8-a7d5-418d-98e0-a47f14c594c1",
+        "type": 2,
+        "serverBubbleId": "8777064e-7c61-441e-a600-e0d0e805d1d5"
+      },
+      {
+        "bubbleId": "2f0940e2-f89c-44b8-9705-53aeb8140461",
+        "type": 2
+      },
+      {
+        "bubbleId": "20df2dcf-dd17-4382-93dd-ed17ab65755b",
+        "type": 2
+      },
+      {
+        "bubbleId": "1dab36e1-ed7b-4c17-b426-dbaff5f3b0bb",
+        "type": 2
+      },
+      {
+        "bubbleId": "649401fb-df3a-475c-a69a-430a88fed0a5",
+        "type": 2,
+        "serverBubbleId": "9195473c-d6a5-4142-be80-338f67b4c119"
+      },
+      {
+        "bubbleId": "fd7d9a6a-4575-4eba-8d03-9fec2a42d260",
+        "type": 2
+      },
+      {
+        "bubbleId": "03fc6fba-2b6e-4981-8487-0f9471093c17",
+        "type": 1
+      },
+      {
+        "bubbleId": "77950a5c-438c-4e10-b7a6-c04d33e56232",
+        "type": 2,
+        "serverBubbleId": "6caeb8d8-a037-42ca-afd4-ce4034da9f36"
+      },
+      {
+        "bubbleId": "c9d7665e-8583-4e0d-9600-9ca5ab4198a3",
+        "type": 2
+      },
+      {
+        "bubbleId": "344d7498-7865-4391-b154-75468c30dfd7",
+        "type": 2
+      },
+      {
+        "bubbleId": "f6dc2943-629f-4bff-86cf-24f499e0fc18",
+        "type": 2
+      },
+      {
+        "bubbleId": "9b9d9fa8-95db-4662-99e9-36bfc26167de",
+        "type": 2,
+        "serverBubbleId": "e29a416f-59e3-4947-b7c8-89005d6c3c8a"
+      },
+      {
+        "bubbleId": "077da62b-609d-4c2e-b296-13162b009772",
+        "type": 2
+      },
+      {
+        "bubbleId": "6fa97185-a7d8-4db7-a20c-d4fc4ad32f5d",
+        "type": 1
+      },
+      {
+        "bubbleId": "1ac13e77-68fe-4f1a-b020-29aa6f5e0c34",
+        "type": 2,
+        "serverBubbleId": "38c96750-e193-4dd6-bcef-3ac76b1f18c7"
+      },
+      {
+        "bubbleId": "d68de1d8-1778-429a-bd84-e4e559b310a7",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f21d82e-48f2-4d47-87e3-0f642fcef694",
+        "type": 2
+      },
+      {
+        "bubbleId": "51c6f5f7-ab5a-4a8e-bf8a-e8ed8173a062",
+        "type": 2
+      },
+      {
+        "bubbleId": "29334f31-fed6-4a27-b35f-6f1a7011af80",
+        "type": 2
+      },
+      {
+        "bubbleId": "60e912c4-6547-404e-aea5-8d280fd34e67",
+        "type": 2
+      },
+      {
+        "bubbleId": "dc46fa2c-f7a4-4fcb-a73e-5921cba655b1",
+        "type": 2
+      },
+      {
+        "bubbleId": "06cffdd5-5e02-4e1a-871f-06c45fbf92cc",
+        "type": 2
+      },
+      {
+        "bubbleId": "020dd976-eaec-4cb4-a045-47a3e2c179a5",
+        "type": 2
+      },
+      {
+        "bubbleId": "60375409-b40d-40b4-bbb3-6df4a4e28ea4",
+        "type": 2
+      },
+      {
+        "bubbleId": "2d9ac79f-5f27-4827-9c66-317a6ded4038",
+        "type": 2,
+        "serverBubbleId": "5958fac4-f35f-42b6-a968-4861adfd649d"
+      },
+      {
+        "bubbleId": "1c8ad879-fa33-4ce8-a62f-f1a5f8675a8c",
+        "type": 2
+      },
+      {
+        "bubbleId": "07c959c2-9f77-4e9c-b444-2209e0a510eb",
+        "type": 2
+      },
+      {
+        "bubbleId": "f825edf2-fee8-4fae-b084-dcbad3331786",
+        "type": 2
+      },
+      {
+        "bubbleId": "4c4b3d33-a8b5-4b34-8fcb-1083bca9267b",
+        "type": 2
+      },
+      {
+        "bubbleId": "a6e97dd2-b6f7-4611-9183-b9263182ba24",
+        "type": 2,
+        "serverBubbleId": "610d31d6-841e-44ca-8a77-250fdfd47bde"
+      },
+      {
+        "bubbleId": "995692c3-45ae-4694-92ae-88a6937f9ccd",
+        "type": 2
+      },
+      {
+        "bubbleId": "96cbe428-6ea7-4974-910e-1c7d763af945",
+        "type": 2
+      },
+      {
+        "bubbleId": "bc777dd5-e981-45eb-889f-d8d5c29e1ab7",
+        "type": 2
+      },
+      {
+        "bubbleId": "7eb6e736-86e8-431d-a976-39a30ecf7f70",
+        "type": 2
+      },
+      {
+        "bubbleId": "6526a9c1-3d9c-404b-95b3-4b9c27e4fd45",
+        "type": 2,
+        "serverBubbleId": "1e2514f9-b900-4fc2-bbaf-7d103e835631"
+      },
+      {
+        "bubbleId": "943863d6-9432-49ba-b7d1-15be9db2b815",
+        "type": 2
+      },
+      {
+        "bubbleId": "51f535ed-2dc9-43c0-9256-00fbdd1e66d4",
+        "type": 2
+      },
+      {
+        "bubbleId": "331a4d51-5f75-49d8-b847-f0e22a8421e5",
+        "type": 2
+      },
+      {
+        "bubbleId": "625e95ae-52d0-45a0-99e8-685cfd2f1f32",
+        "type": 2,
+        "serverBubbleId": "64775ee8-9ed1-4927-bb97-c52606a86c9a"
+      },
+      {
+        "bubbleId": "d8b8c539-28d9-49de-b6bd-78350162547d",
+        "type": 2
+      },
+      {
+        "bubbleId": "d30723b0-0d3f-4fcf-82d8-0b823c10c9ce",
+        "type": 1
+      },
+      {
+        "bubbleId": "4c72405f-da58-4443-bce1-2dc45f42ef59",
+        "type": 2,
+        "serverBubbleId": "80116c6c-3d25-4411-a27b-2824d5165769"
+      },
+      {
+        "bubbleId": "19385f0c-986b-4478-b696-ad0345dbb848",
+        "type": 2
+      },
+      {
+        "bubbleId": "d1cd928a-0092-45ca-926c-7f460b817fa9",
+        "type": 2
+      },
+      {
+        "bubbleId": "03734d10-418d-45df-bc60-266c9ed37401",
+        "type": 2
+      },
+      {
+        "bubbleId": "638293db-8bf1-4087-a105-6536daa5e042",
+        "type": 2,
+        "serverBubbleId": "7f06d0ae-c359-4aae-96b9-fc0c4cf04769"
+      },
+      {
+        "bubbleId": "4280c650-a786-49c0-a1a5-e80bdbee3c1e",
+        "type": 2
+      },
+      {
+        "bubbleId": "2de419d4-3dc1-4772-b16c-c65383c78b3c",
+        "type": 2
+      },
+      {
+        "bubbleId": "4b3767d5-5147-4161-9d19-3e3c7719d8f0",
+        "type": 2
+      },
+      {
+        "bubbleId": "7ae4cd4f-563d-4e55-91c2-cd02da344f6f",
+        "type": 2,
+        "serverBubbleId": "0c379b7d-dc82-4692-9427-957e412c813a"
+      },
+      {
+        "bubbleId": "0dc0c903-b4ef-4bbe-93ef-5dac728b7ae4",
+        "type": 2
+      },
+      {
+        "bubbleId": "b0548960-58f2-4209-bb9b-4da0c0256c80",
+        "type": 1
+      },
+      {
+        "bubbleId": "a33ca5f0-176c-43c7-a8ae-57bf647ba585",
+        "type": 2,
+        "serverBubbleId": "b286f59c-14a9-44bc-94f4-606e14a533ac"
+      },
+      {
+        "bubbleId": "a5c19cce-bab7-432c-984f-b97cb49fc91f",
+        "type": 2
+      },
+      {
+        "bubbleId": "7d050d4f-4b61-420a-b162-d81d07adba81",
+        "type": 2
+      },
+      {
+        "bubbleId": "025a2123-ccb0-49e9-ade6-af89a7e615f4",
+        "type": 2
+      },
+      {
+        "bubbleId": "e88595b8-9108-4b1d-88f1-6fb55f211c20",
+        "type": 2,
+        "serverBubbleId": "43fb0922-d1f4-4846-8606-96cabc18b393"
+      },
+      {
+        "bubbleId": "03b7e45b-b13b-410c-99ce-ac5172d4ec99",
+        "type": 2
+      },
+      {
+        "bubbleId": "02fe54f0-d240-42f6-b3c1-c5c28bd6583b",
+        "type": 1
+      },
+      {
+        "bubbleId": "01cd3764-3e46-437f-8345-df92d2acfde4",
+        "type": 2,
+        "serverBubbleId": "33d490e9-8926-4799-8c42-468f6e003665"
+      },
+      {
+        "bubbleId": "f18c41db-cd2f-4fdc-8aa3-b7f93b8aa059",
+        "type": 2
+      },
+      {
+        "bubbleId": "38525635-6cda-45fc-b72d-3e41d6c0f8be",
+        "type": 2
+      },
+      {
+        "bubbleId": "4c5e6860-c377-4696-9082-cdf05499169a",
+        "type": 2
+      },
+      {
+        "bubbleId": "5e8e541d-fbd8-4b22-9f14-d6573edd8007",
+        "type": 2,
+        "serverBubbleId": "523cfff4-5f4a-4adc-8f9f-d7fb252188ff"
+      },
+      {
+        "bubbleId": "f5406a64-3c70-4e46-8c27-da507429d62e",
+        "type": 2
+      },
+      {
+        "bubbleId": "e5e464c8-200b-477f-af8d-5084df2a571c",
+        "type": 1
+      },
+      {
+        "bubbleId": "d4ebf027-5a07-4fe0-bf40-5da6fc4ad9a9",
+        "type": 2,
+        "serverBubbleId": "c32d601a-2261-4f9c-95ab-e22a084ae264"
+      },
+      {
+        "bubbleId": "3253e1d2-1277-478f-b04e-47780ac5fa7e",
+        "type": 2
+      },
+      {
+        "bubbleId": "623b55fe-3514-44bf-ad3c-1b1aa647324f",
+        "type": 2
+      },
+      {
+        "bubbleId": "85f61253-3e07-4bf5-8e3c-eec6d5ab19f7",
+        "type": 2,
+        "serverBubbleId": "fe0e650f-1b0d-4676-a5cb-a8e6c151f101"
+      },
+      {
+        "bubbleId": "d039033d-fd9b-417c-a83e-87af4a05c38c",
+        "type": 2
+      },
+      {
+        "bubbleId": "4544865f-be4f-447f-9789-d4b8bd0ab6c0",
+        "type": 1
+      },
+      {
+        "bubbleId": "1ed73bc6-e5f0-4d2d-be31-c1e7894af9a1",
+        "type": 2,
+        "serverBubbleId": "7cbb57e8-8e3a-412d-989f-a2ff9771e49e"
+      },
+      {
+        "bubbleId": "df2a1b98-4436-4115-a245-39ae8cb650e6",
+        "type": 2
+      },
+      {
+        "bubbleId": "fefbfcf8-ee8a-482e-8d01-95df9f6228af",
+        "type": 2
+      },
+      {
+        "bubbleId": "5ae5057d-51d2-4155-ac7f-ae52b37f5ef1",
+        "type": 2,
+        "serverBubbleId": "4367cc25-990a-4d14-8de9-66045276c341"
+      },
+      {
+        "bubbleId": "a7aaa482-4ee9-47ae-81a3-59e5ca277982",
+        "type": 2
+      },
+      {
+        "bubbleId": "20aa5850-c26f-43c5-994f-4f9937cd8783",
+        "type": 1
+      },
+      {
+        "bubbleId": "8d06621d-88a2-4f73-bf0f-23b577598846",
+        "type": 2,
+        "serverBubbleId": "abed17f2-5058-476c-be05-9189e542986e"
+      },
+      {
+        "bubbleId": "20ba8667-9a7b-4a46-9d4c-2261658df7e9",
+        "type": 2
+      },
+      {
+        "bubbleId": "29230ecf-6ef7-4839-8ae0-3dceea5e6817",
+        "type": 1
+      },
+      {
+        "bubbleId": "fe8562db-1447-4e06-ad2c-9eeb221d64b9",
+        "type": 2,
+        "serverBubbleId": "5a5654ad-9001-4e67-9eae-10c0a2bdaffb"
+      },
+      {
+        "bubbleId": "1f8e0f3f-cd70-4119-9c97-40173f2d029e",
+        "type": 2
+      },
+      {
+        "bubbleId": "238cda1c-63da-4a8b-95d2-0645bb112ea4",
+        "type": 1
+      },
+      {
+        "bubbleId": "9bfd71e5-a262-4ec6-bc42-c79a16f42ade",
+        "type": 2,
+        "serverBubbleId": "3f271310-70c9-4f78-8df1-9380d361d283"
+      },
+      {
+        "bubbleId": "c60e467f-8c11-431e-9c9c-5adc57bca512",
+        "type": 2
+      },
+      {
+        "bubbleId": "621d0e2f-2e0f-4910-9ceb-c2499d2e3b4e",
+        "type": 1
+      },
+      {
+        "bubbleId": "964f93a8-f952-4612-87a2-522bfb0a5688",
+        "type": 2,
+        "serverBubbleId": "b7268c68-b8e5-4322-8d71-211c0b631f90"
+      },
+      {
+        "bubbleId": "44a48f63-9427-4c2f-9eac-cc6e398a7995",
+        "type": 2
+      },
+      {
+        "bubbleId": "a9d2e157-fcf2-4056-a35a-47a6704b573e",
+        "type": 2
+      },
+      {
+        "bubbleId": "cbd6fa23-b3db-4f67-b9e9-1bb0c3cb4670",
+        "type": 2
+      },
+      {
+        "bubbleId": "32f4a8e9-d755-41d4-88f2-1d3f902aa614",
+        "type": 2,
+        "serverBubbleId": "eb124228-2fa2-4123-9903-29015124ef5a"
+      },
+      {
+        "bubbleId": "84bbd467-b538-417b-9dad-209f5a6aefed",
+        "type": 2
+      },
+      {
+        "bubbleId": "2e57681b-b076-4b29-9578-0f133c3563aa",
+        "type": 2
+      },
+      {
+        "bubbleId": "18fb3761-da8d-46b1-9da8-f78b3facad01",
+        "type": 2,
+        "serverBubbleId": "e3d25fe7-d865-4d66-ab09-18fdc1f812f7"
+      },
+      {
+        "bubbleId": "0dcb70fd-1949-40d1-8252-49f1b9347e9b",
+        "type": 2
+      },
+      {
+        "bubbleId": "4034bfa3-0720-44d6-8eb9-cc35bfec6701",
+        "type": 1
+      },
+      {
+        "bubbleId": "05e0c028-d914-400b-b311-0363991af06f",
+        "type": 2,
+        "serverBubbleId": "52d21eab-9e70-4227-854d-9bfa5a920a61"
+      },
+      {
+        "bubbleId": "589fc956-4d1d-4014-a1e3-3f95738f385a",
+        "type": 2
+      },
+      {
+        "bubbleId": "20ddf22f-e855-4c6d-8275-1753fcf8b170",
+        "type": 1
+      },
+      {
+        "bubbleId": "a5be5f1b-a440-49b4-ab6b-a7f5f36b662b",
+        "type": 2,
+        "serverBubbleId": "a9f1bec4-67f2-4ef5-a0d9-018cdfda2675"
+      },
+      {
+        "bubbleId": "12291cd1-a181-4c19-ae94-634805885619",
+        "type": 2
+      },
+      {
+        "bubbleId": "8dac02d0-86cb-4c6d-b66f-3e8b74697d89",
+        "type": 1
+      },
+      {
+        "bubbleId": "e9da842e-b20e-490f-bb85-f623de67a93b",
+        "type": 2,
+        "serverBubbleId": "db69723b-c3e7-4c3e-9f48-03a2ef582fb8"
+      },
+      {
+        "bubbleId": "69eebb4a-6cf6-423f-8af4-307b089d908a",
+        "type": 2
+      },
+      {
+        "bubbleId": "291189a3-7951-437c-8f0b-3008161457fb",
+        "type": 1
+      },
+      {
+        "bubbleId": "1bd4c0e0-f54d-44be-88e7-27199a3916f4",
+        "type": 2,
+        "serverBubbleId": "ee263edc-ca32-4ea4-a096-3dd1b46da194"
+      },
+      {
+        "bubbleId": "c933215a-bf77-42b8-bd7f-bd3c0f3b1bb5",
+        "type": 2
+      },
+      {
+        "bubbleId": "7d47c864-76a1-4f20-bb04-d70a5c2db076",
+        "type": 1
+      },
+      {
+        "bubbleId": "9462e7e8-4061-44ca-a3ec-095f37aace11",
+        "type": 2,
+        "serverBubbleId": "c4dc0438-d758-4013-95d2-cab778a1ee7b"
+      },
+      {
+        "bubbleId": "e5fe2fd9-fc0a-46ab-871a-b064acc375e0",
+        "type": 2
+      },
+      {
+        "bubbleId": "0a943149-bd8c-4b45-a937-401bff32c5e5",
+        "type": 1
+      },
+      {
+        "bubbleId": "1e158d3b-86a1-4ea6-badc-82583ffecd6f",
+        "type": 2,
+        "serverBubbleId": "02e16c81-e8e0-47c0-ae0d-5b51720b5ae2"
+      },
+      {
+        "bubbleId": "b12ddcdd-257f-44ae-a7b2-0de252ce0479",
+        "type": 2
+      },
+      {
+        "bubbleId": "e74bc78e-7287-4c05-bded-6453e9ae37f7",
+        "type": 1
+      },
+      {
+        "bubbleId": "c37d4ec5-a312-453c-adbd-4ae224a3e843",
+        "type": 2,
+        "serverBubbleId": "c31ca0f7-6570-44dd-a467-0e774008535c"
+      },
+      {
+        "bubbleId": "52ecbcf9-ea1a-4fb2-bb66-f422845db52e",
+        "type": 2
+      },
+      {
+        "bubbleId": "9fe55495-f9c4-40a6-a5ea-b11cefdd918b",
+        "type": 1
+      },
+      {
+        "bubbleId": "f7561091-1c26-4807-984e-6240bc12ab84",
+        "type": 2,
+        "serverBubbleId": "ddbeb1bf-37cb-414a-b985-56d1d0721439"
+      },
+      {
+        "bubbleId": "58561838-368f-42aa-9a30-6943862f9719",
+        "type": 2
+      },
+      {
+        "bubbleId": "f9869c9b-7c12-43ea-9317-2d8822b5188b",
+        "type": 1
+      },
+      {
+        "bubbleId": "f99bd25f-2f33-4f5b-96ff-d364ff28acac",
+        "type": 2,
+        "serverBubbleId": "ba814036-8c4a-473d-8160-239155771f93"
+      },
+      {
+        "bubbleId": "1b7d7a27-d6c2-422c-a6c8-31eb6e83297f",
+        "type": 2
+      },
+      {
+        "bubbleId": "ff5d374e-365b-49a6-9e5c-0fa679172b00",
+        "type": 1
+      },
+      {
+        "bubbleId": "5fbafa8b-cc5b-42a3-9b4c-55a673e5022f",
+        "type": 2,
+        "serverBubbleId": "f613ba84-3733-4696-a3ee-23eedebf2a83"
+      },
+      {
+        "bubbleId": "257edfdd-4ab4-43fb-a895-0b179034ef18",
+        "type": 2
+      },
+      {
+        "bubbleId": "fdc8a948-cc1b-438e-aa7e-05ca9a7889eb",
+        "type": 1
+      },
+      {
+        "bubbleId": "2a47d238-c428-4f1a-86a5-25253e3cfbbe",
+        "type": 2,
+        "serverBubbleId": "0d8534c7-d8c5-4892-a5d3-9726110f9908"
+      },
+      {
+        "bubbleId": "61ec302f-ad02-4fe9-8520-b4df43c4b477",
+        "type": 2
+      },
+      {
+        "bubbleId": "877560f8-9d0f-4e20-b20b-ffe0f3ff40ba",
+        "type": 2
+      },
+      {
+        "bubbleId": "4f515559-a5ca-41b8-b312-d53cd418f013",
+        "type": 2,
+        "serverBubbleId": "3ec1a014-ac13-491a-8d0b-287adc4e1b98"
+      },
+      {
+        "bubbleId": "adfe30fe-47ed-40d6-9795-4831d59889d3",
+        "type": 2
+      },
+      {
+        "bubbleId": "79eaa05d-3f1b-4611-9939-47d86198a78b",
+        "type": 2
+      },
+      {
+        "bubbleId": "fee08fcb-e45c-43a2-8046-a54a364fd06f",
+        "type": 2,
+        "serverBubbleId": "91673c41-1a63-4a1e-85a1-b52ac3774f96"
+      },
+      {
+        "bubbleId": "bf83a1ed-c5d2-4ec2-a70d-99e61f5deffb",
+        "type": 2
+      },
+      {
+        "bubbleId": "de315f09-d75f-4694-b52a-e6b79a901d3a",
+        "type": 1
+      },
+      {
+        "bubbleId": "f42abf11-72c7-4497-b0b0-8d2e29d218d3",
+        "type": 2,
+        "serverBubbleId": "d16a57d9-c724-406a-9cc9-bf8f2df34b94"
+      },
+      {
+        "bubbleId": "d96817a1-76e9-4b8f-b6b5-8d3badc4e30a",
+        "type": 2
+      },
+      {
+        "bubbleId": "d54969f5-2399-48b9-a4b3-7d2d4a705836",
+        "type": 2
+      },
+      {
+        "bubbleId": "eaa6050a-c7b8-4988-9e4d-6cdb95a6a1b5",
+        "type": 2,
+        "serverBubbleId": "e4df71ee-af43-4ca8-bf2e-7f5d8a439f15"
+      },
+      {
+        "bubbleId": "48b1c1b6-6da7-4bd5-8d3e-f4c3da86513b",
+        "type": 2
+      },
+      {
+        "bubbleId": "95a90228-18ad-466a-acc7-307db44a2b5f",
+        "type": 1
+      },
+      {
+        "bubbleId": "bd764bbd-51e1-496d-999c-6684aa7d10dd",
+        "type": 2,
+        "serverBubbleId": "a8f9b87c-f5b2-4ce0-963f-58c3302f938b"
+      },
+      {
+        "bubbleId": "9d59586c-9f8e-4670-ab58-9eca17935cc1",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "completed",
+    "context": {
+      "composers": [],
+      "quotes": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "gitPRDiffSelections": [],
+      "mentions": {
+        "composers": {},
+        "quotes": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "useWeb": [],
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {},
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "useLinterErrors": [],
+        "useDiffReview": [],
+        "useGenerateRules": [],
+        "useContextPicking": [],
+        "useRememberThis": [],
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "autoContext": [],
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {}
+      },
+      "ideEditorsState": true
+    },
+    "gitGraphFileSuggestions": [],
+    "generatingBubbleIds": [],
+    "isReadingLongFile": false,
+    "codeBlockData": {
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk": {
+        "cdc9717d-0655-4660-bcb3-2756aae0f3c6": {
+          "_v": 3,
+          "bubbleId": "b36e6a35-3e8e-46e7-b5b9-62017c0544be",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "cdc9717d-0655-4660-bcb3-2756aae0f3c6",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768913229039,
+          "composerChatGenerationUuid": "3841e8d5-084b-484e-9c3c-0bdb69097e57",
+          "diffId": "5f476543-43d7-4feb-9c8d-12de20f8cacc",
+          "lastDiffId": "6fcfada0-2a5e-4466-8a6a-5b72daa3ae39",
+          "lastAppliedAt": 1768913234657
+        },
+        "4f5d85e3-d90f-46a7-aaa8-25becbc2df6e": {
+          "_v": 3,
+          "bubbleId": "f948249b-b99b-4102-8661-a51d47adf947",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "4f5d85e3-d90f-46a7-aaa8-25becbc2df6e",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "cdc9717d-0655-4660-bcb3-2756aae0f3c6",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768914103789,
+          "composerChatGenerationUuid": "9df0cfc5-b0a3-4d0f-950f-dd5e7db7e43b",
+          "diffId": "83f2865e-4fee-41c5-a0fe-0e3002aeb21a",
+          "lastDiffId": "83cc8934-c422-4e31-8b4c-93b85d519696",
+          "lastAppliedAt": 1768914111514
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md": {
+        "0fe0646f-c536-46ac-9271-45b5203861de": {
+          "_v": 3,
+          "bubbleId": "f76814a8-8b39-403c-9d39-016649d37913",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\CURSOR_AUTO_ACCEPT_README.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
+            "path": "/c:/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
+            "scheme": "file"
+          },
+          "codeblockId": "0fe0646f-c536-46ac-9271-45b5203861de",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768913235032,
+          "composerChatGenerationUuid": "3841e8d5-084b-484e-9c3c-0bdb69097e57",
+          "diffId": "3496ef1d-5ef7-4995-85ce-b4032d313ef8",
+          "lastDiffId": "a56e7814-75b3-4847-84a4-05412f70aab3",
+          "lastAppliedAt": 1768913237787
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/start_cursor_auto_accept.bat": {
+        "b2a93e1a-5e35-4075-8516-22ef4d852349": {
+          "_v": 3,
+          "bubbleId": "ffa3ca46-07d9-484d-b0e8-9a03fb155eaa",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\start_cursor_auto_accept.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/start_cursor_auto_accept.bat",
+            "path": "/c:/Users/pc/Desktop/start_cursor_auto_accept.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "b2a93e1a-5e35-4075-8516-22ef4d852349",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768913239322,
+          "composerChatGenerationUuid": "3841e8d5-084b-484e-9c3c-0bdb69097e57",
+          "diffId": "c106f6fa-0329-4196-8657-c94d29f20f2e",
+          "lastDiffId": "2c6c7f99-15be-4c99-92be-cb67e76724d4",
+          "lastAppliedAt": 1768913240738
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1": {
+        "4f455628-a513-40b1-8c0b-870312a06e2a": {
+          "_v": 3,
+          "bubbleId": "a21a37e6-e785-402b-aaa3-8be454a68146",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\install_autohotkey.ps1",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1",
+            "path": "/c:/Users/pc/Desktop/install_autohotkey.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "4f455628-a513-40b1-8c0b-870312a06e2a",
+          "status": "completed",
+          "languageId": "powershell",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768913242382,
+          "composerChatGenerationUuid": "3841e8d5-084b-484e-9c3c-0bdb69097e57",
+          "diffId": "2c8b9cbc-a3dd-45be-84bb-ad817e9eca6b",
+          "lastDiffId": "15231920-4255-4a37-95f4-84699f880beb",
+          "lastAppliedAt": 1768913244833
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/test_cursor_detection.ahk": {
+        "ffd26b58-10dc-4270-b785-84b39a589b5b": {
+          "_v": 3,
+          "bubbleId": "9f008151-0bdd-4536-80fb-fb1a2e2a1ffd",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\test_cursor_detection.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/test_cursor_detection.ahk",
+            "path": "/c:/Users/pc/Desktop/test_cursor_detection.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "ffd26b58-10dc-4270-b785-84b39a589b5b",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768914112154,
+          "composerChatGenerationUuid": "9df0cfc5-b0a3-4d0f-950f-dd5e7db7e43b",
+          "diffId": "e53a1a9e-dcec-4c27-a951-1ed7b95d6e4d",
+          "lastDiffId": "2a3beddd-a382-49b3-ba89-5d03c633a62a",
+          "lastAppliedAt": 1768914113187
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/test_and_start.bat": {
+        "b9180d14-5a0e-402e-a4ad-0deaaeb777f9": {
+          "_v": 3,
+          "bubbleId": "3ee7766d-2d36-4947-b07d-334ad4d1b927",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\test_and_start.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/test_and_start.bat",
+            "path": "/c:/Users/pc/Desktop/test_and_start.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "b9180d14-5a0e-402e-a4ad-0deaaeb777f9",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768914114369,
+          "composerChatGenerationUuid": "9df0cfc5-b0a3-4d0f-950f-dd5e7db7e43b",
+          "diffId": "1603cf50-8035-4bf0-bc38-8dc0a2e421dd",
+          "lastDiffId": "522b744c-ca15-4082-a6eb-0c77212adc64",
+          "lastAppliedAt": 1768914116022
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2.ahk": {
+        "cae83131-a438-4029-97ad-422a7e85033b": {
+          "_v": 3,
+          "bubbleId": "2223e7fc-06f0-4731-834a-4c1f263d0412",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "cae83131-a438-4029-97ad-422a7e85033b",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768914561603,
+          "composerChatGenerationUuid": "db81dc60-1961-49ec-9472-f510cc1ce990",
+          "diffId": "8b95b277-d476-4350-a375-532379e316eb",
+          "lastDiffId": "b7de35c2-47f2-4bc1-a44e-cbcfbeedf565",
+          "lastAppliedAt": 1768914566370
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_simple.ahk": {
+        "1ffc7a42-b196-4bf1-a125-a56b042f626b": {
+          "_v": 3,
+          "bubbleId": "aeee6796-47ec-4f8f-ac4c-636ec927b899",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_simple.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_simple.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_simple.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "1ffc7a42-b196-4bf1-a125-a56b042f626b",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768914576579,
+          "composerChatGenerationUuid": "db81dc60-1961-49ec-9472-f510cc1ce990",
+          "diffId": "115d71d1-d388-4863-88eb-1d008a662aa3",
+          "lastDiffId": "50c3db15-d280-4033-82e9-c8605e6b6d3c",
+          "lastAppliedAt": 1768914578840
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/start_simple_script.bat": {
+        "f48232fa-9fe7-41aa-bb5f-9fceb9baa203": {
+          "_v": 3,
+          "bubbleId": "6736c545-8346-470b-8999-d40a7290e3d4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\start_simple_script.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/start_simple_script.bat",
+            "path": "/c:/Users/pc/Desktop/start_simple_script.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "f48232fa-9fe7-41aa-bb5f-9fceb9baa203",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768914589175,
+          "composerChatGenerationUuid": "db81dc60-1961-49ec-9472-f510cc1ce990",
+          "diffId": "311d40bf-8a63-49c0-8dbf-b931a22af9be",
+          "lastDiffId": "56dd044b-07bc-4676-8aed-aec2fbd24450",
+          "lastAppliedAt": 1768914592000
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk": {
+        "7bffe505-d442-4b40-b02c-fae181d1d5f4": {
+          "_v": 3,
+          "bubbleId": "b0105ed4-4f76-4970-b6e6-1199fca85a73",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "7bffe505-d442-4b40-b02c-fae181d1d5f4",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768914600342,
+          "composerChatGenerationUuid": "db81dc60-1961-49ec-9472-f510cc1ce990",
+          "diffId": "9024966b-f697-4fbf-9048-87cf70a194e4",
+          "lastDiffId": "68bb8760-c31a-406a-ae6e-3b364e9cb461",
+          "lastAppliedAt": 1768914612729
+        },
+        "334d3d3a-4126-4e6e-a808-41cc86c6afb0": {
+          "_v": 3,
+          "bubbleId": "a9bfe7d5-896e-49ba-aaea-d2a100832370",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "334d3d3a-4126-4e6e-a808-41cc86c6afb0",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "7bffe505-d442-4b40-b02c-fae181d1d5f4",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916490675,
+          "composerChatGenerationUuid": "4a7a29e0-9379-4719-938d-5f2e0b488788",
+          "diffId": "b78be0ce-07fb-4b0d-bad2-725a329412df",
+          "lastDiffId": "a422b919-f2fd-4dc2-b7da-1f30c86f16da",
+          "lastAppliedAt": 1768916491487
+        },
+        "90925e69-a13a-40b9-9348-d0f9e0a17a33": {
+          "_v": 3,
+          "bubbleId": "35472023-b2f2-4341-8309-ca3f913b081b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "90925e69-a13a-40b9-9348-d0f9e0a17a33",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "334d3d3a-4126-4e6e-a808-41cc86c6afb0",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916491995,
+          "composerChatGenerationUuid": "4a7a29e0-9379-4719-938d-5f2e0b488788",
+          "diffId": "7e0dbd9e-9c91-44ae-98f6-b91b341824fa",
+          "lastDiffId": "befbb69c-c0b8-4aa3-8c0e-d87354945e19",
+          "lastAppliedAt": 1768916492849
+        },
+        "d4547589-08a5-43d0-b239-812a7b881efa": {
+          "_v": 3,
+          "bubbleId": "7bf4a0e6-a11f-4ade-ae8b-6ee7f26c0c23",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "d4547589-08a5-43d0-b239-812a7b881efa",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "90925e69-a13a-40b9-9348-d0f9e0a17a33",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916493292,
+          "composerChatGenerationUuid": "4a7a29e0-9379-4719-938d-5f2e0b488788",
+          "diffId": "25f3b10e-d89b-4eb7-85ac-c8729454258c",
+          "lastDiffId": "18ab6d96-8935-4ac1-9a27-16ba576a236e",
+          "lastAppliedAt": 1768916494049
+        },
+        "a85bdd4a-e8f9-4190-80ca-e401522f450c": {
+          "_v": 3,
+          "bubbleId": "98c771c2-d976-44a1-bea8-82ba17d9fa45",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "a85bdd4a-e8f9-4190-80ca-e401522f450c",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "d4547589-08a5-43d0-b239-812a7b881efa",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916494546,
+          "composerChatGenerationUuid": "4a7a29e0-9379-4719-938d-5f2e0b488788",
+          "diffId": "54aaa9b0-7ca4-44c6-b7a6-3ad90f20be4e",
+          "lastDiffId": "54674143-f0d2-479d-88bb-3006e134b9ad",
+          "lastAppliedAt": 1768916495978
+        },
+        "9a965fe0-f9c9-4831-b6e6-a89513c0b4c5": {
+          "_v": 3,
+          "bubbleId": "57e4f30b-fe29-42be-9089-2b4094aee396",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+            "scheme": "file"
+          },
+          "codeblockId": "9a965fe0-f9c9-4831-b6e6-a89513c0b4c5",
+          "status": "completed",
+          "languageId": "plaintext",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "a85bdd4a-e8f9-4190-80ca-e401522f450c",
+            "composerId": "bedbc2a3-6db6-4e15-8f64-cd2294495832"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916535438,
+          "composerChatGenerationUuid": "6d84d42c-68bf-4be4-8750-d12ef787b318",
+          "diffId": "f485a201-593d-4472-a774-28a5d4cee52a",
+          "lastDiffId": "a4fc5b20-67cf-44dd-9da4-53ce5c3a68b1",
+          "lastAppliedAt": 1768916537508
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/START_HERE.bat": {
+        "3b1f0662-9a15-4346-b096-5359dd9d5c32": {
+          "_v": 3,
+          "bubbleId": "5dda2af5-df40-40d9-9fa9-47fbf16259c5",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\START_HERE.bat",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/START_HERE.bat",
+            "path": "/c:/Users/pc/Desktop/START_HERE.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "3b1f0662-9a15-4346-b096-5359dd9d5c32",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768914616685,
+          "composerChatGenerationUuid": "db81dc60-1961-49ec-9472-f510cc1ce990",
+          "diffId": "65bba7ba-94c3-41ca-8f20-824787ace0f4",
+          "lastDiffId": "def8e0a3-2a6a-4dd6-995f-78f013acf8a4",
+          "lastAppliedAt": 1768914618726
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_DOCTYPE_FIXED.py": {
+        "ce1eca13-4d6f-4b79-88d8-5dc956a9b843": {
+          "_v": 3,
+          "bubbleId": "1dab36e1-ed7b-4c17-b426-dbaff5f3b0bb",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\INSTALL_PART1_DOCTYPE_FIXED.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_DOCTYPE_FIXED.py",
+            "path": "/c:/Users/pc/Desktop/INSTALL_PART1_DOCTYPE_FIXED.py",
+            "scheme": "file"
+          },
+          "codeblockId": "ce1eca13-4d6f-4b79-88d8-5dc956a9b843",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768916879360,
+          "composerChatGenerationUuid": "e9f6c11f-4490-45f1-805b-fe3bc40baef4",
+          "diffId": "66754fe8-a3f8-4321-8947-9b657b9cf5aa",
+          "lastDiffId": "79e82bcf-ccaf-4870-a0b0-6df7392b7f66",
+          "lastAppliedAt": 1768916883459
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_IPYTHON.py": {
+        "64162502-445f-4d69-8c4b-7b102feea2b0": {
+          "_v": 3,
+          "bubbleId": "344d7498-7865-4391-b154-75468c30dfd7",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\INSTALL_PART1_IPYTHON.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_IPYTHON.py",
+            "path": "/c:/Users/pc/Desktop/INSTALL_PART1_IPYTHON.py",
+            "scheme": "file"
+          },
+          "codeblockId": "64162502-445f-4d69-8c4b-7b102feea2b0",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768917048850,
+          "composerChatGenerationUuid": "37006cc5-5db3-47cc-8ae6-1137100d7cc4",
+          "diffId": "767349fe-f97e-4996-99ac-1ac4574cdc96",
+          "lastDiffId": "d186b556-1277-45d8-9cd9-1c1a009eddc3",
+          "lastAppliedAt": 1768917052452
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_EXEC_FIXED.py": {
+        "03fbcdd1-044f-4a45-8b18-4b88e4077787": {
+          "_v": 3,
+          "bubbleId": "f6dc2943-629f-4bff-86cf-24f499e0fc18",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\INSTALL_PART1_EXEC_FIXED.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_EXEC_FIXED.py",
+            "path": "/c:/Users/pc/Desktop/INSTALL_PART1_EXEC_FIXED.py",
+            "scheme": "file"
+          },
+          "codeblockId": "03fbcdd1-044f-4a45-8b18-4b88e4077787",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1768917052880,
+          "composerChatGenerationUuid": "37006cc5-5db3-47cc-8ae6-1137100d7cc4",
+          "diffId": "49c05b76-31d2-4aea-950a-15531cdd0a4a",
+          "lastDiffId": "a77db0d1-b6fa-4f7d-8a26-14c300723a76",
+          "lastAppliedAt": 1768917054784
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/README.md": {
+        "33cdeb66-141a-4c72-9627-1d417356b5cb": {
+          "_v": 3,
+          "bubbleId": "bc777dd5-e981-45eb-889f-d8d5c29e1ab7",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\Cursor_AutoAccept\\README.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/README.md",
+            "path": "/c:/Users/pc/Desktop/Cursor_AutoAccept/README.md",
+            "scheme": "file"
+          },
+          "codeblockId": "33cdeb66-141a-4c72-9627-1d417356b5cb",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769147816245,
+          "composerChatGenerationUuid": "476b1e87-af65-451e-9505-a196122e3d08",
+          "diffId": "dda0e2fe-9ad3-4017-9ba5-d07e8dd0ac98",
+          "lastDiffId": "888dda1b-39d9-4871-83d5-19b8712e0f95",
+          "lastAppliedAt": 1769147819351
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt": {
+        "e083a903-d9b1-498f-a2aa-520ab0cb7c73": {
+          "_v": 3,
+          "bubbleId": "51f535ed-2dc9-43c0-9256-00fbdd1e66d4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\Cursor_AutoAccept\\QUICK_START.txt",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
+            "path": "/c:/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "e083a903-d9b1-498f-a2aa-520ab0cb7c73",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769147821129,
+          "composerChatGenerationUuid": "476b1e87-af65-451e-9505-a196122e3d08",
+          "diffId": "97e347ba-00bb-4113-aa8f-9f82e7cbb212",
+          "lastDiffId": "c4633c37-81b9-45f5-bf8d-9119b85f03f2",
+          "lastAppliedAt": 1769147822802
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py": {
+        "dfe89d31-58af-4182-9c9c-67fbcf71b874": {
+          "_v": 3,
+          "bubbleId": "4b3767d5-5147-4161-9d19-3e3c7719d8f0",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\UNCANCEL_DOCUMENT.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py",
+            "scheme": "file"
+          },
+          "codeblockId": "dfe89d31-58af-4182-9c9c-67fbcf71b874",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769172420675,
+          "composerChatGenerationUuid": "758bb23e-d465-4301-8bb5-ae093d356e5c",
+          "diffId": "16a4d023-0157-46ba-9134-ea53c98ed425",
+          "lastDiffId": "5578c8bc-7275-498a-953f-853ebddfe351",
+          "lastAppliedAt": 1769172425532
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/WORKFLOW_GUIDE.md": {
+        "bb94c941-45f2-47ec-be67-85fe8589c8f8": {
+          "_v": 3,
+          "bubbleId": "025a2123-ccb0-49e9-ade6-af89a7e615f4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\WORKFLOW_GUIDE.md",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/WORKFLOW_GUIDE.md",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/WORKFLOW_GUIDE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "bb94c941-45f2-47ec-be67-85fe8589c8f8",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769172559586,
+          "composerChatGenerationUuid": "0e6df45d-a9ce-463a-a23a-b97dc8ce10d2",
+          "diffId": "ce46a6e5-7ae0-44e3-b740-d340917c2ac6",
+          "lastDiffId": "fdef4c19-8135-465c-b321-465f5313d574",
+          "lastAppliedAt": 1769172566587
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDIT_AFTER_SUBMIT_DIRECT.py": {
+        "284a8165-f66c-4734-af1b-ecd34b37b59a": {
+          "_v": 3,
+          "bubbleId": "4c5e6860-c377-4696-9082-cdf05499169a",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\ENABLE_EDIT_AFTER_SUBMIT_DIRECT.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDIT_AFTER_SUBMIT_DIRECT.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDIT_AFTER_SUBMIT_DIRECT.py",
+            "scheme": "file"
+          },
+          "codeblockId": "284a8165-f66c-4734-af1b-ecd34b37b59a",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769172669636,
+          "composerChatGenerationUuid": "cf46b433-06f5-4050-a4c6-1c6c75c7d675",
+          "diffId": "5237e91f-e9a1-4cc3-9254-ff9c11030c2f",
+          "lastDiffId": "61ad1a27-dcfc-4d9f-9d6f-16e8fdca9445",
+          "lastAppliedAt": 1769172675050
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/VERIFY_AND_COMPLETE.py": {
+        "4699dde9-123b-4eca-ab19-ec12471f92c2": {
+          "_v": 3,
+          "bubbleId": "623b55fe-3514-44bf-ad3c-1b1aa647324f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\VERIFY_AND_COMPLETE.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/VERIFY_AND_COMPLETE.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/VERIFY_AND_COMPLETE.py",
+            "scheme": "file"
+          },
+          "codeblockId": "4699dde9-123b-4eca-ab19-ec12471f92c2",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769172756578,
+          "composerChatGenerationUuid": "dd485edb-1cb7-415b-b03a-bec3d3671329",
+          "diffId": "6dc58c42-ed37-428a-b4bb-218f4f6a017a",
+          "lastDiffId": "ebb07384-5042-4915-931e-124404164b63",
+          "lastAppliedAt": 1769172758707
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/QUICK_VERIFY.py": {
+        "7b28d1b0-85ab-4f53-be38-d64e89a93367": {
+          "_v": 3,
+          "bubbleId": "fefbfcf8-ee8a-482e-8d01-95df9f6228af",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\QUICK_VERIFY.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/QUICK_VERIFY.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/QUICK_VERIFY.py",
+            "scheme": "file"
+          },
+          "codeblockId": "7b28d1b0-85ab-4f53-be38-d64e89a93367",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769172806681,
+          "composerChatGenerationUuid": "98dbcb62-8ef4-48ce-895b-1f65a0a3142e",
+          "diffId": "9684308d-5187-4db1-8182-65e116330b09",
+          "lastDiffId": "dac098b2-a18f-4e44-9672-cf6a7a19abe4",
+          "lastAppliedAt": 1769172807641
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_DOMINANT_CHANNEL_VALIDATION.py": {
+        "e66c432e-6622-48cb-bb7a-909e0d0b1347": {
+          "_v": 3,
+          "bubbleId": "2e57681b-b076-4b29-9578-0f133c3563aa",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_DOMINANT_CHANNEL_VALIDATION.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_DOMINANT_CHANNEL_VALIDATION.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_DOMINANT_CHANNEL_VALIDATION.py",
+            "scheme": "file"
+          },
+          "codeblockId": "e66c432e-6622-48cb-bb7a-909e0d0b1347",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769173004985,
+          "composerChatGenerationUuid": "7e4c0518-3524-433a-8535-43089bb3a28f",
+          "diffId": "6c90271d-66d3-4811-9597-8626704d006b",
+          "lastDiffId": "5f347c1d-ab00-45e8-a54a-661f532aeb3e",
+          "lastAppliedAt": 1769173008613
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDITING_ON_SUBMITTED.py": {
+        "16f47c81-8a07-4bee-ad98-0ef50f9682c2": {
+          "_v": 3,
+          "bubbleId": "79eaa05d-3f1b-4611-9939-47d86198a78b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\ENABLE_EDITING_ON_SUBMITTED.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDITING_ON_SUBMITTED.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDITING_ON_SUBMITTED.py",
+            "scheme": "file"
+          },
+          "codeblockId": "16f47c81-8a07-4bee-ad98-0ef50f9682c2",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769178014816,
+          "composerChatGenerationUuid": "62dabf47-c190-4b67-bb78-d0e0fce0e5bb",
+          "diffId": "a8cc0690-0efa-44c9-be68-1a091d0dab4e",
+          "lastDiffId": "e65ae7f2-88a5-4a9a-a1bc-4708b582da8a",
+          "lastAppliedAt": 1769178018993
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FORCE_ENABLE_UPDATE_BUTTON.py": {
+        "7ae51ce3-983e-46ba-8999-c3476883887f": {
+          "_v": 3,
+          "bubbleId": "d54969f5-2399-48b9-a4b3-7d2d4a705836",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FORCE_ENABLE_UPDATE_BUTTON.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FORCE_ENABLE_UPDATE_BUTTON.py",
+            "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FORCE_ENABLE_UPDATE_BUTTON.py",
+            "scheme": "file"
+          },
+          "codeblockId": "7ae51ce3-983e-46ba-8999-c3476883887f",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769178132475,
+          "composerChatGenerationUuid": "a601081a-a9a8-4faa-b750-b3bf93bf79a8",
+          "diffId": "6a3bf7f2-01cd-453d-b726-bc5b9ae5dbec",
+          "lastDiffId": "b2fcd630-5286-495e-b6c3-e6ceb2a8e2e9",
+          "lastAppliedAt": 1769178137080
+        }
+      }
+    },
+    "originalFileStates": {
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk": {
+        "content": "",
+        "firstEditBubbleId": "b36e6a35-3e8e-46e7-b5b9-62017c0544be",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md": {
+        "content": "",
+        "firstEditBubbleId": "f76814a8-8b39-403c-9d39-016649d37913",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/start_cursor_auto_accept.bat": {
+        "content": "",
+        "firstEditBubbleId": "ffa3ca46-07d9-484d-b0e8-9a03fb155eaa",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1": {
+        "content": "",
+        "firstEditBubbleId": "a21a37e6-e785-402b-aaa3-8be454a68146",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/test_cursor_detection.ahk": {
+        "content": "",
+        "firstEditBubbleId": "9f008151-0bdd-4536-80fb-fb1a2e2a1ffd",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/test_and_start.bat": {
+        "content": "",
+        "firstEditBubbleId": "3ee7766d-2d36-4947-b07d-334ad4d1b927",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2.ahk": {
+        "content": "",
+        "firstEditBubbleId": "2223e7fc-06f0-4731-834a-4c1f263d0412",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_simple.ahk": {
+        "content": "",
+        "firstEditBubbleId": "aeee6796-47ec-4f8f-ac4c-636ec927b899",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/start_simple_script.bat": {
+        "content": "",
+        "firstEditBubbleId": "6736c545-8346-470b-8999-d40a7290e3d4",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk": {
+        "content": "",
+        "firstEditBubbleId": "b0105ed4-4f76-4970-b6e6-1199fca85a73",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/START_HERE.bat": {
+        "content": "",
+        "firstEditBubbleId": "5dda2af5-df40-40d9-9fa9-47fbf16259c5",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_DOCTYPE_FIXED.py": {
+        "content": "",
+        "firstEditBubbleId": "1dab36e1-ed7b-4c17-b426-dbaff5f3b0bb",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_IPYTHON.py": {
+        "content": "",
+        "firstEditBubbleId": "344d7498-7865-4391-b154-75468c30dfd7",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_EXEC_FIXED.py": {
+        "content": "",
+        "firstEditBubbleId": "f6dc2943-629f-4bff-86cf-24f499e0fc18",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/README.md": {
+        "content": "",
+        "firstEditBubbleId": "bc777dd5-e981-45eb-889f-d8d5c29e1ab7",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt": {
+        "content": "",
+        "firstEditBubbleId": "51f535ed-2dc9-43c0-9256-00fbdd1e66d4",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py": {
+        "content": "",
+        "firstEditBubbleId": "4b3767d5-5147-4161-9d19-3e3c7719d8f0",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/WORKFLOW_GUIDE.md": {
+        "content": "",
+        "firstEditBubbleId": "025a2123-ccb0-49e9-ade6-af89a7e615f4",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDIT_AFTER_SUBMIT_DIRECT.py": {
+        "content": "",
+        "firstEditBubbleId": "4c5e6860-c377-4696-9082-cdf05499169a",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/VERIFY_AND_COMPLETE.py": {
+        "content": "",
+        "firstEditBubbleId": "623b55fe-3514-44bf-ad3c-1b1aa647324f",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/QUICK_VERIFY.py": {
+        "content": "",
+        "firstEditBubbleId": "fefbfcf8-ee8a-482e-8d01-95df9f6228af",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_DOMINANT_CHANNEL_VALIDATION.py": {
+        "content": "",
+        "firstEditBubbleId": "2e57681b-b076-4b29-9578-0f133c3563aa",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDITING_ON_SUBMITTED.py": {
+        "content": "",
+        "firstEditBubbleId": "79eaa05d-3f1b-4611-9939-47d86198a78b",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FORCE_ENABLE_UPDATE_BUTTON.py": {
+        "content": "",
+        "firstEditBubbleId": "d54969f5-2399-48b9-a4b3-7d2d4a705836",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      }
+    },
+    "newlyCreatedFiles": [
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept.ahk",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk",
+          "path": "/c:/Users/pc/Desktop/cursor_auto_accept.ahk",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\CURSOR_AUTO_ACCEPT_README.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
+          "path": "/c:/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\start_cursor_auto_accept.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/start_cursor_auto_accept.bat",
+          "path": "/c:/Users/pc/Desktop/start_cursor_auto_accept.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\install_autohotkey.ps1",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1",
+          "path": "/c:/Users/pc/Desktop/install_autohotkey.ps1",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\test_cursor_detection.ahk",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/test_cursor_detection.ahk",
+          "path": "/c:/Users/pc/Desktop/test_cursor_detection.ahk",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\test_and_start.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/test_and_start.bat",
+          "path": "/c:/Users/pc/Desktop/test_and_start.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2.ahk",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2.ahk",
+          "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2.ahk",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_simple.ahk",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_simple.ahk",
+          "path": "/c:/Users/pc/Desktop/cursor_auto_accept_simple.ahk",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\start_simple_script.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/start_simple_script.bat",
+          "path": "/c:/Users/pc/Desktop/start_simple_script.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\cursor_auto_accept_v2_fixed.ahk",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+          "path": "/c:/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\START_HERE.bat",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/START_HERE.bat",
+          "path": "/c:/Users/pc/Desktop/START_HERE.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\INSTALL_PART1_DOCTYPE_FIXED.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_DOCTYPE_FIXED.py",
+          "path": "/c:/Users/pc/Desktop/INSTALL_PART1_DOCTYPE_FIXED.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\INSTALL_PART1_IPYTHON.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_IPYTHON.py",
+          "path": "/c:/Users/pc/Desktop/INSTALL_PART1_IPYTHON.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\INSTALL_PART1_EXEC_FIXED.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_EXEC_FIXED.py",
+          "path": "/c:/Users/pc/Desktop/INSTALL_PART1_EXEC_FIXED.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\Cursor_AutoAccept\\README.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/README.md",
+          "path": "/c:/Users/pc/Desktop/Cursor_AutoAccept/README.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\Cursor_AutoAccept\\QUICK_START.txt",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
+          "path": "/c:/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\UNCANCEL_DOCUMENT.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\WORKFLOW_GUIDE.md",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/WORKFLOW_GUIDE.md",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/WORKFLOW_GUIDE.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\ENABLE_EDIT_AFTER_SUBMIT_DIRECT.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDIT_AFTER_SUBMIT_DIRECT.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDIT_AFTER_SUBMIT_DIRECT.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\VERIFY_AND_COMPLETE.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/VERIFY_AND_COMPLETE.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/VERIFY_AND_COMPLETE.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\QUICK_VERIFY.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/QUICK_VERIFY.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/QUICK_VERIFY.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FIX_DOMINANT_CHANNEL_VALIDATION.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_DOMINANT_CHANNEL_VALIDATION.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_DOMINANT_CHANNEL_VALIDATION.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\ENABLE_EDITING_ON_SUBMITTED.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDITING_ON_SUBMITTED.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDITING_ON_SUBMITTED.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\PCB_IQC_ERPNext_Project\\FORCE_ENABLE_UPDATE_BUTTON.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FORCE_ENABLE_UPDATE_BUTTON.py",
+          "path": "/c:/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FORCE_ENABLE_UPDATE_BUTTON.py",
+          "scheme": "file"
+        }
+      }
+    ],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1769178904462,
+    "createdAt": 1768912966484,
+    "hasChangedContext": true,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 34,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 25,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "name": "erp v7",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {
+      "composer-1": {
+        "costInCents": 13,
+        "amount": 1
+      }
+    },
+    "contextUsagePercent": 50.431251525878906,
+    "contextTokensUsed": 137173,
+    "contextTokenLimit": 272000,
+    "allAttachedFileCodeChunksUris": [
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept.ahk",
+      "file:///c%3A/Users/pc/Desktop/CURSOR_AUTO_ACCEPT_README.md",
+      "file:///c%3A/Users/pc/Desktop/start_cursor_auto_accept.bat",
+      "file:///c%3A/Users/pc/Desktop/install_autohotkey.ps1",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/6.txt",
+      "file:///c%3A/Users/pc/Desktop/test_cursor_detection.ahk",
+      "file:///c%3A/Users/pc/Desktop/test_and_start.bat",
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2.ahk",
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_simple.ahk",
+      "file:///c%3A/Users/pc/Desktop/start_simple_script.bat",
+      "file:///c%3A/Users/pc/Desktop/cursor_auto_accept_v2_fixed.ahk",
+      "file:///c%3A/Users/pc/Desktop/START_HERE.bat",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/5.txt",
+      "file:///c%3A/Users/pc/Desktop/INSTALL_PART1_DOCTYPE_FIXED.py",
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/README.md",
+      "file:///c%3A/Users/pc/Desktop/Cursor_AutoAccept/QUICK_START.txt",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/19.txt",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/UNCANCEL_DOCUMENT.py",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/WORKFLOW_GUIDE.md",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDIT_AFTER_SUBMIT_DIRECT.py",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/VERIFY_AND_COMPLETE.py",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/QUICK_VERIFY.py",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_DOMINANT_CHANNEL_VALIDATION.py",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ENABLE_EDITING_ON_SUBMITTED.py",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FORCE_ENABLE_UPDATE_BUTTON.py"
+    ],
+    "modelConfig": {
+      "modelName": "gpt-5.2",
+      "maxMode": false
+    },
+    "subComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 1840,
+    "totalLinesRemoved": 0,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isArchived": false,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isSpecSubagentDone": false,
+    "stopHookLoopCount": 0,
+    "speculativeSummarizationEncryptionKey": "06mSUu6nvztxcB2TENIliCAZjlgF/i42LVUoLTEHNkU=",
+    "isNAL": false,
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "",
+    "latestChatGenerationUUID": "1e5333c5-0fe1-4495-9326-f99a4202da05",
+    "isAgentic": true,
+    "subtitle": "cursor_auto_accept.ahk, CURSOR_AUTO_ACCEPT_README.md, start_cursor_auto_accept.bat, install_autohotkey.ps1, test_cursor_detection.ahk",
+    "filesChangedCount": 24
+  },
+  "extracted_at": "2026-04-14T15:54:31.395572"
+}

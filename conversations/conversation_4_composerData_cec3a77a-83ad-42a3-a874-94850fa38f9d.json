@@ -169,6 +169,7 @@
     "queueItems": [],
     "blobEncryptionKey": "MZ5oEuXUzr7ELiHBzI02KDzCMwiX4Ajxlq2btyq2ABE=",
     "isAgentic": true,
+    "subtitle": "New chat",
     "workspaceIdentifier": {
       "id": "a60624e847c59a61babc2873b5877c96",
       "uri": {
@@ -182,5 +183,5 @@
     },
     "applyAgentBackendTypeRestrictions": false
   },
-  "extracted_at": "2026-04-14T15:43:02.672684"
+  "extracted_at": "2026-04-14T15:54:31.251725"
 }

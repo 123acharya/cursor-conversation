@@ -1,0 +1,2101 @@
+{
+  "key": "composerData:e47c3854-28ac-4abe-ae19-fb3023216c56",
+  "data": {
+    "_v": 11,
+    "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "7c690871-9bbf-41e8-a2a6-2110cee9a62a",
+        "type": 1
+      },
+      {
+        "bubbleId": "04b27a62-7b72-4aae-bb9d-f501f231976c",
+        "type": 2,
+        "serverBubbleId": "0370a07e-e031-4504-a46f-ab1081e1d69a"
+      },
+      {
+        "bubbleId": "4fb4a777-f1b3-42ea-8250-867eff2d8573",
+        "type": 2
+      },
+      {
+        "bubbleId": "228b2cc2-7432-4a73-b3ff-687a9842b6b8",
+        "type": 1
+      },
+      {
+        "bubbleId": "f4277729-e93a-4f04-8273-a64455e74330",
+        "type": 2,
+        "serverBubbleId": "0f14ef69-42ed-405b-a8bd-a1cc66ddee35"
+      },
+      {
+        "bubbleId": "2f4ae0e4-0815-4d10-882e-e0dc0a71fc9f",
+        "type": 2
+      },
+      {
+        "bubbleId": "1a29b79a-867c-4bc3-9ec0-d68cd40c926c",
+        "type": 2
+      },
+      {
+        "bubbleId": "e43b13ce-7ad5-4248-9b0b-75421559da26",
+        "type": 2,
+        "serverBubbleId": "c0a42e7a-0c61-4b64-9985-859a644bfe48"
+      },
+      {
+        "bubbleId": "7b69c6e7-7186-4bf5-856c-99ef6a320d9f",
+        "type": 1
+      },
+      {
+        "bubbleId": "37857e81-cd13-4086-b039-1ede5c3dff6a",
+        "type": 2,
+        "serverBubbleId": "fa29b561-4e81-4ee0-adc2-e28b937bc0bd"
+      },
+      {
+        "bubbleId": "0aeaaa4c-f4e6-4c3b-acce-f09311592a00",
+        "type": 2
+      },
+      {
+        "bubbleId": "37a70f30-406e-43ff-b728-70f1549606b4",
+        "type": 2,
+        "serverBubbleId": "aef76d03-c360-4baf-9de2-83773dfb56fb"
+      },
+      {
+        "bubbleId": "e490fcd5-a030-494c-8040-838899f66f44",
+        "type": 2,
+        "serverBubbleId": "469eee03-0458-4bb4-9188-3600b2cbfa18"
+      },
+      {
+        "bubbleId": "843f44a4-5288-47ac-9604-f11912030f4e",
+        "type": 2
+      },
+      {
+        "bubbleId": "dbc0e619-6d71-4131-a6ed-fea3cde6d815",
+        "type": 2,
+        "serverBubbleId": "df93ea13-6c31-4dce-8e76-7d3bc0ede2c1"
+      },
+      {
+        "bubbleId": "c5f4934a-73a2-413e-be0d-3c5630f16fab",
+        "type": 2,
+        "serverBubbleId": "de3469d3-de39-4fcd-b378-2a5d06274ef3"
+      },
+      {
+        "bubbleId": "a14e5197-e384-4e1d-8a82-ac97e78270b6",
+        "type": 2,
+        "serverBubbleId": "95406a8b-281b-47b6-aedc-8a8520bcd4b8"
+      },
+      {
+        "bubbleId": "5864ba52-3417-4c95-a6bc-c5fd4cd0dc9e",
+        "type": 1
+      },
+      {
+        "bubbleId": "80fa131c-f494-48e1-8ff7-d9bb8c6c46e0",
+        "type": 2,
+        "serverBubbleId": "d6d995d0-c94f-4493-913a-4a000c93c09c"
+      },
+      {
+        "bubbleId": "9f39a24f-2c69-4e69-b7be-42ce798a293a",
+        "type": 2
+      },
+      {
+        "bubbleId": "721478f4-9285-4c06-8f5d-a01bf94894c0",
+        "type": 1
+      },
+      {
+        "bubbleId": "a35bc053-b425-4531-bc3d-6c9a3a3c130b",
+        "type": 2,
+        "serverBubbleId": "f6fa5cc5-fced-42bc-83da-4e97ba982a38"
+      },
+      {
+        "bubbleId": "ed2675da-d5bc-45ac-9bb6-94e999905918",
+        "type": 2
+      },
+      {
+        "bubbleId": "4eef5ab0-462f-4e5d-a8dc-3ab982bf887d",
+        "type": 2,
+        "serverBubbleId": "3cf28512-373d-4ea8-9516-46a8ad2ef401"
+      },
+      {
+        "bubbleId": "79c08ecd-2cbe-4746-b866-80a1a6dd32bf",
+        "type": 2
+      },
+      {
+        "bubbleId": "c6acb2cd-ca42-4f9a-9246-6fbbec459b64",
+        "type": 2
+      },
+      {
+        "bubbleId": "de97f455-2c49-4de0-b027-ae6ebde6acda",
+        "type": 2,
+        "serverBubbleId": "2f3a290c-afb7-48ae-87c1-4c77913c21cd"
+      },
+      {
+        "bubbleId": "e028216b-03dc-4735-a841-e0bdd27679df",
+        "type": 2
+      },
+      {
+        "bubbleId": "2f86f639-7297-417c-93f1-ed51757e03dc",
+        "type": 2,
+        "serverBubbleId": "55f74257-7853-413e-a02e-68e6ffc07552"
+      },
+      {
+        "bubbleId": "487e5209-d471-4acc-86e9-dcdac9802628",
+        "type": 1
+      },
+      {
+        "bubbleId": "363bf446-10c4-4e3b-aff7-ae163b060d7c",
+        "type": 2,
+        "serverBubbleId": "d6b7ce5c-a849-4da0-9990-9813913a3e14"
+      },
+      {
+        "bubbleId": "362ff61b-12cb-4ab1-bfcc-ac6829a951bb",
+        "type": 2
+      },
+      {
+        "bubbleId": "b62dd392-1552-44d3-8356-2e40ac6066c5",
+        "type": 2,
+        "serverBubbleId": "bc46d393-467c-4407-b7d2-24508e57cca5"
+      },
+      {
+        "bubbleId": "c1ae3825-0732-4e1a-9a4a-4a9c31d8a9a8",
+        "type": 2,
+        "serverBubbleId": "f90bb985-55ec-413b-8ed1-f5b2f6764830"
+      },
+      {
+        "bubbleId": "7c43ca04-5d60-42a7-8dfe-7adef7235030",
+        "type": 2,
+        "serverBubbleId": "f0b27f7f-3618-4bdd-948e-d24094da55bb"
+      },
+      {
+        "bubbleId": "cac4bf91-e89a-4fd5-a8ca-396553b66048",
+        "type": 2,
+        "serverBubbleId": "1e4aebd5-99bc-4cba-ad0c-6a8e410867c0"
+      },
+      {
+        "bubbleId": "f7d2291d-2a90-42b5-9043-9ba2bfe30619",
+        "type": 2
+      },
+      {
+        "bubbleId": "ff139b99-ae47-4b58-a7df-94a3ece9cc6d",
+        "type": 1
+      },
+      {
+        "bubbleId": "ea0dd0ee-60c0-4943-999b-8105ef5602ee",
+        "type": 2,
+        "serverBubbleId": "207404e7-165b-4c72-959e-3cb66bf31ff0"
+      },
+      {
+        "bubbleId": "4c22ea6c-a69c-4d62-807b-341777c11919",
+        "type": 2
+      },
+      {
+        "bubbleId": "7e8d1b21-9dca-4ff1-8b22-9897b7a4f9df",
+        "type": 2,
+        "serverBubbleId": "f8f9dee2-fcd1-4b4f-814e-0ebc8a099e46"
+      },
+      {
+        "bubbleId": "7e3b1786-3e42-4c97-8805-b8e76ed1bea3",
+        "type": 2
+      },
+      {
+        "bubbleId": "52e11afe-45b8-4fbe-9d88-012036773bbc",
+        "type": 2,
+        "serverBubbleId": "78b082b1-4f27-42ff-9b1d-fed8dcf45a62"
+      },
+      {
+        "bubbleId": "f59cc12b-f8f0-4634-9dac-1a5627d8d8b0",
+        "type": 2,
+        "serverBubbleId": "4cd53bac-c0b7-4f06-9260-9ea94c8b5ec8"
+      },
+      {
+        "bubbleId": "bb378648-7236-435d-b9d0-e4e8eb7227c3",
+        "type": 2,
+        "serverBubbleId": "780236f4-e94d-4842-9b46-bfebc4eb5dfb"
+      },
+      {
+        "bubbleId": "51188a18-9498-4dac-b5b6-f9eed37ed987",
+        "type": 1
+      },
+      {
+        "bubbleId": "a9c57146-f560-4ca9-b338-a5a89f66e44f",
+        "type": 2,
+        "serverBubbleId": "5222964d-89b6-4cf7-998f-a55aef2a55f4"
+      },
+      {
+        "bubbleId": "f4066ebd-4649-47ea-b10d-14af6d3f395d",
+        "type": 2
+      },
+      {
+        "bubbleId": "72380660-d61c-4752-9158-e2d48828af1e",
+        "type": 2,
+        "serverBubbleId": "0b51d383-55f1-48bf-92c5-bb4de3d73842"
+      },
+      {
+        "bubbleId": "e665bde2-2c5c-43c4-9888-a018359097d0",
+        "type": 2,
+        "serverBubbleId": "afd97b3e-b504-43e4-869e-553d921330dd"
+      },
+      {
+        "bubbleId": "ddf2b510-415e-406c-9916-0459bdf37174",
+        "type": 2,
+        "serverBubbleId": "2a01db5f-72ec-4d95-b84f-1d4a0e1c948e"
+      },
+      {
+        "bubbleId": "672a7fde-c7e1-4b91-832b-0577e2fba527",
+        "type": 2,
+        "serverBubbleId": "1f09bb0d-6934-44c9-9055-8668eed0ab62"
+      },
+      {
+        "bubbleId": "582691d4-e5ec-4951-9fdf-84eb7acfaf73",
+        "type": 2,
+        "serverBubbleId": "88e1e149-312a-42df-b984-66288cc428f5"
+      },
+      {
+        "bubbleId": "e53eb13b-3f23-4f2f-b1e9-3277fd1be562",
+        "type": 1
+      },
+      {
+        "bubbleId": "f13657d3-0336-4038-a4a3-6bb622525e9a",
+        "type": 2,
+        "serverBubbleId": "4521aa20-54b4-45b8-b378-26e3160121e6"
+      },
+      {
+        "bubbleId": "14e6458d-9a6e-48a5-ac36-8308fd963273",
+        "type": 2
+      },
+      {
+        "bubbleId": "077d93c8-bdbb-4530-9e47-870f53315e7e",
+        "type": 2,
+        "serverBubbleId": "985afa53-ef6d-430a-a64e-45a1c8274e8d"
+      },
+      {
+        "bubbleId": "cf1f1323-a39f-401e-a5cb-131d681e4ce8",
+        "type": 2,
+        "serverBubbleId": "0951fabb-de06-4c63-8dd6-9f181abdd725"
+      },
+      {
+        "bubbleId": "fad11cf1-005e-4264-9c2d-280f14ddb3fa",
+        "type": 2,
+        "serverBubbleId": "ceb6d54f-be1f-4dba-bee4-be86d889a088"
+      },
+      {
+        "bubbleId": "ffa10b62-ad5c-4468-95dd-06a9fd057aa6",
+        "type": 1
+      },
+      {
+        "bubbleId": "e0658df9-ad8d-471b-a20e-e2a0e601c4f7",
+        "type": 2,
+        "serverBubbleId": "cbd9cdb2-f1f9-4e75-b730-f6963b6f40a8"
+      },
+      {
+        "bubbleId": "6ffbf562-3c97-4fe5-8c86-610293917080",
+        "type": 2
+      },
+      {
+        "bubbleId": "4f9f478a-6d1c-45e8-bbb6-34deecf36159",
+        "type": 2,
+        "serverBubbleId": "437afbd1-8644-41b1-bcc7-8fad237266a6"
+      },
+      {
+        "bubbleId": "ef6ed3f0-056a-41b3-99ce-1952194c0975",
+        "type": 2
+      },
+      {
+        "bubbleId": "dec3d561-224e-47d1-adcf-83aca728f057",
+        "type": 2,
+        "serverBubbleId": "b3101848-fc35-472e-9630-c2e44648c803"
+      },
+      {
+        "bubbleId": "3d906b16-e150-48b8-8d0f-f5d0e0d101f7",
+        "type": 2,
+        "serverBubbleId": "eb8379e9-62ab-4fd8-8fc8-1ca8292d6601"
+      },
+      {
+        "bubbleId": "b57d49f3-9834-4acd-acbd-fab0f61d6c21",
+        "type": 2
+      },
+      {
+        "bubbleId": "bcaacd33-77f0-4866-9ab8-0c758a8be528",
+        "type": 1
+      },
+      {
+        "bubbleId": "da473dcf-4aa3-444f-9c79-36e5c684a68a",
+        "type": 2,
+        "serverBubbleId": "b38eccda-1a1d-4908-8d39-1d210e9d1d11"
+      },
+      {
+        "bubbleId": "c71e7ff5-1d60-4a88-a307-4bc359d8f5b5",
+        "type": 2
+      },
+      {
+        "bubbleId": "113db69c-7ef8-4dd8-9642-4e6f61fcf926",
+        "type": 1
+      },
+      {
+        "bubbleId": "3956dfec-17a5-4670-81d3-494d289154a1",
+        "type": 2,
+        "serverBubbleId": "bf88a1af-12e9-47f5-8079-357e34510ace"
+      },
+      {
+        "bubbleId": "0fe72a57-104c-4b93-9017-861fb59d9d9a",
+        "type": 2
+      },
+      {
+        "bubbleId": "baeded45-a9f2-4bea-b216-eb3f529beddd",
+        "type": 2,
+        "serverBubbleId": "415e1cc8-9e79-47d5-a393-20e8b4d71b89"
+      },
+      {
+        "bubbleId": "5cba9e83-bbaa-414c-937c-46dd665da9b0",
+        "type": 2,
+        "serverBubbleId": "5e797724-5a19-4329-9ba9-286ac165f013"
+      },
+      {
+        "bubbleId": "2a91be48-7b11-4e8e-8b76-374e468b923a",
+        "type": 2,
+        "serverBubbleId": "e6832df2-4f90-4279-8730-325a6be00834"
+      },
+      {
+        "bubbleId": "2dc69d6e-9ee7-4571-84a3-b0a7fe68b139",
+        "type": 2,
+        "serverBubbleId": "907a3f5d-54e1-4509-bed7-76d51be2fedc"
+      },
+      {
+        "bubbleId": "2cfde622-847f-484f-a1cc-4d86bd512a2c",
+        "type": 1
+      },
+      {
+        "bubbleId": "c21eb16f-afed-412b-b8cf-d717a60c08ff",
+        "type": 2,
+        "serverBubbleId": "e56f4d93-8419-4af0-bc28-486076ec27fc"
+      },
+      {
+        "bubbleId": "c3d21ac2-7fbb-492d-baee-0b41180c9de4",
+        "type": 2
+      },
+      {
+        "bubbleId": "73aeb7d3-7381-48f4-ac72-2ed8fe6a618d",
+        "type": 2,
+        "serverBubbleId": "cad4d77f-58c3-4f0f-9bd5-90b571c5c4da"
+      },
+      {
+        "bubbleId": "d9c6f394-3dd3-4856-ba53-d75ee5a8517a",
+        "type": 2,
+        "serverBubbleId": "31a1d2f4-f524-4f09-92fd-5555deb79f3e"
+      },
+      {
+        "bubbleId": "39c9d2c7-3199-4011-be05-cfb43ee92e9d",
+        "type": 2,
+        "serverBubbleId": "441a3474-8911-479d-bd62-7b5ecd78f97e"
+      },
+      {
+        "bubbleId": "93b05666-e19b-46f5-b8f2-9a6700f0ef90",
+        "type": 1
+      },
+      {
+        "bubbleId": "9be8e665-198c-4976-8336-e3146468e5ea",
+        "type": 2,
+        "serverBubbleId": "db46d6fe-05df-4dfd-a39c-d4a3f911f25c"
+      },
+      {
+        "bubbleId": "5ccf6655-43a4-4f67-8a1e-0d27d32c3312",
+        "type": 2
+      },
+      {
+        "bubbleId": "45573a60-63ae-4de6-990f-c6a65f158f4e",
+        "type": 2,
+        "serverBubbleId": "9be5eb4d-4d5d-4050-9cb3-9bdfe319eb23"
+      },
+      {
+        "bubbleId": "2763cc3a-9685-4500-b7a2-3323ee80790f",
+        "type": 2
+      },
+      {
+        "bubbleId": "e2fe4cbc-d8ff-42b6-951d-0dd09e55ccef",
+        "type": 2,
+        "serverBubbleId": "b3bb943d-2ac5-49fb-900d-1766b3eba6a2"
+      },
+      {
+        "bubbleId": "dc175c2e-39c1-4ee5-96d7-3814b25a9dc6",
+        "type": 2,
+        "serverBubbleId": "6754af3f-52e9-4309-9d54-20742948c1ca"
+      },
+      {
+        "bubbleId": "6b52b7f8-977b-48b4-87b2-405087e5b700",
+        "type": 2,
+        "serverBubbleId": "bf924fe9-9ff6-4303-8754-d8406ce2de1b"
+      },
+      {
+        "bubbleId": "b4320d4f-2232-402c-920e-ce7f401a5b87",
+        "type": 1
+      },
+      {
+        "bubbleId": "276e9511-6b64-462c-b141-b7b8ae79d9b7",
+        "type": 2,
+        "serverBubbleId": "7bfdb8ff-dbda-4963-8a2a-cb5edec0633d"
+      },
+      {
+        "bubbleId": "98f7ffbd-a086-4e8d-a832-d1397e305a10",
+        "type": 2
+      },
+      {
+        "bubbleId": "15650683-8fe3-4310-9b10-42dfe7a44bea",
+        "type": 2
+      },
+      {
+        "bubbleId": "cbcfe3a8-58f1-4d57-bb99-2d910a45d777",
+        "type": 2,
+        "serverBubbleId": "dac7943d-844e-491f-9fc3-625e776adbb6"
+      },
+      {
+        "bubbleId": "d0cd9ed0-eaa6-4a55-b086-6f8ab126b910",
+        "type": 2
+      },
+      {
+        "bubbleId": "6c1f1839-7c40-43e7-8c88-853ac49d0d88",
+        "type": 2
+      },
+      {
+        "bubbleId": "9ea91c0e-a5e8-43bd-8677-17587cc43c20",
+        "type": 2,
+        "serverBubbleId": "c509f803-1e58-4b22-ac56-aae92f5fced6"
+      },
+      {
+        "bubbleId": "9e13cd5e-4fc9-4485-b79a-9546d8aac7ca",
+        "type": 2
+      },
+      {
+        "bubbleId": "f927de0c-94f1-487b-b0d2-7337ff6cdb32",
+        "type": 2
+      },
+      {
+        "bubbleId": "13510ad3-eccd-4b60-82b3-943722f83943",
+        "type": 2,
+        "serverBubbleId": "2819188c-9406-4451-b6a7-a09cec8dc33f"
+      },
+      {
+        "bubbleId": "0ae55f8c-edbc-40e4-b427-af0375a98b54",
+        "type": 2
+      },
+      {
+        "bubbleId": "fd55bc94-3bda-4616-8ff1-fff7fdd6d8ce",
+        "type": 2
+      },
+      {
+        "bubbleId": "96023997-0fbf-4622-bfdc-8c74061c5048",
+        "type": 2,
+        "serverBubbleId": "ed86c3f5-34b0-4be6-8936-c652fae81734"
+      },
+      {
+        "bubbleId": "d50de2f4-d61f-443f-b0ab-4b2ed6395ebe",
+        "type": 2
+      },
+      {
+        "bubbleId": "468adf1c-c67d-4757-8b4d-9aec4ac2b94b",
+        "type": 2
+      },
+      {
+        "bubbleId": "9e8ec8fa-d78a-4f83-a0a3-7fe6cbf1d25d",
+        "type": 2,
+        "serverBubbleId": "52b6bcf0-53ac-43de-978d-6ca0e8703ea6"
+      },
+      {
+        "bubbleId": "b4eff643-570e-4b80-806e-b485896eba53",
+        "type": 2
+      },
+      {
+        "bubbleId": "54198110-78f1-48d1-ba89-7189e7fdc6ab",
+        "type": 2
+      },
+      {
+        "bubbleId": "175e624b-ee24-4dc4-b173-ebec93502e1a",
+        "type": 2,
+        "serverBubbleId": "9fadedc1-bbb7-4853-8be5-b8937fb45ec3"
+      },
+      {
+        "bubbleId": "4701cb9d-131d-4a87-add5-fbed6cf5ba67",
+        "type": 2
+      },
+      {
+        "bubbleId": "1eb2c13c-09e9-4b03-b85c-19607c19b3b0",
+        "type": 2
+      },
+      {
+        "bubbleId": "a84bcf28-872f-4b29-8a28-539a0fcde8ef",
+        "type": 2,
+        "serverBubbleId": "badcb9b1-d5af-4a16-be8a-678c5c7b9e75"
+      },
+      {
+        "bubbleId": "12313eb4-d151-470c-b380-8a10cf4c7962",
+        "type": 2
+      },
+      {
+        "bubbleId": "a593fe36-e6cf-419d-a33e-8541f02e273e",
+        "type": 2
+      },
+      {
+        "bubbleId": "02860397-d538-4faf-b4cd-c7b009235189",
+        "type": 2,
+        "serverBubbleId": "58cef463-a57c-490b-9eb4-a91fae24e232"
+      },
+      {
+        "bubbleId": "e2ae0804-1b33-403c-b596-88cf1190829e",
+        "type": 2
+      },
+      {
+        "bubbleId": "08d546ec-8b8d-47c3-b10d-009ac77a3abc",
+        "type": 1
+      },
+      {
+        "bubbleId": "f8480aa9-99bb-422a-b398-9b68a3ac2de8",
+        "type": 2,
+        "serverBubbleId": "3ea1437e-5f21-4af3-b9bd-c9a0dba19bb0"
+      },
+      {
+        "bubbleId": "3f80c8ab-097a-43cc-a411-e39c3819ae97",
+        "type": 2
+      },
+      {
+        "bubbleId": "f03cf37b-25cf-4873-b040-10da29f1bf95",
+        "type": 2
+      },
+      {
+        "bubbleId": "16e12e2f-1cea-4644-a2f8-3a01f46c8a40",
+        "type": 2,
+        "serverBubbleId": "bca55a00-03f2-4b70-add3-057d338adede"
+      },
+      {
+        "bubbleId": "44d48fbd-5e14-4cfb-851f-4bff6cb109f2",
+        "type": 2
+      },
+      {
+        "bubbleId": "72c43833-5651-45f2-9223-802248d2ea9f",
+        "type": 2
+      },
+      {
+        "bubbleId": "7963faa5-aab2-4795-beca-6b7c823e2019",
+        "type": 2,
+        "serverBubbleId": "1b5c6f38-7b7e-401e-b8bb-4ce7c3533585"
+      },
+      {
+        "bubbleId": "756b0948-2d71-4b8f-99f7-7ce7dec76cf6",
+        "type": 2
+      },
+      {
+        "bubbleId": "56668a7b-0e50-4d9f-8adf-7c7cf2ddce09",
+        "type": 2
+      },
+      {
+        "bubbleId": "ddcd659a-7b22-4b68-8421-ddd91e599f44",
+        "type": 2,
+        "serverBubbleId": "03625b12-9f05-48b5-9d92-d585e0e89290"
+      },
+      {
+        "bubbleId": "07c61add-0def-43cf-96cb-dcdedb12704b",
+        "type": 2
+      },
+      {
+        "bubbleId": "743e8b9d-8784-49ce-9779-b5840c696a1e",
+        "type": 2
+      },
+      {
+        "bubbleId": "1f20e238-7042-42a8-bd46-a0cfc8b00f34",
+        "type": 2,
+        "serverBubbleId": "40e570aa-d546-4c96-9c49-b341b256abaa"
+      },
+      {
+        "bubbleId": "63451913-9f1b-420d-9ee5-4d49add92127",
+        "type": 2
+      },
+      {
+        "bubbleId": "a04a057b-d2a3-4f07-a0f7-dc7cbb532e3b",
+        "type": 2
+      },
+      {
+        "bubbleId": "c0886995-a574-4a98-98a8-cb9c6bb665c6",
+        "type": 2,
+        "serverBubbleId": "4ce19a3c-4a1a-4b8e-841e-4285d31b2acc"
+      },
+      {
+        "bubbleId": "e90ee8fa-f730-4398-b143-7bfa19e55312",
+        "type": 2
+      },
+      {
+        "bubbleId": "2f893648-6760-4849-b57b-a8ca0ca90e0e",
+        "type": 2
+      },
+      {
+        "bubbleId": "8134ff1b-2de7-4799-86ad-233ce87a5059",
+        "type": 2,
+        "serverBubbleId": "bdbbcd96-b490-41d8-986e-a00df354d04c"
+      },
+      {
+        "bubbleId": "c0cbbfa7-c7b2-49e7-a7f5-20a9978b69cd",
+        "type": 2
+      },
+      {
+        "bubbleId": "85dd89c0-d893-4901-bd75-c64dbe1c9100",
+        "type": 2
+      },
+      {
+        "bubbleId": "5a89a9b6-0833-46b0-a165-5c2eead41b3e",
+        "type": 2,
+        "serverBubbleId": "9f63d92f-c2ac-48fd-a5ce-7377799981f4"
+      },
+      {
+        "bubbleId": "f342b964-079b-4a52-b364-590b11cbd413",
+        "type": 2
+      },
+      {
+        "bubbleId": "ce15d32b-dd8c-4f13-8326-559a996309ff",
+        "type": 1
+      },
+      {
+        "bubbleId": "75a0507d-2a0f-42a6-87f6-19132a385658",
+        "type": 2,
+        "serverBubbleId": "bf2f5753-46d1-4620-b943-8582df0136f5"
+      },
+      {
+        "bubbleId": "42058972-5d94-45f3-89fc-fe66a16a73f2",
+        "type": 2
+      },
+      {
+        "bubbleId": "f1762b2b-2519-405f-aae6-0eecf5291e24",
+        "type": 2
+      },
+      {
+        "bubbleId": "b11e00c2-6567-4911-93a6-b54710c57a10",
+        "type": 2,
+        "serverBubbleId": "d66da5e4-9b55-4a34-b390-9e706c476507"
+      },
+      {
+        "bubbleId": "da3bc012-8cc7-43a4-b8af-3b80a49aacde",
+        "type": 2
+      },
+      {
+        "bubbleId": "c6e23041-10c0-438b-b6b9-662d125ec854",
+        "type": 2
+      },
+      {
+        "bubbleId": "759faa9d-fdae-4944-ace5-2dde0abc8e46",
+        "type": 2,
+        "serverBubbleId": "f61978aa-9188-47e2-a78f-3f45efb9576f"
+      },
+      {
+        "bubbleId": "8413cda5-9695-4a38-bb5d-f49f06eb92d1",
+        "type": 2
+      },
+      {
+        "bubbleId": "d97b5d0f-1d46-465d-960a-de2b4dc8ae6e",
+        "type": 2
+      },
+      {
+        "bubbleId": "a58bdd22-67ea-412c-a248-b052c2c44b7a",
+        "type": 2,
+        "serverBubbleId": "eb33fcb0-3319-4c16-a265-ecf57041ccad"
+      },
+      {
+        "bubbleId": "6895834e-ffde-4f7b-acf9-6f7091bc8dd1",
+        "type": 2
+      },
+      {
+        "bubbleId": "e125b8ad-6a06-44e5-bb19-bf8d1734a84c",
+        "type": 2
+      },
+      {
+        "bubbleId": "31b7c53c-ffd0-4565-bd3c-7c499a91bd96",
+        "type": 2,
+        "serverBubbleId": "ea0c4447-9578-4853-956f-89b36570fe88"
+      },
+      {
+        "bubbleId": "90e338fc-00d4-466a-a194-edc5360c7b4e",
+        "type": 2
+      },
+      {
+        "bubbleId": "fca19c88-41a0-49f3-9abf-48508d5e39d9",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f8792c8-2936-4652-a413-7fa92e1f8b02",
+        "type": 2,
+        "serverBubbleId": "c70207a7-165e-4681-bbe1-32e8787d39a7"
+      },
+      {
+        "bubbleId": "2f3ce9e3-ec0d-49c2-bab2-85b1fc058a18",
+        "type": 2
+      },
+      {
+        "bubbleId": "032f929b-6f48-4e64-95a1-fbdf90e8f999",
+        "type": 2
+      },
+      {
+        "bubbleId": "12faa0a6-55cf-4638-b236-3136e16bebaf",
+        "type": 2,
+        "serverBubbleId": "5c575a13-8706-48a3-b4f5-7b52442e2767"
+      },
+      {
+        "bubbleId": "a53331fa-1bf6-4dbf-bae5-7fdca8c43a1f",
+        "type": 2
+      },
+      {
+        "bubbleId": "06869f57-7a06-41b5-b372-c850c0d22532",
+        "type": 2
+      },
+      {
+        "bubbleId": "368f76e5-2d17-4a29-a2b5-736f21f6f37b",
+        "type": 2,
+        "serverBubbleId": "cdfddd8c-f3b8-47f1-bced-98816fe20cb0"
+      },
+      {
+        "bubbleId": "5ea46ed5-d071-45c4-b066-c71290ae7bea",
+        "type": 2
+      },
+      {
+        "bubbleId": "d9567918-9986-4ef2-aa06-39e8123ce43b",
+        "type": 2
+      },
+      {
+        "bubbleId": "239e37a4-c16b-4af5-b94c-0dd1c18cbdf0",
+        "type": 2,
+        "serverBubbleId": "294036d0-5691-41db-9b64-4ef47ef506f0"
+      },
+      {
+        "bubbleId": "d94f2342-7a67-4b4c-a607-f28e134d8620",
+        "type": 2
+      },
+      {
+        "bubbleId": "9abf2da7-8870-4276-bbc0-6d82c223f6e7",
+        "type": 2
+      },
+      {
+        "bubbleId": "5c348bf1-7eef-4a29-8dda-ba989a21fd1e",
+        "type": 2,
+        "serverBubbleId": "c2589117-5b08-42cc-8d23-034e33c34808"
+      },
+      {
+        "bubbleId": "2ab0334d-e727-48e3-94ab-5e89dbf22914",
+        "type": 2
+      },
+      {
+        "bubbleId": "c9789ece-bf38-4f99-b9c7-b351ab84b20b",
+        "type": 2
+      },
+      {
+        "bubbleId": "b203f9d2-beac-4b72-8e31-7625ce0c14fb",
+        "type": 2,
+        "serverBubbleId": "df5f6ff5-a0ac-4d11-9e15-6b43e0aadaa7"
+      },
+      {
+        "bubbleId": "36587ad5-1323-458e-8c73-e75363d7e249",
+        "type": 2
+      },
+      {
+        "bubbleId": "353a67a8-93c5-4d8f-9882-5d2e7d72a2c8",
+        "type": 2
+      },
+      {
+        "bubbleId": "4d885a90-3f63-440f-af18-264da0b2aab7",
+        "type": 2,
+        "serverBubbleId": "98d9f428-31ee-43f8-9e88-b03ef402b6e3"
+      },
+      {
+        "bubbleId": "2d5bf398-c9a8-4de4-a21b-3aecd8478335",
+        "type": 2
+      },
+      {
+        "bubbleId": "55f525bb-2908-4635-bf36-cb083daa56b2",
+        "type": 2
+      },
+      {
+        "bubbleId": "037932c5-cdaf-4521-a15f-9a76d49d99ac",
+        "type": 2,
+        "serverBubbleId": "8040293d-0cfb-466c-9f6e-48543ec35007"
+      },
+      {
+        "bubbleId": "063746d3-2d7c-43f9-9bd5-14439a3b7f4b",
+        "type": 2
+      },
+      {
+        "bubbleId": "057e55d1-0d76-4c9e-b9f6-d3fbe666ab69",
+        "type": 2
+      },
+      {
+        "bubbleId": "723a67d1-c9b1-4ab8-812b-35cc3c8b64ca",
+        "type": 2,
+        "serverBubbleId": "8300676e-f577-4887-ad48-3b64ad615c6e"
+      },
+      {
+        "bubbleId": "c38bbaf3-591d-4f66-b1c0-01962d9761f9",
+        "type": 2
+      },
+      {
+        "bubbleId": "6485d204-9dda-40d1-b92e-12f3ca52c324",
+        "type": 2
+      },
+      {
+        "bubbleId": "0c48fbdc-c9e3-4854-b641-352b956f685c",
+        "type": 2,
+        "serverBubbleId": "8b571389-18db-4e09-8d6c-948eb49d5480"
+      },
+      {
+        "bubbleId": "d9841c59-6797-4214-9ed9-0522d8563f2f",
+        "type": 2
+      },
+      {
+        "bubbleId": "0ba62d82-38f0-4edd-a3d4-c86bde9751a5",
+        "type": 2
+      },
+      {
+        "bubbleId": "d0034424-b7f0-4ceb-a329-1719b90a4bc2",
+        "type": 2,
+        "serverBubbleId": "8a2b1359-758f-41d8-8f9b-f9757a32d36c"
+      },
+      {
+        "bubbleId": "a93a4ee6-abad-4bc3-8423-8b0be3ff7af7",
+        "type": 2
+      },
+      {
+        "bubbleId": "d15f7751-33cf-4b21-b9ed-b50aa807a0f8",
+        "type": 2
+      },
+      {
+        "bubbleId": "c61dceb4-1b5c-484e-991e-b63a41624a68",
+        "type": 2,
+        "serverBubbleId": "9f500a0f-c46b-461a-a9e8-383ad9d1ed2c"
+      },
+      {
+        "bubbleId": "cfb4bcee-e7a3-44f2-9721-a49fa5313a12",
+        "type": 2
+      },
+      {
+        "bubbleId": "ef4c2b88-5b96-4033-b3ed-505359062b9d",
+        "type": 2
+      },
+      {
+        "bubbleId": "44f66c18-5072-4d80-b1e9-81707859f2c5",
+        "type": 2,
+        "serverBubbleId": "0ec8d83c-f04c-4ebb-a634-aec0b1b1d624"
+      },
+      {
+        "bubbleId": "e695a3c2-9edc-4407-a4fc-19941085ab3b",
+        "type": 2
+      },
+      {
+        "bubbleId": "28b3f1a8-9abe-434c-a5fb-10c021fbf44f",
+        "type": 2
+      },
+      {
+        "bubbleId": "78123c96-77ce-463f-b7ea-e4ff4565cc98",
+        "type": 2,
+        "serverBubbleId": "32ae1fde-eb7d-4d9f-bc2e-f9a686cf0af5"
+      },
+      {
+        "bubbleId": "4d84e7e0-e023-4c2f-87fd-2418e2891309",
+        "type": 2
+      },
+      {
+        "bubbleId": "bf99c4d1-1eca-462a-be11-130b6acfaf45",
+        "type": 2
+      },
+      {
+        "bubbleId": "55c1e468-10a6-4733-b1a0-50173a032d66",
+        "type": 2,
+        "serverBubbleId": "9e4abe6b-ed43-48b3-97a0-26da0919adbc"
+      },
+      {
+        "bubbleId": "e7fad4c1-634b-41f9-9e18-8498ea261ad0",
+        "type": 2
+      },
+      {
+        "bubbleId": "bda61c0e-4307-4047-a355-b6bf44b4566f",
+        "type": 2
+      },
+      {
+        "bubbleId": "2b39909a-e34b-49c8-bfbe-9a774362002a",
+        "type": 2,
+        "serverBubbleId": "f24ffcb3-b834-49e5-a2ee-6c7f1640d658"
+      },
+      {
+        "bubbleId": "f96bd1b0-015c-4d28-bc63-7cb5f8fb1b61",
+        "type": 2
+      },
+      {
+        "bubbleId": "b261ea86-2c38-4f9f-8845-172e3550e2af",
+        "type": 1
+      },
+      {
+        "bubbleId": "b0ae552c-e040-439d-91a9-72d0a99c36ed",
+        "type": 2,
+        "serverBubbleId": "cc7c9542-2839-4e68-adc7-bc568234bbb5"
+      },
+      {
+        "bubbleId": "a72c1f7d-ab10-4205-8ef1-b99bd98ebc1e",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "completed",
+    "context": {
+      "composers": [],
+      "quotes": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "ideEditorsState": true,
+      "gitPRDiffSelections": [],
+      "mentions": {
+        "composers": {},
+        "quotes": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "useWeb": [],
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {},
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "useLinterErrors": [],
+        "useDiffReview": [],
+        "useGenerateRules": [],
+        "useContextPicking": [],
+        "useRememberThis": [],
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "autoContext": [],
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {}
+      }
+    },
+    "gitGraphFileSuggestions": [],
+    "generatingBubbleIds": [],
+    "isReadingLongFile": false,
+    "codeBlockData": {
+      "file:///c%3A/Users/pc/Desktop/play_wav_two_devices.py": {
+        "d21f00c3-ddf7-4e13-9e97-5b239460a242": {
+          "_v": 3,
+          "bubbleId": "1a29b79a-867c-4bc3-9ec0-d68cd40c926c",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/play_wav_two_devices.py",
+            "path": "/c:/Users/pc/Desktop/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "d21f00c3-ddf7-4e13-9e97-5b239460a242",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770620382810,
+          "composerChatGenerationUuid": "58a39c93-7338-42a6-9abd-7b16d8d6074e",
+          "diffId": "e80eb71f-2639-43eb-9f83-622d3e0f7720",
+          "lastDiffId": "6ded9c69-4afd-430b-90a8-3ce4111dd061",
+          "lastAppliedAt": 1770620395589
+        }
+      },
+      "file:///k%3A/PTS3_V3/play_wav_two_devices.py": {
+        "26b33686-0c3e-462d-a022-c23f07ed74f5": {
+          "_v": 3,
+          "bubbleId": "c6acb2cd-ca42-4f9a-9246-6fbbec459b64",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "26b33686-0c3e-462d-a022-c23f07ed74f5",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770624370456,
+          "composerChatGenerationUuid": "5ec25987-72c1-4c2e-8020-acc16a29fe19",
+          "diffId": "75dc7882-dd71-4cc3-8e7b-f4cfae0e9656",
+          "lastDiffId": "49bd3fa1-510c-459f-b60b-7ced370ed519",
+          "lastAppliedAt": 1770624371830
+        },
+        "4be2376d-1eb5-4f1d-b115-1be067bac789": {
+          "_v": 3,
+          "bubbleId": "362ff61b-12cb-4ab1-bfcc-ac6829a951bb",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "4be2376d-1eb5-4f1d-b115-1be067bac789",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "26b33686-0c3e-462d-a022-c23f07ed74f5",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770624532272,
+          "composerChatGenerationUuid": "413cadd6-1199-481f-8215-4cd08da673cb",
+          "diffId": "a8bde8c8-988b-4382-a205-d6f16c0a8b8d",
+          "lastDiffId": "8440fbec-322a-4aa1-accb-a09f4dd6434c",
+          "lastAppliedAt": 1770624536460
+        },
+        "2ef4727c-515c-4659-afe5-4af846f704fd": {
+          "_v": 3,
+          "bubbleId": "b62dd392-1552-44d3-8356-2e40ac6066c5",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "2ef4727c-515c-4659-afe5-4af846f704fd",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "4be2376d-1eb5-4f1d-b115-1be067bac789",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770624537993,
+          "composerChatGenerationUuid": "413cadd6-1199-481f-8215-4cd08da673cb",
+          "diffId": "43d50c2b-df60-4583-a4b0-827ba2bd5156",
+          "lastDiffId": "8bc7fcf9-24ff-4474-8107-16bd684925b5",
+          "lastAppliedAt": 1770624542761
+        },
+        "5ed08f2d-221f-4c2a-b727-f41cd6c92dd5": {
+          "_v": 3,
+          "bubbleId": "c1ae3825-0732-4e1a-9a4a-4a9c31d8a9a8",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "5ed08f2d-221f-4c2a-b727-f41cd6c92dd5",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "2ef4727c-515c-4659-afe5-4af846f704fd",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770624544821,
+          "composerChatGenerationUuid": "413cadd6-1199-481f-8215-4cd08da673cb",
+          "diffId": "a7cbb559-d069-47ae-b11b-23e86ea3163a",
+          "lastDiffId": "9de5c41b-5e1e-435e-aad6-38fefcd1aafe",
+          "lastAppliedAt": 1770624548582
+        },
+        "ac7b87dc-4db3-4199-96ad-604b99cdef54": {
+          "_v": 3,
+          "bubbleId": "7e3b1786-3e42-4c97-8805-b8e76ed1bea3",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "ac7b87dc-4db3-4199-96ad-604b99cdef54",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "5ed08f2d-221f-4c2a-b727-f41cd6c92dd5",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770625069517,
+          "composerChatGenerationUuid": "a56408be-bf21-4639-9e32-134c3cdc055f",
+          "diffId": "38e67842-95ce-489c-b8f0-761b12546e2b",
+          "lastDiffId": "842f095c-50bf-47e5-a511-37fbab6c9aea",
+          "lastAppliedAt": 1770625086147
+        },
+        "ef670df2-6af0-49a4-8dc4-adc5e8d8b2c3": {
+          "_v": 3,
+          "bubbleId": "52e11afe-45b8-4fbe-9d88-012036773bbc",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "ef670df2-6af0-49a4-8dc4-adc5e8d8b2c3",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "ac7b87dc-4db3-4199-96ad-604b99cdef54",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770625088308,
+          "composerChatGenerationUuid": "a56408be-bf21-4639-9e32-134c3cdc055f",
+          "diffId": "35d272ad-584a-4cb1-85a1-145b585e3a8c",
+          "lastDiffId": "33bbf766-3ada-41a0-9ca9-e8843555b4d9",
+          "lastAppliedAt": 1770625090161
+        },
+        "ba4ff30b-5fdc-47f9-9179-149698b51b32": {
+          "_v": 3,
+          "bubbleId": "f4066ebd-4649-47ea-b10d-14af6d3f395d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "ba4ff30b-5fdc-47f9-9179-149698b51b32",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "ef670df2-6af0-49a4-8dc4-adc5e8d8b2c3",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770625402799,
+          "composerChatGenerationUuid": "1123032e-cdd5-47b5-bd61-ab6eabacb8c2",
+          "diffId": "5f3e647b-770f-41e5-8ae7-1f39cb89dcf1",
+          "lastDiffId": "6b02dfe8-7045-49f1-9fab-68ddbe487df7",
+          "lastAppliedAt": 1770625412619
+        },
+        "f7ea2029-1353-4b25-afe1-f2b597b0fb1f": {
+          "_v": 3,
+          "bubbleId": "72380660-d61c-4752-9158-e2d48828af1e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "f7ea2029-1353-4b25-afe1-f2b597b0fb1f",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "ba4ff30b-5fdc-47f9-9179-149698b51b32",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770625415056,
+          "composerChatGenerationUuid": "1123032e-cdd5-47b5-bd61-ab6eabacb8c2",
+          "diffId": "ac655e76-29d8-410e-a0a1-db5cf8c6a1fb",
+          "lastDiffId": "48144884-e1e1-4829-b097-c19ae803f1fc",
+          "lastAppliedAt": 1770625418923
+        },
+        "ef01d72f-311d-4bc8-a14a-510f4fd4d4ec": {
+          "_v": 3,
+          "bubbleId": "e665bde2-2c5c-43c4-9888-a018359097d0",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "ef01d72f-311d-4bc8-a14a-510f4fd4d4ec",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "f7ea2029-1353-4b25-afe1-f2b597b0fb1f",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770625420465,
+          "composerChatGenerationUuid": "1123032e-cdd5-47b5-bd61-ab6eabacb8c2",
+          "diffId": "6488444b-65d4-46ce-9454-a07af1610144",
+          "lastDiffId": "8a4a1cad-8c6a-453f-83fa-7cb016c56c72",
+          "lastAppliedAt": 1770625423483
+        },
+        "0a84a16c-de45-4a69-ac62-95ae19e62f87": {
+          "_v": 3,
+          "bubbleId": "ddf2b510-415e-406c-9916-0459bdf37174",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "0a84a16c-de45-4a69-ac62-95ae19e62f87",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "ef01d72f-311d-4bc8-a14a-510f4fd4d4ec",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770625425023,
+          "composerChatGenerationUuid": "1123032e-cdd5-47b5-bd61-ab6eabacb8c2",
+          "diffId": "078489be-e0c5-45fd-aff8-e5443644d43b",
+          "lastDiffId": "6c8eb56b-4bc6-4234-bd3c-f578cfe75775",
+          "lastAppliedAt": 1770625427207
+        },
+        "68bfd51e-b023-4a91-8663-e757d8642ef4": {
+          "_v": 3,
+          "bubbleId": "14e6458d-9a6e-48a5-ac36-8308fd963273",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "68bfd51e-b023-4a91-8663-e757d8642ef4",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "0a84a16c-de45-4a69-ac62-95ae19e62f87",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770625632073,
+          "composerChatGenerationUuid": "567f57f4-3609-4ede-b090-409fa8eb624f",
+          "diffId": "bc488b5b-506f-4e81-85a1-9a586b5fc4a6",
+          "lastDiffId": "4977e073-9b37-431e-9682-a712238875e0",
+          "lastAppliedAt": 1770625639244
+        },
+        "27cb9fc0-ad4d-4b33-985c-f61c45f0e877": {
+          "_v": 3,
+          "bubbleId": "077d93c8-bdbb-4530-9e47-870f53315e7e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "27cb9fc0-ad4d-4b33-985c-f61c45f0e877",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "68bfd51e-b023-4a91-8663-e757d8642ef4",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770625641263,
+          "composerChatGenerationUuid": "567f57f4-3609-4ede-b090-409fa8eb624f",
+          "diffId": "466e9ec8-1dde-48c0-97f2-8ea9f49ac73b",
+          "lastDiffId": "00a022d6-3402-4755-99de-98b023fd5e05",
+          "lastAppliedAt": 1770625644890
+        },
+        "8609ce9b-36d3-4c73-8fa7-c62cc71cfaea": {
+          "_v": 3,
+          "bubbleId": "ef6ed3f0-056a-41b3-99ce-1952194c0975",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "8609ce9b-36d3-4c73-8fa7-c62cc71cfaea",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "27cb9fc0-ad4d-4b33-985c-f61c45f0e877",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770629300681,
+          "composerChatGenerationUuid": "08186464-addd-467f-af2a-04b8bcb6c1c3",
+          "diffId": "88eeda8b-ac3f-4b3c-8bc3-09b2d67972a7",
+          "lastDiffId": "e768228f-69c1-43f2-94de-d0195dcca891",
+          "lastAppliedAt": 1770629305984
+        },
+        "3c8a79fc-f039-440f-b994-7976144503ce": {
+          "_v": 3,
+          "bubbleId": "0fe72a57-104c-4b93-9017-861fb59d9d9a",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "3c8a79fc-f039-440f-b994-7976144503ce",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "8609ce9b-36d3-4c73-8fa7-c62cc71cfaea",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770629845523,
+          "composerChatGenerationUuid": "efb7f7bf-45da-4904-b78e-94fd7cc6442a",
+          "diffId": "215271e3-e3e6-4e55-8044-a26b9fe1bb12",
+          "lastDiffId": "15ec1b4c-3bba-4225-b0a1-10976dfd5afd",
+          "lastAppliedAt": 1770629860016
+        },
+        "e77097fc-4e77-4248-a535-cab8a4eae8e1": {
+          "_v": 3,
+          "bubbleId": "baeded45-a9f2-4bea-b216-eb3f529beddd",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "e77097fc-4e77-4248-a535-cab8a4eae8e1",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "3c8a79fc-f039-440f-b994-7976144503ce",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770629862029,
+          "composerChatGenerationUuid": "efb7f7bf-45da-4904-b78e-94fd7cc6442a",
+          "diffId": "dae17f00-fad4-4c17-8a75-b5bdd3c0f483",
+          "lastDiffId": "8d9cfb4f-b7b6-40d7-8958-04cf9934ccfe",
+          "lastAppliedAt": 1770629880179
+        },
+        "3d540fec-e2b0-44f2-bdc6-6e9e8b773997": {
+          "_v": 3,
+          "bubbleId": "5cba9e83-bbaa-414c-937c-46dd665da9b0",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "3d540fec-e2b0-44f2-bdc6-6e9e8b773997",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "e77097fc-4e77-4248-a535-cab8a4eae8e1",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770629882745,
+          "composerChatGenerationUuid": "efb7f7bf-45da-4904-b78e-94fd7cc6442a",
+          "diffId": "92e58c8b-7d76-495b-bf74-24c701c0d5cf",
+          "lastDiffId": "999926c1-4da1-4be0-81d2-0fa36bc77208",
+          "lastAppliedAt": 1770629885124
+        },
+        "fd4da6b4-ff21-450b-a9b5-159926d5b109": {
+          "_v": 3,
+          "bubbleId": "c3d21ac2-7fbb-492d-baee-0b41180c9de4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "fd4da6b4-ff21-450b-a9b5-159926d5b109",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "3d540fec-e2b0-44f2-bdc6-6e9e8b773997",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770630103645,
+          "composerChatGenerationUuid": "93335c8c-c76e-4e8d-8df9-47e881f60c59",
+          "diffId": "43f930f0-cb8f-40b4-86b1-028b22ec073c",
+          "lastDiffId": "1829a3f2-1090-4ada-8816-8d9fff274443",
+          "lastAppliedAt": 1770630114514
+        },
+        "f22e6f04-c336-4141-bc82-db12cf2a6ce4": {
+          "_v": 3,
+          "bubbleId": "73aeb7d3-7381-48f4-ac72-2ed8fe6a618d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "f22e6f04-c336-4141-bc82-db12cf2a6ce4",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "fd4da6b4-ff21-450b-a9b5-159926d5b109",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770630118595,
+          "composerChatGenerationUuid": "93335c8c-c76e-4e8d-8df9-47e881f60c59",
+          "diffId": "08269b92-1de8-4439-a623-d3cce5985d0d",
+          "lastDiffId": "98c8b90d-2e5b-414f-8d83-58f41ea7a255",
+          "lastAppliedAt": 1770630120345
+        },
+        "a53105ee-e4e6-44dd-8878-a48e1ce8e061": {
+          "_v": 3,
+          "bubbleId": "2763cc3a-9685-4500-b7a2-3323ee80790f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "a53105ee-e4e6-44dd-8878-a48e1ce8e061",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "f22e6f04-c336-4141-bc82-db12cf2a6ce4",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770630238948,
+          "composerChatGenerationUuid": "40ca8cdb-e7d0-4764-abf6-ada3b3c5d495",
+          "diffId": "36515462-b0d5-4eb6-b37d-ab2d98a01d9b",
+          "lastDiffId": "5cdd8a99-da37-41b7-bdac-31403f953af8",
+          "lastAppliedAt": 1770630250997
+        },
+        "e3b26b94-7722-417a-97bd-7bda7dbdd010": {
+          "_v": 3,
+          "bubbleId": "e2fe4cbc-d8ff-42b6-951d-0dd09e55ccef",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "e3b26b94-7722-417a-97bd-7bda7dbdd010",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "a53105ee-e4e6-44dd-8878-a48e1ce8e061",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770630253458,
+          "composerChatGenerationUuid": "40ca8cdb-e7d0-4764-abf6-ada3b3c5d495",
+          "diffId": "a3d812ec-03d2-4981-b5c9-9b54b7cb6c66",
+          "lastDiffId": "af0fc6eb-767b-4ad2-8561-b9ef2b08b540",
+          "lastAppliedAt": 1770630260415
+        },
+        "4fb1ae28-e187-43de-8c92-1fc845a6df3d": {
+          "_v": 3,
+          "bubbleId": "17eb3bf3-236c-4b10-8854-760cd7c6b920",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "4fb1ae28-e187-43de-8c92-1fc845a6df3d",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "e3b26b94-7722-417a-97bd-7bda7dbdd010",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770631184916,
+          "composerChatGenerationUuid": "10e6a800-78bd-44c9-b167-89e256624765",
+          "diffId": "bc8f9fbe-b90c-49d6-a252-ed00eb4c687d",
+          "lastDiffId": "5e23f39b-83ed-49a4-9dcc-2f0e4b2d7005",
+          "lastAppliedAt": 1770631191297
+        },
+        "aba03984-32d2-4413-a550-d4f7f0a0e0d7": {
+          "_v": 3,
+          "bubbleId": "6c1f1839-7c40-43e7-8c88-853ac49d0d88",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "aba03984-32d2-4413-a550-d4f7f0a0e0d7",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770633639794,
+          "composerChatGenerationUuid": "e7c72a5b-3a8a-4164-a84e-33410a181fbb",
+          "diffId": "cdd38cd7-12d8-421e-b541-4c0f6004ed9f",
+          "lastDiffId": "b2c9e587-db44-4cf4-9ddf-1dd0759b43c9",
+          "lastAppliedAt": 1770633645515
+        },
+        "4cc9f674-464c-4e14-9b6b-7ec8ecc65664": {
+          "_v": 3,
+          "bubbleId": "f927de0c-94f1-487b-b0d2-7337ff6cdb32",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "4cc9f674-464c-4e14-9b6b-7ec8ecc65664",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "aba03984-32d2-4413-a550-d4f7f0a0e0d7",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770633646949,
+          "composerChatGenerationUuid": "e7c72a5b-3a8a-4164-a84e-33410a181fbb",
+          "diffId": "97815b33-94b0-4ae0-a25c-10c07da4b768",
+          "lastDiffId": "9e8759f6-2042-4358-8b18-e517e1aff023",
+          "lastAppliedAt": 1770633652711
+        },
+        "ffbb52c3-57f3-46e7-8688-9e0008442542": {
+          "_v": 3,
+          "bubbleId": "fd55bc94-3bda-4616-8ff1-fff7fdd6d8ce",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "ffbb52c3-57f3-46e7-8688-9e0008442542",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "4cc9f674-464c-4e14-9b6b-7ec8ecc65664",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770633654274,
+          "composerChatGenerationUuid": "e7c72a5b-3a8a-4164-a84e-33410a181fbb",
+          "diffId": "f66d8dc7-30fa-46f6-8cb1-c0209bd9e920",
+          "lastDiffId": "95d460d0-4dfe-4bd2-9b67-32b70bbf5865",
+          "lastAppliedAt": 1770633656889
+        },
+        "d28cf495-f023-4dbf-abce-528fe1a6a7e5": {
+          "_v": 3,
+          "bubbleId": "468adf1c-c67d-4757-8b4d-9aec4ac2b94b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "d28cf495-f023-4dbf-abce-528fe1a6a7e5",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "ffbb52c3-57f3-46e7-8688-9e0008442542",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770633658595,
+          "composerChatGenerationUuid": "e7c72a5b-3a8a-4164-a84e-33410a181fbb",
+          "diffId": "13e98e43-6c49-4787-916a-60881d78f58e",
+          "lastDiffId": "9be3ba70-45cd-4c75-85ba-45ce50ec1cdc",
+          "lastAppliedAt": 1770633660878
+        },
+        "aa67b09d-0312-4b99-a76c-be5f1638f868": {
+          "_v": 3,
+          "bubbleId": "54198110-78f1-48d1-ba89-7189e7fdc6ab",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "aa67b09d-0312-4b99-a76c-be5f1638f868",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "d28cf495-f023-4dbf-abce-528fe1a6a7e5",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770633662447,
+          "composerChatGenerationUuid": "e7c72a5b-3a8a-4164-a84e-33410a181fbb",
+          "diffId": "499689ac-15b8-45c8-8c33-9e5c6ba01c37",
+          "lastDiffId": "24403ca7-0721-4fcc-a91e-90dfba059f7b",
+          "lastAppliedAt": 1770633664798
+        },
+        "c112b38e-9ea2-4e59-8389-2ee98c830be1": {
+          "_v": 3,
+          "bubbleId": "72c43833-5651-45f2-9223-802248d2ea9f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "c112b38e-9ea2-4e59-8389-2ee98c830be1",
+          "status": "accepted",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770633796263,
+          "composerChatGenerationUuid": "73f4803a-051a-4857-b599-81d503570be4",
+          "diffId": "1637719d-fa5d-4fb0-9623-9b142fc98bed",
+          "lastDiffId": "7583bd51-999d-48af-8da4-a8f5bc407699",
+          "lastAppliedAt": 1770633798644
+        },
+        "73e3c844-5416-4a2a-81df-4a1be72ddd46": {
+          "_v": 3,
+          "bubbleId": "743e8b9d-8784-49ce-9779-b5840c696a1e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "73e3c844-5416-4a2a-81df-4a1be72ddd46",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "c112b38e-9ea2-4e59-8389-2ee98c830be1",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770633802889,
+          "composerChatGenerationUuid": "73f4803a-051a-4857-b599-81d503570be4",
+          "diffId": "899a623a-27ec-4520-9b6a-aa86ed2fd344",
+          "lastDiffId": "bff8f426-a1c3-4492-a6a4-21dba01d8867",
+          "lastAppliedAt": 1770633813472
+        },
+        "5b7b14d0-1b52-45e4-b51d-c15b816bbe37": {
+          "_v": 3,
+          "bubbleId": "d97b5d0f-1d46-465d-960a-de2b4dc8ae6e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "5b7b14d0-1b52-45e4-b51d-c15b816bbe37",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "73e3c844-5416-4a2a-81df-4a1be72ddd46",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770634120951,
+          "composerChatGenerationUuid": "ad2649fd-5764-4b91-b472-53547a3816ff",
+          "diffId": "63ed5676-7956-4844-ab4a-b2dae03c324a",
+          "lastDiffId": "fcf40446-e73b-4546-8b81-1087b4fad93e",
+          "lastAppliedAt": 1770634122799
+        },
+        "61fe6cb2-551f-40db-8bac-b4beb59f0a0e": {
+          "_v": 3,
+          "bubbleId": "e125b8ad-6a06-44e5-bb19-bf8d1734a84c",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "61fe6cb2-551f-40db-8bac-b4beb59f0a0e",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "5b7b14d0-1b52-45e4-b51d-c15b816bbe37",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770634125125,
+          "composerChatGenerationUuid": "ad2649fd-5764-4b91-b472-53547a3816ff",
+          "diffId": "46bb51ab-538d-4778-9989-2b32c948754b",
+          "lastDiffId": "047cc53d-9eb2-4ab8-b7d5-2ac72d01086d",
+          "lastAppliedAt": 1770634128842
+        },
+        "a9841dae-5b1d-4444-8c02-c11e408c9ab6": {
+          "_v": 3,
+          "bubbleId": "fca19c88-41a0-49f3-9abf-48508d5e39d9",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "a9841dae-5b1d-4444-8c02-c11e408c9ab6",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "61fe6cb2-551f-40db-8bac-b4beb59f0a0e",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770634131170,
+          "composerChatGenerationUuid": "ad2649fd-5764-4b91-b472-53547a3816ff",
+          "diffId": "6aa72f26-937e-427a-8081-cbb7c186b26b",
+          "lastDiffId": "4e4d7f76-730e-4e23-b20d-eb17da88fd76",
+          "lastAppliedAt": 1770634138641
+        },
+        "4bc31499-fb24-498d-80a3-7c7cc4db3d0b": {
+          "_v": 3,
+          "bubbleId": "d9567918-9986-4ef2-aa06-39e8123ce43b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "4bc31499-fb24-498d-80a3-7c7cc4db3d0b",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "a9841dae-5b1d-4444-8c02-c11e408c9ab6",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770634144018,
+          "composerChatGenerationUuid": "ad2649fd-5764-4b91-b472-53547a3816ff",
+          "diffId": "b335496e-5241-435c-a8fb-624c55e6bb47",
+          "lastDiffId": "a9abe02a-fcd1-445d-9c89-8f52404954c2",
+          "lastAppliedAt": 1770634146897
+        },
+        "789fdef6-589f-4ceb-9804-eb6575eef236": {
+          "_v": 3,
+          "bubbleId": "c9789ece-bf38-4f99-b9c7-b351ab84b20b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "789fdef6-589f-4ceb-9804-eb6575eef236",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "4bc31499-fb24-498d-80a3-7c7cc4db3d0b",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770634150859,
+          "composerChatGenerationUuid": "ad2649fd-5764-4b91-b472-53547a3816ff",
+          "diffId": "735ce6cd-5ef0-48f5-90d7-03e38ea2e280",
+          "lastDiffId": "2646dcf0-0e62-47bc-969f-547032ad95d5",
+          "lastAppliedAt": 1770634152367
+        },
+        "847b939c-cbc6-412a-959a-0f012e1453bb": {
+          "_v": 3,
+          "bubbleId": "55f525bb-2908-4635-bf36-cb083daa56b2",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "847b939c-cbc6-412a-959a-0f012e1453bb",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "789fdef6-589f-4ceb-9804-eb6575eef236",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770634155508,
+          "composerChatGenerationUuid": "ad2649fd-5764-4b91-b472-53547a3816ff",
+          "diffId": "72f4a176-b8f1-4781-a65b-ccdcee5dd761",
+          "lastDiffId": "ffb7f2d8-ea23-4df0-9987-2c8f689e8a9d",
+          "lastAppliedAt": 1770634158249
+        },
+        "5460c696-414c-474b-bae8-caf07366ac90": {
+          "_v": 3,
+          "bubbleId": "6485d204-9dda-40d1-b92e-12f3ca52c324",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "5460c696-414c-474b-bae8-caf07366ac90",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "847b939c-cbc6-412a-959a-0f012e1453bb",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770634162436,
+          "composerChatGenerationUuid": "ad2649fd-5764-4b91-b472-53547a3816ff",
+          "diffId": "2dc748ec-eff6-4021-a0d8-93dda2b550a7",
+          "lastDiffId": "10940d51-675c-4ba3-808c-e25ab04a829d",
+          "lastAppliedAt": 1770634165725
+        },
+        "98836b3f-bf2c-40a8-a2c8-c3db00a8bbf7": {
+          "_v": 3,
+          "bubbleId": "28b3f1a8-9abe-434c-a5fb-10c021fbf44f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "k:\\PTS3_V3\\play_wav_two_devices.py",
+            "_sep": 1,
+            "external": "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+            "path": "/K:/PTS3_V3/play_wav_two_devices.py",
+            "scheme": "file"
+          },
+          "codeblockId": "98836b3f-bf2c-40a8-a2c8-c3db00a8bbf7",
+          "status": "accepted",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "5460c696-414c-474b-bae8-caf07366ac90",
+            "composerId": "e47c3854-28ac-4abe-ae19-fb3023216c56"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1770634176843,
+          "composerChatGenerationUuid": "ad2649fd-5764-4b91-b472-53547a3816ff",
+          "diffId": "d550365b-61f4-4b8e-8766-731cc458048b",
+          "lastDiffId": "24371f2d-6284-4b6c-9bbe-9540f24a9af6",
+          "lastAppliedAt": 1770634178670,
+          "partialInlineDiffFatesId": "9e432765-e40b-4c6f-89d7-cff6d58a2386"
+        }
+      }
+    },
+    "originalFileStates": {
+      "file:///c%3A/Users/pc/Desktop/play_wav_two_devices.py": {
+        "content": "",
+        "firstEditBubbleId": "1a29b79a-867c-4bc3-9ec0-d68cd40c926c",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///k%3A/PTS3_V3/play_wav_two_devices.py": {
+        "content": "import sounddevice as sd\r\nfrom scipy.io import wavfile\r\nimport numpy as np\r\n\r\n\r\ndef play_wav_two_devices(filename: str, dev_a: int, dev_b: int, blocksize: int = 1024) -> None:\r\n    \"\"\"\r\n    Play the same WAV file simultaneously on two output devices using sounddevice.\r\n\r\n    Parameters\r\n    ----------\r\n    filename : str\r\n        Path to the WAV file.\r\n    dev_a : int\r\n        Index of the first output device (see sd.query_devices()).\r\n    dev_b : int\r\n        Index of the second output device.\r\n    blocksize : int, optional\r\n        Block size for streaming audio. 1024–2048 is usually safe for USB devices.\r\n    \"\"\"\r\n    # --- Load WAV file ---\r\n    fs, data = wavfile.read(filename)  # mono or stereo\r\n\r\n    # --- Convert to float32 ---\r\n    if data.dtype == np.int16:\r\n        data = data.astype(np.float32) / 32768.0\r\n    elif data.dtype == np.int32:\r\n        data = data.astype(np.float32) / 2147483648.0\r\n    elif data.dtype == np.uint8:\r\n        # 8-bit WAVs are offset binary [0, 255] → [-1, 1]\r\n        data = (data.astype(np.float32) - 128.0) / 128.0\r\n    elif data.dtype != np.float32:\r\n        data = data.astype(np.float32)\r\n\r\n    # --- Ensure 2D (samples x channels) ---\r\n    if data.ndim == 1:\r\n        data = data[:, np.newaxis]\r\n\r\n    num_samples = data.shape[0]\r\n\r\n    # --- Open and use both output streams ---\r\n    with sd.OutputStream(\r\n        samplerate=fs,\r\n        device=dev_a,\r\n        channels=data.shape[1],\r\n        dtype=\"float32\",\r\n        blocksize=blocksize,\r\n    ) as stream_a, sd.OutputStream(\r\n        samplerate=fs,\r\n        device=dev_b,\r\n        channels=data.shape[1],\r\n        dtype=\"float32\",\r\n        blocksize=blocksize,\r\n    ) as stream_b:\r\n\r\n        for start in range(0, num_samples, blocksize):\r\n            end = min(start + blocksize, num_samples)\r\n            buf = data[start:end]\r\n            stream_a.write(buf)\r\n            stream_b.write(buf)\r\n\r\n\r\nif __name__ == \"__main__\":\r\n    # Edit these for your setup:\r\n    FILENAME = \"your_file.wav\"  # Path to your WAV file\r\n    DEV_A = 3  # USB device 1 index (see sd.query_devices())\r\n    DEV_B = 7  # USB device 2 index\r\n\r\n    play_wav_two_devices(FILENAME, DEV_A, DEV_B)\r\n\r\n",
+        "firstEditBubbleId": "c6acb2cd-ca42-4f9a-9246-6fbbec459b64",
+        "isNewlyCreated": false,
+        "newlyCreatedFolders": []
+      }
+    },
+    "newlyCreatedFiles": [
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop\\play_wav_two_devices.py",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/play_wav_two_devices.py",
+          "path": "/c:/Users/pc/Desktop/play_wav_two_devices.py",
+          "scheme": "file"
+        }
+      }
+    ],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1770634489000,
+    "createdAt": 1770619942267,
+    "hasChangedContext": true,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 34,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 25,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "name": "Simultaneous WAV playback on USB devices",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {},
+    "contextUsagePercent": 59.800498962402344,
+    "allAttachedFileCodeChunksUris": [
+      "file:///c%3A/Users/pc/Desktop/play_wav_two_devices.py",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/6.txt",
+      "file:///k%3A/PTS3_V3/play_wav_two_devices.py",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/4.txt"
+    ],
+    "modelConfig": {
+      "modelName": "composer-1",
+      "maxMode": false
+    },
+    "subComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [
+      {
+        "content": "Create project folder K:\\PTS3   V3 and move existing play_wav_two_devices.py there",
+        "status": "completed",
+        "id": "move-script-to-k",
+        "dependencies": []
+      },
+      {
+        "content": "Add basic project metadata files (README, requirements.txt) in K:\\PTS3   V3",
+        "status": "completed",
+        "id": "init-project-structure",
+        "dependencies": []
+      }
+    ],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 790,
+    "totalLinesRemoved": 27,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isArchived": false,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isSpecSubagentDone": false,
+    "stopHookLoopCount": 0,
+    "speculativeSummarizationEncryptionKey": "9MsioU9j+vGDmyyV1Up0Xq9XiKlHINPceJbxn0j1KRk=",
+    "isNAL": false,
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "",
+    "latestChatGenerationUUID": "41ca90f0-416a-4fe3-bc4b-d7b4930dbbb6",
+    "isAgentic": true,
+    "subtitle": "play_wav_two_devices.py, play_wav_two_devices.py",
+    "filesChangedCount": 2,
+    "firstTodoWriteBubble": "0aeaaa4c-f4e6-4c3b-acce-f09311592a00"
+  },
+  "extracted_at": "2026-04-14T15:54:31.406797"
+}

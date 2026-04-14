@@ -1,0 +1,1244 @@
+{
+  "key": "composerData:e2baad6c-fc4b-485e-8d7b-5122ad090688",
+  "data": {
+    "_v": 11,
+    "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "ad0a9a0e-ebf7-4b42-a24d-0c006f5b195b",
+        "type": 1
+      },
+      {
+        "bubbleId": "086559ae-a040-4363-ad69-34124ad917b9",
+        "type": 2,
+        "serverBubbleId": "b2223b50-baa4-4027-a175-cd79334eb398"
+      },
+      {
+        "bubbleId": "e1c61f90-ffaf-4081-9669-a98049a12f08",
+        "type": 2
+      },
+      {
+        "bubbleId": "830eb710-1497-478e-8649-f43a274bfba0",
+        "type": 1
+      },
+      {
+        "bubbleId": "537fb233-972d-4d56-a578-f143d4a46e0e",
+        "type": 2,
+        "serverBubbleId": "2217bd03-f821-4ae3-8fc7-ffdeb50822cf"
+      },
+      {
+        "bubbleId": "f75c332d-5949-44ac-a0ab-72eb7734b7c4",
+        "type": 2
+      },
+      {
+        "bubbleId": "1196d2d6-0f38-47d7-a2c6-d26cbaa24113",
+        "type": 2
+      },
+      {
+        "bubbleId": "34cf8923-a17e-4651-8be5-d446123999b6",
+        "type": 2,
+        "serverBubbleId": "47ae27f7-b2b8-422e-a832-8fde94fb8408"
+      },
+      {
+        "bubbleId": "32b0b835-b5cb-4618-8d23-187a829174c6",
+        "type": 2
+      },
+      {
+        "bubbleId": "808902a2-8c68-49b9-92dc-c054610ab8ef",
+        "type": 2
+      },
+      {
+        "bubbleId": "66316932-59c5-471e-a175-40d24e388c33",
+        "type": 2
+      },
+      {
+        "bubbleId": "b12ca5f1-5338-40ee-95ca-bde373e00698",
+        "type": 2
+      },
+      {
+        "bubbleId": "edbf08b6-72d0-43aa-b46c-03728b25ab93",
+        "type": 2
+      },
+      {
+        "bubbleId": "a0a4c414-4aa2-4155-b410-95a67c6a0b0d",
+        "type": 2
+      },
+      {
+        "bubbleId": "4d8ef645-090a-4e00-a7b9-fc5b024f3f87",
+        "type": 2
+      },
+      {
+        "bubbleId": "17f2e56f-bad1-4c2f-bda1-554d06facb7f",
+        "type": 2
+      },
+      {
+        "bubbleId": "aabae141-d0cf-4113-842a-acaa4bdcf074",
+        "type": 2,
+        "serverBubbleId": "9232dc3c-425d-493a-b7ce-9fc9656d1c3c"
+      },
+      {
+        "bubbleId": "ecce686a-9e6c-47a8-9246-bca7f29c5142",
+        "type": 2
+      },
+      {
+        "bubbleId": "2c681099-7907-4c24-9ade-a0e2d95f58f0",
+        "type": 2
+      },
+      {
+        "bubbleId": "63a2be48-f4f7-4ef7-be69-350fd443843d",
+        "type": 2,
+        "serverBubbleId": "4cfb5595-c465-48ee-93cb-d11c8d6f204a"
+      },
+      {
+        "bubbleId": "bae4fa41-69c8-4b3f-9ac5-e73f3fecf0e3",
+        "type": 2
+      },
+      {
+        "bubbleId": "a2005313-363b-413f-82f3-4d504e93afa6",
+        "type": 1
+      },
+      {
+        "bubbleId": "14d8d1fa-0dd6-422e-9817-0ba410c342e9",
+        "type": 2,
+        "serverBubbleId": "fbb4aa48-f770-4820-8e49-1e77fef047e3"
+      },
+      {
+        "bubbleId": "e179e816-35e1-414b-808c-7eb1198f6684",
+        "type": 2
+      },
+      {
+        "bubbleId": "88ce3032-1d24-48e7-bb14-f56d5e7f1faf",
+        "type": 2
+      },
+      {
+        "bubbleId": "df3391da-94b9-467b-8bca-ddbe5908bc81",
+        "type": 2,
+        "serverBubbleId": "482b208c-f22d-4bfe-82c1-2488afb245bc"
+      },
+      {
+        "bubbleId": "96787b39-88fa-492c-8344-a0044dd16e59",
+        "type": 2
+      },
+      {
+        "bubbleId": "bdb82823-70b3-4a3e-bb09-75eb439cf554",
+        "type": 2
+      },
+      {
+        "bubbleId": "644e1e19-3b32-4531-a632-54a5ab630c04",
+        "type": 2,
+        "serverBubbleId": "78c70ec0-43b0-44db-bbdd-7f9c6ccf273c"
+      },
+      {
+        "bubbleId": "453737b7-c7a6-4c52-8aed-8a400ec37764",
+        "type": 2
+      },
+      {
+        "bubbleId": "b2792d27-f5d2-4445-a618-90e97cf8a9d1",
+        "type": 2
+      },
+      {
+        "bubbleId": "e65bcff3-b3d7-4f60-9d7c-ba12be1a0bcf",
+        "type": 2,
+        "serverBubbleId": "3a2f5242-4eaa-40c2-a941-0e3122727909"
+      },
+      {
+        "bubbleId": "755d9a3b-5100-4f91-96a8-6401e91491fc",
+        "type": 2
+      },
+      {
+        "bubbleId": "3d5e7b4c-a3d6-44d0-90be-ebfd3c0e4f4e",
+        "type": 2
+      },
+      {
+        "bubbleId": "b19066d0-4e01-48c4-ac15-469d606e3698",
+        "type": 2,
+        "serverBubbleId": "4a83123f-2b8f-4a20-9ecd-8edf8f069f91"
+      },
+      {
+        "bubbleId": "08493cef-8df3-4f7d-a8bf-5dbc82f22e75",
+        "type": 2
+      },
+      {
+        "bubbleId": "86989c03-90f1-4abf-a38c-237ec85786b6",
+        "type": 2
+      },
+      {
+        "bubbleId": "62f31c33-a9b6-436b-b71e-c1c573c46407",
+        "type": 2,
+        "serverBubbleId": "f2edfece-b729-49bf-a98e-a582b79e4358"
+      },
+      {
+        "bubbleId": "a7365c68-7c75-4b5a-8ad1-0fbf78678a9a",
+        "type": 2
+      },
+      {
+        "bubbleId": "1f6d33d1-7280-458a-a485-cdf60cb1a67e",
+        "type": 1
+      },
+      {
+        "bubbleId": "ae1781e0-f55b-4ffe-bc9e-543300bca9cd",
+        "type": 2,
+        "serverBubbleId": "3595c627-4eb5-4a68-9b82-460cb646d757"
+      },
+      {
+        "bubbleId": "bdda1f29-0bf2-44d8-a918-be79296ae3f6",
+        "type": 2
+      },
+      {
+        "bubbleId": "86c69eca-3cd2-4a99-ab11-41c73b69baca",
+        "type": 2
+      },
+      {
+        "bubbleId": "d7f34a8c-055c-4c9d-94e7-07fdbbc51582",
+        "type": 2,
+        "serverBubbleId": "d3f61868-9faa-44b6-bdc9-09bc03d48910"
+      },
+      {
+        "bubbleId": "70f7df89-7339-4937-a7a7-0095a80206c0",
+        "type": 2
+      },
+      {
+        "bubbleId": "3545054b-a640-4e99-968b-f9833e6714bc",
+        "type": 2
+      },
+      {
+        "bubbleId": "6ef3b99f-3905-4159-968e-eb77cc37e7d4",
+        "type": 2,
+        "serverBubbleId": "be0b95d9-d203-4870-9dab-5abe8bed5acf"
+      },
+      {
+        "bubbleId": "4347edec-6258-4391-8261-cacedd3e8c4f",
+        "type": 2
+      },
+      {
+        "bubbleId": "fb610a34-724b-43b9-905e-34222583104a",
+        "type": 2
+      },
+      {
+        "bubbleId": "7757367f-6374-4dbd-ba00-d89f58e00ef1",
+        "type": 2,
+        "serverBubbleId": "e0a895e5-f0e9-46ce-b283-ce6c9acf25dd"
+      },
+      {
+        "bubbleId": "8aac90f5-cdd4-44fd-aec5-4a154f70579f",
+        "type": 2
+      },
+      {
+        "bubbleId": "35f12525-285d-43fa-8e46-a60ecf667641",
+        "type": 2
+      },
+      {
+        "bubbleId": "3262777d-7f9f-4c5b-b1d0-b5f3d5f821c2",
+        "type": 2,
+        "serverBubbleId": "a0777409-f164-4fd0-a684-b1199d8c1327"
+      },
+      {
+        "bubbleId": "acfffe20-fee4-4cfb-a705-972e888cb68f",
+        "type": 2
+      },
+      {
+        "bubbleId": "f8f3caca-a1ab-4071-a07e-92e4be9b9e48",
+        "type": 2
+      },
+      {
+        "bubbleId": "bab42a1a-124c-4267-8b62-ceaa5b2f9664",
+        "type": 2,
+        "serverBubbleId": "8b8d7cb8-955e-4919-a036-8be36fca3ae8"
+      },
+      {
+        "bubbleId": "8ed4a5f4-b79d-4e49-a06d-e0fab86109b5",
+        "type": 2
+      },
+      {
+        "bubbleId": "3020dd76-93b3-428f-821b-453d0913f7d4",
+        "type": 2
+      },
+      {
+        "bubbleId": "a04643b3-6e1c-485a-8551-4591ec623f37",
+        "type": 2,
+        "serverBubbleId": "12232a64-a23f-40d2-bbc0-7486b19ec3d6"
+      },
+      {
+        "bubbleId": "def324cb-36a3-4301-a413-2a75cb02373f",
+        "type": 2
+      },
+      {
+        "bubbleId": "0a275af7-a87a-486e-9839-d7abb2ae07f6",
+        "type": 2
+      },
+      {
+        "bubbleId": "e1857d17-05cb-4766-b09a-09505c43582a",
+        "type": 2,
+        "serverBubbleId": "d4f9baa0-2821-4722-a16d-ce7200d5c796"
+      },
+      {
+        "bubbleId": "c45574fc-049f-429d-968d-c05669a93ff9",
+        "type": 2
+      },
+      {
+        "bubbleId": "221f26a1-d2b6-4960-b8cb-85d624bd8b8f",
+        "type": 2
+      },
+      {
+        "bubbleId": "e2703d5d-e945-4de8-99eb-4846591b0c8f",
+        "type": 2,
+        "serverBubbleId": "dc5918e6-38a1-485a-9b31-6cc46709d8a7"
+      },
+      {
+        "bubbleId": "213ecb2b-9dac-4afe-8f07-6ca036cfd1de",
+        "type": 2
+      },
+      {
+        "bubbleId": "2e2a2bef-8cc3-4178-82bc-3620cc6b0135",
+        "type": 2
+      },
+      {
+        "bubbleId": "d7eca6f6-b8cc-45b1-81bf-88f305174d5f",
+        "type": 2,
+        "serverBubbleId": "457b69f2-a172-4ac5-b228-1c3a7198001d"
+      },
+      {
+        "bubbleId": "5780df07-51df-47b2-b3dd-3155a5cf8280",
+        "type": 2
+      },
+      {
+        "bubbleId": "2605a84e-47c1-479f-bcfe-8df067069771",
+        "type": 1
+      },
+      {
+        "bubbleId": "43b379d6-ad92-4042-8efb-8557174d29b0",
+        "type": 2,
+        "serverBubbleId": "a3ce89fe-ca72-4848-b19c-e5531c713f20"
+      },
+      {
+        "bubbleId": "1663adfb-55c9-40d8-a841-632f15186c59",
+        "type": 2
+      },
+      {
+        "bubbleId": "fa21dcc0-b3b2-4a15-a500-7cb0c657e646",
+        "type": 2
+      },
+      {
+        "bubbleId": "37825301-8585-44b7-866b-7b75cee2d79e",
+        "type": 2,
+        "serverBubbleId": "398fda9f-e558-4fa8-8162-78c0b6306552"
+      },
+      {
+        "bubbleId": "183e2149-c52a-4e52-a000-2bee5048e776",
+        "type": 2
+      },
+      {
+        "bubbleId": "f5c77fee-e42b-4eef-913e-b90657fdb916",
+        "type": 2
+      },
+      {
+        "bubbleId": "d356b091-2ecd-4500-9da6-c4f4bea71514",
+        "type": 2
+      },
+      {
+        "bubbleId": "a0e934cd-c731-44a4-aafa-a6749c9b1e88",
+        "type": 2
+      },
+      {
+        "bubbleId": "8cb8b765-4806-4009-9c49-82cca3d8a7ca",
+        "type": 2
+      },
+      {
+        "bubbleId": "333753d7-b6ea-4af0-99a4-8807c6a31ea9",
+        "type": 2,
+        "serverBubbleId": "3fb03249-ded3-456f-b8f8-d7281deaea19"
+      },
+      {
+        "bubbleId": "39b32291-5764-4bac-9596-e3adf45861c6",
+        "type": 2
+      },
+      {
+        "bubbleId": "1d0238a1-ede0-42f5-9805-db202cf6928c",
+        "type": 2
+      },
+      {
+        "bubbleId": "01bf3caf-0253-4b7c-bdd3-ed4fd03666f1",
+        "type": 2,
+        "serverBubbleId": "deea9b82-141b-4b20-baad-6eb6bd1eed03"
+      },
+      {
+        "bubbleId": "4a5f5654-ec9a-4aa0-a8c1-57862da1608f",
+        "type": 2
+      },
+      {
+        "bubbleId": "20c4a67a-17a9-44da-a247-fbd26526d55c",
+        "type": 2
+      },
+      {
+        "bubbleId": "578c7218-fef2-40c4-a1eb-134c59e14a85",
+        "type": 2,
+        "serverBubbleId": "1e29f614-05e4-45d0-8b01-ce8b0aec8192"
+      },
+      {
+        "bubbleId": "e2219e47-1997-4bff-88a1-4a05ed52be8f",
+        "type": 2
+      },
+      {
+        "bubbleId": "48af0292-e715-4c26-812d-1c60d155eade",
+        "type": 2
+      },
+      {
+        "bubbleId": "f1568327-93f7-4c3a-8e96-160491959b17",
+        "type": 2,
+        "serverBubbleId": "5536ceea-dbfb-47f4-a9a0-72dd24e53894"
+      },
+      {
+        "bubbleId": "dbe0d7fc-068a-4c9f-ad14-4a2571b6db3a",
+        "type": 2
+      },
+      {
+        "bubbleId": "b5ec1b7c-37a7-428e-b198-a7e59fab39fc",
+        "type": 1
+      },
+      {
+        "bubbleId": "0e4754a4-d396-4da8-a303-ee74d3e485b9",
+        "type": 2,
+        "serverBubbleId": "606f559d-1f19-42cc-953d-c9fd5061b6d9"
+      },
+      {
+        "bubbleId": "995e8855-251e-49d5-ad9a-6bf07ff0a24b",
+        "type": 2
+      },
+      {
+        "bubbleId": "bbe6d4af-e6df-4f90-bdef-e2ae14c22f1e",
+        "type": 2
+      },
+      {
+        "bubbleId": "2fee7aed-ab3a-4eb4-b896-f89a9a711d48",
+        "type": 2
+      },
+      {
+        "bubbleId": "0fdc235c-55a1-4931-b915-85f9ef29574b",
+        "type": 2
+      },
+      {
+        "bubbleId": "69bbe15b-ede6-41fe-9a0a-52085ba98d95",
+        "type": 2,
+        "serverBubbleId": "56b4f62d-bc83-46f8-bdaf-17b747a0519d"
+      },
+      {
+        "bubbleId": "1c0b79eb-d660-4245-94bc-ce5045f10c3d",
+        "type": 2
+      },
+      {
+        "bubbleId": "58328a5b-a5f8-4a89-90e7-b42bf14d80eb",
+        "type": 2
+      },
+      {
+        "bubbleId": "747f7a33-a0c0-4d63-829e-9b99457e8aa8",
+        "type": 2
+      },
+      {
+        "bubbleId": "fd3aee18-9dc9-4e90-8b0f-1dd5fc89477f",
+        "type": 2,
+        "serverBubbleId": "02916345-2d04-43d1-99bb-a316757cb158"
+      },
+      {
+        "bubbleId": "c9bc4288-fea3-4c6e-ae82-d0db4708ada2",
+        "type": 2
+      },
+      {
+        "bubbleId": "13175e4b-1ec8-42b4-809a-715effbab853",
+        "type": 2
+      },
+      {
+        "bubbleId": "9fb4c9d7-a6cd-4b30-ad8d-7c8a26287e8b",
+        "type": 2,
+        "serverBubbleId": "16a81692-88a6-46d0-8933-ec6009c56f00"
+      },
+      {
+        "bubbleId": "62142731-638a-44b0-afc2-99cb763f0507",
+        "type": 2
+      },
+      {
+        "bubbleId": "3341946d-b5fa-4af6-af02-d6809d49c18e",
+        "type": 2
+      },
+      {
+        "bubbleId": "bbb31741-45f5-40e3-86ce-7d318078f503",
+        "type": 2,
+        "serverBubbleId": "03689be4-cd7f-4ab3-961e-31fdc3ac8a4f"
+      },
+      {
+        "bubbleId": "3be813eb-210f-4174-8e6f-9b95b80650e7",
+        "type": 2
+      },
+      {
+        "bubbleId": "c5c25db7-217c-4265-80ce-c93558175ed7",
+        "type": 2
+      },
+      {
+        "bubbleId": "d12e3d47-cdb6-427c-872c-df57d66c7cd1",
+        "type": 2,
+        "serverBubbleId": "c41b2a92-15a8-4965-bfe2-4697cbf74f6a"
+      },
+      {
+        "bubbleId": "e3a92cf9-2714-4be0-b789-8442303c7d9f",
+        "type": 2
+      },
+      {
+        "bubbleId": "1269cb3a-e4cb-448d-9d39-40e0af5b19f2",
+        "type": 2
+      },
+      {
+        "bubbleId": "a2e4ed61-10b2-424c-89a0-24190dda9368",
+        "type": 2,
+        "serverBubbleId": "9f817a37-c111-482d-9c4a-19f5e4b6ad08"
+      },
+      {
+        "bubbleId": "981624bb-2978-4e23-b38e-5f0af85ef131",
+        "type": 2
+      },
+      {
+        "bubbleId": "d1522810-ad45-48c1-a3c9-a52f942b55ef",
+        "type": 2
+      },
+      {
+        "bubbleId": "f76968af-44b2-4c46-8e89-a6dc4f83c346",
+        "type": 2,
+        "serverBubbleId": "f2f43103-ef82-4633-9f01-6e3273095847"
+      },
+      {
+        "bubbleId": "e80765e7-88a6-4f5e-b657-3d9c1f220476",
+        "type": 2
+      },
+      {
+        "bubbleId": "5d49e2f3-7f94-4942-aaa3-b1fb6a64c19d",
+        "type": 1
+      },
+      {
+        "bubbleId": "8cd039c0-69bd-4ac7-b32f-b78d25cef3ac",
+        "type": 2,
+        "serverBubbleId": "ebbf9ebc-c954-449b-b980-9bc8508ae187"
+      },
+      {
+        "bubbleId": "cac8b89d-a0d8-430f-b43a-4c1a27fefa71",
+        "type": 2
+      },
+      {
+        "bubbleId": "5839b751-ddad-4806-8346-175f7d3b94de",
+        "type": 2
+      },
+      {
+        "bubbleId": "84660400-6b43-46c6-bc13-d427cb704b6f",
+        "type": 2
+      },
+      {
+        "bubbleId": "2afb1329-f02f-4062-bd7a-56b47c452694",
+        "type": 2,
+        "serverBubbleId": "b7aff69e-6d46-4dfd-b414-6f8f7b2c888b"
+      },
+      {
+        "bubbleId": "f14387fe-8cf5-4b40-865c-fd749c122daf",
+        "type": 2
+      },
+      {
+        "bubbleId": "113fb3a2-d5d2-48e8-8365-c44658e71da9",
+        "type": 2
+      },
+      {
+        "bubbleId": "7edf8cec-62e4-484b-9044-84f236016243",
+        "type": 2,
+        "serverBubbleId": "c3a07865-a050-4248-930c-776e3f1eee93"
+      },
+      {
+        "bubbleId": "a3c7a70d-12e8-4afb-b586-1d2351b985a0",
+        "type": 2
+      },
+      {
+        "bubbleId": "1e468d59-1983-4c10-8922-dc818eac8032",
+        "type": 2
+      },
+      {
+        "bubbleId": "ad655444-78ae-49e4-8cb5-767d52dacb42",
+        "type": 2
+      },
+      {
+        "bubbleId": "bffdd029-541a-450d-a5e2-06159b25fbb3",
+        "type": 2,
+        "serverBubbleId": "59f6041f-e0d2-41a4-93f4-0a44340e051a"
+      },
+      {
+        "bubbleId": "8593ab42-c99d-41c9-9e56-90963afd249e",
+        "type": 2
+      },
+      {
+        "bubbleId": "49e0d0ce-989f-4828-9a80-2585571bb02b",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f63df66-8b4d-472d-8cc0-2c2ef15a4ea8",
+        "type": 2,
+        "serverBubbleId": "f5f1b4be-e8ad-4853-a3bd-fb805802da76"
+      },
+      {
+        "bubbleId": "44fd9688-5e1a-40c5-b22d-fbb2d5ebc1ba",
+        "type": 2
+      },
+      {
+        "bubbleId": "10fc8530-c4c5-4a10-a503-5e501fdb517c",
+        "type": 2
+      },
+      {
+        "bubbleId": "37eb8c08-2d08-4c08-ba4f-ee272568bfd3",
+        "type": 2
+      },
+      {
+        "bubbleId": "4814051b-c019-4368-892d-e3da96019efb",
+        "type": 2,
+        "serverBubbleId": "7f65ceff-d75c-4b13-81a9-ce946a0b55c7"
+      },
+      {
+        "bubbleId": "75091742-08c2-49dc-a432-3b29a45ec5e6",
+        "type": 2
+      },
+      {
+        "bubbleId": "ff3d26ef-85af-413c-bbbd-5e87c742918c",
+        "type": 2
+      },
+      {
+        "bubbleId": "4bdc6ccb-162d-4041-9a29-b675c147cf05",
+        "type": 2,
+        "serverBubbleId": "606f1b49-c92a-4202-ab8a-9569c0549984"
+      },
+      {
+        "bubbleId": "89de951c-1d4f-4fdb-98b9-c94d28e187fa",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "completed",
+    "context": {
+      "composers": [],
+      "quotes": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "ideEditorsState": true,
+      "gitPRDiffSelections": [],
+      "mentions": {
+        "composers": {},
+        "quotes": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "useWeb": [],
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {},
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "useLinterErrors": [],
+        "useDiffReview": [],
+        "useGenerateRules": [],
+        "useContextPicking": [],
+        "useRememberThis": [],
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "autoContext": [],
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {}
+      }
+    },
+    "gitGraphFileSuggestions": [],
+    "generatingBubbleIds": [],
+    "isReadingLongFile": false,
+    "codeBlockData": {
+      "file:///c%3A/Users/pc/Desktop/sentence_typer.py": {
+        "c8f9c87a-c535-4fa4-b10a-07f4a65948f1": {
+          "_v": 3,
+          "bubbleId": "808902a2-8c68-49b9-92dc-c054610ab8ef",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "c8f9c87a-c535-4fa4-b10a-07f4a65948f1",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078331352,
+          "composerChatGenerationUuid": "d6deff0f-4877-4ded-8372-5e9c9c153180",
+          "diffId": "a963241d-238d-49c2-a13c-482f4789d7bb",
+          "lastDiffId": "deeca306-6842-4e48-aca0-0a555361e577",
+          "lastAppliedAt": 1769078333688
+        },
+        "2af75712-1b0f-473a-a0c4-7cfa30b01a95": {
+          "_v": 3,
+          "bubbleId": "66316932-59c5-471e-a175-40d24e388c33",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "2af75712-1b0f-473a-a0c4-7cfa30b01a95",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "c8f9c87a-c535-4fa4-b10a-07f4a65948f1",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078334301,
+          "composerChatGenerationUuid": "d6deff0f-4877-4ded-8372-5e9c9c153180",
+          "diffId": "f2220904-5d71-43ad-b46e-327294f04251",
+          "lastDiffId": "41641dcf-ee92-4640-92b8-ae80befc6a49",
+          "lastAppliedAt": 1769078335464
+        },
+        "61d7ee68-9377-4083-a2dd-043bb26d9a73": {
+          "_v": 3,
+          "bubbleId": "b12ca5f1-5338-40ee-95ca-bde373e00698",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "61d7ee68-9377-4083-a2dd-043bb26d9a73",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "2af75712-1b0f-473a-a0c4-7cfa30b01a95",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078336001,
+          "composerChatGenerationUuid": "d6deff0f-4877-4ded-8372-5e9c9c153180",
+          "diffId": "1b9ebc77-c8db-4823-8006-39923e84e737",
+          "lastDiffId": "f5d08d3b-8209-4707-b976-605a11fe9135",
+          "lastAppliedAt": 1769078337189
+        },
+        "b6be7427-13e1-441b-9a26-2606152a461c": {
+          "_v": 3,
+          "bubbleId": "edbf08b6-72d0-43aa-b46c-03728b25ab93",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "b6be7427-13e1-441b-9a26-2606152a461c",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "61d7ee68-9377-4083-a2dd-043bb26d9a73",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078337814,
+          "composerChatGenerationUuid": "d6deff0f-4877-4ded-8372-5e9c9c153180",
+          "diffId": "44e13eb6-6a0f-4c1b-86e8-b6c9ed5ba0e1",
+          "lastDiffId": "e823d8e1-d129-423a-b5e4-c4cf2ae12a41",
+          "lastAppliedAt": 1769078338600
+        },
+        "d15db746-78ef-4525-8e7d-22d91454369e": {
+          "_v": 3,
+          "bubbleId": "a0a4c414-4aa2-4155-b410-95a67c6a0b0d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "d15db746-78ef-4525-8e7d-22d91454369e",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "b6be7427-13e1-441b-9a26-2606152a461c",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078339140,
+          "composerChatGenerationUuid": "d6deff0f-4877-4ded-8372-5e9c9c153180",
+          "diffId": "7ca9a85a-e519-4284-8469-a526679f4ea9",
+          "lastDiffId": "1ce6dc0e-fcc5-446e-907d-18102d5ebf39",
+          "lastAppliedAt": 1769078339890
+        },
+        "86725ce1-1f5c-44a1-8a13-ae11ecd82d6d": {
+          "_v": 3,
+          "bubbleId": "4d8ef645-090a-4e00-a7b9-fc5b024f3f87",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "86725ce1-1f5c-44a1-8a13-ae11ecd82d6d",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "d15db746-78ef-4525-8e7d-22d91454369e",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078340424,
+          "composerChatGenerationUuid": "d6deff0f-4877-4ded-8372-5e9c9c153180",
+          "diffId": "5f373e37-0439-46e6-8bd5-ee1bd297e1ef",
+          "lastDiffId": "d10351d0-a337-442c-873d-fcb442dae86b",
+          "lastAppliedAt": 1769078341210
+        },
+        "e64de237-afd8-46e2-b72e-3645bd1024bd": {
+          "_v": 3,
+          "bubbleId": "17f2e56f-bad1-4c2f-bda1-554d06facb7f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "e64de237-afd8-46e2-b72e-3645bd1024bd",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "86725ce1-1f5c-44a1-8a13-ae11ecd82d6d",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078341765,
+          "composerChatGenerationUuid": "d6deff0f-4877-4ded-8372-5e9c9c153180",
+          "diffId": "71fd015d-edbd-4b88-ae49-1855ef40e8f6",
+          "lastDiffId": "f5043c37-6dd1-4c10-9e08-75f4579728b5",
+          "lastAppliedAt": 1769078342549
+        },
+        "81e23b78-87e4-42cd-9c95-ca29d03e6ad2": {
+          "_v": 3,
+          "bubbleId": "3d5e7b4c-a3d6-44d0-90be-ebfd3c0e4f4e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "81e23b78-87e4-42cd-9c95-ca29d03e6ad2",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "e64de237-afd8-46e2-b72e-3645bd1024bd",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078748155,
+          "composerChatGenerationUuid": "80662064-4358-4839-8934-1dbe6b139450",
+          "diffId": "77200489-e25e-42e7-937e-f4eca7ff9046",
+          "lastDiffId": "743792ff-6259-4edb-8990-0ed58f5c071e",
+          "lastAppliedAt": 1769078749686
+        },
+        "b6bf7066-160b-485d-b849-4a135e48ae2d": {
+          "_v": 3,
+          "bubbleId": "3545054b-a640-4e99-968b-f9833e6714bc",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "b6bf7066-160b-485d-b849-4a135e48ae2d",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "81e23b78-87e4-42cd-9c95-ca29d03e6ad2",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078839698,
+          "composerChatGenerationUuid": "b3fb22d3-a97b-4e4e-8076-359ef6f04fb2",
+          "diffId": "202f1ec2-381b-4585-907d-450fa19cd9de",
+          "lastDiffId": "5feae726-fc40-468d-8a56-073a31d45e97",
+          "lastAppliedAt": 1769078840475
+        },
+        "a018c0c8-df39-46f6-9e27-1cd67fe08629": {
+          "_v": 3,
+          "bubbleId": "35f12525-285d-43fa-8e46-a60ecf667641",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "a018c0c8-df39-46f6-9e27-1cd67fe08629",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "b6bf7066-160b-485d-b849-4a135e48ae2d",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078842903,
+          "composerChatGenerationUuid": "b3fb22d3-a97b-4e4e-8076-359ef6f04fb2",
+          "diffId": "ac53d6b5-f4ef-49df-9c7e-dad5ee34e857",
+          "lastDiffId": "3b25f9b8-2849-495d-b11a-73b2332e31ed",
+          "lastAppliedAt": 1769078843787
+        },
+        "264f69fa-7464-4bd4-b5b7-1f3d90b4d38f": {
+          "_v": 3,
+          "bubbleId": "3020dd76-93b3-428f-821b-453d0913f7d4",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "264f69fa-7464-4bd4-b5b7-1f3d90b4d38f",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "a018c0c8-df39-46f6-9e27-1cd67fe08629",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078846775,
+          "composerChatGenerationUuid": "b3fb22d3-a97b-4e4e-8076-359ef6f04fb2",
+          "diffId": "759dc01d-1aef-4f1d-b7a7-53579ec8b159",
+          "lastDiffId": "00f2fec6-f2cf-4eed-b555-66be498db65e",
+          "lastAppliedAt": 1769078848173
+        },
+        "3c3f8077-d616-45c9-b76f-eb74ab164bcb": {
+          "_v": 3,
+          "bubbleId": "221f26a1-d2b6-4960-b8cb-85d624bd8b8f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "3c3f8077-d616-45c9-b76f-eb74ab164bcb",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "264f69fa-7464-4bd4-b5b7-1f3d90b4d38f",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078850606,
+          "composerChatGenerationUuid": "b3fb22d3-a97b-4e4e-8076-359ef6f04fb2",
+          "diffId": "2794644e-c7c7-40c0-9a0c-c678b799e803",
+          "lastDiffId": "fe618fe0-3570-4b22-8723-5d63e2190e95",
+          "lastAppliedAt": 1769078851489
+        },
+        "c47b2e0c-47c1-4da5-9b65-7891c74809f8": {
+          "_v": 3,
+          "bubbleId": "f5c77fee-e42b-4eef-913e-b90657fdb916",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "c47b2e0c-47c1-4da5-9b65-7891c74809f8",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "3c3f8077-d616-45c9-b76f-eb74ab164bcb",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078936359,
+          "composerChatGenerationUuid": "5cdf6554-228d-4b89-a699-3f19d23499a2",
+          "diffId": "bbc22fa1-f731-4093-b401-06b192155d69",
+          "lastDiffId": "4a5af0eb-5447-48e4-bdc2-b91f7aa00065",
+          "lastAppliedAt": 1769078938840
+        },
+        "d110f112-94be-4991-9a70-41ca1ba69baa": {
+          "_v": 3,
+          "bubbleId": "d356b091-2ecd-4500-9da6-c4f4bea71514",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "d110f112-94be-4991-9a70-41ca1ba69baa",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "c47b2e0c-47c1-4da5-9b65-7891c74809f8",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078939358,
+          "composerChatGenerationUuid": "5cdf6554-228d-4b89-a699-3f19d23499a2",
+          "diffId": "23daae6d-56d2-48d7-9a08-7cea5d41c988",
+          "lastDiffId": "442a3dce-faf1-48d0-81f1-9c784c39a8f4",
+          "lastAppliedAt": 1769078940647
+        },
+        "7c83ab86-7616-442b-a585-4b9a3420e824": {
+          "_v": 3,
+          "bubbleId": "a0e934cd-c731-44a4-aafa-a6749c9b1e88",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "7c83ab86-7616-442b-a585-4b9a3420e824",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "d110f112-94be-4991-9a70-41ca1ba69baa",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078940988,
+          "composerChatGenerationUuid": "5cdf6554-228d-4b89-a699-3f19d23499a2",
+          "diffId": "827d2376-569a-4893-bf3d-ef598f6e7256",
+          "lastDiffId": "3239f04e-0883-4a71-82f5-876d7fd45050",
+          "lastAppliedAt": 1769078941738
+        },
+        "4d1fd6fa-c74e-494d-8a31-704f7161b0c4": {
+          "_v": 3,
+          "bubbleId": "8cb8b765-4806-4009-9c49-82cca3d8a7ca",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\sentence_typer.py",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+            "path": "/c:/Users/pc/Desktop/sentence_typer.py",
+            "scheme": "file"
+          },
+          "codeblockId": "4d1fd6fa-c74e-494d-8a31-704f7161b0c4",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "7c83ab86-7616-442b-a585-4b9a3420e824",
+            "composerId": "e2baad6c-fc4b-485e-8d7b-5122ad090688"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769078942087,
+          "composerChatGenerationUuid": "5cdf6554-228d-4b89-a699-3f19d23499a2",
+          "diffId": "99d578ae-db5e-4646-9f59-5ef022500116",
+          "lastDiffId": "6b4f009c-3422-4678-bb65-c99b2122b7fb",
+          "lastAppliedAt": 1769078943254
+        }
+      },
+      "file:///c%3A/Users/pc/Desktop/SentenceTyper.spec": {
+        "069a2222-de0b-4893-973d-73c36dba13d6": {
+          "_v": 3,
+          "bubbleId": "3341946d-b5fa-4af6-af02-d6809d49c18e",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\pc\\Desktop\\SentenceTyper.spec",
+            "_sep": 1,
+            "external": "file:///c%3A/Users/pc/Desktop/SentenceTyper.spec",
+            "path": "/c:/Users/pc/Desktop/SentenceTyper.spec",
+            "scheme": "file"
+          },
+          "codeblockId": "069a2222-de0b-4893-973d-73c36dba13d6",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769322948388,
+          "composerChatGenerationUuid": "e1d31a55-9201-441d-8956-b1b1ebf903b0",
+          "diffId": "83575b4f-3396-4932-8982-dad1cd79782e",
+          "lastDiffId": "2e1fdea8-67e4-40ff-91b8-398ea2f9242f",
+          "lastAppliedAt": 1769322951238
+        }
+      }
+    },
+    "originalFileStates": {
+      "file:///c%3A/Users/pc/Desktop/sentence_typer.py": {
+        "content": "import time\nimport threading\nfrom pynput.keyboard import Controller\nimport tkinter as tk\nfrom tkinter import scrolledtext, messagebox\n\n# Initialize the keyboard controller\nkeyboard = Controller()\n\n# Initialize typing speed (delay between characters in seconds)\ntyping_speed = 0.05  # Default: 0.05 seconds between characters\n\n# Function to type a sentence\ndef type_sentence(sentence):\n    \"\"\"Types the given sentence character by character\"\"\"\n    global typing_speed\n    for char in sentence:\n        keyboard.type(char)\n        time.sleep(typing_speed)  # Delay between characters\n\n# Function to handle the submit action\ndef submit_sentence():\n    sentence = sentence_entry.get(\"1.0\", tk.END).strip()\n    \n    if not sentence:\n        messagebox.showwarning(\"Warning\", \"Please enter a sentence to type.\")\n        return\n    \n    # Get delay time\n    try:\n        delay = int(delay_entry.get().strip())\n        if delay < 0:\n            raise ValueError(\"Delay must be a positive number\")\n    except ValueError:\n        messagebox.showerror(\"Error\", \"Please enter a valid delay time (in seconds).\")\n        return\n    \n    # Disable the submit button during countdown\n    submit_button.config(state='disabled')\n    \n    # Update status\n    status_label.config(text=f\"Starting in {delay}s...\", fg=\"orange\")\n    root.update()\n    \n    # Run the typing sequence in a separate thread\n    typing_thread = threading.Thread(target=countdown_and_type, args=(sentence, delay))\n    typing_thread.daemon = True\n    typing_thread.start()\n\ndef countdown_and_type(sentence, delay):\n    \"\"\"Countdown for specified seconds, then type the sentence\"\"\"\n    # Countdown from delay to 1\n    for remaining in range(delay, 0, -1):\n        status_label.config(text=f\"Starting in {remaining}s...\", fg=\"orange\")\n        root.update()\n        time.sleep(1)\n    \n    # Final message\n    status_label.config(text=\"Typing...\", fg=\"green\")\n    root.update()\n    \n    # Type the sentence\n    time.sleep(0.5)  # Small delay before typing starts\n    type_sentence(sentence)\n    \n    # Update status\n    status_label.config(text=\"Done!\", fg=\"blue\")\n    root.update()\n    \n    # Re-enable the submit button\n    submit_button.config(state='normal')\n\n# Function to clear the sentence field\ndef clear_sentence():\n    sentence_entry.delete(\"1.0\", tk.END)\n\n# Function to increase typing speed (decrease delay)\ndef increase_speed():\n    global typing_speed\n    if typing_speed > 0.01:  # Minimum delay of 0.01 seconds\n        typing_speed -= 0.01\n        typing_speed = round(typing_speed, 2)  # Round to 2 decimal places\n        update_speed_display()\n\n# Function to decrease typing speed (increase delay)\ndef decrease_speed():\n    global typing_speed\n    if typing_speed < 1.0:  # Maximum delay of 1.0 seconds\n        typing_speed += 0.01\n        typing_speed = round(typing_speed, 2)  # Round to 2 decimal places\n        update_speed_display()\n\n# Function to update the speed display label\ndef update_speed_display():\n    global typing_speed\n    cps = round(1.0 / typing_speed, 1) if typing_speed > 0 else 0\n    speed_display_label.config(text=f\"{cps} chars/sec\")\n\n# Create the main window\nroot = tk.Tk()\nroot.title(\"Sentence Typer\")\nroot.geometry(\"500x350\")\n\n# Create main frame\nmain_frame = tk.Frame(root, padx=15, pady=15)\nmain_frame.pack(fill=tk.BOTH, expand=True)\n\n# Controls frame - compact layout\ncontrols_frame = tk.Frame(main_frame)\ncontrols_frame.pack(pady=(0, 8))\n\n# Delay\ntk.Label(controls_frame, text=\"Delay:\", font=(\"Arial\", 10)).pack(side=tk.LEFT, padx=(0, 5))\ndelay_entry = tk.Entry(controls_frame, font=(\"Arial\", 10), width=5, justify='center')\ndelay_entry.pack(side=tk.LEFT, padx=(0, 15))\ndelay_entry.insert(0, \"4\")\n\n# Speed\ntk.Label(controls_frame, text=\"Speed:\", font=(\"Arial\", 10)).pack(side=tk.LEFT, padx=(0, 5))\ndecrease_speed_button = tk.Button(controls_frame, text=\"−\", command=decrease_speed, font=(\"Arial\", 10), bg=\"lightcoral\", fg=\"white\", width=2)\ndecrease_speed_button.pack(side=tk.LEFT, padx=2)\nspeed_display_label = tk.Label(controls_frame, text=\"20.0\", font=(\"Arial\", 10), fg=\"blue\", width=6)\nspeed_display_label.pack(side=tk.LEFT, padx=2)\nincrease_speed_button = tk.Button(controls_frame, text=\"+\", command=increase_speed, font=(\"Arial\", 10), bg=\"lightgreen\", fg=\"white\", width=2)\nincrease_speed_button.pack(side=tk.LEFT, padx=2)\n\n# Sentence entry field\nsentence_entry = scrolledtext.ScrolledText(main_frame, wrap=tk.WORD, width=55, height=6, font=(\"Consolas\", 10))\nsentence_entry.pack(pady=(0, 8), fill=tk.BOTH, expand=True)\nsentence_entry.focus()\n\n# Buttons and status frame\nbottom_frame = tk.Frame(main_frame)\nbottom_frame.pack(pady=(5, 0))\n\nsubmit_button = tk.Button(bottom_frame, text=\"Submit\", command=submit_sentence, font=(\"Arial\", 11), bg=\"green\", fg=\"white\", padx=15, pady=3)\nsubmit_button.pack(side=tk.LEFT, padx=5)\n\nclear_button = tk.Button(bottom_frame, text=\"Clear\", command=clear_sentence, font=(\"Arial\", 10), bg=\"lightgray\", fg=\"black\", padx=10, pady=3)\nclear_button.pack(side=tk.LEFT, padx=5)\n\nstatus_label = tk.Label(bottom_frame, text=\"Ready\", font=(\"Arial\", 10), fg=\"gray\")\nstatus_label.pack(side=tk.LEFT, padx=15)\n\n# Initialize speed display\nupdate_speed_display()\n\n# Start the GUI loop\nroot.mainloop()\n\n",
+        "firstEditBubbleId": "808902a2-8c68-49b9-92dc-c054610ab8ef",
+        "isNewlyCreated": false,
+        "newlyCreatedFolders": []
+      },
+      "file:///c%3A/Users/pc/Desktop/SentenceTyper.spec": {
+        "content": "# -*- mode: python ; coding: utf-8 -*-\n\n\na = Analysis(\n    ['sentence_typer.py'],\n    pathex=[],\n    binaries=[],\n    datas=[],\n    hiddenimports=[],\n    hookspath=[],\n    hooksconfig={},\n    runtime_hooks=[],\n    excludes=[],\n    noarchive=False,\n    optimize=0,\n)\npyz = PYZ(a.pure)\n\nexe = EXE(\n    pyz,\n    a.scripts,\n    a.binaries,\n    a.datas,\n    [],\n    name='SentenceTyper',\n    debug=False,\n    bootloader_ignore_signals=False,\n    strip=False,\n    upx=True,\n    upx_exclude=[],\n    runtime_tmpdir=None,\n    console=False,\n    disable_windowed_traceback=False,\n    argv_emulation=False,\n    target_arch=None,\n    codesign_identity=None,\n    entitlements_file=None,\n)\n",
+        "firstEditBubbleId": "3341946d-b5fa-4af6-af02-d6809d49c18e",
+        "isNewlyCreated": false,
+        "newlyCreatedFolders": []
+      }
+    },
+    "newlyCreatedFiles": [],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1769323213174,
+    "createdAt": 1769075624280,
+    "hasChangedContext": true,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 34,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 25,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "name": "Sentence typer script modifications",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {},
+    "contextUsagePercent": 18.977996826171875,
+    "allAttachedFileCodeChunksUris": [
+      "file:///c%3A/Users/pc/Desktop/sentence_typer.py",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
+      "file:///c%3A/Users/pc/Desktop/SentenceTyper.spec"
+    ],
+    "modelConfig": {
+      "modelName": "default",
+      "maxMode": false
+    },
+    "subComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 69,
+    "totalLinesRemoved": 22,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isArchived": false,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isSpecSubagentDone": false,
+    "stopHookLoopCount": 0,
+    "speculativeSummarizationEncryptionKey": "q8SoXzKVLWqHcfQxNgI3QKCb/XGb42UASkbBy5hgCDU=",
+    "isNAL": false,
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "",
+    "latestChatGenerationUUID": "727f5a35-c1b1-4969-93f2-0b68e42ad30c",
+    "isAgentic": true,
+    "subtitle": "sentence_typer.py, SentenceTyper.spec",
+    "filesChangedCount": 2
+  },
+  "extracted_at": "2026-04-14T15:54:31.406797"
+}

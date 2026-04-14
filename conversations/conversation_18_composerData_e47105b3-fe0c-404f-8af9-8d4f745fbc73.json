@@ -79,6 +79,127 @@
       {
         "bubbleId": "491f7d27-7bdd-44a9-922c-6b4b44d55408",
         "type": 2
+      },
+      {
+        "bubbleId": "ae1bc277-e602-4a7c-a6b6-7c92c98ba486",
+        "type": 1
+      },
+      {
+        "bubbleId": "ead69314-ff4b-4f1b-ac3c-0ed5a297277d",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "736a55fb-4930-49f9-aae8-a72daa98122b",
+        "type": 2
+      },
+      {
+        "bubbleId": "d70e031c-3bdd-417d-804a-c46157a7bab4",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_vgGU7NyfbeSpHxwzYP2WrfPu\nfc_0151280c8f8e5b396fb566fe8366256e14959790f4f334dfd04bfa11adb7c"
+        }
+      },
+      {
+        "bubbleId": "01c9570a-d70f-4150-9388-2e57aefbe468",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 38,
+          "toolCallId": "call_362V9ZgJ6vpBarDhzNWU23GF\nctc_04ebf679d95850c90169de14957ef081a0b473886f7ca855ce"
+        }
+      },
+      {
+        "bubbleId": "b31a9d4e-c69a-44e1-af0a-fa586349a954",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_utvloDLl1VtAQSeFqxjDCXwH\nfc_018008e16487d75f207a10e683d2c122b1dbdc08aad29ff84d2a3dff9d3d9"
+        }
+      },
+      {
+        "bubbleId": "1ac8ddec-410f-4c87-87d0-5c1ffe0d750e",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "84c3d45f-7e03-4976-828a-13849d693e82",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 38,
+          "toolCallId": "call_UgzHtC2STN8VA7olQedRnauQ\nctc_04ebf679d95850c90169de14ad5f5c81a091a97e3e7856362d"
+        }
+      },
+      {
+        "bubbleId": "ee2ec5b9-134b-4863-ae8f-9a62d233b8d7",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_RdjkgbmJ4FVv7medZw4h7sBY\nfc_01fe7fb380c7f0495eb778dcafb49c5700bc6fdebfd91dcd20fb9ae72fc81"
+        }
+      },
+      {
+        "bubbleId": "a6eb37b5-b961-4366-a7b5-7f38d1e57349",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_SY8ZborsFves3givcUXsAkiP\nfc_01026671e6c86b98f680e73b1d293ba05a03269d315a31d81a8fda36ca2e3"
+        }
+      },
+      {
+        "bubbleId": "6214d9c0-ecde-488a-8905-aecd9e22eaae",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "b998b8f7-e9bd-403e-815b-b0bff7e45ccf",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_QKxMm7gOe4NcWYmcZSRxmMjC\nfc_014fd4e8fa1b8456129eb69c53e36501869e2cccfac21fc3ad738d004ec80"
+        }
+      },
+      {
+        "bubbleId": "25907f5d-f269-432f-8f26-0bf66dbe6152",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "546abc45-4618-4ce3-bb94-8720fc941de2",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 38,
+          "toolCallId": "call_8gh7CX7gYsURkQxQ58nU317h\nctc_04ebf679d95850c90169de14cc066881a09a774a279798f5ec"
+        }
+      },
+      {
+        "bubbleId": "17d0e921-db6d-461a-857f-79ca12f7df38",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 38,
+          "toolCallId": "call_rxdy7j1NJS2OdI4fPLBeWWGd\nctc_04ebf679d95850c90169de14d616c881a09c6a9dccf1416dd2"
+        }
+      },
+      {
+        "bubbleId": "7adff1cc-9ef9-4001-b911-106732f61887",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -147,8 +268,8 @@
       }
     ],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1776155211234,
-    "conversationCheckpointLastUpdatedAt": 1776155513064,
+    "lastUpdatedAt": 1776161927390,
+    "conversationCheckpointLastUpdatedAt": 1776162015775,
     "createdAt": 1776154907960,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
@@ -215,7 +336,7 @@
     "unifiedMode": "plan",
     "forceMode": "plan",
     "usageData": {},
-    "contextUsagePercent": 12.500735294117646,
+    "contextUsagePercent": 18.08860294117647,
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
       "modelName": "default",
@@ -234,7 +355,7 @@
     "isQueueExpanded": true,
     "hasUnreadMessages": false,
     "gitHubPromptDismissed": false,
-    "totalLinesAdded": 739,
+    "totalLinesAdded": 767,
     "totalLinesRemoved": 0,
     "addedFiles": 0,
     "removedFiles": 0,
@@ -259,10 +380,10 @@
     "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
-    "conversationState": "~CiCn2bAsmxnxRELnDacXSUIwHtnOpuQjSI/4eXtW5MlxpQog5keEkic3CAvi7itZqgxzfdU7JkjpB7aPwR+XNeUGK1UKIGCsPEhjxvm1RT1sRybtKKJvtOptivLnrmQA58txLWDUCiBvvf1n0SjJCFU0H4UoqvtZIPiufNB8rO8KkzJCQgdIPQogs/TsJYRzpFITRZx6mo+JPrk66cQuDwan8+2FaNQ+16UKIK/vPZKEWtbDL2J54zd6yKDqE1K4h/WsTXUP3EUtnsweCiB6Qk1/LeOqD2wOK5DEmv0AIJakUvc3QCyqALhaDTeRugogN3wWIBVVpWUcIkx3vjTZfb7s6sFcAnVURa3caBfr8+wKIOXdCYdC2XjGWCZCW+VgUSyd2zLpTZUEWtqOfwwA5gyPCiDAXJYqI0lG5LNo+6sjjG7qbb5Qi+ppTKFQ/mLSRMxp5yoICNKJAhCAzRBCIPcycCgoem+P6I4TyDMEzQbOjSgXcTpNuFQRTYLhr9IyQiBC42w28sQGWdtICaPJ+KPjwxqZnmjwfkInHLSoU/2o+ko0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFADemYKQEM6XFVzZXJzXHBjXERlc2t0b3BcRVJQTmV4dF9QYWNrYWdpbmdfTWFudWZhY3R1cmluZ19CbHVlcHJpbnQubWQSIgogGqVZiWMu64VSmAAWv/46vVwp6qL9I8DE+7kqEsyaUWmSAR5DOlxVc2Vyc1xwY1xEZXNrdG9wXC5naXRpZ25vcmWqARgKC0M6L1VzZXJzL3BjEgljb2RleC10cnmyAQNpZGU=",
+    "conversationState": "~CiCn2bAsmxnxRELnDacXSUIwHtnOpuQjSI/4eXtW5MlxpQog5keEkic3CAvi7itZqgxzfdU7JkjpB7aPwR+XNeUGK1UKIGCsPEhjxvm1RT1sRybtKKJvtOptivLnrmQA58txLWDUCiBvvf1n0SjJCFU0H4UoqvtZIPiufNB8rO8KkzJCQgdIPQogs/TsJYRzpFITRZx6mo+JPrk66cQuDwan8+2FaNQ+16UKIK/vPZKEWtbDL2J54zd6yKDqE1K4h/WsTXUP3EUtnsweCiB6Qk1/LeOqD2wOK5DEmv0AIJakUvc3QCyqALhaDTeRugogN3wWIBVVpWUcIkx3vjTZfb7s6sFcAnVURa3caBfr8+wKIOXdCYdC2XjGWCZCW+VgUSyd2zLpTZUEWtqOfwwA5gyPCiDAXJYqI0lG5LNo+6sjjG7qbb5Qi+ppTKFQ/mLSRMxp5wogrEO+cM5iajPdrTQZU59wNuq6YfelD8BGrGgaP5LHHC8KIF9WDirlrzOnd17tDE1IpJu3UMrdWvNUKqaZTiKzjGOGCiBktuX0yBXRHH8iygOeeYjdpkq4yYba/xO9bXgZk2w9gQogSYWnMVIn20CJ74kPbX3Avwa/GXL1/aCJ5SEXdfruT9gKINqX/K9b5/phpweN59KDrC908HmdxX+N9fOOhha7QEZbCiBzBsSxlTi9jCOdJ/Itk61L23tRW8TFG1LkLjmv8iCY9AogPiXSx1sooXtrR2OB4y4proBClPNgftBMGtyyD+bn508KII2lDXd+FRg9oWsRkFlaP3pTxPE8j3xjIsVvz4vvscBDCiBaTpRvdCIOoTE2cC2HYriNzJnJJOvMK3FagkbIL/+n+wogzfs2B9DSvf5ixixOjAvmxIfWtAi6nU3DwBnULCgYt1EKIPCI8LBIJFV9BPQZYGYkGU7qtfEfEHw3KGcwsUaA5NQsCiCBFdw5pN2oVAe6JoQu/edOgNp7RX65Gr7Od+k5pNxWTAogYq/7n3ASbuGgRkvJd0gB0mspcFXjWh3HmUvmbLFHCJEKIAsW0+j6wmuCsy0jIoRyEYqIemHumQqzfPBvpgIFDGl1CiCzKSqtPzc2W1nlj/cTSQ3VHkhLE2w9fhU+TNbRzhLVoQogoEvO8am8jAtJjVQQKXxb6MjtBvp6iygTBbIBVuwvUXIKIJ/rvQojh+11G3qZBufDSvyCnfN6KYFU4Yy3ixT7rmPbCiBSp7499T8vo+VJoeAZFMK3lwhPYQF1jj+Pkz20TSoUJAogSVDC1e08EIEsGtQ1N4oSmP9nKgOY4gZfnIVHqPsCLG8KIBHYTgsW6c7RBXVGcykZZEPLicNbpURafKUwVTK4wHp2KggIsYADEIDNEEIg9zJwKCh6b4/ojhPIMwTNBs6NKBdxOk24VBFNguGv0jJCIELjbDbyxAZZ20gJo8n4o+PDGpmeaPB+QicctKhT/aj6QiAyfa1Sdnepx8GVazQTDAtZ0jxeEXr82kO1Pxbg2+moRUo0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFADemYKQEM6XFVzZXJzXHBjXERlc2t0b3BcRVJQTmV4dF9QYWNrYWdpbmdfTWFudWZhY3R1cmluZ19CbHVlcHJpbnQubWQSIgog6WuwT4NMWM/buJco3kuNDhH5AdAhHj7fSWRGs5DP5VWSAR5DOlxVc2Vyc1xwY1xEZXNrdG9wXC5naXRpZ25vcmWSAUBDOlxVc2Vyc1xwY1xEZXNrdG9wXEVSUE5leHRfUGFja2FnaW5nX01hbnVmYWN0dXJpbmdfQmx1ZXByaW50Lm1kqgEYCgtDOi9Vc2Vycy9wYxIJY29kZXgtdHJ5sgEDaWRl",
     "queueItems": [],
     "blobEncryptionKey": "wBAznmnkBhk2jU24/FMruQ+qraiiBS+xY9ZAPpJLNTY=",
-    "latestChatGenerationUUID": "2f34e515-d35b-4e94-8adb-9cb6df58e48f",
+    "latestChatGenerationUUID": "c7a7864e-e7a3-436d-82b3-56f33aa15bf2",
     "isAgentic": false,
     "subtitle": "Edited ERPNext_Packaging_Manufacturing_Blueprint.md",
     "filesChangedCount": 1,
@@ -280,5 +401,5 @@
     "applyAgentBackendTypeRestrictions": false,
     "restrictAgentModeSwitching": false
   },
-  "extracted_at": "2026-04-14T15:43:02.672684"
+  "extracted_at": "2026-04-14T15:54:31.302062"
 }

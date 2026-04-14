@@ -1,0 +1,1632 @@
+{
+  "key": "composerData:dc37eb2f-9a4b-421d-ab38-0c159b3a55bf",
+  "data": {
+    "_v": 11,
+    "composerId": "dc37eb2f-9a4b-421d-ab38-0c159b3a55bf",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "62240b5d-3e40-40ac-9123-71afa3e9582c",
+        "type": 1
+      },
+      {
+        "bubbleId": "9fd47a24-bd4e-441d-9daa-97900ef5e851",
+        "type": 2,
+        "serverBubbleId": "9398b3c9-b521-4b11-976b-46dccd582848"
+      },
+      {
+        "bubbleId": "7a879380-7b89-41c9-926a-edc063077ed6",
+        "type": 2
+      },
+      {
+        "bubbleId": "88ad99a1-28d5-48d6-b778-32dfecdaa119",
+        "type": 2
+      },
+      {
+        "bubbleId": "885fdd13-78ac-44f9-9298-b4474fa13f92",
+        "type": 2
+      },
+      {
+        "bubbleId": "29fd833e-0fb4-41f5-9c30-02767e7e960b",
+        "type": 2,
+        "serverBubbleId": "0968abcb-5590-4de7-8758-d1fa45831430"
+      },
+      {
+        "bubbleId": "4d1aa940-e439-43eb-9751-451635fd664b",
+        "type": 2
+      },
+      {
+        "bubbleId": "d8140ac3-6da7-43b3-9624-13b1e9890e52",
+        "type": 2
+      },
+      {
+        "bubbleId": "e887be85-eae6-4b70-b96e-0c3b9eb9c9cd",
+        "type": 2
+      },
+      {
+        "bubbleId": "df2ec7dd-4833-4766-ae38-393803d70fad",
+        "type": 2
+      },
+      {
+        "bubbleId": "5c737c83-0780-4bab-a190-2ba419a8b86c",
+        "type": 2,
+        "serverBubbleId": "fc8fec76-e54e-4f46-82d7-1be7abd5d4ee"
+      },
+      {
+        "bubbleId": "4ccd976c-18bf-4945-904e-8cc512aff0c4",
+        "type": 2
+      },
+      {
+        "bubbleId": "55799f9e-87f1-48ce-b406-e1bf96e8f725",
+        "type": 2
+      },
+      {
+        "bubbleId": "039ae948-ec21-47ca-8edb-ecd3d6df77f2",
+        "type": 2
+      },
+      {
+        "bubbleId": "6edafd28-828f-44cd-b4c0-f5a1048d1404",
+        "type": 2,
+        "serverBubbleId": "fb07b604-5b66-425a-84b8-97fddadf58e4"
+      },
+      {
+        "bubbleId": "318b9969-2619-4fbb-9564-9f2752d1d308",
+        "type": 2
+      },
+      {
+        "bubbleId": "3bd885d3-7b81-4ef0-bc42-f81145d3dfab",
+        "type": 2
+      },
+      {
+        "bubbleId": "642122d7-a613-452e-b875-a59654966a04",
+        "type": 2
+      },
+      {
+        "bubbleId": "2f8b3e8a-e01b-4d5c-b69e-2e3e116b003a",
+        "type": 2,
+        "serverBubbleId": "feeb5589-c631-490b-9661-0eb203fbde5f"
+      },
+      {
+        "bubbleId": "9d8b925a-d4e7-406e-9b99-d27e10d60e64",
+        "type": 2
+      },
+      {
+        "bubbleId": "a422345f-73d6-4eec-ba34-0187b4112feb",
+        "type": 2
+      },
+      {
+        "bubbleId": "8dbeeaf6-27e2-4e4f-9037-ba916dd3a12d",
+        "type": 2
+      },
+      {
+        "bubbleId": "8eca6e36-a7c7-4325-8d8e-82bb3e9e1a8a",
+        "type": 2
+      },
+      {
+        "bubbleId": "29b1491a-f0af-40be-8610-ec0ff20646b8",
+        "type": 2,
+        "serverBubbleId": "637c7cb1-4631-40ae-a37c-f9131204ce06"
+      },
+      {
+        "bubbleId": "0061ae7b-d906-4294-9e8b-07c7e2685e96",
+        "type": 2
+      },
+      {
+        "bubbleId": "5b4dd7af-5bce-4fb6-a5c1-7e4fdabd973f",
+        "type": 2
+      },
+      {
+        "bubbleId": "fe25c972-1c69-42a1-870b-e5c4537f2fb9",
+        "type": 2
+      },
+      {
+        "bubbleId": "3b689e8b-cd06-45ae-a90e-2947ae9fb2b6",
+        "type": 2,
+        "serverBubbleId": "ad716d45-c153-495c-be70-154126293127"
+      },
+      {
+        "bubbleId": "1d289ce5-3a84-43bf-9e8d-21db3becf0d2",
+        "type": 2
+      },
+      {
+        "bubbleId": "e010a447-3556-4e56-9e3e-ebf6e74e2be6",
+        "type": 2
+      },
+      {
+        "bubbleId": "c0f7403b-bc41-4452-9429-df7068592a0a",
+        "type": 2
+      },
+      {
+        "bubbleId": "94f10b36-96c9-459c-bba3-dcbe4b371634",
+        "type": 2,
+        "serverBubbleId": "ea587a35-e0d6-4562-b884-b7185d109b96"
+      },
+      {
+        "bubbleId": "093a95f0-f51c-4ba8-bcc8-a4b725872b02",
+        "type": 2
+      },
+      {
+        "bubbleId": "57a0c790-1321-4f5c-b066-f79ea624777b",
+        "type": 2
+      },
+      {
+        "bubbleId": "7ca2810c-b6c4-40b0-aed5-4babef4df545",
+        "type": 2
+      },
+      {
+        "bubbleId": "607f672f-777f-43b1-9be2-0bb947ab4f74",
+        "type": 2,
+        "serverBubbleId": "7c8f962e-2c25-4981-aab8-ad2459ee0936"
+      },
+      {
+        "bubbleId": "88fb55d1-be01-42f6-8f6b-aa6097a4837f",
+        "type": 2
+      },
+      {
+        "bubbleId": "800eec3b-fc0a-477a-abce-2349da0f36a0",
+        "type": 2
+      },
+      {
+        "bubbleId": "907279c0-df3f-4ed6-84ca-309bb77645b1",
+        "type": 2
+      },
+      {
+        "bubbleId": "e378615b-b41a-4a02-b926-dbca5572e76e",
+        "type": 2,
+        "serverBubbleId": "5811446a-77cf-482b-801f-64dd72f39b56"
+      },
+      {
+        "bubbleId": "bdc64e2f-fcce-4ee1-9bbc-d379a9adf7c3",
+        "type": 2
+      },
+      {
+        "bubbleId": "2db70f6e-a69b-472f-abec-b055dacc7415",
+        "type": 2
+      },
+      {
+        "bubbleId": "ace98b1a-6bdf-497f-b24d-2dd03f8c96c7",
+        "type": 2,
+        "serverBubbleId": "a72ee209-7d20-478c-8d7d-6fc1fa12f684"
+      },
+      {
+        "bubbleId": "8c141ae5-5609-4600-ab9d-400423ea216b",
+        "type": 2
+      },
+      {
+        "bubbleId": "21f53fd5-60da-4f79-85ea-221b9c1eabe8",
+        "type": 2
+      },
+      {
+        "bubbleId": "37b6e12a-5b14-4a4a-8510-e4121b10f738",
+        "type": 2
+      },
+      {
+        "bubbleId": "bf8a42de-ec33-4b0a-9e1e-f3f83371b22f",
+        "type": 2
+      },
+      {
+        "bubbleId": "e724da36-0f42-49c1-a37b-93a2b96541c7",
+        "type": 2
+      },
+      {
+        "bubbleId": "8fb3ec37-e632-472b-ae4d-836dc9ee57ba",
+        "type": 1
+      },
+      {
+        "bubbleId": "2afd1afd-e3a0-452e-8bc6-127b7c93d63c",
+        "type": 2,
+        "serverBubbleId": "2c4f5890-00f5-4817-b148-5b7fb9e0777d"
+      },
+      {
+        "bubbleId": "40490137-6cf1-44e0-aef5-fdfa6bdec971",
+        "type": 2
+      },
+      {
+        "bubbleId": "4414b0d8-c512-4ee3-b108-33bbfcb60726",
+        "type": 2
+      },
+      {
+        "bubbleId": "6322942b-e01f-40da-ae9e-1ef8d0252615",
+        "type": 2,
+        "serverBubbleId": "d5a87b5a-860a-431f-a60a-903878cfb5c4"
+      },
+      {
+        "bubbleId": "328fbc34-a66c-4681-bfdc-5b2f6509ae83",
+        "type": 2
+      },
+      {
+        "bubbleId": "92956fe8-a3c4-48c5-b466-cbbfb1eb98ae",
+        "type": 2
+      },
+      {
+        "bubbleId": "4702dac1-ed76-49a6-b1ea-33d2b06e38b5",
+        "type": 2,
+        "serverBubbleId": "b687545a-2737-4e4c-b308-394e1231cb54"
+      },
+      {
+        "bubbleId": "563736d6-bf98-4e74-900f-dfe9ace349e6",
+        "type": 2
+      },
+      {
+        "bubbleId": "a8e99f66-27e8-495f-b31a-8e07df0d844e",
+        "type": 2
+      },
+      {
+        "bubbleId": "1b11bf6d-0d7b-4357-b952-bc1b13ea4a5f",
+        "type": 2
+      },
+      {
+        "bubbleId": "8487cd91-e1b2-4d79-937e-8d4934991c3d",
+        "type": 2,
+        "serverBubbleId": "d8dbf27a-9ae0-4529-8e2a-a3b4fa89c0db"
+      },
+      {
+        "bubbleId": "857b4eb8-5690-4459-8149-524fccb735be",
+        "type": 2
+      },
+      {
+        "bubbleId": "f5ac04fe-b163-498d-8015-c48379abf97e",
+        "type": 2
+      },
+      {
+        "bubbleId": "4e2ba989-f51c-4ec8-8123-19d3f3cd4e62",
+        "type": 2
+      },
+      {
+        "bubbleId": "f9f8653f-9259-4dd9-b73f-0c3f8bbeed4e",
+        "type": 2,
+        "serverBubbleId": "a7894d66-c72f-453a-98ca-c3226dcb4e99"
+      },
+      {
+        "bubbleId": "a4309c9e-6710-46bd-b452-2722911ad18a",
+        "type": 2
+      },
+      {
+        "bubbleId": "151eed67-07d2-4f0b-9379-24a4860eb321",
+        "type": 2
+      },
+      {
+        "bubbleId": "56ce7333-703a-4ee7-8019-a12fe1f98486",
+        "type": 2
+      },
+      {
+        "bubbleId": "9bbc0c86-edfa-4ede-af54-70529b6f611b",
+        "type": 2
+      },
+      {
+        "bubbleId": "0540f61b-33ab-4ed8-a2b4-66414c3678da",
+        "type": 2
+      },
+      {
+        "bubbleId": "72db9490-1142-4ca7-b244-95e8323a51e9",
+        "type": 2,
+        "serverBubbleId": "85253a48-da00-4cb4-80a9-85379bf3c747"
+      },
+      {
+        "bubbleId": "3d4c1439-d43e-418c-a882-919e36f2229d",
+        "type": 2
+      },
+      {
+        "bubbleId": "20c90ae3-b462-4387-becd-8ddcd4ccd1cf",
+        "type": 2
+      },
+      {
+        "bubbleId": "8a3aeb1d-b2c6-4142-9173-9c1b438e1549",
+        "type": 2
+      },
+      {
+        "bubbleId": "aabc61c5-f056-4101-9d69-e0000ec0e0fa",
+        "type": 2,
+        "serverBubbleId": "680ae096-4878-41e3-a657-3414230e21aa"
+      },
+      {
+        "bubbleId": "fc02a84f-28e8-4286-9fc0-d03a37a61a81",
+        "type": 2
+      },
+      {
+        "bubbleId": "c946c3ad-25c9-43c0-9062-b134adc5e701",
+        "type": 2
+      },
+      {
+        "bubbleId": "a26c3c39-ec46-44ad-8ca2-885305a3cc24",
+        "type": 2,
+        "serverBubbleId": "2ac7097d-4d10-4173-b395-2677ef42f92e"
+      },
+      {
+        "bubbleId": "eadfe6d2-63b9-43be-854d-2ac68f8a3618",
+        "type": 2
+      },
+      {
+        "bubbleId": "f8a43fa6-d71d-4996-95ce-5364a5bfcacd",
+        "type": 2
+      },
+      {
+        "bubbleId": "faca7da4-b23b-4800-bb7e-7d72e6fab655",
+        "type": 2
+      },
+      {
+        "bubbleId": "591bfe60-f77e-4977-884c-f8e12614f041",
+        "type": 2,
+        "serverBubbleId": "a11fa4f3-027d-4ed6-8222-aadac2f7a052"
+      },
+      {
+        "bubbleId": "422b7dde-d878-4e4b-b89d-3ccf33a4e924",
+        "type": 2
+      },
+      {
+        "bubbleId": "d5bfc88d-6faa-4b21-bd6c-c1f8d8209f25",
+        "type": 2
+      },
+      {
+        "bubbleId": "495a5d55-d1d1-4d3b-b837-bd223d1f3004",
+        "type": 2
+      },
+      {
+        "bubbleId": "500a8f69-5007-4ebc-9ace-26b82d79266b",
+        "type": 2
+      },
+      {
+        "bubbleId": "be5f4489-b50d-4c7d-aab7-ce56195e7e98",
+        "type": 1
+      },
+      {
+        "bubbleId": "0d12fa6e-1f5f-41ab-8c9d-63f4a25a6f06",
+        "type": 2,
+        "serverBubbleId": "acdadfad-e5aa-463a-903e-c42cd5346434"
+      },
+      {
+        "bubbleId": "a04dbdc5-727b-4090-88b3-2e99e15b86f1",
+        "type": 2
+      },
+      {
+        "bubbleId": "d9c95f8d-4e97-4dfa-b8b1-d695cab2f92d",
+        "type": 2
+      },
+      {
+        "bubbleId": "959f21c9-4f64-4698-a3b2-596a5b8f335c",
+        "type": 2
+      },
+      {
+        "bubbleId": "b07442be-d172-4254-8a3a-b8101bec025b",
+        "type": 2,
+        "serverBubbleId": "2c3efa34-aa11-4730-bb99-2e67612bb06e"
+      },
+      {
+        "bubbleId": "2fdffa14-3147-44d3-a644-5d7e8ddd840f",
+        "type": 2
+      },
+      {
+        "bubbleId": "1bb47143-cfd1-4d38-8a2b-83bd5d06b64d",
+        "type": 2
+      },
+      {
+        "bubbleId": "190e65ae-2f9b-419a-a2c5-bd36e119f87d",
+        "type": 2,
+        "serverBubbleId": "a2dee7c2-4abd-49ad-94fd-2460e05bd492"
+      },
+      {
+        "bubbleId": "4b7fd770-7cb5-439e-9856-36078ab070d2",
+        "type": 2
+      },
+      {
+        "bubbleId": "2c407fd1-1ec1-40fa-b0ba-9e6923a04521",
+        "type": 1
+      },
+      {
+        "bubbleId": "296cc84b-c424-4335-9a68-2e8f4b6b0003",
+        "type": 2,
+        "serverBubbleId": "500f097d-9339-430f-916f-7e02f142efdf"
+      },
+      {
+        "bubbleId": "90757ca5-eab1-4e64-9ab6-a1e62adae47e",
+        "type": 2
+      },
+      {
+        "bubbleId": "0c62e622-88c2-4a05-95e1-e9a18973df91",
+        "type": 2
+      },
+      {
+        "bubbleId": "8468e4a2-71cb-4f8b-a916-e31f75d2baae",
+        "type": 2,
+        "serverBubbleId": "21595676-199a-4b8d-a229-3d98a8f3995b"
+      },
+      {
+        "bubbleId": "9be02e96-fd75-44dd-8511-719c7a1db41c",
+        "type": 2
+      },
+      {
+        "bubbleId": "e03227ac-c0fa-472b-8e0f-7dc4a441df2b",
+        "type": 2
+      },
+      {
+        "bubbleId": "397eb3e5-07d4-410a-8f20-bf438d83c9ea",
+        "type": 2,
+        "serverBubbleId": "f796415f-b2e0-40c7-b544-406ba9d0a7fd"
+      },
+      {
+        "bubbleId": "494e72af-f727-4098-a628-f1d3056384b5",
+        "type": 2
+      },
+      {
+        "bubbleId": "7583a570-cf8a-419d-a8fc-375ee8dc3502",
+        "type": 2
+      },
+      {
+        "bubbleId": "03fe41c3-2317-482f-9a7d-c18ae8248e60",
+        "type": 2,
+        "serverBubbleId": "5a9db572-aab5-42b0-b1be-9f0cdedf1102"
+      },
+      {
+        "bubbleId": "c6b11f53-9722-41ed-8544-55508ad74b8b",
+        "type": 2
+      },
+      {
+        "bubbleId": "9b9457cb-bd6f-4826-877d-448e45318c5e",
+        "type": 2
+      },
+      {
+        "bubbleId": "d06ac1ae-edad-44bf-9cb9-67ff4b3d3ddc",
+        "type": 2
+      },
+      {
+        "bubbleId": "e7bf8208-f0ee-4eca-a07c-ee6093355afb",
+        "type": 2,
+        "serverBubbleId": "b86991a3-ae7f-4bc7-88bb-b9a0623146e1"
+      },
+      {
+        "bubbleId": "9a089d8c-ddba-4032-8af5-9c757c6de5ee",
+        "type": 2
+      },
+      {
+        "bubbleId": "21c1a8a1-d7cd-4f87-ac74-55a5e51f3a8c",
+        "type": 2
+      },
+      {
+        "bubbleId": "6ae5484e-f5a3-43f0-b0d0-40cb98a1271b",
+        "type": 2,
+        "serverBubbleId": "b8006ec2-e162-4d62-bd8d-36f91bfa0071"
+      },
+      {
+        "bubbleId": "4869ed47-6918-45de-a43f-27b379c98604",
+        "type": 2
+      },
+      {
+        "bubbleId": "14a9cb6a-f9bd-4861-9310-1d8d6571ed47",
+        "type": 2
+      },
+      {
+        "bubbleId": "a88c2e95-563b-43a5-b284-90d472ba839b",
+        "type": 2,
+        "serverBubbleId": "aeaeb1bc-c6c5-4434-9162-47966a437446"
+      },
+      {
+        "bubbleId": "54b84c43-74af-46b7-abfb-1e42ad24fa82",
+        "type": 2
+      },
+      {
+        "bubbleId": "4ae39310-96bb-4656-8319-92f99ba9e6ea",
+        "type": 2
+      },
+      {
+        "bubbleId": "aa7bb813-ef20-4f8c-8b8e-ec9ed354461c",
+        "type": 2,
+        "serverBubbleId": "555fd35c-d6d5-4236-9058-9a43c9c84826"
+      },
+      {
+        "bubbleId": "e34801d4-1226-40d1-b311-7d18d6ad566c",
+        "type": 2
+      },
+      {
+        "bubbleId": "a52e2372-2b81-4659-a1fa-6ce9e334a102",
+        "type": 1
+      },
+      {
+        "bubbleId": "c58f1b6f-10c5-4000-85d4-adbe5465211f",
+        "type": 2,
+        "serverBubbleId": "7f2b78e8-9519-4331-9f38-51eb8aeb12ed"
+      },
+      {
+        "bubbleId": "4082eafd-fa36-44b6-b16d-1d85e9086635",
+        "type": 2
+      },
+      {
+        "bubbleId": "bfce3d61-2700-4f4f-b1b8-b2a07ae72416",
+        "type": 2
+      },
+      {
+        "bubbleId": "c5d2766e-f358-4246-b3af-cbbeee3e7241",
+        "type": 2
+      },
+      {
+        "bubbleId": "15a086a5-6e9d-48e0-b4f7-3758633f3c0f",
+        "type": 2
+      },
+      {
+        "bubbleId": "40f9f32e-0962-4782-9949-c8de948aa354",
+        "type": 2,
+        "serverBubbleId": "be626ee0-2c27-44fd-b2be-75c568a98fd1"
+      },
+      {
+        "bubbleId": "162f2ba3-db64-40ca-8e60-424ea6449c0c",
+        "type": 2
+      },
+      {
+        "bubbleId": "975dd924-eaa5-47ea-92ca-e448d6141936",
+        "type": 2
+      },
+      {
+        "bubbleId": "25e270eb-5e6a-419e-a65a-959c3071cbec",
+        "type": 2,
+        "serverBubbleId": "0bfbedd3-ad7e-451b-8ad4-b6b597cf7378"
+      },
+      {
+        "bubbleId": "ca4b1748-9b51-467a-83d9-1e8a8281d418",
+        "type": 2
+      },
+      {
+        "bubbleId": "10fa862e-cda8-4ec1-8a5b-e7ec1fcc95c8",
+        "type": 1
+      },
+      {
+        "bubbleId": "88e058aa-1515-4ead-8757-d248a3da66be",
+        "type": 2,
+        "serverBubbleId": "374d07f6-7caa-4cb3-bc46-6f6ee2538c4c"
+      },
+      {
+        "bubbleId": "a7637e18-ccce-4fc7-9f47-837af6ccb280",
+        "type": 2
+      },
+      {
+        "bubbleId": "ad9767a7-9717-4d8b-a172-33dcd38336db",
+        "type": 2
+      },
+      {
+        "bubbleId": "b060a0c7-c9b7-42a4-9f70-bd806f9625b5",
+        "type": 2
+      },
+      {
+        "bubbleId": "14d117f5-0e75-4478-baaf-fbbf15138412",
+        "type": 2,
+        "serverBubbleId": "88475e89-40cd-4cb9-9aa6-300031b1716b"
+      },
+      {
+        "bubbleId": "4765324b-b9b4-4ee6-9863-aec181f0ec1b",
+        "type": 2
+      },
+      {
+        "bubbleId": "828f2f8d-b2ab-4d12-aa23-2817f591f81e",
+        "type": 2
+      },
+      {
+        "bubbleId": "0fc7eba2-b5b9-4824-914c-daf40b0c10cc",
+        "type": 2
+      },
+      {
+        "bubbleId": "9460e025-e559-4468-8a92-0c8538847626",
+        "type": 2
+      },
+      {
+        "bubbleId": "4c538c4d-2103-4bfb-80fb-d65ae5064681",
+        "type": 2,
+        "serverBubbleId": "b97db113-a211-4a2c-b906-32efe5352081"
+      },
+      {
+        "bubbleId": "f4bb78e7-b4b7-4258-af47-48a45677818a",
+        "type": 2
+      },
+      {
+        "bubbleId": "87e62bc3-4095-4be8-8800-8d645aaba784",
+        "type": 2
+      },
+      {
+        "bubbleId": "3541777c-8f3c-4a1a-844c-1cfa286deca5",
+        "type": 2
+      },
+      {
+        "bubbleId": "73a1193a-d14a-4310-b1dd-e6cd33c6ee58",
+        "type": 2
+      },
+      {
+        "bubbleId": "9087db10-5432-4f91-915c-16f150421568",
+        "type": 2
+      },
+      {
+        "bubbleId": "7736c362-4499-4020-9750-85833cb0a3a0",
+        "type": 2,
+        "serverBubbleId": "248065d3-915f-405d-9ad3-ab33480a5ec2"
+      },
+      {
+        "bubbleId": "cea8f082-fc4c-454c-bda4-7554e87e7536",
+        "type": 2
+      },
+      {
+        "bubbleId": "2a138800-06b0-420b-a74e-d317a17f9411",
+        "type": 2
+      },
+      {
+        "bubbleId": "e779e601-222c-4193-8ca0-314397de307f",
+        "type": 2,
+        "serverBubbleId": "2aa4dca9-8aef-4bbe-9570-348be9b5e104"
+      },
+      {
+        "bubbleId": "400388a6-24ad-4dff-a5d2-f2eb26a1e63a",
+        "type": 2
+      },
+      {
+        "bubbleId": "9b564464-cd7a-404b-b977-f4de2ac2cf81",
+        "type": 2
+      },
+      {
+        "bubbleId": "807247de-b108-42d4-8626-415d49965a11",
+        "type": 2,
+        "serverBubbleId": "ef544bc0-8ce0-47b3-a8b0-49d638d7e34f"
+      },
+      {
+        "bubbleId": "78f6a5ab-c248-4ffd-b5cf-a97ba373f7e0",
+        "type": 2
+      },
+      {
+        "bubbleId": "9f2d551f-5152-45b7-9b7d-4944f10e5b5d",
+        "type": 1
+      },
+      {
+        "bubbleId": "4af91f39-6eb2-4ea0-8dc6-203e2093ead4",
+        "type": 2,
+        "serverBubbleId": "bdf84252-a550-4d50-be3d-d7a31c4ac5b4"
+      },
+      {
+        "bubbleId": "5ecb11d3-cf24-4ba5-9476-fcde143ba516",
+        "type": 2
+      },
+      {
+        "bubbleId": "5ab51c63-7b41-4a01-baed-3924ccfc15a9",
+        "type": 2
+      },
+      {
+        "bubbleId": "679df61e-b30c-45e8-9643-451815904ef5",
+        "type": 2
+      },
+      {
+        "bubbleId": "e85d015b-71a2-4244-9086-e7da6359be77",
+        "type": 2,
+        "serverBubbleId": "e1b2994b-b485-4616-8810-056d1ece877a"
+      },
+      {
+        "bubbleId": "79b41779-e661-4d29-8d4e-eb2849689b52",
+        "type": 2
+      },
+      {
+        "bubbleId": "8d98ad5d-b8d8-4b96-b63b-5ed6ab4281b6",
+        "type": 2
+      },
+      {
+        "bubbleId": "03801e63-1b8e-4a63-8d42-1e1fbaeaaf20",
+        "type": 2
+      },
+      {
+        "bubbleId": "ae4e8924-d0ab-4181-83cb-b5486669d2bc",
+        "type": 2,
+        "serverBubbleId": "35a6d059-2b61-4019-a2d8-2fd6e881a13c"
+      },
+      {
+        "bubbleId": "54d97866-c88b-4376-908c-93fd7d941f7b",
+        "type": 2
+      },
+      {
+        "bubbleId": "bb514919-8efd-4b92-9047-e8c56d3f5662",
+        "type": 1
+      },
+      {
+        "bubbleId": "a9b0ea43-6b52-47be-9c21-34aabc4c0de4",
+        "type": 2,
+        "serverBubbleId": "c79b93c7-1480-4dad-b548-dec0989ec6d1"
+      },
+      {
+        "bubbleId": "9ba3dab0-ee7c-4652-b749-707f61eadd8b",
+        "type": 2
+      },
+      {
+        "bubbleId": "2aa77f1d-2aec-4b1f-bc7c-8a1a03d99c3f",
+        "type": 2
+      },
+      {
+        "bubbleId": "7ace693f-1dda-4316-b47a-1009f2b8548f",
+        "type": 2
+      },
+      {
+        "bubbleId": "98c932cb-54fd-4a5d-bb78-c7337c41ef56",
+        "type": 2
+      },
+      {
+        "bubbleId": "80047717-0feb-4ddd-988a-427e43874d43",
+        "type": 2,
+        "serverBubbleId": "01a2e001-250a-450c-8eff-95416e5d8c0b"
+      },
+      {
+        "bubbleId": "da086c2a-17f0-4adc-9e95-a2c92feb6e80",
+        "type": 2
+      },
+      {
+        "bubbleId": "c8365877-1f09-4805-8f65-e37e3114f50d",
+        "type": 2
+      },
+      {
+        "bubbleId": "a063a629-ade7-4bbf-acf1-da3eced31f14",
+        "type": 2
+      },
+      {
+        "bubbleId": "5db4627f-5836-4f8c-96b6-65f746b28f2e",
+        "type": 2,
+        "serverBubbleId": "98d319a2-107b-47e5-901e-77b34a23c7a6"
+      },
+      {
+        "bubbleId": "d6ddb533-ed1c-4e12-8a42-383914360bec",
+        "type": 2
+      },
+      {
+        "bubbleId": "185d36f9-7d2f-4473-8353-19501b8b359d",
+        "type": 2
+      },
+      {
+        "bubbleId": "5830d7e0-62af-4bf6-8b35-a6208798e5d1",
+        "type": 2,
+        "serverBubbleId": "5131bcd9-9ed3-427e-97ed-aa1f3da77558"
+      },
+      {
+        "bubbleId": "c617a142-ee1d-4735-b7b0-2c43dbd9b739",
+        "type": 2
+      },
+      {
+        "bubbleId": "f2c69deb-7d8f-4bde-9d67-74c9ff9b5955",
+        "type": 1
+      },
+      {
+        "bubbleId": "5205f77d-37e3-475e-a751-163f3daa68dd",
+        "type": 2,
+        "serverBubbleId": "54075094-f8ea-469c-9545-dba1470d10c6"
+      },
+      {
+        "bubbleId": "3c73597c-5268-44cb-bd3d-ff35a6245d1a",
+        "type": 2
+      },
+      {
+        "bubbleId": "71f48f2f-e1d5-48ab-952d-5114925d3526",
+        "type": 1
+      },
+      {
+        "bubbleId": "7d41c02b-9ef0-4f04-9e6c-452763ceef6c",
+        "type": 2,
+        "serverBubbleId": "8681ebd4-d3fb-4fc7-951b-a8419a4378c2"
+      },
+      {
+        "bubbleId": "e3c4c6f3-7ee2-448d-89b8-e9cb42f9a7d6",
+        "type": 2
+      },
+      {
+        "bubbleId": "3ae0e25a-95ab-47c4-ba6a-72e0e466d0db",
+        "type": 2
+      },
+      {
+        "bubbleId": "7ee890b3-d0c1-4b5d-bd06-1839ef78a044",
+        "type": 2
+      },
+      {
+        "bubbleId": "9fcce07e-8e30-4359-9691-cc0ccdbb22a1",
+        "type": 2
+      },
+      {
+        "bubbleId": "b181b6d5-4d36-4def-b802-cd6c116eeab1",
+        "type": 2,
+        "serverBubbleId": "fc5a440d-f6c0-4c8b-b933-7040f106229b"
+      },
+      {
+        "bubbleId": "77c13a8a-e6e2-468b-9afe-4235d7697aba",
+        "type": 2
+      },
+      {
+        "bubbleId": "d5b29c03-36bc-4c09-b8a6-a0b0f04b6aff",
+        "type": 2
+      },
+      {
+        "bubbleId": "260ab831-1719-433d-a179-754b3e6359d3",
+        "type": 2
+      },
+      {
+        "bubbleId": "7450552d-a9af-45e7-a6a4-d8885c293605",
+        "type": 2
+      },
+      {
+        "bubbleId": "fc2b1037-7d70-4cd8-86c6-b24546db186b",
+        "type": 2
+      },
+      {
+        "bubbleId": "31c1241c-e2f5-4b15-99cb-d962f9573617",
+        "type": 1
+      },
+      {
+        "bubbleId": "6cbc7c8f-cf82-4ca7-9f2d-5bbd994de811",
+        "type": 2,
+        "serverBubbleId": "92390a06-78ba-4aaa-91ba-fe9dee269246"
+      },
+      {
+        "bubbleId": "c3d95470-2299-43e6-837d-fb558a725432",
+        "type": 2
+      },
+      {
+        "bubbleId": "c9f64bcc-7e64-48a5-ae7d-f85897baff62",
+        "type": 2
+      },
+      {
+        "bubbleId": "23667170-caee-4099-bd51-134723addc6a",
+        "type": 2
+      },
+      {
+        "bubbleId": "f2e5b742-1a8f-4c55-badd-a30fd507fdc9",
+        "type": 2
+      },
+      {
+        "bubbleId": "96bb46ca-0e9b-40e6-98cc-0526af293028",
+        "type": 2,
+        "serverBubbleId": "68433333-2e5d-4b2e-8f63-581518632de6"
+      },
+      {
+        "bubbleId": "619c2384-0b6c-426b-bc3d-6279317128b4",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "completed",
+    "context": {
+      "composers": [],
+      "quotes": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "gitPRDiffSelections": [],
+      "mentions": {
+        "composers": {},
+        "quotes": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "useWeb": [],
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {},
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "useLinterErrors": [],
+        "useDiffReview": [],
+        "useGenerateRules": [],
+        "useContextPicking": [],
+        "useRememberThis": [],
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "autoContext": [],
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {}
+      },
+      "ideEditorsState": true
+    },
+    "gitGraphFileSuggestions": [],
+    "generatingBubbleIds": [],
+    "isReadingLongFile": false,
+    "codeBlockData": {
+      "file:///j%3A/SkyReels-V2/SETUP_COMPLETE.md": {
+        "b7923fcf-a5c2-4645-b0e4-bbeb6a21dfa0": {
+          "_v": 3,
+          "bubbleId": "151eed67-07d2-4f0b-9379-24a4860eb321",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\SETUP_COMPLETE.md",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/SETUP_COMPLETE.md",
+            "path": "/J:/SkyReels-V2/SETUP_COMPLETE.md",
+            "scheme": "file"
+          },
+          "codeblockId": "b7923fcf-a5c2-4645-b0e4-bbeb6a21dfa0",
+          "status": "completed",
+          "languageId": "markdown",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769336490527,
+          "composerChatGenerationUuid": "4d407279-c173-4a2f-9d60-ddbe6035a7e1",
+          "diffId": "f09853a5-30b0-489b-96db-1d0887e7d10b",
+          "lastDiffId": "720b9b56-78b0-45da-9d28-cb2960555e13",
+          "lastAppliedAt": 1769336495327
+        }
+      },
+      "file:///j%3A/SkyReels-V2/QUICK_START.ps1": {
+        "5739bb80-11a0-4c96-ae1e-772e65db0258": {
+          "_v": 3,
+          "bubbleId": "56ce7333-703a-4ee7-8019-a12fe1f98486",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\QUICK_START.ps1",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/QUICK_START.ps1",
+            "path": "/J:/SkyReels-V2/QUICK_START.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "5739bb80-11a0-4c96-ae1e-772e65db0258",
+          "status": "completed",
+          "languageId": "powershell",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769336522140,
+          "composerChatGenerationUuid": "4d407279-c173-4a2f-9d60-ddbe6035a7e1",
+          "diffId": "2239393c-2ac1-45a6-ae32-9d22d55c360f",
+          "lastDiffId": "4d9617af-9f57-4fe4-a478-7749c57e2dd0",
+          "lastAppliedAt": 1769336523802
+        }
+      },
+      "file:///j%3A/SkyReels-V2/test_installation.py": {
+        "3e9f66aa-f051-4e59-8015-acbe6f1935d3": {
+          "_v": 3,
+          "bubbleId": "9bbc0c86-edfa-4ede-af54-70529b6f611b",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\test_installation.py",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/test_installation.py",
+            "path": "/J:/SkyReels-V2/test_installation.py",
+            "scheme": "file"
+          },
+          "codeblockId": "3e9f66aa-f051-4e59-8015-acbe6f1935d3",
+          "status": "completed",
+          "languageId": "python",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769336748876,
+          "composerChatGenerationUuid": "4d407279-c173-4a2f-9d60-ddbe6035a7e1",
+          "diffId": "f2e54e84-83b1-46f0-942b-5624936b3c18",
+          "lastDiffId": "dee53e64-f3af-48f8-b6d7-49c6c1742cc0",
+          "lastAppliedAt": 1769336751770
+        },
+        "103a6aae-6b09-4050-98f5-3c37aa0ae72a": {
+          "_v": 3,
+          "bubbleId": "20c90ae3-b462-4387-becd-8ddcd4ccd1cf",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\test_installation.py",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/test_installation.py",
+            "path": "/J:/SkyReels-V2/test_installation.py",
+            "scheme": "file"
+          },
+          "codeblockId": "103a6aae-6b09-4050-98f5-3c37aa0ae72a",
+          "status": "completed",
+          "languageId": "python",
+          "chainedInfo": {
+            "chainedFromCodeblockId": "3e9f66aa-f051-4e59-8015-acbe6f1935d3",
+            "composerId": "dc37eb2f-9a4b-421d-ab38-0c159b3a55bf"
+          },
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769336759123,
+          "composerChatGenerationUuid": "4d407279-c173-4a2f-9d60-ddbe6035a7e1",
+          "diffId": "4035e6d6-e0c2-454b-b07f-9afca3d7aed1",
+          "lastDiffId": "f904ec21-3cf5-45b3-90ab-a5b2455a222c",
+          "lastAppliedAt": 1769336759880
+        }
+      },
+      "file:///j%3A/SkyReels-V2/INSTALLATION_SUMMARY.txt": {
+        "883e679f-fead-4863-baab-06ec92340734": {
+          "_v": 3,
+          "bubbleId": "d5bfc88d-6faa-4b21-bd6c-c1f8d8209f25",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\INSTALLATION_SUMMARY.txt",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/INSTALLATION_SUMMARY.txt",
+            "path": "/J:/SkyReels-V2/INSTALLATION_SUMMARY.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "883e679f-fead-4863-baab-06ec92340734",
+          "status": "aborted",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769338061964,
+          "composerChatGenerationUuid": "4d407279-c173-4a2f-9d60-ddbe6035a7e1"
+        },
+        "8104b07b-b8ec-415d-9d0e-1a26fa3be44e": {
+          "_v": 3,
+          "bubbleId": "d9c95f8d-4e97-4dfa-b8b1-d695cab2f92d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\INSTALLATION_SUMMARY.txt",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/INSTALLATION_SUMMARY.txt",
+            "path": "/J:/SkyReels-V2/INSTALLATION_SUMMARY.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "8104b07b-b8ec-415d-9d0e-1a26fa3be44e",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769338077036,
+          "composerChatGenerationUuid": "fe151184-f447-40fe-86ae-9434cb666925",
+          "diffId": "1d49edc8-a7eb-4486-9a77-487521c86c6f",
+          "lastDiffId": "fc7f3641-8987-46cb-baf7-7b6558c7b6bb",
+          "lastAppliedAt": 1769338085027
+        }
+      },
+      "file:///j%3A/SkyReels-V2/START_HERE.txt": {
+        "0b41c76c-26ca-4099-9202-0f700ac6c370": {
+          "_v": 3,
+          "bubbleId": "1bb47143-cfd1-4d38-8a2b-83bd5d06b64d",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\START_HERE.txt",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/START_HERE.txt",
+            "path": "/J:/SkyReels-V2/START_HERE.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "0b41c76c-26ca-4099-9202-0f700ac6c370",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769338111593,
+          "composerChatGenerationUuid": "fe151184-f447-40fe-86ae-9434cb666925",
+          "diffId": "56922e3d-27dd-4443-9c27-5a184acba74a",
+          "lastDiffId": "af409f9f-92bf-4ee1-850c-8ff30d25b9e6",
+          "lastAppliedAt": 1769338114279
+        }
+      },
+      "file:///j%3A/SkyReels-V2/generate_video_1.3B.ps1": {
+        "659a8ce1-6455-411f-a28f-18b2900b74eb": {
+          "_v": 3,
+          "bubbleId": "3541777c-8f3c-4a1a-844c-1cfa286deca5",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\generate_video_1.3B.ps1",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/generate_video_1.3B.ps1",
+            "path": "/J:/SkyReels-V2/generate_video_1.3B.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "659a8ce1-6455-411f-a28f-18b2900b74eb",
+          "status": "completed",
+          "languageId": "powershell",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769339789837,
+          "composerChatGenerationUuid": "136482b7-ddd1-456b-8470-1032a8fe8c3c",
+          "diffId": "9d0e6dae-5c9d-4a2a-80f2-1f0b01a759d0",
+          "lastDiffId": "bfb39859-4214-4756-a3eb-06b40574d415",
+          "lastAppliedAt": 1769339791249
+        }
+      },
+      "file:///j%3A/SkyReels-V2/SET_CACHE_TO_J_DRIVE.ps1": {
+        "bd3dc5e2-943a-4f33-87ae-436dca8de946": {
+          "_v": 3,
+          "bubbleId": "73a1193a-d14a-4310-b1dd-e6cd33c6ee58",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\SET_CACHE_TO_J_DRIVE.ps1",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/SET_CACHE_TO_J_DRIVE.ps1",
+            "path": "/J:/SkyReels-V2/SET_CACHE_TO_J_DRIVE.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "bd3dc5e2-943a-4f33-87ae-436dca8de946",
+          "status": "completed",
+          "languageId": "powershell",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769339793412,
+          "composerChatGenerationUuid": "136482b7-ddd1-456b-8470-1032a8fe8c3c",
+          "diffId": "8752553e-3107-4f3a-8019-e1eca5fd5395",
+          "lastDiffId": "ed2ecc95-ded8-4916-877c-e87a34618ae0",
+          "lastAppliedAt": 1769339794839
+        }
+      },
+      "file:///j%3A/SkyReels-V2/CACHE_MIGRATION_SUMMARY.txt": {
+        "7f34312c-0ec3-4416-ad1e-7e6430798e17": {
+          "_v": 3,
+          "bubbleId": "9b564464-cd7a-404b-b977-f4de2ac2cf81",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\CACHE_MIGRATION_SUMMARY.txt",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/CACHE_MIGRATION_SUMMARY.txt",
+            "path": "/J:/SkyReels-V2/CACHE_MIGRATION_SUMMARY.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "7f34312c-0ec3-4416-ad1e-7e6430798e17",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769339897995,
+          "composerChatGenerationUuid": "136482b7-ddd1-456b-8470-1032a8fe8c3c",
+          "diffId": "aea1f050-45ac-45a9-9019-ce784b5e3b4d",
+          "lastDiffId": "b4be4941-0193-4010-a937-2b9a43514414",
+          "lastAppliedAt": 1769339911938
+        }
+      },
+      "file:///j%3A/SkyReels-V2/START_SKYREELS.ps1": {
+        "5c5b7140-f8a1-4e23-b231-95c7ddcbc0e8": {
+          "_v": 3,
+          "bubbleId": "8d98ad5d-b8d8-4b96-b63b-5ed6ab4281b6",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\START_SKYREELS.ps1",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/START_SKYREELS.ps1",
+            "path": "/J:/SkyReels-V2/START_SKYREELS.ps1",
+            "scheme": "file"
+          },
+          "codeblockId": "5c5b7140-f8a1-4e23-b231-95c7ddcbc0e8",
+          "status": "completed",
+          "languageId": "powershell",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769340093953,
+          "composerChatGenerationUuid": "63da4e2f-c224-4503-a464-07a39c98576e",
+          "diffId": "efcbd77a-19ec-42b8-89a2-8f5bf78fec3f",
+          "lastDiffId": "9cd7ec5e-5168-4c26-905e-0fe909b72ee1",
+          "lastAppliedAt": 1769340104048
+        }
+      },
+      "file:///j%3A/SkyReels-V2/START_SKYREELS.bat": {
+        "c56f29eb-e802-408b-8865-5b574b933315": {
+          "_v": 3,
+          "bubbleId": "2aa77f1d-2aec-4b1f-bc7c-8a1a03d99c3f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\START_SKYREELS.bat",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/START_SKYREELS.bat",
+            "path": "/J:/SkyReels-V2/START_SKYREELS.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "c56f29eb-e802-408b-8865-5b574b933315",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769340259695,
+          "composerChatGenerationUuid": "1f37520a-6172-4872-9185-dea6ba526f71",
+          "diffId": "c9fb380c-9b9c-490b-80c0-88ac70ed5b77",
+          "lastDiffId": "f9b0e74a-0071-4fca-9da1-eaad57aaaf97",
+          "lastAppliedAt": 1769340260879
+        }
+      },
+      "file:///j%3A/SkyREELS-V2/RUN_SKYREELS.bat": {
+        "9c7e1798-58fe-45b8-aa0b-5e9665fd6f1d": {
+          "_v": 3,
+          "bubbleId": "7ace693f-1dda-4316-b47a-1009f2b8548f",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyREELS-V2\\RUN_SKYREELS.bat",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyREELS-V2/RUN_SKYREELS.bat",
+            "path": "/J:/SkyREELS-V2/RUN_SKYREELS.bat",
+            "scheme": "file"
+          },
+          "codeblockId": "9c7e1798-58fe-45b8-aa0b-5e9665fd6f1d",
+          "status": "completed",
+          "languageId": "bat",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769340262758,
+          "composerChatGenerationUuid": "1f37520a-6172-4872-9185-dea6ba526f71",
+          "diffId": "b85d6d17-8d95-4a62-b3a0-2272e283e405",
+          "lastDiffId": "4daee456-9f4f-46e6-97e5-1434d6d8e21d",
+          "lastAppliedAt": 1769340267247
+        }
+      },
+      "file:///j%3A/SkyReels-V2/HOW_TO_RUN.txt": {
+        "b974936a-1fe7-4800-9979-283949b89a0a": {
+          "_v": 3,
+          "bubbleId": "a063a629-ade7-4bbf-acf1-da3eced31f14",
+          "codeBlockIdx": 0,
+          "uri": {
+            "$mid": 1,
+            "fsPath": "j:\\SkyReels-V2\\HOW_TO_RUN.txt",
+            "_sep": 1,
+            "external": "file:///j%3A/SkyReels-V2/HOW_TO_RUN.txt",
+            "path": "/J:/SkyReels-V2/HOW_TO_RUN.txt",
+            "scheme": "file"
+          },
+          "codeblockId": "b974936a-1fe7-4800-9979-283949b89a0a",
+          "status": "completed",
+          "languageId": "plaintext",
+          "codeBlockDisplayPreference": "collapsed",
+          "createdAt": 1769340345953,
+          "composerChatGenerationUuid": "1f37520a-6172-4872-9185-dea6ba526f71",
+          "diffId": "fd1ff50a-db47-47b2-8426-ee1cb7fbea38",
+          "lastDiffId": "7c7d60e9-6135-4da1-8f86-2c26534ed2b1",
+          "lastAppliedAt": 1769340355003
+        }
+      }
+    },
+    "originalFileStates": {
+      "file:///j%3A/SkyReels-V2/SETUP_COMPLETE.md": {
+        "content": "",
+        "firstEditBubbleId": "151eed67-07d2-4f0b-9379-24a4860eb321",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyReels-V2/QUICK_START.ps1": {
+        "content": "",
+        "firstEditBubbleId": "56ce7333-703a-4ee7-8019-a12fe1f98486",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyReels-V2/test_installation.py": {
+        "content": "",
+        "firstEditBubbleId": "9bbc0c86-edfa-4ede-af54-70529b6f611b",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyReels-V2/INSTALLATION_SUMMARY.txt": {
+        "content": "",
+        "firstEditBubbleId": "d5bfc88d-6faa-4b21-bd6c-c1f8d8209f25",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyReels-V2/START_HERE.txt": {
+        "content": "",
+        "firstEditBubbleId": "1bb47143-cfd1-4d38-8a2b-83bd5d06b64d",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyReels-V2/generate_video_1.3B.ps1": {
+        "content": "",
+        "firstEditBubbleId": "3541777c-8f3c-4a1a-844c-1cfa286deca5",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyReels-V2/SET_CACHE_TO_J_DRIVE.ps1": {
+        "content": "",
+        "firstEditBubbleId": "73a1193a-d14a-4310-b1dd-e6cd33c6ee58",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyReels-V2/CACHE_MIGRATION_SUMMARY.txt": {
+        "content": "",
+        "firstEditBubbleId": "9b564464-cd7a-404b-b977-f4de2ac2cf81",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyReels-V2/START_SKYREELS.ps1": {
+        "content": "",
+        "firstEditBubbleId": "8d98ad5d-b8d8-4b96-b63b-5ed6ab4281b6",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyReels-V2/START_SKYREELS.bat": {
+        "content": "",
+        "firstEditBubbleId": "2aa77f1d-2aec-4b1f-bc7c-8a1a03d99c3f",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyREELS-V2/RUN_SKYREELS.bat": {
+        "content": "",
+        "firstEditBubbleId": "7ace693f-1dda-4316-b47a-1009f2b8548f",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      },
+      "file:///j%3A/SkyReels-V2/HOW_TO_RUN.txt": {
+        "content": "",
+        "firstEditBubbleId": "a063a629-ade7-4bbf-acf1-da3eced31f14",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": []
+      }
+    },
+    "newlyCreatedFiles": [
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\SETUP_COMPLETE.md",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/SETUP_COMPLETE.md",
+          "path": "/J:/SkyReels-V2/SETUP_COMPLETE.md",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\QUICK_START.ps1",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/QUICK_START.ps1",
+          "path": "/J:/SkyReels-V2/QUICK_START.ps1",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\test_installation.py",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/test_installation.py",
+          "path": "/J:/SkyReels-V2/test_installation.py",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\INSTALLATION_SUMMARY.txt",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/INSTALLATION_SUMMARY.txt",
+          "path": "/J:/SkyReels-V2/INSTALLATION_SUMMARY.txt",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\START_HERE.txt",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/START_HERE.txt",
+          "path": "/J:/SkyReels-V2/START_HERE.txt",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\generate_video_1.3B.ps1",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/generate_video_1.3B.ps1",
+          "path": "/J:/SkyReels-V2/generate_video_1.3B.ps1",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\SET_CACHE_TO_J_DRIVE.ps1",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/SET_CACHE_TO_J_DRIVE.ps1",
+          "path": "/J:/SkyReels-V2/SET_CACHE_TO_J_DRIVE.ps1",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\CACHE_MIGRATION_SUMMARY.txt",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/CACHE_MIGRATION_SUMMARY.txt",
+          "path": "/J:/SkyReels-V2/CACHE_MIGRATION_SUMMARY.txt",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\START_SKYREELS.ps1",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/START_SKYREELS.ps1",
+          "path": "/J:/SkyReels-V2/START_SKYREELS.ps1",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\START_SKYREELS.bat",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/START_SKYREELS.bat",
+          "path": "/J:/SkyReels-V2/START_SKYREELS.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyREELS-V2\\RUN_SKYREELS.bat",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyREELS-V2/RUN_SKYREELS.bat",
+          "path": "/J:/SkyREELS-V2/RUN_SKYREELS.bat",
+          "scheme": "file"
+        }
+      },
+      {
+        "uri": {
+          "$mid": 1,
+          "fsPath": "j:\\SkyReels-V2\\HOW_TO_RUN.txt",
+          "_sep": 1,
+          "external": "file:///j%3A/SkyReels-V2/HOW_TO_RUN.txt",
+          "path": "/J:/SkyReels-V2/HOW_TO_RUN.txt",
+          "scheme": "file"
+        }
+      }
+    ],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1769663395619,
+    "createdAt": 1769330308829,
+    "hasChangedContext": true,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 34,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 25,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "name": "SkyReels-V2 AI video generator installation",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {},
+    "contextUsagePercent": 40.83300018310547,
+    "allAttachedFileCodeChunksUris": [
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_IQC_RESULT_WORKFLOW.md",
+      "file:///j%3A/SkyReels-V2/SETUP_COMPLETE.md",
+      "file:///j%3A/SkyReels-V2/QUICK_START.ps1",
+      "file:///j%3A/SkyReels-V2/test_installation.py",
+      "file:///j%3A/SkyReels-V2/INSTALLATION_SUMMARY.txt",
+      "file:///j%3A/SkyReels-V2/START_HERE.txt",
+      "file:///j%3A/SkyReels-V2/generate_video_1.3B.ps1",
+      "file:///j%3A/SkyReels-V2/SET_CACHE_TO_J_DRIVE.ps1",
+      "file:///j%3A/SkyReels-V2/CACHE_MIGRATION_SUMMARY.txt",
+      "file:///j%3A/SkyReels-V2/START_SKYREELS.ps1",
+      "file:///j%3A/SkyReels-V2/START_SKYREELS.bat",
+      "file:///j%3A/SkyREELS-V2/RUN_SKYREELS.bat",
+      "file:///j%3A/SkyReels-V2/HOW_TO_RUN.txt",
+      "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/AUTO_EXECUTE_FRAPPE_CONSOLE.py",
+      "file:///c%3A/Users/pc/.cursor/projects/c-Users-pc-Desktop/terminals/3.txt"
+    ],
+    "modelConfig": {
+      "modelName": "composer-1",
+      "maxMode": false
+    },
+    "subComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [
+      {
+        "content": "Clone SkyReels-V2 repository to J:\\ drive",
+        "status": "completed",
+        "id": "1",
+        "dependencies": []
+      },
+      {
+        "content": "Read requirements.txt and README.md to understand dependencies and setup",
+        "status": "completed",
+        "id": "2",
+        "dependencies": []
+      },
+      {
+        "content": "Create Python virtual environment",
+        "status": "completed",
+        "id": "3",
+        "dependencies": []
+      },
+      {
+        "content": "Install all Python dependencies from requirements.txt",
+        "status": "completed",
+        "id": "4",
+        "dependencies": []
+      },
+      {
+        "content": "Check for model weights/download instructions and set up if needed",
+        "status": "completed",
+        "id": "5",
+        "dependencies": []
+      },
+      {
+        "content": "Verify installation and create a test script",
+        "status": "completed",
+        "id": "6",
+        "dependencies": []
+      }
+    ],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 974,
+    "totalLinesRemoved": 0,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isArchived": false,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isSpecSubagentDone": false,
+    "stopHookLoopCount": 0,
+    "speculativeSummarizationEncryptionKey": "ylfrau6nK9yJgSDHdbq3R48IOXBDl7blKcQEqaD/KbU=",
+    "isNAL": false,
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "",
+    "latestChatGenerationUUID": "8bda8742-5d83-4763-b21f-a220dda4be5d",
+    "isAgentic": true,
+    "subtitle": "FIX_DOWNLOAD_ISSUE.ps1",
+    "filesChangedCount": 12,
+    "firstTodoWriteBubble": "88ad99a1-28d5-48d6-b778-32dfecdaa119"
+  },
+  "extracted_at": "2026-04-14T15:54:31.406797"
+}
