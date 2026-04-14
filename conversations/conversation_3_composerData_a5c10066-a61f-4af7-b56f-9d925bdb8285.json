@@ -1,0 +1,161 @@
+{
+  "key": "composerData:a5c10066-a61f-4af7-b56f-9d925bdb8285",
+  "data": {
+    "_v": 13,
+    "composerId": "a5c10066-a61f-4af7-b56f-9d925bdb8285",
+    "richText": "",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [],
+    "conversationMap": {},
+    "status": "none",
+    "context": {
+      "composers": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "gitPRDiffSelections": [],
+      "subagentSelections": [],
+      "browserSelections": [],
+      "mentions": {
+        "composers": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {},
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {},
+        "subagentSelections": {},
+        "browserSelections": {}
+      }
+    },
+    "generatingBubbleIds": [],
+    "isReadingLongFile": false,
+    "codeBlockData": {},
+    "originalFileStates": {},
+    "newlyCreatedFiles": [],
+    "newlyCreatedFolders": [],
+    "createdAt": 1776147131025,
+    "hasChangedContext": false,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {},
+    "allAttachedFileCodeChunksUris": [],
+    "modelConfig": {
+      "modelName": "default",
+      "maxMode": false
+    },
+    "subComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 0,
+    "totalLinesRemoved": 0,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isProject": false,
+    "isSpecSubagentDone": false,
+    "stopHookLoopCount": 0,
+    "speculativeSummarizationEncryptionKey": "afwXNVi2/zpq5ws19uIVMXbe789umPw9uHOZy/2CLvk=",
+    "isNAL": true,
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "~",
+    "queueItems": [],
+    "isAgentic": true
+  },
+  "extracted_at": "2026-04-14T11:43:01.163157"
+}
