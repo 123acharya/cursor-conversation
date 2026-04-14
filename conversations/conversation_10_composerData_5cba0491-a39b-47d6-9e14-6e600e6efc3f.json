@@ -196,6 +196,324 @@
       {
         "bubbleId": "b59ccda2-01cc-4b4e-a249-8a23e97e0da6",
         "type": 2
+      },
+      {
+        "bubbleId": "a364aa04-dccc-41b5-9c47-6ce743b0dd3b",
+        "type": 1
+      },
+      {
+        "bubbleId": "cf19bbd2-299e-4a7a-8289-25e9bed28bad",
+        "type": 2
+      },
+      {
+        "bubbleId": "ea5901b4-9836-4263-be41-44cf7da2d921",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_YEaw7i7Q7B04HdpjVgK27HB8\nfc_01c15066ebbc387fee8251a74468c483f1afbb870adade53abdd46e2f288c"
+        }
+      },
+      {
+        "bubbleId": "94ebe6ea-1933-4158-9cd4-9daedbc0a007",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "1e951adc-991d-4a47-8954-1ed2b50bb3fc",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_LtGSwdKEprVKEOFuWafRiGa8\nfc_01c74ea32c976810bdd06f179252c84bc0b89db791e8abdec794a9ed03546"
+        }
+      },
+      {
+        "bubbleId": "687f9e79-4608-478a-9023-045c3c24de52",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_nHm9q0il6F1IMyyEXlDg8mfl\nfc_01c74ea32c90bcb738ed5dd67bf4c56eee9532f34072bdbc70ab23dea0675"
+        }
+      },
+      {
+        "bubbleId": "c139e09d-dc44-4d06-a3f1-3f84db92b7cf",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_2B1kmUNKhGHMzCCHPREEpLEa\nfc_01c74ea32cd62640890cfb3a37ee5301b1e8df3829f1ed5261068e008bdcf"
+        }
+      },
+      {
+        "bubbleId": "d451b43d-ff8c-438c-8a95-5c8e36c5c146",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_O9Wn89975sLjf2aMrk6IqmiG\nfc_01c74ea32c54f801d7487d57235728d85740a69f088f76dd2441f8c94e3db"
+        }
+      },
+      {
+        "bubbleId": "aa5619e2-5ecc-40b4-aab8-45844faf8917",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_LGsyR28cwQ2kv2czgXhWuqvj\nfc_0161b5a42f72dcefb8e21d72ed52019d5df6e612e8dbdfb9807f524a02970"
+        }
+      },
+      {
+        "bubbleId": "dd7747fc-b4d4-4621-a262-5e7f5cc28879",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_Gt0HQzAW8PIybd3DYDzUWlcv\nfc_0161b5a42f4d3767557972388702f107eb74cd6520faf829cb616a28e5324"
+        }
+      },
+      {
+        "bubbleId": "d1c395dd-a0fb-48b6-9f9c-f3d3a68e58bb",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_SRg9OmbWlGqEBU8alhox5zay\nfc_0161b5a42f0febe82fbe8b7b7b1b04ee2eae22f286525a320889907f1980f"
+        }
+      },
+      {
+        "bubbleId": "49ce29d3-b131-46f9-bdfa-921e9354fa7a",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_f3A67yY0LdKrarZrhan7zUsc\nfc_0161b5a42ff5f3c49aa060efc999675e28e1eb6a48e183d9ea85dc6d6a84f"
+        }
+      },
+      {
+        "bubbleId": "5b30a72e-9559-47d8-b9b9-e3a54485b32a",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_g1NdPJUYyRPUTSLHN9h0IPsb\nfc_01b5b163e002de91cecc85499222361f767adb8eb370ecc02dc3281dab326"
+        }
+      },
+      {
+        "bubbleId": "ab224fd6-8111-4f61-a1b4-b4065867805e",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "16b40640-c6ba-47d5-8a66-0fb50918ec75",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_SkUBrJRkLfVh3PZ7dsJvTGvA\nfc_01c54c9533089faaf0fc3f18a63d8550fdb78a3ec9b6f9938772afb0cc61f"
+        }
+      },
+      {
+        "bubbleId": "5c59d761-d398-46d1-9013-a5369e5772c0",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_1iwSVGLiZij2bnZwDC3OyXRh\nfc_01c54c953388b3738349769f975258c36edea1d2f7adf3a6717b81122f7ab"
+        }
+      },
+      {
+        "bubbleId": "57a8244d-fd51-4077-bba7-60df9f107746",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_uVDuysmOpRWnnm5fycOxN4yf\nfc_01c54c9533956d340c8de95268271a2b4583f94d2ccb1baca4b8c6913605d"
+        }
+      },
+      {
+        "bubbleId": "d0f2173c-4d11-4708-9e32-efedb361d5df",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_3RLmlkhtTb9Foi3Hp356F9BW\nfc_018f7c5b0f334dc33e88d890f58e0cb6bb1de47a2284f00f0633ad928f4a8"
+        }
+      },
+      {
+        "bubbleId": "2d1815cb-6dd4-4d2b-96cb-57f2b6638ec2",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_QG51keTcFJbTJuNGM9O5GTfJ\nfc_01b5b163e009f694924ea4d4e691efa6af127b883d77eb17c452ce3c10bfc"
+        }
+      },
+      {
+        "bubbleId": "56ecdc62-8079-4fe0-a075-04d07ec4a402",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_HoxCC1Z0lWBzlnuIK48P5K76\nfc_01b5b163e04e81e8430ae517e267d90d4b33fd57547ba5c16c50474cbe8cc"
+        }
+      },
+      {
+        "bubbleId": "fee87f8f-f046-4251-be34-c443185b773f",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_20JI01loCz07rTGL41wmwtgZ\nfc_01b5b163e0ac1fc9719c916670f5a1051b07ce6fb27c3f3f0125d67eedc25"
+        }
+      },
+      {
+        "bubbleId": "c3a1c91f-db68-42f5-8a8c-61d3bbb8813e",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "868e1eda-a060-4f17-87a4-a177b777b3d3",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_uv2pmUiIcXs8KFL2zAm1kzn4\nfc_016ded3d6d8dc6b9e67acc801017d0791616b34e1da54206400363efda554"
+        }
+      },
+      {
+        "bubbleId": "bf9d7e30-a8c7-4a99-ab21-b8bb6970b21e",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_dTAObODEcMCqt189wWeXsL92\nfc_01005364f2dae1434f1640cba1971947c251c1043e2c64cee81feddd705ed"
+        }
+      },
+      {
+        "bubbleId": "ff765a87-0307-48a4-b551-80a000d55236",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "7a36e365-1615-48a3-be6a-801f4cd8834e",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_CSEMqLy6tott2r76C813noh0\nfc_011200836261e785d2dbfb94b25499da268aadb99e146e61fd79119d197ec"
+        }
+      },
+      {
+        "bubbleId": "97de7885-9c9e-4c23-843e-f74edc931e12",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_Vl2f7e4x2Gh1U41Vg7gDV9Jv\nfc_01abbe2003344846f6127c7a8e3c24f1b6497115d0754f89e40ca05f98292"
+        }
+      },
+      {
+        "bubbleId": "e76776cd-7cb0-479d-91e2-86edf9133714",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "ca16dac8-05e2-433b-83fd-1446f615a402",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_XdPHgqHCEQitxOEi7RC3OMd4\nfc_01343182512a4db0ff9306998dd1bd2f31481b07545984f59c6c0a6a56aa4"
+        }
+      },
+      {
+        "bubbleId": "c19081ca-8aca-43bc-af80-63427423808b",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "eb59dd7a-00b8-4804-a69f-1cf1edfa06e9",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_v37r7GAvNeREIPErK7VgDGEZ\nfc_01782994390cd56dbe7106af885c0c6388d2d9592ba8fe31ae3bd6ca9177d"
+        }
+      },
+      {
+        "bubbleId": "5b39ffb4-8219-4f90-9dab-d02f40c85300",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "4d16e75b-11a4-444c-8ffc-ee6efd614f6c",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_HGrJTbsXoPjhm7o1ekOAISaI\nfc_0161b5a42f01cee61db6ce0dcda2dbc567612f9f99431aa4a3df57ff75346"
+        }
+      },
+      {
+        "bubbleId": "bc80a292-f58d-4649-8249-02b11c3800e5",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_hSFiY7GeXyPaS7GYVaw5bUHx\nfc_0178299439b6a1c5efc8c380a8c8fb0f839568ec144209583212476d9be11"
+        }
+      },
+      {
+        "bubbleId": "5a98f565-1017-4ec8-abe8-08a662973ef0",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_dYn3nvstcXoUIj89kGSJLBRt\nfc_017a7f45c012854ef26b0830dc3f7fee53d0b838ed5adb8dc9e12a9e102fc"
+        }
+      },
+      {
+        "bubbleId": "a5140fdf-5c54-4b66-a860-64f65c224638",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "4b291fb1-66ee-4a59-a7fd-1d0e08709cad",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_9FYiBaNuO6ftAgIIO07BS76i\nfc_0161b5a42f8ba66ab4ade83e9f622fd76256d9458c1fd36de8c852e9696bf"
+        }
+      },
+      {
+        "bubbleId": "4ea6d14b-49d7-40c4-86b7-f78e77b21135",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "680fd80c-e0bf-4366-b9c5-420e1364469c",
+        "type": 2
       }
     ],
     "conversationMap": {},
@@ -248,8 +566,8 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1776149695692,
-    "conversationCheckpointLastUpdatedAt": 1776149756695,
+    "lastUpdatedAt": 1776150737656,
+    "conversationCheckpointLastUpdatedAt": 1776150927594,
     "createdAt": 1776149007080,
     "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
@@ -303,10 +621,6 @@
       {
         "type": 29,
         "data": {}
-      },
-      {
-        "type": 21,
-        "data": {}
       }
     ],
     "name": "Cursor feature explanation",
@@ -316,7 +630,7 @@
     "unifiedMode": "agent",
     "forceMode": "edit",
     "usageData": {},
-    "contextUsagePercent": 27.43639705882353,
+    "contextUsagePercent": 30.331249999999997,
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
       "modelName": "default",
@@ -360,12 +674,12 @@
     "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
-    "conversationState": "~CiBUdrZbc/7wHSpOb/0NPylBjGsYOcq9MOIrB1W5rsdNKQog5keEkic3CAvi7itZqgxzfdU7JkjpB7aPwR+XNeUGK1UKIOGKHM08HSsQu0439+IV/a9Gytam/LMmx3JVAdFXPFlGCiAcNErNRixM5EbwU9pxkKIsX6lXyavqa8e3N1dX2OmUNwog2HgDJhsJ4SzAP1Ih/x6J9qyrLlWZeBL7Isk9PbTH/1MKIJeU/x6zB1hazCYSGOFAnUGfQMAHAxO1+J9/gRcvdW4SCiDvdeFoZN8Sz/LHUo78g8puXNlAB2C5i6BbQIUtFnR5yQogidly4f2TZ+wffUMzqt9x1/aDveEPeK+DrDryw9GupQoKIOOjf5okXUhv3mtF/Ya0aHGKDJJAjEVmAzkyOyhDVJpnCiBcycZGP/7yWsTfYAOFc3qW4ySZitDh7P3ZDy6vDJMEBQogpfKwO/zGoMwLit03INAySOT/RMISNf+a47Veoll98OIKIF34LpN1zwGnsLSMKgkCEitJZqYLg7jUJSVIi0WTXxVaCiDIorim/u+fY49ZYhBWbHBiXauIuJgnt+CGdoALeDfbxQogCHENb09FtUgNQM6LbMvdMXhR1LMVE4sn+DGRQPJxDxoKIN0Kb7JfgyswVpZ0nAQ7Hv5R47V8b/CU/7MmeGfgRuhLCiDbZB8SojlUcpyk3trReiiHD6R/qa3nXr1jkZaEGNEIQwogw8rcNeuF8tp+rkWvmkzlKViQzyfV/Qo3pfgYHII9g8cKIKYdBA+yiMhHg0zuS/T6WtxEngpAX0VfqHakx5u8+6kqCiDbs0QgzOZbZkN9Zjqi7pZz2mixelGaOlK6kgF4/TJPWwogmjz9RSf/V59pzYtYSvFNO75fs+JO1fMMvRVkAJrnNQQKIFTAuk6oJiduxCrPliDESZOAdEGd8gLPvQwP5pJsqrntCiAOxF+qp9ur0uAXFOyrgKsql3LiPaOKI3uwWMEHNHvgmQogEybenE/LydTEXwoi02SI0qPJyzTK100O4c/2MBbjmbEKIDIM1iCQiQitc4ir5Xwkpag3JQo39GJTJUuf1r3Rt7Y/CiBEpBm1FH7/1NylvHmjFyO5Jh8tQ8agT2DhGYom6hzVAgogP0cABa+vDIHnhYkfAmijz5/c5c0h79Lp5e+rX7mNr9sKIKtHhhIFUPlH4gun4SXk1mOQMF0LFDLvzlZM/qY/ecMOCiDOoiFzz2efjbgC3YIey/QRFvZVZ98t8Z8zCrxTx93f1QogNmxm9dC0qa7jRL6QbSpNg4b1f9UYvdtntB5DCU3SGMYqCAiDxwQQgM0QQiA2FXdlbXNX8t2VVghLGLLSXQeStpGLjUAlkvbcIsZ1C0IgzS74EwJwc9M/2CHLe/LZtH3z43Wn8CYCbxAtWPgZJmpCIGJ/2HHJv4Jp6FgBQXOUG20wM3noW6O+GeDCyEbAEz5vSjRmaWxlOi8vL2FwcC9iYWNrZW5kL3NlcnZlci9jOiU1Q1VzZXJzJTVDcGMlNUNEZXNrdG9wUAGSAXxDOlxVc2Vyc1xwY1xEZXNrdG9wXGN1cnNvci1jaGF0LWJhY2t1cHNcY29udmVyc2F0aW9uc1xjb252ZXJzYXRpb25fNDVfY29tcG9zZXJEYXRhXzE4YzA2MjU4LWI5MmEtNDRjZC05ZmU1LTY0MzllMDhkNzAwMS5qc29ukgGRAUM6XFVzZXJzXHBjXC5jdXJzb3JccHJvamVjdHNcYy1Vc2Vycy1wYy1EZXNrdG9wXGFnZW50LXRyYW5zY3JpcHRzXDVjYmEwNDkxLWEzOWItNDdkNi05ZTE0LTZlNjAwZTZlZmMzZlw1Y2JhMDQ5MS1hMzliLTQ3ZDYtOWUxNC02ZTYwMGU2ZWZjM2YuanNvbmyqARgKC0M6L1VzZXJzL3BjEgljb2RleC10cnmyAQNpZGU=",
+    "conversationState": "~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bGU6Ly8vYXBwL2JhY2tlbmQvc2VydmVyL2M6JTVDVXNlcnMlNUNwYyU1Q0Rlc2t0b3BQAZIBfEM6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xjb252ZXJzYXRpb25zXGNvbnZlcnNhdGlvbl80NV9jb21wb3NlckRhdGFfMThjMDYyNTgtYjkyYS00NGNkLTlmZTUtNjQzOWUwOGQ3MDAxLmpzb26SAZEBQzpcVXNlcnNccGNcLmN1cnNvclxwcm9qZWN0c1xjLVVzZXJzLXBjLURlc2t0b3BcYWdlbnQtdHJhbnNjcmlwdHNcNWNiYTA0OTEtYTM5Yi00N2Q2LTllMTQtNmU2MDBlNmVmYzNmXDVjYmEwNDkxLWEzOWItNDdkNi05ZTE0LTZlNjAwZTZlZmMzZi5qc29ubJIBe2M6XFVzZXJzXHBjXERlc2t0b3BcY3Vyc29yLWNoYXQtYmFja3Vwc1xjb252ZXJzYXRpb25zXGNvbnZlcnNhdGlvbl8xX2NvbXBvc2VyRGF0YV8yMGU3YTUzZi0zM2U5LTQwZTktOTIzNy1hOGY1ZGVkMjY3ZTAuanNvbqoBGAoLQzovVXNlcnMvcGMSCWNvZGV4LXRyebIBA2lkZQ==",
     "queueItems": [],
     "blobEncryptionKey": "/o50YvVAoCCBA3T4D5NzMvqUQnpMp9VByMMrPdtJEaY=",
-    "latestChatGenerationUUID": "af0c88ac-fdd0-4c1c-9309-0be62c9d395c",
+    "latestChatGenerationUUID": "43ea10a6-9d42-46df-9f42-1b9966c9ab7d",
     "isAgentic": true,
-    "subtitle": "Read 5cba0491-a39b-47d6-9e14-6e600e6efc3f.jsonl, conversation_45_composerData_18c06258-b92a-44cd-9fe5-6439e08d7001.json",
+    "subtitle": "Read conversation_1_composerData_20e7a53f-33e9-40e9-9237-a8f5ded267e0.json, 5cba0491-a39b-47d6-9e14-6e600e6efc3f.jsonl, conversation_45_composerData_18c06258-b92a-44cd-9fe5-6439e08d7001.json",
     "filesChangedCount": 0,
     "glassMetaParentAgent": false,
     "workspaceIdentifier": {
@@ -382,5 +696,5 @@
     "applyAgentBackendTypeRestrictions": false,
     "restrictAgentModeSwitching": false
   },
-  "extracted_at": "2026-04-14T12:33:01.230291"
+  "extracted_at": "2026-04-14T12:53:01.202531"
 }
