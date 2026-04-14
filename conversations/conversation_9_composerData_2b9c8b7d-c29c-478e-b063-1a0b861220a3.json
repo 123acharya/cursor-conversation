@@ -1,14 +1,14 @@
 {
-  "key": "composerData:8b68067b-21c8-49f7-a0f4-9e7156a0495e",
+  "key": "composerData:2b9c8b7d-c29c-478e-b063-1a0b861220a3",
   "data": {
-    "_v": 13,
-    "composerId": "8b68067b-21c8-49f7-a0f4-9e7156a0495e",
-    "richText": "",
+    "_v": 15,
+    "composerId": "2b9c8b7d-c29c-478e-b063-1a0b861220a3",
+    "richText": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\"}]}",
     "hasLoaded": true,
     "text": "",
     "fullConversationHeadersOnly": [],
     "conversationMap": {},
-    "status": "none",
+    "status": "aborted",
     "context": {
       "composers": [],
       "selectedCommits": [],
@@ -25,6 +25,7 @@
       "gitPRDiffSelections": [],
       "subagentSelections": [],
       "browserSelections": [],
+      "extraContext": [],
       "mentions": {
         "composers": {},
         "selectedCommits": {},
@@ -56,8 +57,9 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1776147114980,
-    "hasChangedContext": false,
+    "lastUpdatedAt": 1776148992412,
+    "createdAt": 1776148992255,
+    "hasChangedContext": true,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
       {
@@ -103,10 +105,6 @@
         "data": {}
       },
       {
-        "type": 21,
-        "data": {}
-      },
-      {
         "type": 31,
         "data": {}
       },
@@ -115,6 +113,7 @@
         "data": {}
       }
     ],
+    "name": "Feature clarification",
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
@@ -124,9 +123,16 @@
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
       "modelName": "default",
-      "maxMode": false
+      "maxMode": false,
+      "selectedModels": [
+        {
+          "modelId": "default",
+          "parameters": []
+        }
+      ]
     },
     "subComposerIds": [],
+    "subagentComposerIds": [],
     "capabilityContexts": [],
     "todos": [],
     "isQueueExpanded": true,
@@ -142,20 +148,42 @@
     "isUndoingWorktree": false,
     "applied": false,
     "pendingCreateWorktree": false,
+    "worktreeStartedReadOnly": false,
     "isBestOfNSubcomposer": false,
     "isBestOfNParent": false,
     "bestOfNJudgeWinner": false,
     "isSpec": false,
     "isProject": false,
     "isSpecSubagentDone": false,
+    "isContinuationInProgress": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "rvLbLtBGoxWA0DHrUs8eg8dcohuz/qjN1wrMgPqUBQM=",
+    "trackedGitRepos": [],
+    "speculativeSummarizationEncryptionKey": "t4hNqg8OgGen8Zj13J6gZ0j296vlaTOJKaJpjlAchLY=",
     "isNAL": true,
+    "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "~",
     "queueItems": [],
-    "isAgentic": true
+    "blobEncryptionKey": "3FvJY17fOB+aRYjJ9yrP+zYhE0LEEvbjDHaVKrBTJJM=",
+    "latestChatGenerationUUID": "aa50e079-b666-4b55-aa98-5874c4a0edb8",
+    "isAgentic": true,
+    "subtitle": "what is this feature",
+    "filesChangedCount": 0,
+    "glassMetaParentAgent": false,
+    "workspaceIdentifier": {
+      "id": "a60624e847c59a61babc2873b5877c96",
+      "uri": {
+        "$mid": 1,
+        "fsPath": "c:\\Users\\pc\\Desktop",
+        "_sep": 1,
+        "external": "file:///c%3A/Users/pc/Desktop",
+        "path": "/c:/Users/pc/Desktop",
+        "scheme": "file"
+      }
+    },
+    "applyAgentBackendTypeRestrictions": false,
+    "restrictAgentModeSwitching": false
   },
   "extracted_at": "2026-04-14T12:33:01.230291"
 }

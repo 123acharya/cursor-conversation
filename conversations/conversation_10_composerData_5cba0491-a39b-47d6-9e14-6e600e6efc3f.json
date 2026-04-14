@@ -1,0 +1,386 @@
+{
+  "key": "composerData:5cba0491-a39b-47d6-9e14-6e600e6efc3f",
+  "data": {
+    "_v": 15,
+    "composerId": "5cba0491-a39b-47d6-9e14-6e600e6efc3f",
+    "richText": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\"}]}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "0c7cf4b2-ac0a-4819-89e5-3de63d0bea12",
+        "type": 1
+      },
+      {
+        "bubbleId": "2d5e567f-f693-43da-a49e-5660c998d93b",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "7e860acc-8563-42e0-a760-56532552444c",
+        "type": 2
+      },
+      {
+        "bubbleId": "6921812e-4aac-4a19-8ba7-1143f8492054",
+        "type": 1
+      },
+      {
+        "bubbleId": "2e7ea6ec-9129-4968-bee0-8656d378cff9",
+        "type": 2
+      },
+      {
+        "bubbleId": "6fa0f446-8a58-4fd5-b06b-14cf12106ccd",
+        "type": 1
+      },
+      {
+        "bubbleId": "bca7dd2b-e9f4-4eb5-938f-8e8ee9b7edb3",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "eaab07eb-c261-465e-ab03-d9efd79fd63d",
+        "type": 2
+      },
+      {
+        "bubbleId": "7787db20-6302-4fa4-a907-b10969c504b1",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_tSkPI4LSWHUaqOtw256vMu6n\nfc_01782994394485fd4893d5ce98baba7d0c031bdf167d281c9be2d0989692e"
+        }
+      },
+      {
+        "bubbleId": "8e812d30-5f75-4907-bbaa-837c0db23bcf",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_Sv17cIufawVmDENBiv3yj8cg\nfc_0178299439d412d927aee2290586301a09bc31546b90a2e649b693ede80d8"
+        }
+      },
+      {
+        "bubbleId": "049583ba-fdb3-46fb-b5d0-79939f498772",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "6c64b418-03df-4f1e-ac0a-7428a61e280d",
+        "type": 2
+      },
+      {
+        "bubbleId": "f57e7c38-bd8b-48e3-8ee4-b80208b3f7f8",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_16i8kvDIdCnAWrSEoW24uRTm\nfc_016d05194c3659f20e4ebcf399445c34d90707725683921a0ac6dfecb2251"
+        }
+      },
+      {
+        "bubbleId": "d472111d-681b-4dc7-a6bf-ae59df5a112c",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_iU1AkbP1vnI8CJDbUNDb2kOq\nfc_016d05194cfd10fabd01f55fbbf4d75569ff0264e1c556b83722cc679f86a"
+        }
+      },
+      {
+        "bubbleId": "417d47f5-8ce9-4c92-9e84-53f3637d2c9e",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_bFCFZtM1hHCXWVlwe70kqxx2\nfc_016d05194c8c042c5b0bab9112915a25adb70da576371061f7c4ad2f88133"
+        }
+      },
+      {
+        "bubbleId": "75d454b8-bbb5-486a-99da-4477d345a5fc",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_ClAiFYmL34bHxw29pOTU4Ra4\nfc_016d05194c14a57d71d1267aadeaa2abd56d3294bda43363dae5e925362cc"
+        }
+      },
+      {
+        "bubbleId": "36acfd87-ca36-4c28-999c-38544f6d6056",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "cdc83f61-b9c6-4ecf-a81b-ffcaa5f1dde4",
+        "type": 2
+      },
+      {
+        "bubbleId": "1445e1d5-978f-4d2b-8a2d-f502cfaff935",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_gliX0owVpUX6siIiDrh8swoN\nfc_01c74ea32cf78da74bf1e45ad5fcb8e34fe64ce2d9ce6ff34e20f6fde1289"
+        }
+      },
+      {
+        "bubbleId": "8020411c-526d-4034-9b75-25bc78ca7045",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_C1N8MyZZdczDkfwnlT22zGXO\nfc_01c74ea32cc0f3c9b5f79ccb9c8f24535092aa664a97a3ff510f9992caad4"
+        }
+      },
+      {
+        "bubbleId": "3a2bf97b-36ca-4703-97ba-6578be9eb68c",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_x3pUgtXb9zi4P34eKvlZZotk\nfc_01c74ea32c7a1f205753852fe9d12f794a202541743f7d46638635cca4a42"
+        }
+      },
+      {
+        "bubbleId": "57bd34a6-009d-40c8-8ff1-c353015a8479",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_3AmdUfMPIOWBMPyv7FOr7zC8\nfc_01c74ea32c107d91d1cbde2efb224a028354d43ffcca78bd025319a934dcb"
+        }
+      },
+      {
+        "bubbleId": "4391d398-0472-4122-98d2-6d6a4f96cecb",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_PxYYxKzKhnAsXh7EysLpPSwx\nfc_01c74ea32c7f4d4a76b3d723b1aaad2fd665dd9fed8eac180c51a8d7beff2"
+        }
+      },
+      {
+        "bubbleId": "fa3fdd17-9875-4bb5-a2a1-1ffc2b5e76db",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_o8ohuLWc8sshBlWVxmJYRq5H\nfc_01687adb701ec22aad3cfb3b8f6948d44418c67248036065acf7c5565fdee"
+        }
+      },
+      {
+        "bubbleId": "b66fd9b2-299e-4d1d-a44f-c3a89ede7fd1",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 41,
+          "toolCallId": "call_FgQBjj8WtQeGNW3qZmfZOKw8\nfc_0151280c8fb49901765492dc40957aeb411fa9323a246a905d9b32a1025b9"
+        }
+      },
+      {
+        "bubbleId": "4749275c-d969-4441-bc1b-4473f2179164",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_PqnnA0IM66z39A1oi2A0WN8s\nfc_016ded3d6d9c65805ac5cca599bae4da3399e55bd4dbe4cb9383eb7567ddf"
+        }
+      },
+      {
+        "bubbleId": "b59ccda2-01cc-4b4e-a249-8a23e97e0da6",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "completed",
+    "context": {
+      "composers": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "gitPRDiffSelections": [],
+      "subagentSelections": [],
+      "browserSelections": [],
+      "extraContext": [],
+      "mentions": {
+        "composers": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {},
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {},
+        "subagentSelections": {},
+        "browserSelections": {}
+      }
+    },
+    "generatingBubbleIds": [],
+    "isReadingLongFile": false,
+    "codeBlockData": {},
+    "originalFileStates": {},
+    "newlyCreatedFiles": [],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1776149695692,
+    "conversationCheckpointLastUpdatedAt": 1776149756695,
+    "createdAt": 1776149007080,
+    "hasChangedContext": true,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      }
+    ],
+    "name": "Cursor feature explanation",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {},
+    "contextUsagePercent": 27.43639705882353,
+    "allAttachedFileCodeChunksUris": [],
+    "modelConfig": {
+      "modelName": "default",
+      "maxMode": false,
+      "selectedModels": [
+        {
+          "modelId": "default",
+          "parameters": []
+        }
+      ]
+    },
+    "subComposerIds": [],
+    "subagentComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 0,
+    "totalLinesRemoved": 0,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "worktreeStartedReadOnly": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isProject": false,
+    "isSpecSubagentDone": false,
+    "isContinuationInProgress": false,
+    "stopHookLoopCount": 0,
+    "trackedGitRepos": [],
+    "speculativeSummarizationEncryptionKey": "nK6oYv3aMBAH3zgrlNqPVAf5J/PN7SrhdFqGYND9+OA=",
+    "isNAL": true,
+    "agentBackend": "cursor-agent",
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "~CiBUdrZbc/7wHSpOb/0NPylBjGsYOcq9MOIrB1W5rsdNKQog5keEkic3CAvi7itZqgxzfdU7JkjpB7aPwR+XNeUGK1UKIOGKHM08HSsQu0439+IV/a9Gytam/LMmx3JVAdFXPFlGCiAcNErNRixM5EbwU9pxkKIsX6lXyavqa8e3N1dX2OmUNwog2HgDJhsJ4SzAP1Ih/x6J9qyrLlWZeBL7Isk9PbTH/1MKIJeU/x6zB1hazCYSGOFAnUGfQMAHAxO1+J9/gRcvdW4SCiDvdeFoZN8Sz/LHUo78g8puXNlAB2C5i6BbQIUtFnR5yQogidly4f2TZ+wffUMzqt9x1/aDveEPeK+DrDryw9GupQoKIOOjf5okXUhv3mtF/Ya0aHGKDJJAjEVmAzkyOyhDVJpnCiBcycZGP/7yWsTfYAOFc3qW4ySZitDh7P3ZDy6vDJMEBQogpfKwO/zGoMwLit03INAySOT/RMISNf+a47Veoll98OIKIF34LpN1zwGnsLSMKgkCEitJZqYLg7jUJSVIi0WTXxVaCiDIorim/u+fY49ZYhBWbHBiXauIuJgnt+CGdoALeDfbxQogCHENb09FtUgNQM6LbMvdMXhR1LMVE4sn+DGRQPJxDxoKIN0Kb7JfgyswVpZ0nAQ7Hv5R47V8b/CU/7MmeGfgRuhLCiDbZB8SojlUcpyk3trReiiHD6R/qa3nXr1jkZaEGNEIQwogw8rcNeuF8tp+rkWvmkzlKViQzyfV/Qo3pfgYHII9g8cKIKYdBA+yiMhHg0zuS/T6WtxEngpAX0VfqHakx5u8+6kqCiDbs0QgzOZbZkN9Zjqi7pZz2mixelGaOlK6kgF4/TJPWwogmjz9RSf/V59pzYtYSvFNO75fs+JO1fMMvRVkAJrnNQQKIFTAuk6oJiduxCrPliDESZOAdEGd8gLPvQwP5pJsqrntCiAOxF+qp9ur0uAXFOyrgKsql3LiPaOKI3uwWMEHNHvgmQogEybenE/LydTEXwoi02SI0qPJyzTK100O4c/2MBbjmbEKIDIM1iCQiQitc4ir5Xwkpag3JQo39GJTJUuf1r3Rt7Y/CiBEpBm1FH7/1NylvHmjFyO5Jh8tQ8agT2DhGYom6hzVAgogP0cABa+vDIHnhYkfAmijz5/c5c0h79Lp5e+rX7mNr9sKIKtHhhIFUPlH4gun4SXk1mOQMF0LFDLvzlZM/qY/ecMOCiDOoiFzz2efjbgC3YIey/QRFvZVZ98t8Z8zCrxTx93f1QogNmxm9dC0qa7jRL6QbSpNg4b1f9UYvdtntB5DCU3SGMYqCAiDxwQQgM0QQiA2FXdlbXNX8t2VVghLGLLSXQeStpGLjUAlkvbcIsZ1C0IgzS74EwJwc9M/2CHLe/LZtH3z43Wn8CYCbxAtWPgZJmpCIGJ/2HHJv4Jp6FgBQXOUG20wM3noW6O+GeDCyEbAEz5vSjRmaWxlOi8vL2FwcC9iYWNrZW5kL3NlcnZlci9jOiU1Q1VzZXJzJTVDcGMlNUNEZXNrdG9wUAGSAXxDOlxVc2Vyc1xwY1xEZXNrdG9wXGN1cnNvci1jaGF0LWJhY2t1cHNcY29udmVyc2F0aW9uc1xjb252ZXJzYXRpb25fNDVfY29tcG9zZXJEYXRhXzE4YzA2MjU4LWI5MmEtNDRjZC05ZmU1LTY0MzllMDhkNzAwMS5qc29ukgGRAUM6XFVzZXJzXHBjXC5jdXJzb3JccHJvamVjdHNcYy1Vc2Vycy1wYy1EZXNrdG9wXGFnZW50LXRyYW5zY3JpcHRzXDVjYmEwNDkxLWEzOWItNDdkNi05ZTE0LTZlNjAwZTZlZmMzZlw1Y2JhMDQ5MS1hMzliLTQ3ZDYtOWUxNC02ZTYwMGU2ZWZjM2YuanNvbmyqARgKC0M6L1VzZXJzL3BjEgljb2RleC10cnmyAQNpZGU=",
+    "queueItems": [],
+    "blobEncryptionKey": "/o50YvVAoCCBA3T4D5NzMvqUQnpMp9VByMMrPdtJEaY=",
+    "latestChatGenerationUUID": "af0c88ac-fdd0-4c1c-9309-0be62c9d395c",
+    "isAgentic": true,
+    "subtitle": "Read 5cba0491-a39b-47d6-9e14-6e600e6efc3f.jsonl, conversation_45_composerData_18c06258-b92a-44cd-9fe5-6439e08d7001.json",
+    "filesChangedCount": 0,
+    "glassMetaParentAgent": false,
+    "workspaceIdentifier": {
+      "id": "a60624e847c59a61babc2873b5877c96",
+      "uri": {
+        "$mid": 1,
+        "fsPath": "c:\\Users\\pc\\Desktop",
+        "_sep": 1,
+        "external": "file:///c%3A/Users/pc/Desktop",
+        "path": "/c:/Users/pc/Desktop",
+        "scheme": "file"
+      }
+    },
+    "applyAgentBackendTypeRestrictions": false,
+    "restrictAgentModeSwitching": false
+  },
+  "extracted_at": "2026-04-14T12:33:01.230291"
+}
