@@ -1,6 +1,6 @@
 # Cursor versioned backup — keeps last 48 hourly snapshots
 $src = "$env:APPDATA\Cursor\User\globalStorage\state.vscdb"
-$dir = "C:\Users\pc\Desktop\cursor-chat-backups\snapshots"
+$dir = "I:\cursor database\snapshots"
 
 if (!(Test-Path $dir)) { New-Item -ItemType Directory -Path $dir | Out-Null }
 
