@@ -23,3 +23,13 @@ if ($files.Count -gt 48) {
 }
 
 Write-Host "Total snapshots: $([Math]::Min($files.Count, 48))"
+
+# Extract all conversations (user + AI) as readable markdown files
+$python = "C:\Users\pc\anaconda3\python.exe"
+$script = "C:\Users\pc\Desktop\cursor-chat-backups\extract_conversations.py"
+if ((Test-Path $python) -and (Test-Path $script)) {
+    Write-Host "Extracting conversations to markdown..."
+    & $python $script
+} else {
+    Write-Warning "Skipping extraction: python or script not found"
+}
