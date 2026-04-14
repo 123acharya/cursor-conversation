@@ -1,14 +1,14 @@
 {
-  "key": "composerData:2b9c8b7d-c29c-478e-b063-1a0b861220a3",
+  "key": "composerData:e13bfb31-a2e7-4218-96be-378f5f40da6b",
   "data": {
     "_v": 15,
-    "composerId": "2b9c8b7d-c29c-478e-b063-1a0b861220a3",
-    "richText": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\"}]}",
+    "composerId": "e13bfb31-a2e7-4218-96be-378f5f40da6b",
+    "richText": "",
     "hasLoaded": true,
     "text": "",
     "fullConversationHeadersOnly": [],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "none",
     "context": {
       "composers": [],
       "selectedCommits": [],
@@ -57,9 +57,8 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1776148992412,
-    "createdAt": 1776148992255,
-    "hasChangedContext": true,
+    "createdAt": 1776148231288,
+    "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
       {
@@ -105,6 +104,10 @@
         "data": {}
       },
       {
+        "type": 21,
+        "data": {}
+      },
+      {
         "type": 31,
         "data": {}
       },
@@ -113,7 +116,6 @@
         "data": {}
       }
     ],
-    "name": "Feature clarification",
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
@@ -158,19 +160,16 @@
     "isContinuationInProgress": false,
     "stopHookLoopCount": 0,
     "trackedGitRepos": [],
-    "speculativeSummarizationEncryptionKey": "t4hNqg8OgGen8Zj13J6gZ0j296vlaTOJKaJpjlAchLY=",
+    "speculativeSummarizationEncryptionKey": "VSP82vahOi9RXNbEdR/2Dq06a8TKg+zNn59CUasBQKk=",
     "isNAL": true,
     "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "~",
     "queueItems": [],
-    "blobEncryptionKey": "3FvJY17fOB+aRYjJ9yrP+zYhE0LEEvbjDHaVKrBTJJM=",
-    "latestChatGenerationUUID": "aa50e079-b666-4b55-aa98-5874c4a0edb8",
+    "blobEncryptionKey": "w7n+UKyjRHJi8tCpvt90j6qmXDW/cfsEFpjohy8JxLQ=",
     "isAgentic": true,
-    "subtitle": "what is this feature",
-    "filesChangedCount": 0,
-    "glassMetaParentAgent": false,
+    "subtitle": "New chat",
     "workspaceIdentifier": {
       "id": "a60624e847c59a61babc2873b5877c96",
       "uri": {
@@ -182,8 +181,7 @@
         "scheme": "file"
       }
     },
-    "applyAgentBackendTypeRestrictions": false,
-    "restrictAgentModeSwitching": false
+    "applyAgentBackendTypeRestrictions": false
   },
   "extracted_at": "2026-04-14T15:43:02.672684"
 }

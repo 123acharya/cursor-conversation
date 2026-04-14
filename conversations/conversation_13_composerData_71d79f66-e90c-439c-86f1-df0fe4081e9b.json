@@ -1,0 +1,870 @@
+{
+  "key": "composerData:71d79f66-e90c-439c-86f1-df0fe4081e9b",
+  "data": {
+    "_v": 15,
+    "composerId": "71d79f66-e90c-439c-86f1-df0fe4081e9b",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "b2b77639-20c1-4737-afff-7512854a733b",
+        "type": 1
+      },
+      {
+        "bubbleId": "477f2454-2a83-44b4-b78a-a981587eda33",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "b28fe8d5-9ea4-4401-9117-b1169485c0d5",
+        "type": 2
+      },
+      {
+        "bubbleId": "47914632-ce0e-4a48-a90c-e934a8c342d6",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_ocJ79H9wHXOYjkOw1UGYAmWu\nfc_01bf66c5e4267cbf5f1d5369f5bea0d9b06cf062540173c022e9ddfcae14d"
+        }
+      },
+      {
+        "bubbleId": "adbf34b5-bd14-4062-9b67-07f6d86acb5c",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "6a97f832-03a2-4cdb-8ce9-63c6ab1cfaeb",
+        "type": 2
+      },
+      {
+        "bubbleId": "28eedd2b-53a2-4263-9163-e3fa1c387fc7",
+        "type": 1
+      },
+      {
+        "bubbleId": "32459838-e0c0-4ed5-9e42-db35d584592f",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "e139219b-b7c7-42f6-bb73-b76f9e66c66d",
+        "type": 2
+      },
+      {
+        "bubbleId": "63db02c2-05da-4d3a-9d8f-090d00275a1e",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_MaqiKryRMxWQx6m9cU0Nvqpo\nfc_01295ed9e36b00158af543d36ba8bf33dba84e48c1f44c5c2d2e11751f4f0"
+        }
+      },
+      {
+        "bubbleId": "4f7421b3-a5b5-4023-b87e-1afc42f02404",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "4a327b5e-7d75-489a-99c7-f430073a94d3",
+        "type": 2
+      },
+      {
+        "bubbleId": "9dea1f12-07c6-49e2-8c89-cc64c7d873f1",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_RvYwWNIoXFWfHDLF2fB5PXGH\nfc_012fe9b6ca6bd12cbb95d379469e918b0046f7b6538c98d1c0de8e6f69bb4"
+        }
+      },
+      {
+        "bubbleId": "156f8497-2096-4616-8fc1-c490baf6929e",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_XRv7sp8K7d9mOOjGbZqyg5Tn\nfc_012fe9b6ca749e823ec17f275062849265375779cfb4f361a1d2c5fd75b9e"
+        }
+      },
+      {
+        "bubbleId": "23e3c270-58f4-4c72-ba14-78747eb753e8",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_PXkjddQSSeoGdr2rbKHGhgZf\nfc_012fe9b6ca92bcf5a99e1eccb71fe44c0172910a60dcbe7991814a5642b79"
+        }
+      },
+      {
+        "bubbleId": "c044233d-5090-482a-ac8f-752a29667914",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 42,
+          "toolCallId": "call_rgso8yAIUC5BrVjn4M82tEMd\nfc_012fe9b6cae54a1d58a1ed39716d924cca6db667793b972538b3b6a4868f5"
+        }
+      },
+      {
+        "bubbleId": "01ef95a7-6c13-47fe-8c60-e52eb99850f3",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "e23a22a7-b770-4d4a-9fbc-4ef3f739bca4",
+        "type": 2
+      },
+      {
+        "bubbleId": "ae6b298a-c734-4645-8da0-5f4771b21ada",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_xlOSkk40UmZoasRbQzrg2DVT\nfc_01e14a2b31a55dfcb1038f78c775940c08168f940ead8d9e610ba1932c43b"
+        }
+      },
+      {
+        "bubbleId": "336060e2-fdab-4fb6-ba25-8e3532dbe574",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_MvyP8VF4fQGJvHLGNVxaqIcm\nfc_01854f1d9a10676e3f3f9924d5e022d390feeccb6f47c26f69d71061bf3bd"
+        }
+      },
+      {
+        "bubbleId": "b7647ce2-f3bc-47d4-a666-c625d7957a39",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "7dda06e8-548e-4ced-a77b-c6812e419078",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_hn21tPAms0qsPTSc2q3HAYEP\nfc_01ee9d5385420eab6f3b3b3257ff52b7d91ac3b41890d31c968e145c03a46"
+        }
+      },
+      {
+        "bubbleId": "073b8f46-f3ed-4ea3-968f-4e7f44d624af",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "8fa9f9ac-abb3-4d18-9bf0-f82d9a9e9c14",
+        "type": 2
+      },
+      {
+        "bubbleId": "a2306080-d133-42f9-88bb-12ea1c172579",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_WVmeId5gVI7gRFrPt66N1sdk\nfc_01ee9d5385331b6b19b0f780b49a00eb666f4ba5c6a7671fa65a0d00fc1cb"
+        }
+      },
+      {
+        "bubbleId": "71b4d227-401c-4cb5-bd14-bd01e63e0e8a",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "eb8eb76f-a832-4abd-adcf-894508683879",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_8KJyVLOSrxzTeSVPfNMd4vGA\nfc_01216aebea56290e2c10972da720b3c29228a2699f2be917d0eb87a2effe9"
+        }
+      },
+      {
+        "bubbleId": "b17f02bb-a77a-443c-8c10-71f9accafaab",
+        "type": 2
+      },
+      {
+        "bubbleId": "37b05319-a929-4fba-a43c-d98732eaacbd",
+        "type": 1
+      },
+      {
+        "bubbleId": "43f723bc-06eb-4f07-9169-afe3b36c8fe5",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "1ead47b3-9125-45d0-aad5-de5acb3d3045",
+        "type": 2
+      },
+      {
+        "bubbleId": "c192b3e3-0076-4054-9adc-4e67718a615c",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_KTnScgYQgrB5FWjd2oQED6iH\nfc_01b1458ec64092cafecfab8568887381fae7f1e2958490d5e59c160009f20"
+        }
+      },
+      {
+        "bubbleId": "d4fcb1f2-f038-4911-a6a9-38c1a5ead98f",
+        "type": 2
+      },
+      {
+        "bubbleId": "2ddb2486-a48b-45e0-8986-12a9161cb1ce",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_rTNn0muQOLxPERbkd668EN01\nfc_018008e1649d5448fbfc7530c9feaf182d75c0a7b8f680565ffd455b2907a"
+        }
+      },
+      {
+        "bubbleId": "59f594fc-9d02-4071-a054-952d91f22324",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "9430a074-5cd4-4253-b8ea-531897ab02af",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_cIetvohfDGvbcwq5hJ5CRfUy\nfc_01ee9d53857a6d0c945afaedd102505d5770feb6192548f6dbe32e408cba1"
+        }
+      },
+      {
+        "bubbleId": "3e147300-24f7-40b0-b8de-0e61995706bc",
+        "type": 2
+      },
+      {
+        "bubbleId": "91fd49b2-82d3-458c-adb7-50ff24cdb717",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_t9MhcQkrSPTFke62YeNwhBPz\nfc_01908ff3c1c6576127555dfe75d5c86c97a47e75860b83ec411f77f448fcf"
+        }
+      },
+      {
+        "bubbleId": "b287ddca-1c51-4a33-8a62-4430180783a3",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "dc625d6c-4767-428b-afe4-69cb9237e00a",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_JWIKCpG3S2Ub7gSKW1Xy3ZSz\nfc_01120083625074691e5ed47c18fdec33be036909d2d0c8a57f60906a1a7f1"
+        }
+      },
+      {
+        "bubbleId": "8220ed37-bb9b-47f0-b32b-3405e4cf1da0",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "f74f8c86-8bb5-4345-89cc-015ab33278c4",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_G0NlaYxV7CRkqPAIooBy2iJO\nfc_018f7c5b0fe26fb22367b54df317e72dc10f76f237a1b306e8aa1c16d9a26"
+        }
+      },
+      {
+        "bubbleId": "ecce12b0-18e2-4c76-a7b4-801dd608894c",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "8a27b40f-eb78-4cd6-a624-39c36f49cb4e",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_x9jj4Q7atFSGkOqCfxNCEoYf\nfc_0149d11a1f86776fc110cec8ef9945f67bcadfa60a1b92289022aa71bb1fd"
+        }
+      },
+      {
+        "bubbleId": "099e6b02-3e38-4159-b73e-10cd1cd65c70",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_rIdDZvbvbVoLtbQMsOFJddPz\nfc_01c2d581f43031658a12b7313c0c1d0d6b4f395fad14d9fa8de7df57bb630"
+        }
+      },
+      {
+        "bubbleId": "64f05a08-269f-4c27-98c1-3329bb902484",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "04bbf746-b1fa-423e-be42-cde6ed55b5a3",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_KcwnJRhsPsnrVBcaUj6IRAhQ\nfc_0137a23878a739d4f1556fa7a9973607673412aa24bce4e88efa34a6402bd"
+        }
+      },
+      {
+        "bubbleId": "eb140d2f-4bc7-4b21-956e-727a19e693b7",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_LlBeHrgFDvay6fkG9KBOvrM9\nfc_01c54c953394b25111bc7f70e763ac2ccb57d1151a506d875939b5031dc42"
+        }
+      },
+      {
+        "bubbleId": "caf85685-afd0-4243-b163-8211b21a0216",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_U4z6MZ8vN9gDX98GGcvrhgYb\nfc_01e14a2b31ab88c1221ca8cc40165f373d0d6a6a93bb97b617c0ef48c522a"
+        }
+      },
+      {
+        "bubbleId": "92364c57-6fcd-4be8-ac48-dc2a33310be4",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_mF0ylf8Xm4kQ4X5ltQFo37yZ\nfc_01c74ea32cdb5c8d1ee5d02870089b01380bfd3730e8ea35955013cbd4f5b"
+        }
+      },
+      {
+        "bubbleId": "d61d4c44-dfd0-465b-946b-8d475284833b",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_j8HhIGXpjYdK7rfkMJZSR9bD\nfc_01fe7fb3804a3bad7e22e205f2be05d8a16eec5e9b8b42c3094d936d21e90"
+        }
+      },
+      {
+        "bubbleId": "7278d5dd-0a3c-483c-9a44-b1245795ee7f",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_eQpteuv2WpmdCl2GvAa7G7ez\nfc_01bf66c5e4f693ca9e1af0298a8b4cb046de03ba97d792c7c1f31cfcc1ece"
+        }
+      },
+      {
+        "bubbleId": "9af2c0a0-3b30-4ad5-a1be-4fd88f9011db",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "626cb63c-f97a-4a7d-bc1c-150112b7f576",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_m3FVdqkgEyeXl4wXvdKbFf8k\nfc_01b2c8bc38f1cc7f2f930d89c71372dde9256a81c1e17e6f43e297185bdc9"
+        }
+      },
+      {
+        "bubbleId": "6d396e3b-ad59-48ad-9da7-65ce088e7ae9",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_03VQ8Oz5Cc1X3E1OOcTEEsk5\nfc_01295ed9e3e553fe91a042646aa9fe76b3aed88e840696bcc9dfef96a0e6d"
+        }
+      },
+      {
+        "bubbleId": "34fd03f6-1093-42a8-9abd-7c0b084c12dc",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_fc3NNvBKsy58Q8G28Hey45Jy\nfc_016d05194c24044a499d70b85df4121f99d8a3977d18ced7e18e3111d966d"
+        }
+      },
+      {
+        "bubbleId": "11b07419-d60f-4a2f-857a-a13e6b796d22",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "40cd5ec8-3db6-409d-8c4b-c0f4dcf41edb",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_ESA0qCy7QIepqkzm2jAoIUZE\nfc_0130566f65c5ba5f40320ac4f695acfbb3ccfc01bc247bd211f697d64aeb0"
+        }
+      },
+      {
+        "bubbleId": "733f6c3a-468d-4289-b7f4-1a16fb5d3b27",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_lckAEgZ89OKc8T1JuIiQHvjb\nfc_01abbe2003c06175cf7592610226ccedface6e576906fc6a31a97148ac8dd"
+        }
+      },
+      {
+        "bubbleId": "18cd6f33-9a47-42fd-a8ff-156c2cea0fe2",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "7a8a2344-fee0-41ff-b99b-fe46f39fb553",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_b0NqGE1uBRE7mOZgHuN8i67v\nfc_01c2d581f460bfc04fb8e926918715ea98e4aa202cb37718a1fd7759fa3da"
+        }
+      },
+      {
+        "bubbleId": "d1a60c82-4888-48a6-a5f2-04cc17add074",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "0e46c405-609b-44a5-8cb2-611c00331044",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_Pgn7oNqdcXfQrUFVEst8RIEq\nfc_01b2c8bc383b0454e1023244052ecdc9fb323e6fffb428725a6dff2478087"
+        }
+      },
+      {
+        "bubbleId": "954f451a-c9d2-439d-9d71-4d8bc5d77ebc",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_dJzKR3n5v7Seb48PvCcuRDGd\nfc_01c2d581f4b88e9efa48cfc543373eb7893fc49dd97e639b0ca6dc67932b8"
+        }
+      },
+      {
+        "bubbleId": "7bf049b5-b8af-4a88-837a-5e9afe92bc6c",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_xJGgBI07n6qeusWxlqyoeK74\nfc_01026671e61b022c375beeec103c443ab4ebba7cee90b922be0d5a51ade39"
+        }
+      },
+      {
+        "bubbleId": "10c1df11-1b4e-4ac8-9047-1faa5792de6b",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_RyFnDpQmzUlWtDsZLyEwenRv\nfc_01120083624f08cd45e3d6c9426e6a31c7081fab56bcdb43d36a10b2bb8d9"
+        }
+      },
+      {
+        "bubbleId": "57505090-2fb6-4e1f-bb2f-8343e0520e35",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_kcEje4dm2IvldAcb0u38SC79\nfc_0161ef76ed55ccbab6980e96d8d6483d9eb69b6e6c2059fa0a198468a856e"
+        }
+      },
+      {
+        "bubbleId": "dd3d1791-6995-4406-95a0-ee4e832df733",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "call_qoI3cUpc3YPaVUeoLBcpBPBF\nfc_01ee9d5385762dd05a34c9b4ff09e686c454a7327792ef41d15d68ed45f66"
+        }
+      },
+      {
+        "bubbleId": "4fb19365-fcb9-48d0-b7f7-75df27bfeec4",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "6fcf20ea-61e2-4a1a-bd25-5542cdefd7a5",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_WSg9meaCnrtC5LkfGOg2rMfL\nfc_01005364f21b67b3a9b78de0ad75f8560704aee0cebc281e2c5b9fe4e6a96"
+        }
+      },
+      {
+        "bubbleId": "14263681-199e-4710-8854-2388ccae7fc4",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_jWX2dmKpmP7vNnJfNUSiEnlD\nfc_01026671e6ed8ce8c25cb1f3e7c0217993ee3980f5e36ec4b0573b980ccd6"
+        }
+      },
+      {
+        "bubbleId": "09158bb0-825c-40e4-abbb-8b004fcde072",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_B6BA9Ha29Z4C3UE9H6X6sP8v\nfc_01b1458ec654fb2f4bf849c3b6cf42cb50c9e1166eca535476ffd0d229163"
+        }
+      },
+      {
+        "bubbleId": "56bab636-41a7-40f0-a8c8-5f5a76939f6a",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_WQtVSI5JyxLwHrWCsrA4Wypp\nfc_01abbe200341ee523ea2b58ccf86fd50a94fa40c3c2aedbf848a3e7a92e2e"
+        }
+      },
+      {
+        "bubbleId": "88ad8c34-5692-4ae0-857a-f0dc5e83fc4f",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "78b31634-dd24-4584-ad0e-fecaacdf8d3c",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_F1HGMx2BeT1CJ3SHMbQKjrwt\nfc_014fd4e8faf1b5dac977e4728d7643667e107198f851bf4bbeb3995772f8a"
+        }
+      },
+      {
+        "bubbleId": "5d6e43e0-efea-49ae-816c-d0663e1b3c57",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "c0323b8a-d267-44e9-9999-ccbb2eebf544",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_dCUDqBPaXdd1945mCrYyungd\nfc_01026671e690feff33697a2c9979c4d5e2075e57ace29c0bd7d9795a643aa"
+        }
+      },
+      {
+        "bubbleId": "7fe314c4-e1f7-4624-974f-ba459f760566",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_ZyXlmIGgbwVp636DOn1rKJfx\nfc_0161b5a42f29eb8829e46f03440a2224925af3a468e1acaba986ee9f48aa8"
+        }
+      },
+      {
+        "bubbleId": "c309e39f-21ac-41cb-965b-1e90a46c0364",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "cad0fdd1-ebf3-42c1-aedd-909ca6dd60f5",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_Le3el4KwNS7nDOA2bUKzXpF0\nfc_01908ff3c147bbbcea857f6e34b437fb0c34b7ed51732ab2e5ff9c2df2971"
+        }
+      },
+      {
+        "bubbleId": "f4ca7dac-dea3-4fc8-a288-f8f81bffd198",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "aa665d10-e678-4d36-8816-ca970e384941",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_OhDa7rI40u9F2h76jUPy02BB\nfc_01b1458ec6172abc0a9d4e36f42a74997fa74fadd079d8720e5f98682a6bf"
+        }
+      },
+      {
+        "bubbleId": "e871d52d-d499-4d6c-b9a0-8cc00c41304f",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "a05b0c02-f332-4cac-ab51-03fb88c77eae",
+        "type": 2
+      },
+      {
+        "bubbleId": "19c0ea6f-242f-46bf-929d-51567c05a175",
+        "type": 1
+      },
+      {
+        "bubbleId": "6ca9e366-292c-4170-b300-9b59dfd414af",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "cec0020f-966d-4fd8-ba04-2b60e59bc6eb",
+        "type": 2
+      },
+      {
+        "bubbleId": "7fecc07b-e407-4fbb-a188-6afa1516bd67",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_VrobqwPm5Y7L2YJufzt9G0LZ\nfc_01216aebea09a71559986f62628f551c9b775bd247a974c7c57870efc8487"
+        }
+      },
+      {
+        "bubbleId": "f5de13f2-b997-4133-9dfc-4baccdfab678",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 15,
+          "toolCallId": "call_187LGS9Hr9BUXD2y9bn3PYsW\nfc_01216aebea4731ed74225870c39c08c9474c20c43d97cc5167970c42a87a5"
+        }
+      },
+      {
+        "bubbleId": "f6c8d707-5365-450d-a399-c01930c0eb78",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "completed",
+    "context": {
+      "composers": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "gitPRDiffSelections": [],
+      "subagentSelections": [],
+      "browserSelections": [],
+      "extraContext": [],
+      "mentions": {
+        "composers": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {},
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {},
+        "subagentSelections": {},
+        "browserSelections": {}
+      }
+    },
+    "generatingBubbleIds": [],
+    "isReadingLongFile": false,
+    "codeBlockData": {},
+    "originalFileStates": {},
+    "newlyCreatedFiles": [],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1776152394719,
+    "conversationCheckpointLastUpdatedAt": 1776152428555,
+    "createdAt": 1776150353277,
+    "hasChangedContext": true,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "name": "ERPNext custom document permissions",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "agent",
+    "forceMode": "edit",
+    "usageData": {},
+    "contextUsagePercent": 22.01029411764706,
+    "allAttachedFileCodeChunksUris": [],
+    "modelConfig": {
+      "modelName": "default",
+      "maxMode": false,
+      "selectedModels": [
+        {
+          "modelId": "default",
+          "parameters": []
+        }
+      ]
+    },
+    "subComposerIds": [],
+    "subagentComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 0,
+    "totalLinesRemoved": 0,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "worktreeStartedReadOnly": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isProject": false,
+    "isSpecSubagentDone": false,
+    "isContinuationInProgress": false,
+    "stopHookLoopCount": 0,
+    "trackedGitRepos": [],
+    "speculativeSummarizationEncryptionKey": "Kj3mjkNYwi9WBwcXw37VSj2qnA5DoFi2ltMR9dI86+U=",
+    "isNAL": true,
+    "agentBackend": "cursor-agent",
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "~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bmp/lqz5MWQqFVVn4FhKNGZpbGU6Ly8vYXBwL2JhY2tlbmQvc2VydmVyL2M6JTVDVXNlcnMlNUNwYyU1Q0Rlc2t0b3BQAZIBPEM6XFVzZXJzXHBjXC5jdXJzb3Jcc2tpbGxzXGxvY2FsLWVycC1rbm93bGVkZ2UtYmFzZVxTS0lMTC5tZJIBLUc6XGZyYXBwZV9kb2NrZXItbWFpblxmcmFwcGVfZG9ja2VyLW1haW5cLmVudpIBNUc6XGZyYXBwZV9kb2NrZXItbWFpblxmcmFwcGVfZG9ja2VyLW1haW5cY29tcG9zZS55YW1skgFkQzpcVXNlcnNccGNcLmN1cnNvclxwcm9qZWN0c1xjLVVzZXJzLXBjLURlc2t0b3BcYWdlbnQtdG9vbHNcZWM3OTIyNGYtNzUzZi00NmRhLTg0MTEtYmZhZTUwYmEyNGQzLnR4dJIBZEM6XFVzZXJzXHBjXC5jdXJzb3JccHJvamVjdHNcYy1Vc2Vycy1wYy1EZXNrdG9wXGFnZW50LXRvb2xzXDRhNzI1ZjY1LWE5MDEtNDI4NS1hZjkyLTdjZmE2NjhlYzY1Mi50eHSqARgKC0M6L1VzZXJzL3BjEgljb2RleC10cnmyAQNpZGU=",
+    "queueItems": [],
+    "blobEncryptionKey": "pwbTHcdlp/SciNKpB+cBoxa5qORm3U8iA9t22dzYVUc=",
+    "latestChatGenerationUUID": "f42ddda7-26d4-44eb-97e4-5ac551833083",
+    "isAgentic": true,
+    "subtitle": "Read 4a725f65-a901-4285-af92-7cfa668ec652.txt, ec79224f-753f-46da-8411-bfae50ba24d3.txt, .env, compose.yaml, SKILL.md",
+    "filesChangedCount": 0,
+    "workspaceIdentifier": {
+      "id": "a60624e847c59a61babc2873b5877c96",
+      "uri": {
+        "$mid": 1,
+        "fsPath": "c:\\Users\\pc\\Desktop",
+        "_sep": 1,
+        "external": "file:///c%3A/Users/pc/Desktop",
+        "path": "/c:/Users/pc/Desktop",
+        "scheme": "file"
+      }
+    },
+    "applyAgentBackendTypeRestrictions": false,
+    "restrictAgentModeSwitching": false
+  },
+  "extracted_at": "2026-04-14T15:43:02.672684"
+}

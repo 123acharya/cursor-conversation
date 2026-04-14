@@ -1,14 +1,14 @@
 {
-  "key": "composerData:2b9c8b7d-c29c-478e-b063-1a0b861220a3",
+  "key": "composerData:ae4a4df3-2b80-494c-9909-47268a3dd09a",
   "data": {
     "_v": 15,
-    "composerId": "2b9c8b7d-c29c-478e-b063-1a0b861220a3",
-    "richText": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\"}]}",
+    "composerId": "ae4a4df3-2b80-494c-9909-47268a3dd09a",
+    "richText": "",
     "hasLoaded": true,
     "text": "",
     "fullConversationHeadersOnly": [],
     "conversationMap": {},
-    "status": "aborted",
+    "status": "none",
     "context": {
       "composers": [],
       "selectedCommits": [],
@@ -57,9 +57,8 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "lastUpdatedAt": 1776148992412,
-    "createdAt": 1776148992255,
-    "hasChangedContext": true,
+    "createdAt": 1776161014264,
+    "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
       {
@@ -113,7 +112,6 @@
         "data": {}
       }
     ],
-    "name": "Feature clarification",
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
@@ -158,32 +156,19 @@
     "isContinuationInProgress": false,
     "stopHookLoopCount": 0,
     "trackedGitRepos": [],
-    "speculativeSummarizationEncryptionKey": "t4hNqg8OgGen8Zj13J6gZ0j296vlaTOJKaJpjlAchLY=",
+    "speculativeSummarizationEncryptionKey": "NethJO+HBnb8Zk2em30+e+4mkeTXdmE/aDM9v8LRbJE=",
     "isNAL": true,
     "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "~",
     "queueItems": [],
-    "blobEncryptionKey": "3FvJY17fOB+aRYjJ9yrP+zYhE0LEEvbjDHaVKrBTJJM=",
-    "latestChatGenerationUUID": "aa50e079-b666-4b55-aa98-5874c4a0edb8",
+    "blobEncryptionKey": "F9M4Nne754FJmMM8Mu8QlNucIze/yAnqqECnJXlneJg=",
     "isAgentic": true,
-    "subtitle": "what is this feature",
-    "filesChangedCount": 0,
-    "glassMetaParentAgent": false,
     "workspaceIdentifier": {
-      "id": "a60624e847c59a61babc2873b5877c96",
-      "uri": {
-        "$mid": 1,
-        "fsPath": "c:\\Users\\pc\\Desktop",
-        "_sep": 1,
-        "external": "file:///c%3A/Users/pc/Desktop",
-        "path": "/c:/Users/pc/Desktop",
-        "scheme": "file"
-      }
+      "id": "empty-window"
     },
-    "applyAgentBackendTypeRestrictions": false,
-    "restrictAgentModeSwitching": false
+    "applyAgentBackendTypeRestrictions": false
   },
   "extracted_at": "2026-04-14T15:43:02.672684"
 }

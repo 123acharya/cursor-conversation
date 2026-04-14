@@ -1,0 +1,284 @@
+{
+  "key": "composerData:e47105b3-fe0c-404f-8af9-8d4f745fbc73",
+  "data": {
+    "_v": 15,
+    "composerId": "e47105b3-fe0c-404f-8af9-8d4f745fbc73",
+    "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+    "hasLoaded": true,
+    "text": "",
+    "fullConversationHeadersOnly": [
+      {
+        "bubbleId": "5b793cf6-51db-4875-804b-7daf56c988d0",
+        "type": 1,
+        "serverBubbleId": "5b793cf6-51db-4875-804b-7daf56c988d0"
+      },
+      {
+        "bubbleId": "08ae7792-aa02-4b15-9a0f-e9eed4175d40",
+        "type": 1,
+        "serverBubbleId": "08ae7792-aa02-4b15-9a0f-e9eed4175d40"
+      },
+      {
+        "bubbleId": "5b793cf6-51db-4875-804b-7daf56c988d0",
+        "type": 1,
+        "serverBubbleId": "5b793cf6-51db-4875-804b-7daf56c988d0"
+      },
+      {
+        "bubbleId": "e8f5d4c4-b5c5-4d66-9baf-93b50af073f3",
+        "type": 2,
+        "serverBubbleId": "046cf159-2d2e-54bb-ae25-75dd7b844406",
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "15240fe0-8fbf-4838-a3d3-ab9852e51b3e",
+        "type": 2,
+        "serverBubbleId": "cd5b8692-88b3-5685-89a5-a8c1f06d3922"
+      },
+      {
+        "bubbleId": "08ae7792-aa02-4b15-9a0f-e9eed4175d40",
+        "type": 1,
+        "serverBubbleId": "08ae7792-aa02-4b15-9a0f-e9eed4175d40"
+      },
+      {
+        "bubbleId": "78adb2bb-96cb-4a30-801c-cc79cd5d267d",
+        "type": 2,
+        "serverBubbleId": "b287fb62-c3e9-5f36-9165-da199d53ac40",
+        "grouping": {
+          "capabilityType": 30
+        }
+      },
+      {
+        "bubbleId": "17298025-f60a-4c23-b1fe-7b553f54c20b",
+        "type": 2,
+        "serverBubbleId": "846d9842-b6e0-5bd5-b480-99859771563c"
+      },
+      {
+        "bubbleId": "5c5cb773-73c0-4829-a0d4-05f582fa5de4",
+        "type": 2,
+        "serverBubbleId": "e5a78c92-6ec3-5b0b-a2ea-67e43917e38f",
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 40,
+          "toolCallId": "09880266-5298-46b4-b65a-a3d0102a826b"
+        }
+      },
+      {
+        "bubbleId": "17ebbb57-b429-466b-84a7-41f496953625",
+        "type": 2
+      },
+      {
+        "bubbleId": "0ad8d9d7-2c9b-4d78-b514-3a01b6229080",
+        "type": 2,
+        "grouping": {
+          "capabilityType": 15,
+          "toolFormerTool": 38,
+          "toolCallId": "call_355STAzEvbDo4Wl0Serx5fw6\nctc_06bf580af7dd3eed0169ddfaf75c1081909cb7579c20b380fc"
+        }
+      },
+      {
+        "bubbleId": "491f7d27-7bdd-44a9-922c-6b4b44d55408",
+        "type": 2
+      }
+    ],
+    "conversationMap": {},
+    "status": "completed",
+    "context": {
+      "composers": [],
+      "selectedCommits": [],
+      "selectedPullRequests": [],
+      "selectedImages": [],
+      "folderSelections": [],
+      "fileSelections": [],
+      "selections": [],
+      "terminalSelections": [],
+      "selectedDocs": [],
+      "externalLinks": [],
+      "cursorRules": [],
+      "cursorCommands": [],
+      "gitPRDiffSelections": [],
+      "subagentSelections": [],
+      "browserSelections": [],
+      "extraContext": [],
+      "mentions": {
+        "composers": {},
+        "selectedCommits": {},
+        "selectedPullRequests": {},
+        "gitDiff": [],
+        "gitDiffFromBranchToMain": [],
+        "selectedImages": {},
+        "folderSelections": {},
+        "fileSelections": {},
+        "terminalFiles": {},
+        "selections": {},
+        "terminalSelections": {},
+        "selectedDocs": {},
+        "externalLinks": {},
+        "diffHistory": [],
+        "cursorRules": {},
+        "cursorCommands": {},
+        "uiElementSelections": [],
+        "consoleLogs": [],
+        "ideEditorsState": [],
+        "gitPRDiffSelections": {},
+        "subagentSelections": {},
+        "browserSelections": {}
+      }
+    },
+    "generatingBubbleIds": [],
+    "isReadingLongFile": false,
+    "codeBlockData": {},
+    "originalFileStates": {
+      "file:///c%3A/Users/pc/Desktop/ERPNext_Packaging_Manufacturing_Blueprint.md": {
+        "firstEditBubbleId": "0ad8d9d7-2c9b-4d78-b514-3a01b6229080",
+        "isNewlyCreated": true,
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:e47105b3-fe0c-404f-8af9-8d4f745fbc73:file:///c%3A/Users/pc/Desktop/ERPNext_Packaging_Manufacturing_Blueprint.md"
+      }
+    },
+    "newlyCreatedFiles": [
+      {
+        "uri": {
+          "$mid": 1,
+          "external": "file:///c%3A/Users/pc/Desktop/ERPNext_Packaging_Manufacturing_Blueprint.md",
+          "path": "/C:/Users/pc/Desktop/ERPNext_Packaging_Manufacturing_Blueprint.md",
+          "scheme": "file"
+        }
+      }
+    ],
+    "newlyCreatedFolders": [],
+    "lastUpdatedAt": 1776155211234,
+    "conversationCheckpointLastUpdatedAt": 1776155513064,
+    "createdAt": 1776154907960,
+    "hasChangedContext": false,
+    "activeTabsShouldBeReactive": true,
+    "capabilities": [
+      {
+        "type": 30,
+        "data": {}
+      },
+      {
+        "type": 15,
+        "data": {
+          "bubbleDataMap": "{}"
+        }
+      },
+      {
+        "type": 22,
+        "data": {}
+      },
+      {
+        "type": 18,
+        "data": {}
+      },
+      {
+        "type": 19,
+        "data": {}
+      },
+      {
+        "type": 33,
+        "data": {}
+      },
+      {
+        "type": 32,
+        "data": {}
+      },
+      {
+        "type": 23,
+        "data": {}
+      },
+      {
+        "type": 16,
+        "data": {}
+      },
+      {
+        "type": 24,
+        "data": {}
+      },
+      {
+        "type": 21,
+        "data": {}
+      },
+      {
+        "type": 31,
+        "data": {}
+      },
+      {
+        "type": 29,
+        "data": {}
+      }
+    ],
+    "name": "Production and packaging system design in ERPNext",
+    "isFileListExpanded": false,
+    "browserChipManuallyDisabled": false,
+    "browserChipManuallyEnabled": false,
+    "unifiedMode": "plan",
+    "forceMode": "plan",
+    "usageData": {},
+    "contextUsagePercent": 12.500735294117646,
+    "allAttachedFileCodeChunksUris": [],
+    "modelConfig": {
+      "modelName": "default",
+      "maxMode": false,
+      "selectedModels": [
+        {
+          "modelId": "default",
+          "parameters": []
+        }
+      ]
+    },
+    "subComposerIds": [],
+    "subagentComposerIds": [],
+    "capabilityContexts": [],
+    "todos": [],
+    "isQueueExpanded": true,
+    "hasUnreadMessages": false,
+    "gitHubPromptDismissed": false,
+    "totalLinesAdded": 739,
+    "totalLinesRemoved": 0,
+    "addedFiles": 0,
+    "removedFiles": 0,
+    "isDraft": false,
+    "isCreatingWorktree": false,
+    "isApplyingWorktree": false,
+    "isUndoingWorktree": false,
+    "applied": false,
+    "pendingCreateWorktree": false,
+    "worktreeStartedReadOnly": false,
+    "isBestOfNSubcomposer": false,
+    "isBestOfNParent": false,
+    "bestOfNJudgeWinner": false,
+    "isSpec": false,
+    "isProject": false,
+    "isSpecSubagentDone": false,
+    "isContinuationInProgress": false,
+    "stopHookLoopCount": 0,
+    "trackedGitRepos": [],
+    "speculativeSummarizationEncryptionKey": "cexBn9brWyYVkE6iZKVi8V9RHdctPEk+IXndYd+SGkU=",
+    "isNAL": true,
+    "agentBackend": "cursor-agent",
+    "planModeSuggestionUsed": false,
+    "debugModeSuggestionUsed": false,
+    "conversationState": "~CiCn2bAsmxnxRELnDacXSUIwHtnOpuQjSI/4eXtW5MlxpQog5keEkic3CAvi7itZqgxzfdU7JkjpB7aPwR+XNeUGK1UKIGCsPEhjxvm1RT1sRybtKKJvtOptivLnrmQA58txLWDUCiBvvf1n0SjJCFU0H4UoqvtZIPiufNB8rO8KkzJCQgdIPQogs/TsJYRzpFITRZx6mo+JPrk66cQuDwan8+2FaNQ+16UKIK/vPZKEWtbDL2J54zd6yKDqE1K4h/WsTXUP3EUtnsweCiB6Qk1/LeOqD2wOK5DEmv0AIJakUvc3QCyqALhaDTeRugogN3wWIBVVpWUcIkx3vjTZfb7s6sFcAnVURa3caBfr8+wKIOXdCYdC2XjGWCZCW+VgUSyd2zLpTZUEWtqOfwwA5gyPCiDAXJYqI0lG5LNo+6sjjG7qbb5Qi+ppTKFQ/mLSRMxp5yoICNKJAhCAzRBCIPcycCgoem+P6I4TyDMEzQbOjSgXcTpNuFQRTYLhr9IyQiBC42w28sQGWdtICaPJ+KPjwxqZnmjwfkInHLSoU/2o+ko0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFADemYKQEM6XFVzZXJzXHBjXERlc2t0b3BcRVJQTmV4dF9QYWNrYWdpbmdfTWFudWZhY3R1cmluZ19CbHVlcHJpbnQubWQSIgogGqVZiWMu64VSmAAWv/46vVwp6qL9I8DE+7kqEsyaUWmSAR5DOlxVc2Vyc1xwY1xEZXNrdG9wXC5naXRpZ25vcmWqARgKC0M6L1VzZXJzL3BjEgljb2RleC10cnmyAQNpZGU=",
+    "queueItems": [],
+    "blobEncryptionKey": "wBAznmnkBhk2jU24/FMruQ+qraiiBS+xY9ZAPpJLNTY=",
+    "latestChatGenerationUUID": "2f34e515-d35b-4e94-8adb-9cb6df58e48f",
+    "isAgentic": false,
+    "subtitle": "Edited ERPNext_Packaging_Manufacturing_Blueprint.md",
+    "filesChangedCount": 1,
+    "workspaceIdentifier": {
+      "id": "a60624e847c59a61babc2873b5877c96",
+      "uri": {
+        "$mid": 1,
+        "fsPath": "c:\\Users\\pc\\Desktop",
+        "_sep": 1,
+        "external": "file:///c%3A/Users/pc/Desktop",
+        "path": "/c:/Users/pc/Desktop",
+        "scheme": "file"
+      }
+    },
+    "applyAgentBackendTypeRestrictions": false,
+    "restrictAgentModeSwitching": false
+  },
+  "extracted_at": "2026-04-14T15:43:02.672684"
+}
