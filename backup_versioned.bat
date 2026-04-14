@@ -2,7 +2,7 @@
 REM Cursor versioned backup — keeps last 48 hourly snapshots
 
 set "CURSOR_DB=%APPDATA%\Cursor\User\globalStorage\state.vscdb"
-set "BACKUP_DIR=%~dp0snapshots"
+set "BACKUP_DIR=I:\cursor database\snapshots"
 set "MAX_KEEP=48"
 
 if not exist "%BACKUP_DIR%" mkdir "%BACKUP_DIR%"
