@@ -1,7 +1,7 @@
 {
   "key": "composerData:a629dcd7-6eb8-4905-9126-c45da5ca7dcb",
   "data": {
-    "_v": 13,
+    "_v": 15,
     "composerId": "a629dcd7-6eb8-4905-9126-c45da5ca7dcb",
     "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
@@ -2582,6 +2582,7 @@
       "gitPRDiffSelections": [],
       "subagentSelections": [],
       "browserSelections": [],
+      "extraContext": [],
       "mentions": {
         "composers": {},
         "quotes": {},
@@ -5354,448 +5355,448 @@
     },
     "originalFileStates": {
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/IMPLEMENTATION_SUMMARY.md": {
-        "content": "",
         "firstEditBubbleId": "738e0fb0-f551-49b7-a571-a22f66c3e9bc",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/IMPLEMENTATION_SUMMARY.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ERPNext_API_Fundamentals_Guide.md": {
-        "content": "",
         "firstEditBubbleId": "8b094d43-d736-46ae-ad00-57c5dd419b96",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/ERPNext_API_Fundamentals_Guide.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts_api_endpoints.py": {
-        "content": "",
         "firstEditBubbleId": "3a8c4df1-f379-49f4-a86e-7850ca6f887c",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts_api_endpoints.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_send_pts_result.py": {
-        "content": "",
         "firstEditBubbleId": "14224c75-9b5d-4378-906b-e48f88f3fe6b",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_send_pts_result.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/complete_pts_integration.py": {
-        "content": "",
         "firstEditBubbleId": "c0f4a04f-7370-4bcc-9eeb-fe65034d8d13",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/complete_pts_integration.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/QUICK_START.md": {
-        "content": "",
         "firstEditBubbleId": "369058c4-e1ec-4143-98b9-28c8d38eee21",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/QUICK_START.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/generate_api_keys.py": {
-        "content": "",
         "firstEditBubbleId": "9bfdd690-41ea-4604-9429-50ececb49551",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/generate_api_keys.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_api_credentials.py": {
-        "content": "",
         "firstEditBubbleId": "6a601445-f5b8-4f2a-9efc-b83a9aafc8c6",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_api_credentials.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/STEP_BY_STEP_SETUP.md": {
-        "content": "",
         "firstEditBubbleId": "1ce86cd2-b52c-4368-8098-6bae3f5c7645",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/STEP_BY_STEP_SETUP.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/RUN_TESTS.bat": {
-        "content": "",
         "firstEditBubbleId": "257e6f9a-5539-4b14-850a-f8a037184ba1",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/RUN_TESTS.bat"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_simple_pts1_api.py": {
-        "content": "",
         "firstEditBubbleId": "b5fd911c-2e60-400e-927b-d0c35bbe725d",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_simple_pts1_api.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_simple_pts1.py": {
-        "content": "",
         "firstEditBubbleId": "7232081d-85e6-49a4-be31-557c4c55bd52",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_simple_pts1.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/SIMPLE_START.md": {
-        "content": "",
         "firstEditBubbleId": "24ebb376-2a55-48f5-bd6c-49394fc16bd1",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/SIMPLE_START.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/pts1_gui.py": {
-        "content": "",
         "firstEditBubbleId": "8dcfb09b-d03e-405f-acb8-90e541b62981",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/pts1_gui.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/run_pts1_gui.bat": {
-        "content": "",
         "firstEditBubbleId": "8caed691-f16b-4512-89d5-f9d90529348e",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/run_pts1_gui.bat"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/verify_api.py": {
-        "content": "",
         "firstEditBubbleId": "c9f32bf6-ba80-461d-adae-66f33bacdb88",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/verify_api.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_api_direct.py": {
-        "content": "",
         "firstEditBubbleId": "18b88305-dd21-4285-8614-8cfb9249932c",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_api_direct.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/python_pts1_server.py": {
-        "content": "",
         "firstEditBubbleId": "37ae124e-119f-42c4-86cf-bc4a56616666",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/python_pts1_server.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_erpnext_to_python_api.py": {
-        "content": "",
         "firstEditBubbleId": "b6af3891-212c-47ba-88b8-b77c36ff49e6",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_erpnext_to_python_api.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_bidirectional.py": {
-        "content": "",
         "firstEditBubbleId": "2840715d-ca1c-4ccc-9789-4012bede34b7",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_bidirectional.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/BIDIRECTIONAL_SETUP.md": {
-        "content": "",
         "firstEditBubbleId": "7e395200-64dc-4d1f-9a11-ee792778f35e",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/BIDIRECTIONAL_SETUP.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/requirements.txt": {
-        "content": "",
         "firstEditBubbleId": "c2e16d2d-4101-4988-ab87-b8451095e706",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/requirements.txt"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_erpnext_pts1_page.py": {
-        "content": "",
         "firstEditBubbleId": "c840c316-d89c-4fd8-b178-58faf18b3805",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_erpnext_pts1_page.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/START_BIDIRECTIONAL.bat": {
-        "content": "",
         "firstEditBubbleId": "62e173ce-9bbf-4473-bd44-d44ff6e68a79",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/START_BIDIRECTIONAL.bat"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/QUICK_TEST_BIDIRECTIONAL.md": {
-        "content": "",
         "firstEditBubbleId": "2e5c9499-c961-497a-82eb-91d04cf5397b",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/QUICK_TEST_BIDIRECTIONAL.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_bidirectional_simple.py": {
-        "content": "",
         "firstEditBubbleId": "f2db8bfb-9cc4-40fb-8d7d-9722b5e275ca",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/test_bidirectional_simple.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_python_method_api.py": {
-        "content": "",
         "firstEditBubbleId": "d4c3b601-4ff5-4d83-8410-2a5511dd6ef6",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_python_method_api.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_python_method_for_bidirectional.py": {
-        "content": "",
         "firstEditBubbleId": "722fa3fc-9890-4072-92f7-162fbcba5841",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_python_method_for_bidirectional.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_client_script_bidirectional.py": {
-        "content": "",
         "firstEditBubbleId": "646dcdc1-c6f5-4ef5-a182-54bd4275414b",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_client_script_bidirectional.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_simple_bidirectional_client.py": {
-        "content": "",
         "firstEditBubbleId": "077b8c2b-80e4-4df9-b032-c7435eb4ab22",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_simple_bidirectional_client.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/BIDIRECTIONAL_SOLUTION.md": {
-        "content": "",
         "firstEditBubbleId": "8cbf8f0a-42b8-4919-b4c9-1bafbe1c3cc6",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/BIDIRECTIONAL_SOLUTION.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/TEST_BIDIRECTIONAL_NOW.md": {
-        "content": "",
         "firstEditBubbleId": "46046eb5-8983-411c-b472-44efeb2b6fbd",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/TEST_BIDIRECTIONAL_NOW.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/disable_bidirectional_client.py": {
-        "content": "",
         "firstEditBubbleId": "386a428e-857b-4e07-b185-e3ed2f271bca",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/disable_bidirectional_client.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_standalone_pts1_test_page.py": {
-        "content": "",
         "firstEditBubbleId": "158d1ebb-6562-4316-a223-8149d61c6068",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_standalone_pts1_test_page.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/check_and_fix_page.py": {
-        "content": "",
         "firstEditBubbleId": "8cc305c3-4b6c-4ce1-a235-0bd64bbefa48",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/check_and_fix_page.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/SIMPLE_TEST_GUIDE.md": {
-        "content": "",
         "firstEditBubbleId": "31fc8543-8ff2-4302-be97-e0622c9d0f0e",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/SIMPLE_TEST_GUIDE.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/QUICK_TEST.bat": {
-        "content": "",
         "firstEditBubbleId": "2128c61f-12c2-426f-866f-05429c60d942",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/QUICK_TEST.bat"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_test_doctype.py": {
-        "content": "",
         "firstEditBubbleId": "48382f0e-2225-4126-a74e-824c6c58d1ee",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_test_doctype.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_doctype_client_script.py": {
-        "content": "",
         "firstEditBubbleId": "77c3f016-b597-4991-800d-96cbc8e1ec86",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_doctype_client_script.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/setup_complete_pts1_doctype.py": {
-        "content": "",
         "firstEditBubbleId": "9cca4611-0379-485f-a0b6-1f4eed3ed071",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/setup_complete_pts1_doctype.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pcb_iqc_result_pts1_trigger.py": {
-        "content": "",
         "firstEditBubbleId": "54590c8c-6a86-4244-9391-42c375d9101c",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pcb_iqc_result_pts1_trigger.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/DOCTYPE_PTS1_SETUP_COMPLETE.md": {
-        "content": "",
         "firstEditBubbleId": "ca2dfaeb-3884-434a-9e3e-9bfb88c467f7",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/DOCTYPE_PTS1_SETUP_COMPLETE.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/QUICK_START_DOCTYPE.md": {
-        "content": "",
         "firstEditBubbleId": "26b65ffe-0863-4a40-ae23-c0cbffebbb59",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/QUICK_START_DOCTYPE.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_test_doctype_complete.py": {
-        "content": "",
         "firstEditBubbleId": "2ee64f14-e2f6-4dfd-9644-344b145bb734",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_test_doctype_complete.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_test_client_script.py": {
-        "content": "",
         "firstEditBubbleId": "cf213636-cd81-443b-b0c3-1832f5c8347e",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_test_client_script.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/setup_pts1_test_complete.py": {
-        "content": "",
         "firstEditBubbleId": "b1802598-7e55-4c5f-9c1d-862fca2b595c",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/setup_pts1_test_complete.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_test_client_script_fixed.py": {
-        "content": "",
         "firstEditBubbleId": "995b20c1-1aeb-4980-a048-02bdc7b2652b",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_test_client_script_fixed.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/verify_and_create_pts1_doctype.py": {
-        "content": "",
         "firstEditBubbleId": "67c3f831-5c2c-4459-923f-7a7728330dec",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/verify_and_create_pts1_doctype.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/MANUAL_SETUP_PTS1_TEST.md": {
-        "content": "",
         "firstEditBubbleId": "a90ba526-1d23-4f56-8a7a-4afe09c54e0a",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/MANUAL_SETUP_PTS1_TEST.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_test_doctype_final.py": {
-        "content": "",
         "firstEditBubbleId": "dcdfbe34-067b-421f-8ea2-0de10e8e8c83",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/create_pts1_test_doctype_final.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PCB_LEDGER_PTS_EVENT_RECORDING.py": {
-        "content": "",
         "firstEditBubbleId": "c8c5363d-7b72-4ca0-ad50-bb5bf6c7e116",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PCB_LEDGER_PTS_EVENT_RECORDING.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PCB_LEDGER_PTS_EVENT_RECORDING_V2.py": {
-        "content": "",
         "firstEditBubbleId": "2275933b-9615-4ca8-be11-c0836f64bf53",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PCB_LEDGER_PTS_EVENT_RECORDING_V2.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PCB_LEDGER_PTS_EVENT_RECORDING_FINAL.py": {
-        "content": "",
         "firstEditBubbleId": "3cbcd1ac-1811-4f80-8117-5fcd90366d86",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PCB_LEDGER_PTS_EVENT_RECORDING_FINAL.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_EXISTING_PTS_TIMELINE_EVENTS.py": {
-        "content": "",
         "firstEditBubbleId": "8d4a622d-b512-4ae7-843f-d679ff8dbe82",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_EXISTING_PTS_TIMELINE_EVENTS.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_LEDGER_TIMELINE_UPDATE_BEHAVIOR.md": {
-        "content": "",
         "firstEditBubbleId": "104cf1fb-ef9d-47b7-8a21-6d8b21f919bd",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/PCB_LEDGER_TIMELINE_UPDATE_BEHAVIOR.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/CHECK_CURRENT_TIMELINE_BEHAVIOR.py": {
-        "content": "",
         "firstEditBubbleId": "a94fe355-3608-4572-998a-11f4c6e689b2",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/CHECK_CURRENT_TIMELINE_BEHAVIOR.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PRESERVE_TIMESTAMPS_IN_TIMELINE.py": {
-        "content": "",
         "firstEditBubbleId": "af5269ba-f253-410e-8740-e4f9f7dfe5e4",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PRESERVE_TIMESTAMPS_IN_TIMELINE.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/DIAGNOSE_MASTER_LEDGER_SYNC_ISSUES.py": {
-        "content": "",
         "firstEditBubbleId": "45d86b95-baaf-4b01-a58c-b753fe7459ed",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/DIAGNOSE_MASTER_LEDGER_SYNC_ISSUES.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_MASTER_LEDGER_SYNC_FUNDAMENTAL.py": {
-        "content": "",
         "firstEditBubbleId": "dd50ddba-0d92-40f5-b50e-f3327ccbfec2",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_MASTER_LEDGER_SYNC_FUNDAMENTAL.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/CREATE_MASTER_TO_LEDGER_SYNC_HOOK.py": {
-        "content": "",
         "firstEditBubbleId": "1a40cc84-47cf-41d6-aa19-f5b867b04e6d",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/CREATE_MASTER_TO_LEDGER_SYNC_HOOK.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/MASTER_LEDGER_SYNC_FIX_COMPLETE.md": {
-        "content": "",
         "firstEditBubbleId": "fb766c84-a26b-40cb-aef2-e6c6a4bd1009",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/MASTER_LEDGER_SYNC_FIX_COMPLETE.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/VERIFY_MASTER_LEDGER_SYNC.py": {
-        "content": "",
         "firstEditBubbleId": "4a2f3d1d-da12-44b8-a10a-1b06870a3f0b",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/VERIFY_MASTER_LEDGER_SYNC.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ALL_MASTER_LEDGER_MISMATCHES.py": {
-        "content": "",
         "firstEditBubbleId": "5ad7fa82-fd3a-4a0f-9a84-49cdd9072d52",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_ALL_MASTER_LEDGER_MISMATCHES.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PTS_EVENT_CREATION_LOGIC.py": {
-        "content": "",
         "firstEditBubbleId": "832f9e32-91ef-4629-9a28-2c4811db469f",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PTS_EVENT_CREATION_LOGIC.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PTS_EVENT_CREATION_LOGIC_V2.py": {
-        "content": "",
         "firstEditBubbleId": "f665fd99-2097-4b07-9753-2761e36bd079",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PTS_EVENT_CREATION_LOGIC_V2.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PTS_EVENT_WITH_DATES.py": {
-        "content": "",
         "firstEditBubbleId": "19b5da73-7d3a-4f23-a825-10a460d46c8b",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_PTS_EVENT_WITH_DATES.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_OVERALL_STATUS_FUNDAMENTAL.py": {
-        "content": "",
         "firstEditBubbleId": "8aabf4ff-14c1-4c2a-a636-6a0522b3caad",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_OVERALL_STATUS_FUNDAMENTAL.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_OVERALL_STATUS_SIMPLE_FINAL.py": {
-        "content": "",
         "firstEditBubbleId": "f941b2b7-8c6e-4b1d-b5f7-c8dae0067b95",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_OVERALL_STATUS_SIMPLE_FINAL.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_SELECTIVE_PTS_UPDATE.py": {
-        "content": "",
         "firstEditBubbleId": "c594aa3d-a60d-4916-a2c6-9823854168d1",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_SELECTIVE_PTS_UPDATE.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_SELECTIVE_PTS_UPDATE_V2.py": {
-        "content": "",
         "firstEditBubbleId": "26787bf7-d9bd-42f2-b835-806e6a3307d5",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_SELECTIVE_PTS_UPDATE_V2.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_SELECTIVE_PTS_UPDATE_FINAL.py": {
-        "content": "",
         "firstEditBubbleId": "8d4b07bb-49da-4df2-8779-0e6b8c8b340e",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_SELECTIVE_PTS_UPDATE_FINAL.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_SELECTIVE_PTS_UPDATE_DIRECT.py": {
-        "content": "",
         "firstEditBubbleId": "f4017bd5-f2a5-4205-83d3-c9d696d8e17b",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/FIX_SELECTIVE_PTS_UPDATE_DIRECT.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/INSPECT_EXISTING_WORKSPACE_EXAMPLE.py": {
-        "content": "#!/usr/bin/env python3\n\"\"\"\nHelper script to dump an existing standard Workspace (e.g. 'Stock') so we can\nmirror its structure when creating the PCB Dashboard workspace.\n\"\"\"\n\nimport os\nimport sys\n\nsys.path.insert(0, os.getcwd())\n\nfrom AUTO_EXECUTE_FRAPPE_CONSOLE import execute_frappe_command\n\n\ndef main() -> None:\n    code = \"\"\"\\\nimport frappe, json\nfrappe.init(site='frontend')\nfrappe.connect()\n\nws = frappe.get_doc('Workspace', 'Stock')\nprint('Workspace name:', ws.name)\nprint('Title:', ws.title)\nprint('Content JSON:')\nprint(ws.content)\nprint('\\\\nCharts table:')\nprint(json.dumps([{'chart_name': c.chart_name, 'label': c.label} for c in ws.charts], indent=2))\nprint('\\\\nNumber cards table:')\nprint(json.dumps([{'number_card_name': n.number_card_name, 'label': n.label} for n in ws.number_cards], indent=2))\n\"\"\"\n    execute_frappe_command(code, site=\"frontend\", show_output=True)\n\n\nif __name__ == \"__main__\":\n    main()\n\n",
         "firstEditBubbleId": "e7b42b69-645d-41c2-a38f-d6850aeca777",
         "isNewlyCreated": false,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/INSPECT_EXISTING_WORKSPACE_EXAMPLE.py"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/grant_system_manager_user.py": {
-        "content": "",
         "firstEditBubbleId": "3544a262-ee6c-4dbd-920e-59bfe77cdbf2",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:a629dcd7-6eb8-4905-9126-c45da5ca7dcb:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/grant_system_manager_user.py"
       }
     },
     "newlyCreatedFiles": [
@@ -5867,10 +5868,6 @@
         "data": {}
       },
       {
-        "type": 21,
-        "data": {}
-      },
-      {
         "type": 31,
         "data": {}
       },
@@ -5898,9 +5895,16 @@
     ],
     "modelConfig": {
       "modelName": "default",
-      "maxMode": false
+      "maxMode": false,
+      "selectedModels": [
+        {
+          "modelId": "default",
+          "parameters": []
+        }
+      ]
     },
     "subComposerIds": [],
+    "subagentComposerIds": [],
     "capabilityContexts": [],
     "todos": [],
     "isQueueExpanded": true,
@@ -5916,24 +5920,28 @@
     "isUndoingWorktree": false,
     "applied": false,
     "pendingCreateWorktree": false,
+    "worktreeStartedReadOnly": false,
     "isBestOfNSubcomposer": false,
     "isBestOfNParent": false,
     "bestOfNJudgeWinner": false,
     "isSpec": false,
     "isProject": false,
     "isSpecSubagentDone": false,
+    "isContinuationInProgress": false,
     "stopHookLoopCount": 0,
     "committedToBranch": "main",
+    "trackedGitRepos": [],
     "speculativeSummarizationEncryptionKey": "/n+N/X3GPzBQPuN8cOJD1TwNWTh8ySMEVB2lOK5gef8=",
     "isNAL": true,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "~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0+YBfDmY1J+i168+QiDhgSjm4lU7gCchesjCcI2KpEBn6sK74GJUuG2+y0nOL0Ig400rSdV4hCT36drqANo7P2SQwFZT78/tX3YHKqvRWPJCIPSdHPkxDR6wBHdp//Si3sPInWqapPQ1fl59vgsWKKyfQiCz0lkpudkaY9kRLvob25Z0Q7dOPyhn9RkuIS5o9flhv0Ig01mfGVmhcOvSydOO+bfjjzvSuuMOyDBFUeFdhRjliu5CIIHYIdJyb6C9y2MGgGFVx4jr2UvTCk+krrnnMEUGmBxRQiDDROwFmRqdqWT0bNyMrn2EDo652eXAd+MazXEb0iyTrkIgQDbsxo6To+gbHbIglNxCc8GeAO0CYI27HUJ1fQ9ifOhCIFnGYf34vqme77gDSYVcMYd6bvc7t3OshEfXaTctm9IWQiBPK6xU9UXkmKgCUYDcVT91TgXcbVdF5dnHVImwE40RwUIg5+4Qwi7mRcNENqlJLwsGViUsDKiRiE+fVR3BJGoPx9hCIJx3MCroryDhwSSMkfaXg6VQWm6cWGUjPseT+wzoCDiDQiBCgHiSYfmPAAvddcDvlbQpWRNfX8PMne9drLCNzUOjIEIg3nscgt39Lv1XyWwPd8WGS2ML/yvKbEap+Yxw2IVmWFRCION3PKb39tsfGDLx3sl+gpWgK1Vv8rXAoZbHOiiPHMJ7QiBZEb6oOHXY5yykVlaNZjEoz3p7EUgHDgcH6dg7Fi4eDUIgMM8Z/jAb3S7Z1xlu58EMW+UHdeJuzp/71l1IT71PRLBCIP6jfjNobG+7wJRP6bM7iGRLYxVNM70yzbcWFMJd07SQQiAJpv81PSBiHlLEGS+P+zn1lssWUKcn1zkauA+wxL9VqEIgBEtnaKNOTrJfKtXccwWY/Q4CNIevlO2J4GicytcEeyhCIJB1NOLEIjgME0akH4zR8Iu4kZgyuvv6it5MUsaOgGUPQiAQlUcbS+YAhAgqYOkDxi612QsJWVIDZZT6wPwS9jXY+ko0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFABaiDyWLcDxdiUNufhejYgdIGh2W/nqw1oWMTBB98PLVMgWXp3ClFDOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXGdyYW50X3N5c3RlbV9tYW5hZ2VyX3VzZXIucHkSIgogrCP/RdpdKyvz6tCPJ47KNGvq+HstF+WwTRroFL+yGmKSAWgvYzovVXNlcnMvcGMvRGVza3RvcC9QQ0JfSVFDX0VSUE5leHRfUHJvamVjdC9FWEFNUExFUy9DSEFSR1BUICBUUklBTC9QVFMzIHRlc3QvcHRzM19hcGlfc2VydmVyX3NjcmlwdC5weZIBZEM6XFVzZXJzXHBjXC5jdXJzb3JccHJvamVjdHNcYy1Vc2Vycy1wYy1EZXNrdG9wXGFnZW50LXRvb2xzXDIwNjBlMDExLTA4MjEtNDViNS05OGNkLTgxYjQ5MjcyZTY2Zi50eHQ=",
     "queueItems": [],
+    "blobEncryptionKey": "PT4wPc9aHzV716HPcbaxhuwzLY7Vimfk4GkjTfgoyyY=",
     "latestChatGenerationUUID": "c4ecb42a-d867-4df8-a777-b9977de13740",
     "isAgentic": true,
     "subtitle": "Edited grant_system_manager_user.py",
     "filesChangedCount": 1
   },
-  "extracted_at": "2026-04-14T15:54:31.389300"
+  "extracted_at": "2026-04-14T16:03:02.956698"
 }

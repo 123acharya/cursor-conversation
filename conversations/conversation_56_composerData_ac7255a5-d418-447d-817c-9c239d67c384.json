@@ -1,7 +1,7 @@
 {
   "key": "composerData:ac7255a5-d418-447d-817c-9c239d67c384",
   "data": {
-    "_v": 13,
+    "_v": 15,
     "composerId": "ac7255a5-d418-447d-817c-9c239d67c384",
     "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
@@ -218,6 +218,7 @@
       "gitPRDiffSelections": [],
       "subagentSelections": [],
       "browserSelections": [],
+      "extraContext": [],
       "mentions": {
         "composers": {},
         "quotes": {},
@@ -285,34 +286,34 @@
     "codeBlockData": {},
     "originalFileStates": {
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/.cursor/skills/pts3-erpnext-integration/SKILL.md": {
-        "content": "",
         "firstEditBubbleId": "4e3f95a0-7a51-40d2-8196-84e9e89549af",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:ac7255a5-d418-447d-817c-9c239d67c384:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/.cursor/skills/pts3-erpnext-integration/SKILL.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/.cursor/rules/pts3-erpnext-doctypes.mdc": {
-        "content": "",
         "firstEditBubbleId": "0961b7ba-ae25-4821-9717-94a36825bedd",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:ac7255a5-d418-447d-817c-9c239d67c384:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/.cursor/rules/pts3-erpnext-doctypes.mdc"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/.cursor/agents/erpnext-doctype-specialist.md": {
-        "content": "",
         "firstEditBubbleId": "90bde78a-a8b8-427e-8a39-496c55e66f5c",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:ac7255a5-d418-447d-817c-9c239d67c384:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/.cursor/agents/erpnext-doctype-specialist.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/.cursor/agents/pts3-doctype-creator.md": {
-        "content": "",
         "firstEditBubbleId": "407955a5-438f-4eee-879b-1fdff67384ee",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:ac7255a5-d418-447d-817c-9c239d67c384:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/.cursor/agents/pts3-doctype-creator.md"
       },
       "file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/SUBAGENT_README.md": {
-        "content": "",
         "firstEditBubbleId": "5822d096-a044-44f5-b5e0-e1134ce64f37",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:ac7255a5-d418-447d-817c-9c239d67c384:file:///c%3A/Users/pc/Desktop/PCB_IQC_ERPNext_Project/EXAMPLES/CHARGPT%20%20TRIAL/PTS3%20test/SUBAGENT_README.md"
       }
     },
     "newlyCreatedFiles": [
@@ -406,10 +407,6 @@
         "data": {}
       },
       {
-        "type": 21,
-        "data": {}
-      },
-      {
         "type": 31,
         "data": {}
       },
@@ -431,9 +428,16 @@
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
       "modelName": "composer-1.5",
-      "maxMode": false
+      "maxMode": false,
+      "selectedModels": [
+        {
+          "modelId": "composer-1.5",
+          "parameters": []
+        }
+      ]
     },
     "subComposerIds": [],
+    "subagentComposerIds": [],
     "capabilityContexts": [],
     "todos": [
       {
@@ -468,13 +472,16 @@
     "isUndoingWorktree": false,
     "applied": false,
     "pendingCreateWorktree": false,
+    "worktreeStartedReadOnly": false,
     "isBestOfNSubcomposer": false,
     "isBestOfNParent": false,
     "bestOfNJudgeWinner": false,
     "isSpec": false,
     "isProject": false,
     "isSpecSubagentDone": false,
+    "isContinuationInProgress": false,
     "stopHookLoopCount": 0,
+    "trackedGitRepos": [],
     "speculativeSummarizationEncryptionKey": "ehHxT5tL2vFTA8P8If4z3wUFm71Nof5GaSAJChtqoIQ=",
     "isNAL": true,
     "agentBackend": "cursor-agent",
@@ -482,11 +489,12 @@
     "debugModeSuggestionUsed": false,
     "conversationState": "~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fJIaINgNf0pBKBJCmlhE3Mv6fFbQdcyxvk0KX2DF8U6zChdNKggIx5kDEMCaDEIgrrFxpfdSZx+hg2C13As0sY4OxJZlLSjZPVhyhxVxFLlCIJt8f8JEii5+XBiwYH7rIlZOGoMsEEf5UL2RnETJF8HxQiCPrnzmu6o7AIxZ56MsVqb8WbTjJDf6oNsojdJ5f6YIBko0ZmlsZTovLy9hcHAvYmFja2VuZC9zZXJ2ZXIvYzolNUNVc2VycyU1Q3BjJTVDRGVza3RvcFABeoYBCmBjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXFBUUzMgdGVzdFxTVUJBR0VOVF9SRUFETUUubWQSIgogs4BGe5fUnUYWsUxMZgxTsJjds/d+6Ubcm3uyQhlJX816eApSYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFwuY3Vyc29yXGFnZW50c1xwdHMzLWRvY3R5cGUtY3JlYXRvci5tZBIiCiBqun5Q8ivTyxHfm/19iLw7erj3WykaKaQzSPCs6aiUMnp+ClhjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XC5jdXJzb3JcYWdlbnRzXGVycG5leHQtZG9jdHlwZS1zcGVjaWFsaXN0Lm1kEiIKIHPaaxBA3rdeWZlbdWChixZpvNerVUxyBSS9QXB/Mt4JeoIBClxjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XC5jdXJzb3Jcc2tpbGxzXHB0czMtZXJwbmV4dC1pbnRlZ3JhdGlvblxTS0lMTC5tZBIiCiDJp2EGnFy99S41UeaetbdasL5tidz1jF7ft1xBBp6eBHp5ClNjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XC5jdXJzb3JccnVsZXNccHRzMy1lcnBuZXh0LWRvY3R5cGVzLm1kYxIiCiD3tDMAXFfvAwTJd0J0+LwG9SDgaYebmWihOFBgZxnNC5IBN0M6XFVzZXJzXHBjXC5jdXJzb3Jcc2tpbGxzLWN1cnNvclxjcmVhdGUtc2tpbGxcU0tJTEwubWSSAThDOlxVc2Vyc1xwY1wuY29kZXhcc2tpbGxzXC5zeXN0ZW1cc2tpbGwtY3JlYXRvclxTS0lMTC5tZJIBOkM6XFVzZXJzXHBjXC5jdXJzb3Jcc2tpbGxzLWN1cnNvclxjcmVhdGUtc3ViYWdlbnRcU0tJTEwubWSSATZDOlxVc2Vyc1xwY1wuY3Vyc29yXHNraWxscy1jdXJzb3JcY3JlYXRlLXJ1bGVcU0tJTEwubWSSAWRjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXFBUUzMgdGVzdFwxMF9FUlBfRklFTERfU0NIRU1BLm1kkgFfYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFxFWEFNUExFU1xDSEFSR1BUICBUUklBTFxjcmVhdGVfcHRzMV9sYW5lX2RvY3R5cGUucHmSAVxjOlxVc2Vyc1xwY1xEZXNrdG9wXFBDQl9JUUNfRVJQTmV4dF9Qcm9qZWN0XEVYQU1QTEVTXENIQVJHUFQgIFRSSUFMXFBUUzMgdGVzdFwwOV9DTElfU1BFQy5tZJIBTWM6XFVzZXJzXHBjXERlc2t0b3BcUENCX0lRQ19FUlBOZXh0X1Byb2plY3RcRVJQTmV4dF9BUElfRnVuZGFtZW50YWxzX0d1aWRlLm1kkgFYYzpcVXNlcnNccGNcRGVza3RvcFxQQ0JfSVFDX0VSUE5leHRfUHJvamVjdFwuY3Vyc29yXGFnZW50c1xlcnBuZXh0LWRvY3R5cGUtc3BlY2lhbGlzdC5tZA==",
     "queueItems": [],
+    "blobEncryptionKey": "gZgoScuC1ZbGcP0IpSz+chDnvb1fd89gjQNSj+dAGmY=",
     "latestChatGenerationUUID": "4f4e1c04-6452-46fc-91d9-0d66e99a4de0",
     "isAgentic": true,
     "subtitle": "Edited SUBAGENT_README.md, pts3-doctype-creator.md",
     "filesChangedCount": 5,
     "firstTodoWriteBubble": "8ba1c80e-df5e-41f9-8f55-aa4b66bd5247"
   },
-  "extracted_at": "2026-04-14T15:54:31.390865"
+  "extracted_at": "2026-04-14T16:03:02.956698"
 }

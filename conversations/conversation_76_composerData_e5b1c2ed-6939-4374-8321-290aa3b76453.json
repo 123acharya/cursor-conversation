@@ -1,7 +1,7 @@
 {
   "key": "composerData:e5b1c2ed-6939-4374-8321-290aa3b76453",
   "data": {
-    "_v": 13,
+    "_v": 15,
     "composerId": "e5b1c2ed-6939-4374-8321-290aa3b76453",
     "richText": "{\"root\":{\"children\":[{\"children\":[],\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
     "hasLoaded": true,
@@ -310,6 +310,7 @@
       "gitPRDiffSelections": [],
       "subagentSelections": [],
       "browserSelections": [],
+      "extraContext": [],
       "mentions": {
         "composers": {},
         "quotes": {},
@@ -393,22 +394,22 @@
     "codeBlockData": {},
     "originalFileStates": {
       "file:///c%3A/Users/pc/Desktop/see3cam_barcode_scanner/robust_decode.py": {
-        "content": "",
         "firstEditBubbleId": "339d5061-d84b-47d4-b277-953e0a7775c2",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:e5b1c2ed-6939-4374-8321-290aa3b76453:file:///c%3A/Users/pc/Desktop/see3cam_barcode_scanner/robust_decode.py"
       },
       "file:///c%3A/Users/pc/Desktop/see3cam_barcode_scanner/requirements.txt": {
-        "content": "",
         "firstEditBubbleId": "cb5f9cf8-db18-4bbe-a0df-c3488906c202",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:e5b1c2ed-6939-4374-8321-290aa3b76453:file:///c%3A/Users/pc/Desktop/see3cam_barcode_scanner/requirements.txt"
       },
       "file:///c%3A/Users/pc/Desktop/see3cam_barcode_scanner/scanner_app.py": {
-        "content": "",
         "firstEditBubbleId": "9945c9fd-0d22-4401-b5cc-792f55ec841a",
         "isNewlyCreated": true,
-        "newlyCreatedFolders": []
+        "newlyCreatedFolders": [],
+        "contentKey": "ofsContent:e5b1c2ed-6939-4374-8321-290aa3b76453:file:///c%3A/Users/pc/Desktop/see3cam_barcode_scanner/scanner_app.py"
       }
     },
     "newlyCreatedFiles": [
@@ -486,10 +487,6 @@
         "data": {}
       },
       {
-        "type": 21,
-        "data": {}
-      },
-      {
         "type": 31,
         "data": {}
       },
@@ -509,9 +506,16 @@
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
       "modelName": "default",
-      "maxMode": false
+      "maxMode": false,
+      "selectedModels": [
+        {
+          "modelId": "default",
+          "parameters": []
+        }
+      ]
     },
     "subComposerIds": [],
+    "subagentComposerIds": [],
     "capabilityContexts": [],
     "todos": [],
     "isQueueExpanded": true,
@@ -527,13 +531,16 @@
     "isUndoingWorktree": false,
     "applied": false,
     "pendingCreateWorktree": false,
+    "worktreeStartedReadOnly": false,
     "isBestOfNSubcomposer": false,
     "isBestOfNParent": false,
     "bestOfNJudgeWinner": false,
     "isSpec": false,
     "isProject": false,
     "isSpecSubagentDone": false,
+    "isContinuationInProgress": false,
     "stopHookLoopCount": 0,
+    "trackedGitRepos": [],
     "speculativeSummarizationEncryptionKey": "Krxu/yiuAfz37mnO3k24TsjuSWbjyjGHixHZkOjYaGk=",
     "isNAL": true,
     "agentBackend": "cursor-agent",
@@ -541,10 +548,11 @@
     "debugModeSuggestionUsed": false,
     "conversationState": "~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",
     "queueItems": [],
+    "blobEncryptionKey": "dDy9o+rloaEIdKHuOpQB/FqBnb6QgJ00zflNzbyRiOc=",
     "latestChatGenerationUUID": "e7880586-3f74-40f9-b904-856d028a04dd",
     "isAgentic": true,
     "subtitle": "Edited scanner_app.py",
     "filesChangedCount": 3
   },
-  "extracted_at": "2026-04-14T15:54:31.406797"
+  "extracted_at": "2026-04-14T16:03:02.969117"
 }
