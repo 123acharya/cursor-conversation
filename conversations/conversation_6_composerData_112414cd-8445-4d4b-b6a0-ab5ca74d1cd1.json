@@ -1,8 +1,8 @@
 {
-  "key": "composerData:8b68067b-21c8-49f7-a0f4-9e7156a0495e",
+  "key": "composerData:112414cd-8445-4d4b-b6a0-ab5ca74d1cd1",
   "data": {
     "_v": 13,
-    "composerId": "8b68067b-21c8-49f7-a0f4-9e7156a0495e",
+    "composerId": "112414cd-8445-4d4b-b6a0-ab5ca74d1cd1",
     "richText": "",
     "hasLoaded": true,
     "text": "",
@@ -56,70 +56,15 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1776147114980,
+    "createdAt": 1776147454995,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
-    "capabilities": [
-      {
-        "type": 30,
-        "data": {}
-      },
-      {
-        "type": 15,
-        "data": {
-          "bubbleDataMap": "{}"
-        }
-      },
-      {
-        "type": 22,
-        "data": {}
-      },
-      {
-        "type": 18,
-        "data": {}
-      },
-      {
-        "type": 19,
-        "data": {}
-      },
-      {
-        "type": 33,
-        "data": {}
-      },
-      {
-        "type": 32,
-        "data": {}
-      },
-      {
-        "type": 23,
-        "data": {}
-      },
-      {
-        "type": 16,
-        "data": {}
-      },
-      {
-        "type": 24,
-        "data": {}
-      },
-      {
-        "type": 21,
-        "data": {}
-      },
-      {
-        "type": 31,
-        "data": {}
-      },
-      {
-        "type": 29,
-        "data": {}
-      }
-    ],
+    "capabilities": [],
     "isFileListExpanded": false,
     "browserChipManuallyDisabled": false,
     "browserChipManuallyEnabled": false,
-    "unifiedMode": "agent",
-    "forceMode": "edit",
+    "unifiedMode": "chat",
+    "forceMode": "chat",
     "usageData": {},
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
@@ -149,13 +94,13 @@
     "isProject": false,
     "isSpecSubagentDone": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "rvLbLtBGoxWA0DHrUs8eg8dcohuz/qjN1wrMgPqUBQM=",
+    "speculativeSummarizationEncryptionKey": "sgoaGvNGE1KkpoOv9FNvDOn1c3aCvBLuionN11P7TKw=",
     "isNAL": true,
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "~",
     "queueItems": [],
-    "isAgentic": true
+    "isAgentic": false
   },
-  "extracted_at": "2026-04-14T11:53:01.199457"
+  "extracted_at": "2026-04-14T11:53:01.199969"
 }
