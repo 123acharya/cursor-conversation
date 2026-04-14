@@ -1,8 +1,8 @@
 {
-  "key": "composerData:a5c10066-a61f-4af7-b56f-9d925bdb8285",
+  "key": "composerData:e13bfb31-a2e7-4218-96be-378f5f40da6b",
   "data": {
-    "_v": 13,
-    "composerId": "a5c10066-a61f-4af7-b56f-9d925bdb8285",
+    "_v": 15,
+    "composerId": "e13bfb31-a2e7-4218-96be-378f5f40da6b",
     "richText": "",
     "hasLoaded": true,
     "text": "",
@@ -25,6 +25,7 @@
       "gitPRDiffSelections": [],
       "subagentSelections": [],
       "browserSelections": [],
+      "extraContext": [],
       "mentions": {
         "composers": {},
         "selectedCommits": {},
@@ -56,7 +57,7 @@
     "originalFileStates": {},
     "newlyCreatedFiles": [],
     "newlyCreatedFolders": [],
-    "createdAt": 1776147131025,
+    "createdAt": 1776148231288,
     "hasChangedContext": false,
     "activeTabsShouldBeReactive": true,
     "capabilities": [
@@ -124,9 +125,16 @@
     "allAttachedFileCodeChunksUris": [],
     "modelConfig": {
       "modelName": "default",
-      "maxMode": false
+      "maxMode": false,
+      "selectedModels": [
+        {
+          "modelId": "default",
+          "parameters": []
+        }
+      ]
     },
     "subComposerIds": [],
+    "subagentComposerIds": [],
     "capabilityContexts": [],
     "todos": [],
     "isQueueExpanded": true,
@@ -142,20 +150,37 @@
     "isUndoingWorktree": false,
     "applied": false,
     "pendingCreateWorktree": false,
+    "worktreeStartedReadOnly": false,
     "isBestOfNSubcomposer": false,
     "isBestOfNParent": false,
     "bestOfNJudgeWinner": false,
     "isSpec": false,
     "isProject": false,
     "isSpecSubagentDone": false,
+    "isContinuationInProgress": false,
     "stopHookLoopCount": 0,
-    "speculativeSummarizationEncryptionKey": "afwXNVi2/zpq5ws19uIVMXbe789umPw9uHOZy/2CLvk=",
+    "trackedGitRepos": [],
+    "speculativeSummarizationEncryptionKey": "VSP82vahOi9RXNbEdR/2Dq06a8TKg+zNn59CUasBQKk=",
     "isNAL": true,
+    "agentBackend": "cursor-agent",
     "planModeSuggestionUsed": false,
     "debugModeSuggestionUsed": false,
     "conversationState": "~",
     "queueItems": [],
-    "isAgentic": true
+    "blobEncryptionKey": "w7n+UKyjRHJi8tCpvt90j6qmXDW/cfsEFpjohy8JxLQ=",
+    "isAgentic": true,
+    "workspaceIdentifier": {
+      "id": "a60624e847c59a61babc2873b5877c96",
+      "uri": {
+        "$mid": 1,
+        "fsPath": "c:\\Users\\pc\\Desktop",
+        "_sep": 1,
+        "external": "file:///c%3A/Users/pc/Desktop",
+        "path": "/c:/Users/pc/Desktop",
+        "scheme": "file"
+      }
+    },
+    "applyAgentBackendTypeRestrictions": false
   },
   "extracted_at": "2026-04-14T12:13:01.330280"
 }

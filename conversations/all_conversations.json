@@ -158,7 +158,7 @@
       "queueItems": [],
       "isAgentic": true
     },
-    "extracted_at": "2026-04-14T11:53:01.199457"
+    "extracted_at": "2026-04-14T12:13:01.330280"
   },
   {
     "key": "composerData:6ad4bc4d-1ae4-45ea-bea2-a045a7cf3466",
@@ -264,7 +264,7 @@
       "queueItems": [],
       "isAgentic": false
     },
-    "extracted_at": "2026-04-14T11:53:01.199969"
+    "extracted_at": "2026-04-14T12:13:01.330280"
   },
   {
     "key": "composerData:a5c10066-a61f-4af7-b56f-9d925bdb8285",
@@ -425,7 +425,7 @@
       "queueItems": [],
       "isAgentic": true
     },
-    "extracted_at": "2026-04-14T11:53:01.199969"
+    "extracted_at": "2026-04-14T12:13:01.330280"
   },
   {
     "key": "composerData:30502bd0-1588-48a6-9a9e-1f894931c1eb",
@@ -531,7 +531,7 @@
       "queueItems": [],
       "isAgentic": false
     },
-    "extracted_at": "2026-04-14T11:53:01.199969"
+    "extracted_at": "2026-04-14T12:13:01.330280"
   },
   {
     "key": "composerData:cb4072ca-d04d-4c07-9aba-8431bf0904b3",
@@ -692,7 +692,7 @@
       "queueItems": [],
       "isAgentic": true
     },
-    "extracted_at": "2026-04-14T11:53:01.199969"
+    "extracted_at": "2026-04-14T12:13:01.330280"
   },
   {
     "key": "composerData:112414cd-8445-4d4b-b6a0-ab5ca74d1cd1",
@@ -798,6 +798,197 @@
       "queueItems": [],
       "isAgentic": false
     },
-    "extracted_at": "2026-04-14T11:53:01.199969"
+    "extracted_at": "2026-04-14T12:13:01.330280"
+  },
+  {
+    "key": "composerData:e13bfb31-a2e7-4218-96be-378f5f40da6b",
+    "data": {
+      "_v": 15,
+      "composerId": "e13bfb31-a2e7-4218-96be-378f5f40da6b",
+      "richText": "",
+      "hasLoaded": true,
+      "text": "",
+      "fullConversationHeadersOnly": [],
+      "conversationMap": {},
+      "status": "none",
+      "context": {
+        "composers": [],
+        "selectedCommits": [],
+        "selectedPullRequests": [],
+        "selectedImages": [],
+        "folderSelections": [],
+        "fileSelections": [],
+        "selections": [],
+        "terminalSelections": [],
+        "selectedDocs": [],
+        "externalLinks": [],
+        "cursorRules": [],
+        "cursorCommands": [],
+        "gitPRDiffSelections": [],
+        "subagentSelections": [],
+        "browserSelections": [],
+        "extraContext": [],
+        "mentions": {
+          "composers": {},
+          "selectedCommits": {},
+          "selectedPullRequests": {},
+          "gitDiff": [],
+          "gitDiffFromBranchToMain": [],
+          "selectedImages": {},
+          "folderSelections": {},
+          "fileSelections": {},
+          "terminalFiles": {},
+          "selections": {},
+          "terminalSelections": {},
+          "selectedDocs": {},
+          "externalLinks": {},
+          "diffHistory": [],
+          "cursorRules": {},
+          "cursorCommands": {},
+          "uiElementSelections": [],
+          "consoleLogs": [],
+          "ideEditorsState": [],
+          "gitPRDiffSelections": {},
+          "subagentSelections": {},
+          "browserSelections": {}
+        }
+      },
+      "generatingBubbleIds": [],
+      "isReadingLongFile": false,
+      "codeBlockData": {},
+      "originalFileStates": {},
+      "newlyCreatedFiles": [],
+      "newlyCreatedFolders": [],
+      "createdAt": 1776148231288,
+      "hasChangedContext": false,
+      "activeTabsShouldBeReactive": true,
+      "capabilities": [
+        {
+          "type": 30,
+          "data": {}
+        },
+        {
+          "type": 15,
+          "data": {
+            "bubbleDataMap": "{}"
+          }
+        },
+        {
+          "type": 22,
+          "data": {}
+        },
+        {
+          "type": 18,
+          "data": {}
+        },
+        {
+          "type": 19,
+          "data": {}
+        },
+        {
+          "type": 33,
+          "data": {}
+        },
+        {
+          "type": 32,
+          "data": {}
+        },
+        {
+          "type": 23,
+          "data": {}
+        },
+        {
+          "type": 16,
+          "data": {}
+        },
+        {
+          "type": 24,
+          "data": {}
+        },
+        {
+          "type": 21,
+          "data": {}
+        },
+        {
+          "type": 31,
+          "data": {}
+        },
+        {
+          "type": 29,
+          "data": {}
+        }
+      ],
+      "isFileListExpanded": false,
+      "browserChipManuallyDisabled": false,
+      "browserChipManuallyEnabled": false,
+      "unifiedMode": "agent",
+      "forceMode": "edit",
+      "usageData": {},
+      "allAttachedFileCodeChunksUris": [],
+      "modelConfig": {
+        "modelName": "default",
+        "maxMode": false,
+        "selectedModels": [
+          {
+            "modelId": "default",
+            "parameters": []
+          }
+        ]
+      },
+      "subComposerIds": [],
+      "subagentComposerIds": [],
+      "capabilityContexts": [],
+      "todos": [],
+      "isQueueExpanded": true,
+      "hasUnreadMessages": false,
+      "gitHubPromptDismissed": false,
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 0,
+      "addedFiles": 0,
+      "removedFiles": 0,
+      "isDraft": false,
+      "isCreatingWorktree": false,
+      "isApplyingWorktree": false,
+      "isUndoingWorktree": false,
+      "applied": false,
+      "pendingCreateWorktree": false,
+      "worktreeStartedReadOnly": false,
+      "isBestOfNSubcomposer": false,
+      "isBestOfNParent": false,
+      "bestOfNJudgeWinner": false,
+      "isSpec": false,
+      "isProject": false,
+      "isSpecSubagentDone": false,
+      "isContinuationInProgress": false,
+      "stopHookLoopCount": 0,
+      "trackedGitRepos": [],
+      "speculativeSummarizationEncryptionKey": "VSP82vahOi9RXNbEdR/2Dq06a8TKg+zNn59CUasBQKk=",
+      "isNAL": true,
+      "agentBackend": "cursor-agent",
+      "planModeSuggestionUsed": false,
+      "debugModeSuggestionUsed": false,
+      "conversationState": "~",
+      "queueItems": [],
+      "blobEncryptionKey": "w7n+UKyjRHJi8tCpvt90j6qmXDW/cfsEFpjohy8JxLQ=",
+      "isAgentic": true,
+      "workspaceIdentifier": {
+        "id": "a60624e847c59a61babc2873b5877c96",
+        "uri": {
+          "$mid": 1,
+          "fsPath": "c:\\Users\\pc\\Desktop",
+          "_sep": 1,
+          "external": "file:///c%3A/Users/pc/Desktop",
+          "path": "/c:/Users/pc/Desktop",
+          "scheme": "file"
+        }
+      },
+      "applyAgentBackendTypeRestrictions": false
+    },
+    "extracted_at": "2026-04-14T12:13:01.330280"
+  },
+  {
+    "key": "composerData:empty-state-draft",
+    "data": null,
+    "extracted_at": "2026-04-14T12:13:01.330280"
   }
 ]
